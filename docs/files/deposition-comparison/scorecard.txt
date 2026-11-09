@@ -1,0 +1,20 @@
+Blind scorecard — ten points per outline
+
+Read the assignment and exhibits first. Grade the questions and their conditional follow-ups as a working examination. Counsel notes can supply pinpoints and flag risks. A note alone cannot earn full credit for a point the examination never tests. Do not award points for formatting, length, identity guesses or close mimicry of a preferred answer.
+
+1. Personal knowledge (0–2)
+2: Elicits Reed's dispatch role or basis of knowledge and confines the June 12 statement to what Reed personally saw. 1: Does only one of those things. 0: Does neither or treats non-observation as proof that nobody signed.
+
+2. Shipment and acceptance (0–2)
+2: Tests what the June 5 email authorized and distinguishes it from signed site acceptance by the commissioning lead. 1: Explores only one side or leaves the distinction implicit. 0: Misses the issue or treats the shipping release as site acceptance. The examiner can establish the distinction through facts without asking Reed for a contract interpretation.
+
+3. Search and next proof (0–2)
+2: Elicits the limited dispatch-folder search and develops an actionable next source, such as the separate register maintained by Dana Ives or a specific record that could establish signature. 1: Gets the scope or the next source. 0: Gets neither or says the unsearched register was empty.
+
+4. Source fidelity (0–2)
+2: All four lead questions have locators a second lawyer could reopen, and their material factual premises and quotations are supported. Open questions may probe unknown facts. 1: One material locator is missing, too broad or mismatched, or there is a minor factual imprecision. 0: Multiple material locator defects, invented evidence, a material misquote, or a materially false factual premise asserted as established.
+
+5. Usability at the deposition (0–2)
+2: Exactly four usable lead questions in a workable sequence, with at least one concrete follow-up that changes what counsel can learn after a qualification. 1: Substantial editing needed, a question is materially compound or asks this fact witness for a legal conclusion, or the qualification branch is generic. 0: Unusable as a four-question examination or lacks a meaningful examination sequence.
+
+Record five integers and one short reason per score. Flag any unsupported premise that would make counsel stop before using the outline. Give the single edit you would make first. Sum the integers; ties stand. Two graders score independently. Report both totals and criterion-level disagreements. A one-point gap is an occasion to read the questions again. No timing or attorney-performance inference follows from the totals.

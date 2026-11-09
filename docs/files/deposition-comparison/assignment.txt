@@ -1,0 +1,20 @@
+Fictional deposition exercise
+
+We represent the buyer. The seller seeks the final installment and points to the buyer's June 5 release email. We are about to examine the seller's project manager, Ellis Reed, as an individual fact witness. Counsel has ten minutes on this topic. The question is what Reed knew about site acceptance and how to find the best remaining proof.
+
+Draft exactly four numbered lead questions counsel could read aloud. Give a source pinpoint for each, establish foundation where it matters, and include a short conditional follow-up where a denial or qualification changes the next question. You may add brief counsel notes. Return the outline in chat, using only the exhibits below. No external research or procedural advice. No practice profile or additional matter files are in scope.
+
+Exhibit A — purchase agreement, page 3
+§4.1  Buyer may authorize release for shipment by email.
+§4.2  Final installment is due upon written site acceptance signed by Buyer's commissioning lead.
+
+Exhibit B — email chain, page 1
+B1  June 5, 8:14 a.m. Buyer logistics coordinator to Reed: “Release for shipment today. Site testing is next week.”
+B2  June 12, 3:40 p.m. Reed to seller billing: “I haven't seen a signed site acceptance. Records may have the original.”
+
+Exhibit C — Reed's earlier sworn testimony, page 18
+Lines 3–5   Q. What did you handle on this order? A. Dispatch scheduling. I was copied on logistics messages.
+Lines 6–9   Q. Did you check for a signed acceptance? A. On June 12 I searched my dispatch folder. I did not search the separate acceptance register.
+Lines 10–12 Q. Who maintains that register? A. Our records lead, Dana Ives. I don't know what was in it.
+
+The packet ends here.
