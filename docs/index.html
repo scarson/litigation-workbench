@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Install Litigation Workbench</title>
+  <title>Litigation Workbench · Setup and first matter</title>
   <style>
     :root { color-scheme: light; font-family: "Source Sans 3", "Segoe UI", sans-serif; color: #192e32; background: #faf9f6; }
     * { box-sizing: border-box; }
@@ -13,31 +13,82 @@
     p, li, summary { line-height: 1.55; }
     p { margin: .6rem 0 1rem; }
     a { color: #125f53; text-underline-offset: .18em; }
-    a:focus-visible, summary:focus-visible { outline: 3px solid #b35b20; outline-offset: 4px; }
+    a:focus-visible, summary:focus-visible, button:focus-visible { outline: 3px solid #b35b20; outline-offset: 4px; }
     .lead { font-size: 1.12rem; }
-    .install { display: inline-block; padding: .8em 1.25em; margin: .5rem 0; border-radius: .35rem; background: #115a52; color: white; text-decoration: none; font-weight: 650; }
+    .tool { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: .4rem 1.1rem; padding: 1rem 0; border-top: 1px solid #cad6d1; }
+    .tool h3 { margin: 0; font-size: 1.05rem; }
+    .tool p { margin: .25rem 0 0; }
+    .install { display: inline-block; padding: .6em .9em; border: 1px solid #115a52; border-radius: .35rem; color: #115a52; text-decoration: none; font-weight: 650; }
+    .primary { background: #115a52; color: white; }
+    .steps { padding-left: 1.5rem; }
+    .steps li { margin: .7rem 0; padding-left: .2rem; }
+    .steps li::marker { font-weight: 650; color: #115a52; }
+    .copy { font: inherit; color: #115a52; border: 1px solid #cad6d1; background: white; border-radius: .35rem; padding: .35em .7em; cursor: pointer; }
+    .status { margin-inline-start: .55rem; }
     details { border-block: 1px solid #cad6d1; padding: .85rem 0; }
     summary { cursor: pointer; font-weight: 600; }
     blockquote { margin: .7rem 0; background: #eaf2ee; padding: .9rem 1.1rem; line-height: 1.5; user-select: all; }
     footer { margin-top: 2rem; display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; }
+    @media (max-width: 36rem) { .tool { grid-template-columns: 1fr; } .install { justify-self: start; } }
   </style>
 </head>
 <body><main>
   <h1>Litigation Workbench</h1>
-  <p class="lead">Five workflows for proof matrices, depositions, damages, Lexis research assignments and brief review.</p>
-  <h2>Install on your computer</h2>
-  <p>On a Mac or Windows computer with the ChatGPT desktop app, open the setup request below. Press <strong>Send</strong> in Codex and approve the installation if prompted. You can use the installed plugin in new local Work or Codex chats across matters.</p>
-  <a class="install" href="codex://new?prompt=Install%20Litigation%20Workbench%20for%20my%20local%20desktop%20account%20across%20matters.%20Add%20the%20GitHub%20marketplace%20scarson%2Flitigation-workbench%20at%20tag%20v1.0.0%2C%20then%20install%20litigation-workbench%40scarson-legal.%20Use%20the%20Codex%20plugin%20manager.%20Verify%20that%20all%20five%20skills%20are%20installed%20and%20tell%20me%20how%20to%20select%20the%20plugin%20in%20a%20fresh%20chat.">Open setup in Codex</a>
-  <details><summary>If the button doesn’t open the app</summary>
-    <p>Paste this request into a local Codex chat. The <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">installation guide</a> also has a folder-based option.</p>
+  <p class="lead">Build a proof matrix from your record, find the opinions you need, and check whether your draft says more than the sources support. <a href="#first-matter">Start your first matter</a>.</p>
+  <h2>Install the plugins</h2>
+  <section class="tool" aria-labelledby="workbench">
+    <div><h3 id="workbench">Litigation Workbench</h3>
+      <p>Five workflows for evidence, depositions, damages, Lexis research assignments and brief review. On Mac or Windows, open setup and press <strong>Send</strong> in Codex.</p>
+    </div>
+    <a class="install primary" href="codex://new?prompt=Install%20Litigation%20Workbench%20for%20my%20local%20desktop%20account%20across%20matters.%20Add%20the%20GitHub%20marketplace%20scarson%2Flitigation-workbench%20at%20tag%20v1.0.0%2C%20then%20install%20litigation-workbench%40scarson-legal.%20Use%20the%20Codex%20plugin%20manager.%20Verify%20that%20all%20five%20skills%20are%20installed%20and%20tell%20me%20how%20to%20select%20the%20plugin%20in%20a%20fresh%20chat.">Open setup in Codex</a>
+  </section>
+  <section class="tool" aria-labelledby="legalquants">
+    <div><h3 id="legalquants">LegalQuants Litigation</h3>
+      <p>Give it a draft and the cited authorities. Its cite-check workflow flags quotations, pinpoints and propositions that need another look.</p>
+    </div>
+    <a class="install" href="https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6">Install LegalQuants Litigation</a>
+  </section>
+  <section class="tool" aria-labelledby="courtlistener">
+    <div><h3 id="courtlistener">CourtListener</h3>
+      <p>Retrieve public opinions and available federal filings through Free Law Project. Open the linked source to inspect the passage yourself.</p>
+    </div>
+    <a class="install" href="https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b">Install CourtListener</a>
+  </section>
+  <details><summary>Workbench setup for a browser or if the desktop button fails</summary>
+    <p><strong>Desktop:</strong> Paste this request into a local Codex chat. There is also a <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">folder-based installation option</a>.</p>
     <blockquote>Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.0.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify that all five skills are installed and tell me how to select the plugin in a fresh chat.</blockquote>
+    <p><strong>Hosted Work:</strong> If your Plugins menu offers ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/download/v1.0.0/litigation-workbench.zip">download the Workbench ZIP</a> and upload it there. For firm-managed accounts, the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">install guide</a> includes the workspace admin route.</p>
   </details>
-  <h2>Check the installation</h2>
-  <p>In a fresh local chat, select <strong>Litigation Workbench</strong> in the plugin picker. Try this example before opening a matter.</p>
+  <h2 id="first-matter">Start here for your first matter</h2>
+  <ol class="steps">
+    <li><strong>Choose one disputed fact.</strong> Open a fresh Work or Codex project for the matter. Add two or three documents that bear on the fact, such as a contract, an email and a demand. Use public or fictional material on a personal account until your firm clears it for the matter.</li>
+    <li><strong>Make one file you can use.</strong> Select Litigation Workbench, replace the brackets below, and send the prompt.
+      <blockquote id="matter-prompt">Use evidence-matrix. We represent [party]. I need to decide [question]. Using only the attached record, make a one-page proof matrix I can edit. For each material proposition, give the strongest evidence on each side, the document and pinpoint, and the missing proof that could change my decision.</blockquote>
+      <button class="copy" id="copy-prompt" type="button" hidden>Copy first-matter prompt</button><span class="status" role="status" id="copy-status"></span>
+    </li>
+    <li><strong>Check the row that matters most.</strong> Open the cited exhibit at the pinpoint. If a legal rule drives your decision, use CourtListener to retrieve the public opinion. Give LegalQuants Litigation your proposed sentence and the opinion, ask whether the passage supports it, then check current treatment in Shepard’s at work.</li>
+  </ol>
+  <details><summary>Try a fictional example before using a matter file</summary>
+  <p>In a fresh chat, select <strong>Litigation Workbench</strong> and send this prompt.</p>
   <blockquote>Use damages-reconciliation. We billed $25,000 and received $10,000. Of the invoice, $5,000 requires a signed certificate missing from this record. Assume the other $20,000 was due and the payment applies there. How much is open and how much is supported as due?</blockquote>
   <p>Look for <strong>$15,000 open</strong>, including <strong>$10,000 supported as due</strong> and $5,000 pending proof.</p>
-  <h2>Using Work in a browser?</h2>
-  <p>If your account offers plugin ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/download/v1.0.0/litigation-workbench.zip">download the plugin ZIP</a> and upload it through Plugins. For a firm-managed workspace, the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">installation guide</a> includes the admin import route. Hosted availability depends on the workspace.</p>
+  </details>
   <footer><a href="https://github.com/scarson/litigation-workbench">Source and instructions</a><a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md">Compare legal plugins</a></footer>
-</main></body>
+</main>
+<script>
+  const copyButton = document.getElementById("copy-prompt");
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    copyButton.hidden = false;
+    copyButton.addEventListener("click", async () => {
+      const status = document.getElementById("copy-status");
+      try {
+        await navigator.clipboard.writeText(document.getElementById("matter-prompt").textContent);
+        status.textContent = "Copied.";
+      } catch {
+        status.textContent = "Select the prompt above to copy it.";
+      }
+    });
+  }
+</script>
+</body>
 </html>
