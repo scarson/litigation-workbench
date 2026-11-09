@@ -8,22 +8,24 @@ Seven reusable workflows for business litigators in ChatGPT Work and Codex. Inst
 
 You can also paste this request into a local Codex chat yourself:
 
-> Install Litigation Workbench for my local desktop account across matters. Use the Codex plugin manager. If scarson-legal points to this repository at v1.0.0, v1.1.0 or v1.2.0, remove that old marketplace registration first. Add scarson/litigation-workbench at tag v1.3.0 and install litigation-workbench@scarson-legal. Verify version 1.3.0 and all seven skills, including argument-review. Tell me how to select it in a fresh chat.
+> Install the latest litigation-workbench@scarson-legal from the scarson/litigation-workbench GitHub repository for my local desktop account. Use the repository’s default branch and refresh any existing registration for this repository. Show me how to select argument-review in a fresh chat.
 
 If you use the Codex CLI, these are the equivalent commands:
 
 ```sh
-codex plugin marketplace add scarson/litigation-workbench --ref v1.3.0
+codex plugin marketplace add scarson/litigation-workbench
 codex plugin add litigation-workbench@scarson-legal
 ```
 
-**Upgrading from v1.0.0, v1.1.0 or v1.2.0?** The CLI treats a different tag as a different marketplace source. Check `codex plugin marketplace list`. If `scarson-legal` is this repository at one of those older tags, run `codex plugin marketplace remove scarson-legal`, then run the two install commands above. This sequence was tested in an isolated profile.
+**Already installed?** Check `codex plugin marketplace list`. If `scarson-legal` points to this repository at a fixed tag or commit, run `codex plugin marketplace remove scarson-legal` once and repeat the two commands above. For later updates, run `codex plugin marketplace upgrade scarson-legal` followed by `codex plugin add litigation-workbench@scarson-legal`.
 
-**Without a CLI:** Download the [v1.3.0 source archive](https://github.com/scarson/litigation-workbench/archive/refs/tags/v1.3.0.zip), extract it and open the extracted folder containing this README as a local desktop project. Restart the app, open Plugins, choose the **Litigation Workbench** marketplace and install the plugin. Check it in a new local chat for a different folder. Keep the extracted folder for marketplace maintenance. [OpenAI marketplace instructions](https://developers.openai.com/plugins/build/plugins)
+**Without a CLI:** Download the [current source archive](https://github.com/scarson/litigation-workbench/archive/refs/heads/main.zip), extract it and open the extracted folder containing this README as a local desktop project. Restart the app, open Plugins, choose the **Litigation Workbench** marketplace and install the plugin. Check it in a new local chat for a different folder. Keep the extracted folder for marketplace maintenance. [OpenAI marketplace instructions](https://developers.openai.com/plugins/build/plugins)
 
-**For hosted Work on the web:** If your Plugins menu offers plugin ZIP uploads, use the [packaged plugin ZIP](https://github.com/scarson/litigation-workbench/releases/download/v1.3.0/litigation-workbench.zip) and install the resulting entry. The source archive above contains the whole marketplace and serves a different purpose. In a managed workspace, an admin can import this repository through **Admin → Plugins → Add → Import marketplace**. Use the repository URL, leave Path blank, and select tag `v1.3.0`. A desktop install uses the local marketplace. Hosted availability depends on the receiving account and workspace. [Plugin permissions](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors) · [GitHub import](https://learn.chatgpt.com/docs/enterprise/plugin-management)
+**For hosted Work on the web:** If your Plugins menu offers plugin ZIP uploads, use the [packaged plugin ZIP](https://github.com/scarson/litigation-workbench/releases/latest/download/litigation-workbench.zip) and install the resulting entry. The source archive above contains the whole marketplace and serves a different purpose. In a managed workspace, an admin can import this repository through **Admin → Plugins → Add → Import marketplace**. Use the repository URL, leave Path blank, and select the default branch (`main`). A desktop install uses the local marketplace. Hosted availability depends on the receiving account and workspace. [Plugin permissions](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors) · [GitHub import](https://learn.chatgpt.com/docs/enterprise/plugin-management)
 
 ## Give it a first assignment
+
+The [practical guide to the tools](https://scarson.github.io/litigation-workbench/tools.html) covers what each one provides, copyable examples, and how to check the work. For Anthropic’s plugin, [browse all 19 litigation skills and try a civil claim chart](https://scarson.github.io/litigation-workbench/tools.html#claude-for-legal).
 
 **[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the seven assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation, CourtListener and optional Descrybe install links. A browser-only user can use the prompts while sorting out plugin access.
 

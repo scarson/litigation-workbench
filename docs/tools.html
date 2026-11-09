@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Choose a litigation tool by the work product you need. See what each includes, try it on a small record, and check what comes back.">
+  <title>A litigator’s guide to the tools · Litigation Workbench</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="copy.js" defer></script>
+</head>
+<body><main class="tool-guide">
+  <header>
+    <a href="./#install">← Setup and installation</a>
+    <h1>A litigator’s guide to the tools</h1>
+    <p class="lead">Which tool would you open for the work on your desk?</p>
+    <nav class="task-links" aria-label="Choose a tool by task">
+      <a href="#claude-for-legal">Map a claim or prepare a witness <strong>Claude for Legal</strong></a>
+      <a href="#workbench">Reconcile a demand or test an argument <strong>Litigation Workbench</strong></a>
+      <a href="#legalquants">Get a second read on a brief <strong>LegalQuants Litigation</strong></a>
+      <a href="#courtlistener">Retrieve an opinion or public filing <strong>CourtListener</strong></a>
+      <a href="#descrybe">Investigate later treatment in chat <strong>Descrybe Legal Engine</strong></a>
+      <a href="#shepards">Shepardize a proposition at work <strong>Lexis and Shepard’s</strong></a>
+    </nav>
+  </header>
+  <section id="claude-for-legal">
+    <h2>Claude for Legal (compatible with Codex)</h2>
+    <p>The setup page installs <strong>Litigation Legal</strong> from Anthropic’s Claude for Legal collection. It gives Codex 19 named skills. A skill is a set of instructions for a particular job. For example, <code>claim-chart</code> tells Codex how to map evidence to each element, while <code>deposition-prep</code> builds a witness outline around the issues and exhibits. You can start either with approved local files.</p>
+    <h3>Try a civil claim chart in a fresh Codex chat</h3>
+    <ol>
+      <li><a href="./#anthropic-legal">Install the litigation plugin</a>. In a fresh local Codex chat, select <strong>Litigation Legal</strong> in the plugin picker and ask for <code>claim-chart</code>.</li>
+      <li>On your own matter, give it your side, the elements you want to test, and the exhibits it may use. Specify a matter folder or ask for the chart in chat. To try it immediately, copy the fictional record below.</li>
+    </ol>
+    <blockquote class="prompt">Use claim-chart in civil mode. We represent the buyer. For this exercise the only stipulated issue is timely written demand. Agreement A §5 requires the buyer to send written demand to the seller by Wednesday at 5 p.m. M1 is the buyer’s internal draft demand, saved Wednesday at 3 p.m. These are the only materials. Put one row in chat with the evidence, pinpoint, contrary evidence, and gap. What single record would most change your assessment?</blockquote>
+    <p><strong>Read the row.</strong> M1 establishes that someone prepared a demand before 5. The time, recipient and content of any transmission remain open. A good chart asks for the sent message or delivery record. If the row says the buyer missed the deadline, ask which exhibit proves that.</p>
+    <p><strong>Run it again.</strong> Add fictional M2, a sent email showing the buyer sent that demand to the seller at 4:42 p.m. Wednesday. Ask for the old and new row side by side. The revised finding about dispatch should cite M2. Then ask <code>deposition-prep</code> for the questions that would authenticate M2 and identify its attachment.</p>
+    <details class="inventory"><summary>What else comes with it? All 19 litigation skills</summary>
+      <h3>Build the record and draft from it</h3>
+      <dl>
+        <dt>claim-chart</dt><dd>Map a civil claim or defense element by element, or prepare a patent chart. Each row identifies support and missing proof.</dd>
+        <dt>chronology</dt><dd>Turn dated exhibits into a sourced timeline. Ask it to flag conflicting dates and explain which events bear on the case theory.</dd>
+        <dt>deposition-prep</dt><dd>Give it the witness, theory and exhibits to get an examination outline with potential impeachment material.</dd>
+        <dt>brief-section-drafter</dt><dd>Supply the issue, record, authorities and a style sample to draft one section with citations for review.</dd>
+        <dt>privilege-log-review</dt><dd>Screen an approved log for entries that need a closer look. Have counsel resolve the privilege calls against the documents.</dd>
+      </dl>
+      <h3>Handle demands, subpoenas and preservation</h3>
+      <dl>
+        <dt>demand-received</dt><dd>Turn an incoming demand into a triage note with response options.</dd>
+        <dt>demand-intake</dt><dd>Collect facts, leverage, objectives and open questions before writing an outgoing demand.</dd>
+        <dt>demand-draft</dt><dd>Turn that intake into a draft letter and review checklist.</dd>
+        <dt>subpoena-triage</dt><dd>Review the subpoena and service facts for scope, burden, potential objections and dates counsel should confirm.</dd>
+        <dt>legal-hold</dt><dd>Prepare a hold notice, refresh or release for counsel’s review, or report the status of recorded holds.</dd>
+      </dl>
+      <h3>Keep a matter and its reporting current</h3>
+      <dl>
+        <dt>matter-workspace</dt><dd>Create or switch the active matter workspace before working with a different client’s record.</dd>
+        <dt>matter-intake</dt><dd>Open a matter record with parties, issues, owners and key dates.</dd>
+        <dt>matter-update</dt><dd>Append a dated development and update the matter log.</dd>
+        <dt>matter-briefing</dt><dd>Use the file and its history to prepare for a client call about changes, next dates and decisions.</dd>
+        <dt>matter-close</dt><dd>Capture the outcome and archive the matter from the active portfolio.</dd>
+        <dt>portfolio-status</dt><dd>Roll up recorded deadlines, risk and stale matters across a portfolio you are authorized to review together.</dd>
+        <dt>oc-status</dt><dd>Draft status requests to outside counsel from the recorded matters.</dd>
+      </dl>
+      <h3>Set practice preferences</h3>
+      <dl>
+        <dt>cold-start-interview</dt><dd>Build a reusable practice profile covering role, risk preferences and house style.</dd>
+        <dt>customize</dt><dd>Change one preference, such as memo style or where matter files belong.</dd>
+      </dl>
+    </details>
+    <p><strong>Using a firm playbook?</strong> The upstream skills look for settings in a Claude-specific folder. In Codex, identify the approved playbook explicitly or ask it to use a general baseline. The plugin declares optional connectors including CourtListener and Everlaw. Each needs authorized access. We tested the skills in local Codex. Hosted Work import and scheduled docket monitoring remain unverified. The separate general Legal plugin includes contract review and NDA triage. <a href="https://github.com/anthropics/claude-for-legal/tree/main/litigation-legal/skills">Publisher’s litigation skill directory</a> · <a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md#using-anthropics-original-plugins-in-codex">Codex compatibility tests and general Legal install</a>.</p>
+  </section>
+  <section id="workbench">
+    <h2>Litigation Workbench</h2>
+    <p>Seven assignments turn a small matter record into something you can edit. Choose a proof matrix, deposition outline, damages reconciliation, Lexis research handoff, brief audit, case-treatment check or argument review. The argument review preserves your draft and a separate steelman, then tracks an independent reviewer’s objections into the revision when delegation is available.</p>
+    <p><strong>Try the damages reconciliation.</strong> Open a fresh chat with Workbench selected. Supply a ledger and the provisions that make each payment due, or try these fictional figures.</p>
+    <blockquote class="prompt">Use damages-reconciliation. Invoice A is $25,000. The first $20,000 is due. Receipt B applies $10,000 to that portion. Contract §4 makes the last $5,000 due only upon a signed acceptance certificate. The record contains the invoice, receipt and contract. Give me the open ledger balance, the amount supported as due, and the document I should request next.</blockquote>
+    <p><strong>Check the bridge.</strong> The ledger has $15,000 open. The record supports $10,000 as due and leaves the $5,000 trigger unresolved. Ask which line would change if a signed certificate arrived. <a href="./#first-matter">All seven assignments and prompts</a> · <a href="./#argument-review">Worked argument review</a> · <a href="practice.html">Fictional matter files</a>.</p>
+  </section>
+  <section id="legalquants">
+    <h2>LegalQuants Litigation</h2>
+    <p>A practitioner-built collection for reviewing and drafting litigation work. Use <code>cite-check</code> for a brief and its sources, <code>pressuretest</code> for an opponent’s best response, or <code>depositions</code> for witness preparation. The bundle also covers discovery, document review, client updates and correspondence.</p>
+    <p><strong>Try a cite check.</strong> Select the plugin in a fresh chat. Attach your numbered draft and the cited opinions it may read. The fictional practice file includes a two-sentence draft and a public opinion for this comparison.</p>
+    <blockquote class="prompt">Use LegalQuants Litigation’s cite-check on the attached draft and opinions. For each challenged sentence, give the paragraph number, the proposition, the controlling passage and reporter page. Identify any authority you could not read. Show me the most consequential correction first.</blockquote>
+    <p><strong>Check the correction.</strong> Open the page and read the sentences on either side. Check whether the majority or a separate opinion spoke. If a real citation only supports a narrower proposition, ask for a revised sentence you can use. <a href="practice.html#brief-audit">Try the two-sentence audit</a> · <a href="./#install-legalquants">Install LegalQuants Litigation</a> · <a href="https://github.com/LegalQuants/lq-plugin-oss/tree/main/plugins/legalquants-litigation/skills">Publisher’s skill directory</a>.</p>
+  </section>
+  <section id="courtlistener">
+    <h2>CourtListener</h2>
+    <p>Free Law Project connects the chat to public opinions and available RECAP docket filings. Use it when you need the source document. Start with a citation or a court and docket number. The hosted connector uses a CourtListener account.</p>
+    <blockquote class="prompt">Use CourtListener to retrieve 477 U.S. 317. Return the case name, court, date and opinion link. Find the majority’s discussion of the movant’s initial burden at reporter page 323. Give me the passage and identify a source copy where I can check the printed page.</blockquote>
+    <p><strong>Check the locator.</strong> Open the opinion and find the printed 323. For a docket request, match the court, docket number and entry before opening the filing. If the entry has no available document, record that gap. <a href="./#install-courtlistener">Install CourtListener</a> · <a href="https://github.com/freelawproject/courtlistener-api-client/blob/main/MCP_README.md">Free Law Project’s tools and account guide</a>.</p>
+  </section>
+  <section id="descrybe">
+    <h2>Descrybe Legal Engine</h2>
+    <p>This optional subscription adds in-chat citation resolution, quotation checks and searches for later treatment. Connect an authorized Descrybe account. Give it a public citation, the precise proposition, forum and as-of date. A later decision that limits a different proposition may leave yours intact.</p>
+    <blockquote class="prompt">Use Descrybe to check [citation and pinpoint] for [precise proposition] in [court] as of [date]. Retrieve the later decision that most affects that proposition. Give me its court, date, pinpoint and source link. Explain which words in my proposed sentence I should reconsider and what coverage remains open.</blockquote>
+    <p><strong>Read the later court’s words.</strong> Confirm what it limited or rejected and whether that reaches your proposition. Record unresolved coverage even if the search returns no adverse result. <a href="./#descrybe">Install Descrybe</a> · <a href="https://descrybe.com/chatgpt">Provider’s tools and access guide</a>.</p>
+  </section>
+  <section id="shepards">
+    <h2>Lexis and Shepard’s at the firm</h2>
+    <p>Use the firm’s licensed citator for the dated treatment check. Workbench prepares searches, organizes the results and records counsel’s decision. This workflow works with your existing Lexis login at work.</p>
+    <ol>
+      <li>Take the citation, precise proposition, pinpoint and forum into Lexis. Open the case and select <strong>Shepardize</strong>.</li>
+      <li>Inspect direct history and relevant adverse citing decisions. Open the decisions behind the signals. Identify the passage that changes your proposition, or document the scope of the check.</li>
+      <li>Record the reviewer, date, later decision, pinpoint and effect on the draft. Bring authorized notes and independently obtained public texts back to the matter chat. Keep credentials and licensed reports in the firm environment.</li>
+    </ol>
+    <blockquote class="prompt">Use case-treatment-check with my dated verification notes and these public opinions. Show the sentence we planned to file, the later court’s limiting language, the proposed revision and anything I still need to check in Lexis.</blockquote>
+    <p><strong>Check the handoff.</strong> A completed row identifies who checked this particular proposition and when. An outstanding search stays open. <a href="files/research-return.csv" download>Blank research return sheet</a> · <a href="./#good-law">Workbench treatment assignment</a> · <a href="https://www.lexisnexis.com/en-us/support/lexis/shepards.page">Lexis guide to Shepard’s</a>.</p>
+  </section>
+  <footer><a href="./#install">Set up the tools</a><a href="./#first-matter">Start your first matter</a><a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md">Research and compatibility notes</a></footer>
+</main></body>
+</html>
