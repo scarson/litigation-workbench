@@ -1,0 +1,10 @@
+Grade each passage as a standalone excerpt. Exhibit locators are supplied as they would be in an outline.
+
+P — Lead. “What did you personally know about conditions in room 2 when you sent E1?” [D1, E1, G p. 7 lines 2–4]
+Q — Follow-up. If Arden cannot recall the number: “When you put the truck on hold, how did you account for the handheld reading you had just taken?” [E1, F1, G p. 7 lines 5–7]
+R — Counsel note. “The controller generated the warning 34 minutes before the hold email. Establish whether Arden had seen it by 09:16.” [D1, E1]
+S — Lead. “You took the H-27 reading at 16:40, correct?” [F1–F2, G p. 7 lines 5–7]
+T — Lead. “What led you to put the truck on hold in response to the controller warning?” [D1, E1, G p. 7 lines 2–4]
+U — Follow-up. If Arden says the H-27 reading came first: “How do you remember taking it before you sent the email?” [E1, F1, G p. 7 lines 5–7]
+V — Counsel note. “Use the interval from the 09:16 hold to Arden’s later handheld measurement to test what QA did in the meantime.” [E1, F1–F2, G p. 7 lines 5–7]
+W — Lead. “Did you take sample H-27 before or after you sent the hold instruction, or can you tell?” [E1, F1, G p. 7 lines 5–10]

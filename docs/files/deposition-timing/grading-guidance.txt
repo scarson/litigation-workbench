@@ -1,0 +1,8 @@
+Source-fidelity check for deposition outlines
+
+Use this pass alongside the assignment's existing rubric. Apply it to oral questions, conditional branches and counsel notes, before assigning source-fidelity points.
+
+1. Pick out each materially consequential relationship the question takes for granted. Restate it as a fact. “What did you tell them after your review?” assumes the review preceded the communication. “Had you reviewed it by then?” asks the witness to supply the fact.
+2. Locate the passage or timestamps that support the relationship itself. Say what event each timestamp records, whose knowledge the testimony covers, and whether the evidence gives an order, a cause, both, or neither. A date shared by two entries does not fix their order. Reliable timestamps for two different events can fix it.
+3. Read conditional branches twice. Accept a premise genuinely supplied by the hypothetical answer. Flag a new premise smuggled into the follow-up. Check counsel notes for assertions the oral questions properly left open.
+4. Score the actual wording. Give full source-fidelity credit to an accurate, located premise or a genuinely open question that tests a gap. Cap the criterion at 1/2 for a material unsupported relationship, even with accurate pinpoints for both events. Retain the existing 0/2 anchor for a materially false premise, invented evidence or multiple material locator defects. Quote the words at issue, name what is proved and what is open, and give a neutral replacement. If no defect is present, explain why the relationship is supported or fairly posed. Do not flag sound chronology just because the assignment involves timing.

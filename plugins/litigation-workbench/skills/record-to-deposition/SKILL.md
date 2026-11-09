@@ -11,4 +11,6 @@ For an apparent inconsistency, put the witness, date, exhibit and both passages 
 
 Include the strongest adverse document or alternative reading that would change the examination. Phrase a disputed premise as a question. If a missing exhibit would resolve it, name the document and a likely custodian as a lead.
 
+Check the relationships inside each material question, follow-up and counsel note. A pinpoint may establish two events without establishing their order, what the witness knew at the time, or why someone acted. Identify what each timestamp actually dates (for example, sending, opening or filing). Keep any sequence the sources establish. Where the relationship matters and is open, establish the two events separately and ask the witness which came first, what they knew then, or what prompted the action. A question beginning “after you…” can give away the very admission counsel needs to obtain.
+
 When new material arrives, identify the propositions it changes, revisit dependent questions and preserve any remaining gaps. Match the format, length and version requested by counsel.

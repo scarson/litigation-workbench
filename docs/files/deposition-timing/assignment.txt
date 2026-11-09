@@ -1,0 +1,18 @@
+Fictional deposition assignment
+
+We represent the warehouse in a dispute over lot R4. The shipper says our dispatch supervisor, Kit Arden, knew of a temperature problem when Arden stopped the outbound truck. We will examine Arden as an individual fact witness. We have eight minutes on the issue. Draft four numbered lead questions with exhibit pinpoints and short conditional follow-ups where useful. Get the best evidence of the reason for the hold and identify the one record to obtain next. Return the outline in chat. Use only the following exhibits. No procedural research or additional matter files.
+
+Exhibit D — cold-room controller export, page 1
+D1  July 16, 08:42 local time. “Temperature threshold warning generated — room 2.” System event. The export contains no recipient or acknowledgment field.
+
+Exhibit E — outbound mail log, page 2
+E1  July 16, 09:16 local time. Kit Arden to outbound desk: “Hold truck for lot R4 pending QA.” The mail log and controller use the same time standard.
+
+Exhibit F — shift card and archive cover, page 1
+F1  Shift date July 16. Lot R4. Sample H-27. Handheld reading 5.1 °C. Initials KA. The paper card has no time field.
+F2  Archive cover: “July 16 batch scanned 16:40 local time.”
+
+Exhibit G — Arden's sworn interview, page 7
+Lines 2–4   Q. What did you handle? A. Outbound dispatch. I wrote the hold email.
+Lines 5–7   Q. What is H-27? A. I took that handheld reading and put it on the July 16 card. The shift cards go to records in a batch.
+Lines 8–10  Q. Where else could we look? A. Quality keeps the meter download. It records reading times by sample ID. I have not brought it.
