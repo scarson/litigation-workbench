@@ -3,92 +3,71 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Five practical ways to use ChatGPT Work and Codex on a business litigation matter. Choose a question, bring a few approved sources, and leave with an editable work product.">
   <title>Litigation Workbench · Setup and first matter</title>
-  <style>
-    :root { color-scheme: light; font-family: "Source Sans 3", "Segoe UI", sans-serif; color: #192e32; background: #faf9f6; }
-    * { box-sizing: border-box; }
-    main { max-width: 45rem; margin: 0 auto; padding: clamp(2rem, 8vw, 5rem) 1.4rem 3rem; }
-    h1 { margin: 0 0 .8rem; font: 500 clamp(2.5rem, 7vw, 4.1rem)/1.04 "Source Serif 4", Georgia, serif; letter-spacing: -.045em; }
-    h2 { margin: 2rem 0 .5rem; font-size: 1.25rem; }
-    p, li, summary { line-height: 1.55; }
-    p { margin: .6rem 0 1rem; }
-    a { color: #125f53; text-underline-offset: .18em; }
-    a:focus-visible, summary:focus-visible, button:focus-visible { outline: 3px solid #b35b20; outline-offset: 4px; }
-    .lead { font-size: 1.12rem; }
-    .tool { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: .4rem 1.1rem; padding: 1rem 0; border-top: 1px solid #cad6d1; }
-    .tool h3 { margin: 0; font-size: 1.05rem; }
-    .tool p { margin: .25rem 0 0; }
-    .install { display: inline-block; padding: .6em .9em; border: 1px solid #115a52; border-radius: .35rem; color: #115a52; text-decoration: none; font-weight: 650; }
-    .primary { background: #115a52; color: white; }
-    .steps { padding-left: 1.5rem; }
-    .steps li { margin: .7rem 0; padding-left: .2rem; }
-    .steps li::marker { font-weight: 650; color: #115a52; }
-    .copy { font: inherit; color: #115a52; border: 1px solid #cad6d1; background: white; border-radius: .35rem; padding: .35em .7em; cursor: pointer; }
-    .status { margin-inline-start: .55rem; }
-    details { border-block: 1px solid #cad6d1; padding: .85rem 0; }
-    summary { cursor: pointer; font-weight: 600; }
-    blockquote { margin: .7rem 0; background: #eaf2ee; padding: .9rem 1.1rem; line-height: 1.5; user-select: all; }
-    footer { margin-top: 2rem; display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; }
-    @media (max-width: 36rem) { .tool { grid-template-columns: 1fr; } .install { justify-self: start; } }
-  </style>
+  <link rel="stylesheet" href="styles.css">
+  <script src="copy.js" defer></script>
 </head>
 <body><main>
-  <h1>Litigation Workbench</h1>
-  <p class="lead">Build a proof matrix from your record, find the opinions you need, and check whether your draft says more than the sources support. <a href="#first-matter">Start your first matter</a>.</p>
-  <h2>Install the plugins</h2>
-  <section class="tool" aria-labelledby="workbench">
-    <div><h3 id="workbench">Litigation Workbench</h3>
-      <p>Five workflows for evidence, depositions, damages, Lexis research assignments and brief review. On Mac or Windows, open setup and press <strong>Send</strong> in Codex.</p>
+  <header class="hero">
+    <div><h1>Litigation<br>Workbench</h1>
+      <p class="lead">What would you like to have in hand at the end of the hour?</p>
+      <nav aria-label="Get started"><a class="button primary" href="#first-matter">Choose a first assignment</a><a href="#install">Set up the tools</a></nav>
     </div>
-    <a class="install primary" href="codex://new?prompt=Install%20Litigation%20Workbench%20for%20my%20local%20desktop%20account%20across%20matters.%20Add%20the%20GitHub%20marketplace%20scarson%2Flitigation-workbench%20at%20tag%20v1.0.0%2C%20then%20install%20litigation-workbench%40scarson-legal.%20Use%20the%20Codex%20plugin%20manager.%20Verify%20that%20all%20five%20skills%20are%20installed%20and%20tell%20me%20how%20to%20select%20the%20plugin%20in%20a%20fresh%20chat.">Open setup in Codex</a>
+    <aside class="prep"><h2>Before we meet</h2>
+      <ul><li>Your laptop, signed in to ChatGPT.</li><li>One decision, witness, number or draft you want to work on.</li><li>Two or three approved sources. A model of what good work looks like helps, too.</li></ul>
+      <p>On a personal account, use public or fictional material until your firm clears the account for the matter. A local project can still send content to the model. <a href="practice.html">Use the fictional file</a>.</p>
+    </aside>
+  </header>
+  <section id="first-matter">
+    <h2>Start here for your first matter</h2>
+    <p>Open a fresh Work or Codex chat for this matter. Add just the approved records for the question. Choose an assignment, copy it and fill in the brackets. If setup has to wait, the prompts also work as plain instructions in ChatGPT.</p>
+    <details class="assignment" name="job" open><summary>What can we prove? <span>Proof matrix</span></summary>
+      <p><strong>Bring</strong> the document you rely on and the best one for the other side.</p>
+      <blockquote class="prompt" id="matter-prompt">We represent [side] and need to decide [question]. Build a one-page, editable proof matrix from the attached record. Give each material proposition an ID, the best evidence on each side with exhibit and pinpoint, and the witness or document that could resolve the gap. Distinguish what someone observed from what they inferred. Use the evidence-matrix skill if available.</blockquote>
+      <p><strong>Check</strong> the row that could change your decision. Open both passages, including the lines around them.</p>
+    </details>
+    <details class="assignment" name="job"><summary>What should I ask this witness? <span>Deposition outline</span></summary>
+      <p><strong>Bring</strong> the witness’s role, the admission you want and the exhibit you would put in front of them.</p>
+      <blockquote class="prompt">Prepare a two-page examination outline for [witness and role] about [objective]. For each admission, give me a question I can ask, its foundation, the exhibit and pinpoint, and a follow-up for a denial or qualification. Keep my notes separate. Include the hardest document for our side. Use the record-to-deposition skill if available.</blockquote>
+      <p><strong>Check</strong> one proposed impeachment against the printed transcript. Whose words are they, and does the rest of the answer qualify them?</p>
+    </details>
+    <details class="assignment" name="job"><summary>How much can we support? <span>Damages workbook</span></summary>
+      <p><strong>Bring</strong> the demand, ledger or invoices, and the contract provision that makes payment due.</p>
+      <blockquote class="prompt">As of [date], reconcile the demand to the ledger and the amount this record supports as due. Make an editable workbook with visible formulas, source IDs and a tie-out. Show each disputed trigger or offset separately. Identify the missing document that could move the number most. Use the damages-reconciliation skill if available.</blockquote>
+      <p><strong>Check</strong> one invoice from contract to ledger to due date. Change a disputed assumption in a copy and see which total moves.</p>
+    </details>
+    <details class="assignment" name="job"><summary>What should I research in Lexis? <span>Research handoff</span></summary>
+      <p><strong>Bring</strong> the question, forum, posture and as-of date. An abstract fact pattern is enough to start.</p>
+      <blockquote class="prompt">I will run Lexis. For [issue, forum, posture and date], give me targeted searches, the strongest adverse search, filters and the factual distinction I should test. Tell me which primary texts and treatment checks to bring back. Use the lexis-research-handoff skill if available.</blockquote>
+      <p><strong>Check</strong> current treatment in Shepard’s at work. Return independent public opinions and your authorized notes. Keep credentials, Lexis exports and citator reports in the firm environment. <a href="files/research-return.csv" download>Download the research return sheet (CSV)</a>.</p>
+    </details>
+    <details class="assignment" name="job"><summary>Where does this draft overreach? <span>Brief audit</span></summary>
+      <p><strong>Bring</strong> a versioned draft and the primary authority or exhibit behind a consequential paragraph.</p>
+      <blockquote class="prompt">Audit [draft paragraph] against the attached authorities and record. Break it into claims. For each material defect, identify the source and pinpoint, what the passage supports in context, and the narrowest defensible rewrite. Separate citation identity, proposition support and current treatment. Leave the original intact. Use the brief-audit skill if available.</blockquote>
+      <p><strong>Check</strong> the proposed rewrite against the majority opinion or exhibit. For a second read, give LegalQuants Litigation the same sentence and primary source in a fresh chat.</p>
+    </details>
+    <details class="next"><summary>When a new exhibit arrives</summary>
+      <blockquote class="prompt">Here is [new exhibit]. Keep the original as-of date. Reopen the affected sources and save a separate revision. Show the old and new finding side by side, with the IDs, amounts and questions that change. Preserve my edits and tell me what still turns on missing proof.</blockquote>
+      <p>Keep the reviewed file and your reason for the correction in the matter folder. For the next matter, carry forward the method and start a fresh record. <a href="files/matter-note.txt" download>Download a blank matter note</a>.</p>
+    </details>
   </section>
-  <section class="tool" aria-labelledby="legalquants">
-    <div><h3 id="legalquants">LegalQuants Litigation</h3>
-      <p>Give it a draft and the cited authorities. Its cite-check workflow flags quotations, pinpoints and propositions that need another look.</p>
-    </div>
-    <a class="install" href="https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6">Install LegalQuants Litigation</a>
+  <section id="install"><h2>Install the tools</h2>
+    <p>Workbench covers all five assignments. Add the other two when you need public authority or a second reader.</p>
+    <article class="tool"><div><h3>Litigation Workbench</h3><p>On Mac or Windows, open setup and press <strong>Send</strong> in Codex. After installation select Litigation Workbench in a fresh local Work or Codex chat.</p></div><a class="button primary" href="codex://new?prompt=Install%20Litigation%20Workbench%20for%20my%20local%20desktop%20account%20across%20matters.%20Add%20the%20GitHub%20marketplace%20scarson%2Flitigation-workbench%20at%20tag%20v1.1.0%2C%20then%20install%20litigation-workbench%40scarson-legal.%20Use%20the%20Codex%20plugin%20manager.%20Verify%20version%201.1.0%20and%20all%20five%20skills.%20Tell%20me%20how%20to%20select%20the%20plugin%20in%20a%20fresh%20chat.">Open setup in Codex</a></article>
+    <article class="tool"><div><h3>LegalQuants Litigation</h3><p>Use Cite Check on a draft and the cited opinions, or pressure-test an opponent’s argument against the record.</p></div><a class="button" href="https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6">Install LegalQuants Litigation</a></article>
+    <article class="tool"><div><h3>CourtListener</h3><p>Find a public opinion or available RECAP filing. Start with the public citation or docket number. Open the result and inspect the passage.</p></div><a class="button" href="https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b">Install CourtListener</a></article>
+    <details><summary>Using a browser, or the desktop button didn’t open?</summary>
+      <p><strong>Desktop.</strong> Paste the request below into a local Codex chat, or use the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">folder installation instructions</a>.</p>
+      <blockquote class="prompt">Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.1.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify version 1.1.0 and all five skills. Tell me how to select the plugin in a fresh chat.</blockquote>
+      <p><strong>Hosted Work.</strong> If your Plugins menu offers ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/download/v1.1.0/litigation-workbench.zip">download the plugin ZIP</a> and upload it there. A firm admin can also <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">import the GitHub marketplace</a>. If neither is available, start with the assignment prompts above.</p>
+    </details>
   </section>
-  <section class="tool" aria-labelledby="courtlistener">
-    <div><h3 id="courtlistener">CourtListener</h3>
-      <p>Retrieve public opinions and available federal filings through Free Law Project. Open the linked source to inspect the passage yourself.</p>
-    </div>
-    <a class="install" href="https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b">Install CourtListener</a>
-  </section>
-  <details><summary>Workbench setup for a browser or if the desktop button fails</summary>
-    <p><strong>Desktop:</strong> Paste this request into a local Codex chat. There is also a <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">folder-based installation option</a>.</p>
-    <blockquote>Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.0.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify that all five skills are installed and tell me how to select the plugin in a fresh chat.</blockquote>
-    <p><strong>Hosted Work:</strong> If your Plugins menu offers ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/download/v1.0.0/litigation-workbench.zip">download the Workbench ZIP</a> and upload it there. For firm-managed accounts, the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">install guide</a> includes the workspace admin route.</p>
+  <details class="next"><summary>How to spend the hour together</summary>
+    <ol><li><strong>First 10 minutes.</strong> Pick the decision, the sources and what a usable result would look like. Write down how long the job usually takes.</li>
+    <li><strong>Next 30.</strong> Have the lawyer drive. Produce one editable file, open it in its normal app, and trace the most consequential claim to its source. Give one correction in the lawyer’s own words.</li>
+    <li><strong>Last 20.</strong> Add one exhibit or change one assumption. Compare the versions. Save the reviewed file and the instruction worth reusing. Choose a second matter where the same method would save time.</li></ol>
+    <p>To reuse his own method, ask: “Turn my two corrections into a short instruction for the next matter. Strip out all names, figures and conclusions.” Save the instruction separately and test it on a different example. The <a href="https://openai.com/business/plugins/legalquants-companion/">LegalQuants Companion</a> can also help shape an assignment or debrief the session.</p>
   </details>
-  <h2 id="first-matter">Start here for your first matter</h2>
-  <ol class="steps">
-    <li><strong>Choose one disputed fact.</strong> Open a fresh Work or Codex project for the matter. Add two or three documents that bear on the fact, such as a contract, an email and a demand. Use public or fictional material on a personal account until your firm clears it for the matter.</li>
-    <li><strong>Make one file you can use.</strong> Select Litigation Workbench, replace the brackets below, and send the prompt.
-      <blockquote id="matter-prompt">Use evidence-matrix. We represent [party]. I need to decide [question]. Using only the attached record, make a one-page proof matrix I can edit. For each material proposition, give the strongest evidence on each side, the document and pinpoint, and the missing proof that could change my decision.</blockquote>
-      <button class="copy" id="copy-prompt" type="button" hidden>Copy first-matter prompt</button><span class="status" role="status" id="copy-status"></span>
-    </li>
-    <li><strong>Check the row that matters most.</strong> Open the cited exhibit at the pinpoint. If a legal rule drives your decision, use CourtListener to retrieve the public opinion. Give LegalQuants Litigation your proposed sentence and the opinion, ask whether the passage supports it, then check current treatment in Shepard’s at work.</li>
-  </ol>
-  <details><summary>Try a fictional example before using a matter file</summary>
-  <p>In a fresh chat, select <strong>Litigation Workbench</strong> and send this prompt.</p>
-  <blockquote>Use damages-reconciliation. We billed $25,000 and received $10,000. Of the invoice, $5,000 requires a signed certificate missing from this record. Assume the other $20,000 was due and the payment applies there. How much is open and how much is supported as due?</blockquote>
-  <p>Look for <strong>$15,000 open</strong>, including <strong>$10,000 supported as due</strong> and $5,000 pending proof.</p>
-  </details>
-  <footer><a href="https://github.com/scarson/litigation-workbench">Source and instructions</a><a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md">Compare legal plugins</a></footer>
-</main>
-<script>
-  const copyButton = document.getElementById("copy-prompt");
-  if (navigator.clipboard && navigator.clipboard.writeText) {
-    copyButton.hidden = false;
-    copyButton.addEventListener("click", async () => {
-      const status = document.getElementById("copy-status");
-      try {
-        await navigator.clipboard.writeText(document.getElementById("matter-prompt").textContent);
-        status.textContent = "Copied.";
-      } catch {
-        status.textContent = "Select the prompt above to copy it.";
-      }
-    });
-  }
-</script>
-</body>
-</html>
+  <footer><a href="practice.html">Fictional file and worked example</a><a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md">Compare legal tools</a><a href="https://github.com/scarson/litigation-workbench">Source and versions</a></footer>
+</main></body></html>

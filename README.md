@@ -8,20 +8,24 @@ Five reusable workflows for business litigators in ChatGPT Work and Codex. Insta
 
 You can also paste this request into a local Codex chat yourself:
 
-> Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.0.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify that all five skills are installed and tell me how to select the plugin in a fresh chat.
+> Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.1.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify that all five skills are installed and tell me how to select the plugin in a fresh chat.
 
 If you use the Codex CLI, these are the equivalent commands:
 
 ```sh
-codex plugin marketplace add scarson/litigation-workbench --ref v1.0.0
+codex plugin marketplace add scarson/litigation-workbench --ref v1.1.0
 codex plugin add litigation-workbench@scarson-legal
 ```
 
-**Without a CLI:** Download the [v1.0.0 source archive](https://github.com/scarson/litigation-workbench/archive/refs/tags/v1.0.0.zip), extract it and open the extracted folder containing this README as a local desktop project. Restart the app, open Plugins, choose the **Litigation Workbench** marketplace and install the plugin. Check it in a new local chat for a different folder. Keep the extracted folder for marketplace maintenance. [OpenAI marketplace instructions](https://developers.openai.com/plugins/build/plugins)
+**Without a CLI:** Download the [v1.1.0 source archive](https://github.com/scarson/litigation-workbench/archive/refs/tags/v1.1.0.zip), extract it and open the extracted folder containing this README as a local desktop project. Restart the app, open Plugins, choose the **Litigation Workbench** marketplace and install the plugin. Check it in a new local chat for a different folder. Keep the extracted folder for marketplace maintenance. [OpenAI marketplace instructions](https://developers.openai.com/plugins/build/plugins)
 
-**For hosted Work on the web:** If your Plugins menu offers plugin ZIP uploads, use the [packaged plugin ZIP](https://github.com/scarson/litigation-workbench/releases/download/v1.0.0/litigation-workbench.zip) and install the resulting entry. The source archive above contains the whole marketplace and serves a different purpose. In a managed workspace, an admin can import this repository through **Admin → Plugins → Add → Import marketplace**. Use the repository URL, leave Path blank, and select tag `v1.0.0`. A desktop install uses the local marketplace. Hosted availability depends on the receiving account and workspace. [Plugin permissions](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors) · [GitHub import](https://learn.chatgpt.com/docs/enterprise/plugin-management)
+**For hosted Work on the web:** If your Plugins menu offers plugin ZIP uploads, use the [packaged plugin ZIP](https://github.com/scarson/litigation-workbench/releases/download/v1.1.0/litigation-workbench.zip) and install the resulting entry. The source archive above contains the whole marketplace and serves a different purpose. In a managed workspace, an admin can import this repository through **Admin → Plugins → Add → Import marketplace**. Use the repository URL, leave Path blank, and select tag `v1.1.0`. A desktop install uses the local marketplace. Hosted availability depends on the receiving account and workspace. [Plugin permissions](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors) · [GitHub import](https://learn.chatgpt.com/docs/enterprise/plugin-management)
 
 ## Give it a first assignment
+
+**[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the five assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation and CourtListener install links. A browser-only user can use the prompts while sorting out plugin access.
+
+If you cannot use client files in this account, [download the fictional production](https://scarson.github.io/litigation-workbench/practice.html). The later exhibit and worked Excel file are separate. The public-opinion exercise on that page lets you compare two audits against the same reported decision.
 
 Try this in a fresh chat with the plugin selected. The deliberately small example lets you check the result immediately.
 

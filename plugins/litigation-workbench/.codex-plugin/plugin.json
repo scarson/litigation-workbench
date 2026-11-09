@@ -1,6 +1,6 @@
 {
   "name": "litigation-workbench",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Five record-based workflows for business litigation, from a proof matrix to a brief audit.",
   "skills": "./skills/",
   "interface": {
@@ -10,7 +10,7 @@
     "developerName": "scarson",
     "category": "Productivity",
     "capabilities": [],
-    "websiteURL": "https://github.com/scarson/litigation-workbench",
+    "websiteURL": "https://scarson.github.io/litigation-workbench/",
     "logo": "./assets/mark.png",
     "composerIcon": "./assets/mark.png",
     "brandColor": "#115A52",
