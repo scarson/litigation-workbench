@@ -1,0 +1,23 @@
+# Pressure-test my argument
+
+Paste the assignment below into the approved matter chat. Attach the record you want both readers to see. If the firm limits a particular source to the drafting chat, say so.
+
+> **Decision, client and audience** — [What will I decide or say, for whom and when?]
+>
+> **Forum, posture and cutoff** — [Where does the issue arise? What has happened so far?]
+>
+> **My original argument** — [Paste the exact paragraph or proposed term. If I supply only a question, give me a short, labeled agent-drafted baseline.]
+>
+> **Permitted sources** — [Files, versions, omissions, limits on sharing and any permitted research.]
+>
+> Use the argument-review skill if available. Give me a short internal memo I can inspect. First reproduce my original. Then write out a separate steelman of **my** position, in full. Preserve my objective and show exactly what you strengthened, narrowed or conceded and the source for each material change. An assumption needs a label. Keep both texts intact.
+>
+> Now delegate an adversarial review of those frozen texts to one fresh GPT-6 Astra or GPT-6.1 Sol agent with xhigh reasoning. Use only the approved environment and record. Give the reviewer the originals and the two drafts without your rationale or preferred conclusion. Tailor the role and question below to my actual decision, then include the assignment you sent in the memo.
+>
+> **Reviewer assignment to fill in and send:** “Act as [specific adverse advocate or decision-maker]. We must decide [decision, side, audience, posture and date]. Answer [one question specific to this decision]. Original: [insert exact text]. Steelman: [insert exact text]. Review only [source manifest with versions and locators, or approved excerpts]. Identify anything you could not inspect. Make the strongest fair case against the steelman. Which original defect did it fix, conceal or introduce? Test the most consequential inference against the best passage on each side. Attribute any actual concession to its speaker. For each material objection return an ID, exact draft phrase, pinpoint or gap, practical consequence, and proposed edit, question or test. Flag any legal premise needing authority. Return findings only, signed by role. Leave the drafts intact.”
+>
+> Wait for the return. Show the review status and distinguish the model and effort actually known from the settings requested. Preserve the reviewer’s own words. For each finding, show the ID, **adopt / decline / open**, the source you personally checked, and what wording or action changes. Give me the full revised position for counsel, the remaining uncertainty, and one next move. On a later pass, preserve the previous versions and reopen the affected IDs.
+>
+> If delegation or the named xhigh settings are unavailable, disclose that. Keep the original and steelman visible. Give me a ready-to-paste reviewer assignment with both actual texts and the sources to reattach for a fresh approved chat at the requested setting. Label the final position provisional until the independent return arrives. Keep a drafting agent’s self-review separately labeled.
+
+For a motion, ask what evidence and authority support the exact relief at this posture. For a deposition, ask whether the supposed admission survives the witness’s full answer. For a negotiation, ask which words commit whom, under what conditions, and how the client could prove it.

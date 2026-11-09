@@ -1,12 +1,12 @@
 {
   "name": "litigation-workbench",
-  "version": "1.2.0",
-  "description": "Six workflows for business litigation, including case treatment and a Shepard’s handoff.",
+  "version": "1.3.0",
+  "description": "Seven business litigation workflows, including adversarial argument review, case treatment and a Shepard’s handoff.",
   "skills": "./skills/",
   "interface": {
     "displayName": "Litigation Workbench",
     "shortDescription": "Business litigation workflows",
-    "longDescription": "Build a proof matrix, prepare an exhibit-linked deposition, reconcile a demand, design a Lexis research assignment, audit a brief, or check case treatment. Works with the sources the attorney supplies. The plugin contains written workflows and adds no external connections.",
+    "longDescription": "Build a proof matrix, prepare an exhibit-linked deposition, reconcile a demand, design a Lexis research assignment, audit a brief, check case treatment, or pressure-test an argument with an independent reviewer. Works with the sources the attorney supplies. The plugin contains written workflows and adds no external connections.",
     "developerName": "scarson",
     "category": "Productivity",
     "capabilities": [],
@@ -15,7 +15,7 @@
     "composerIcon": "./assets/mark.png",
     "brandColor": "#115A52",
     "defaultPrompt": [
-      "Build a proof matrix for the disputed propositions in the attached documents.",
+      "Pressure-test my argument. Show the original, a written steelman, and a fresh adversarial review at xhigh.",
       "Reconcile this demand to the ledger and identify any unsupported payment triggers.",
       "Can I still cite this case for the proposition in my brief? Check later treatment and list what I should Shepardize."
     ]

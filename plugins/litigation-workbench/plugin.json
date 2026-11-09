@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "litigation-workbench",
-  "version": "1.2.0",
-  "description": "Six workflows for business litigation, including case treatment and a Shepard’s handoff.",
+  "version": "1.3.0",
+  "description": "Seven business litigation workflows, including adversarial argument review, case treatment and a Shepard’s handoff.",
   "repository": "https://github.com/scarson/litigation-workbench",
   "author": { "name": "scarson" }
 }
