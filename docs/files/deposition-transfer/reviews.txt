@@ -1,0 +1,213 @@
+Fictional transfer trial | First completed reviews, followed by decisions made before decoding the methods. Word counts use whitespace-separated words, including table markup. Metering is from Codex’s per-thread token-usage reports.
+
+K-17 | A | Released 1.4.0
+
+One material repair is needed in the next-proof note. The objective and question groups 1–3 have adequate foundations or preserve the necessary conditions. The original outline remains intact.
+
+**1. Counsel note on next proof**
+
+> “Obtain the retained K-17 archive from the recovery analyst. Compare its part-metal series to the ten-minute requirement. That comparison will test the cure theory for the monitored clip.”
+
+The second and third sentences assume K-17 contains a part-metal series from a monitored clip. The supplied record establishes that foundation for **K-19 only**:
+
+- **T2, p. 1, rows 17 and 19:** Both controller archives were retained. Retention does not establish their channels or contents.
+- **T3, p. 3, lines 4–9:** Vale describes the controls’ capability to retain a load-probe signal **if configured**. Programming and probe attachment are separate jobs; Vale says he did not unpack either archive.
+- **T4, p. 6, entry 19:** The analyst verified time-stamped PROGRAM.SET and PART.METAL series inside **K-19**, with PART.METAL identified as the clip-mounted load probe. This does not establish K-17’s contents.
+- **T1, p. 2, acceptance note:** The comparison requires part metal at **170 °C or higher for ten continuous minutes**. An oven setpoint alone does not supply that measurement.
+
+**Smallest usable correction preserving the K-17 inquiry:**
+
+> Obtain the retained K-17 archive from the recovery analyst and determine whether it contains a time-stamped part-metal series identified as a clip-mounted load probe. If confirmed, compare that series with the requirement of at least 170 °C for ten continuous minutes to test the cure theory for that monitored clip.
+
+K-19 also supplies an already-supported next step:
+
+> Obtain K-19’s verified PART.METAL series identified in T4 and compare it with the same requirement for its monitored clip.
+
+| Outline group | Leads and follow-ups covered | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what Vale programmed”; “what an archived temperature record could resolve” | T3 supports programming; T1 and T4 support a potential part-metal comparison. “Could resolve” leaves the result open. |
+| 1 | “You programmed both…”; “If Vale qualifies, ask which part…”; “if any” | T3, p. 3, lines 4–9. The follow-up permits qualified or absent personal participation. |
+| 2 | “What does the acceptance note require…”; “If Vale describes an oven setting, ask what, if anything, links…” | T1, p. 2. The branch seeks a connection without assuming one exists. |
+| 3 | “Did you inspect either…”; “If yes, ask which package”; “what Vale personally saw”; “If no, move to the recovery analyst…” | Inspection is an open inquiry: T3 says Vale did not **unpack** the archives. A yes answer supports the personal-observation follow-ups. The no branch appropriately seeks another source; T4 documents the analyst’s K-19 verification. |
+| Next-proof note | “Obtain the retained K-17 archive”; “Compare its part-metal series”; “That comparison will test…” | T2 supports seeking K-17. Its channel contents require the foundation in repair 1. T4 independently supports pursuing K-19’s verified series. |
+
+All supplied items T1–T4 were reviewed. No K-17 channel inventory was supplied; that is the remaining factual gap.
+
+Blind decision: full. The next-proof note is quoted and T2–T4 distinguish retention from channel contents. Check whether K-17 has a time-stamped part-metal series from a clip-mounted probe before comparing it to T1. The additional suggestion to pursue K-19 is supported but optional.
+
+K-17 | B | Candidate
+
+One material premise needs repair, in the next-proof note. Questions 1–3 and their branches can remain as written.
+
+1. **Counsel note — K-17’s assumed part-metal series**
+
+   > “Obtain the retained K-17 archive from the recovery analyst. Compare its part-metal series to the ten-minute requirement. That comparison will test the cure theory for the monitored clip.”
+
+   **Source and gap:** T2, p. 1, rows 17 and 19, establishes that both controller archives were retained. It does not identify their channels. T4, p. 6, entry 19, verifies time-stamped PROGRAM.SET and PART.METAL series specifically inside **K-19**, with PART.METAL identified as the clip-mounted load probe. No equivalent K-17 inventory is supplied. T3, p. 3, lines 4–9, establishes only that the historian *can* retain a load-probe signal if configured; Vale did not unpack either archive.
+
+   Obtaining K-17 is supported. Assuming it contains a part-metal series is not. The supplied record already establishes that content for K-19.
+
+   **Smallest correction:** Change “K-17” to “K-19.” The note would read:
+
+   > Obtain the retained K-19 archive from the recovery analyst. Compare its part-metal series to the ten-minute requirement. That comparison will test the cure theory for the monitored clip.
+
+   T1, p. 2, acceptance note, supplies the comparison criterion: part metal at **170 °C or higher for ten continuous minutes**. That comparison concerns the monitored clip in K-19; the separate racks prevent treating it as a measurement of K-17.
+
+   If counsel intends to pursue K-17 instead, preserve that route conditionally: “Obtain the retained K-17 archive and determine whether it contains a time-stamped clip-mounted part-metal series. If confirmed, compare that series to the acceptance requirement.”
+
+| Outline group | Leads and follow-ups checked | Foundation / disposition |
+|---|---|---|
+| Objective | “establish what Vale programmed”; “what an archived temperature record could resolve” | T3 supports examining Vale’s programming; T1 and T4 support the prospective record comparison. No repair. |
+| 1 | “You programmed both…” → “If Vale qualifies, ask which part…personally performed, if any” | T3, p. 3, lines 4–9. The qualification branch permits a narrower role, including none. No repair. |
+| 2 | “What does the acceptance note require…” → “If Vale describes an oven setting, ask what, if anything, links…” | T1, p. 2. Lead and follow-up are open inquiries; the follow-up does not assume a setting establishes clip temperature. No repair. |
+| 3 | “Did you inspect either…” → if yes, “which package” and “what Vale personally saw”; if no, “move to the recovery analyst” | T3 records Vale’s earlier noninspection. A yes answer supplies the inspection foundation; the follow-ups seek its scope and observations. T4 identifies the analyst’s verified inventory. No repair. |
+| Next proof | “Obtain…K-17” → “Compare its part-metal series” → “That comparison will test…” | Retention: T2. Verified series and probe identity: T4, **K-19 only**. Repair 1. |
+
+All supplied exhibits and outline groups were reviewed. No listed exhibit is missing; K-17’s channel inventory is not supplied.
+
+Blind decision: full. The conditional K-17 alternative supplies a complete repair with the correct sources. The first proposed edit switches the investigation to K-19. Its trace is supported, but that is a separate, optional inquiry and does not answer the question about K-17. The coverage table also calls T3 an account of noninspection although Vale said he had not unpacked the files. That is a reviewer overstatement, not a suggested edit to counsel's outline.
+
+K-19 | A | Candidate
+
+No material factual-premise repair is needed on the supplied record. Leave the outline intact.
+
+The next-proof note’s statement, “That comparison will test the cure theory for the monitored clip,” has adequate foundation: **T4, p. 6, entry 19** verifies time-stamped PART.METAL data inside the retained K-19 package and identifies that channel as the clip-mounted load probe. **T1, p. 2, acceptance note** supplies the comparison criterion: part metal at 170 °C or higher for ten continuous minutes. The note proposes a future comparison; it does not assume the temperatures satisfy that requirement or extend the result to both lots.
+
+**T2, p. 1, rows 17 and 19** establishes retention only; its dates concern copying to the recovery server. The outline does not improperly use those dates as cycle dates or assume that retention establishes K-17’s channel contents.
+
+| Outline group | Leads and follow-ups checked | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what Vale programmed”; “what an archived temperature record could resolve” | T3, p. 3, lines 4–9 supports inquiry into Vale’s programming; T1 and T4 support examining what K-19’s part-metal data could establish. No outcome is assumed. |
+| 1 | “You programmed both…”; if qualified, “which part…personally performed, if any” | T3 expressly attributes programming both cycles to Vale. The follow-up permits limited involvement or none and does not assume Vale attached a probe. |
+| 2 | “What does the acceptance note require…”; if an oven setting is described, “what, if anything, links that setting…” | T1 expressly requires part-metal temperature and distinguishes it from a furnace command. The follow-up is an open inquiry allowing no demonstrated link. |
+| 3 | “Did you inspect either…”; if yes, “which package” and “what…personally saw”; if no, “move to the recovery analyst” | The lead tests Vale’s knowledge without assuming inspection. A yes answer supplies the inspection foundation; what Vale saw remains open. T3 reports that Vale did not unpack either archive; T4 supplies the analyst’s verification of K-19 contents. |
+| Next-proof note | “Obtain the retained K-19 archive”; “Compare its part-metal series”; “That comparison will test…” | T2 establishes retention; T4 establishes the specific series and probe identity; T1 supplies the temperature-and-duration criterion. The proposed use is confined to the monitored clip. |
+
+All supplied excerpts were reviewed. No cited exhibit is missing. No K-17 channel inventory is supplied, and the outline does not assume K-17 contains part-metal data.
+
+Blind decision: preserved. T4 verifies the retained part-metal channel and its probe identity for K-19. The response leaves the note and the questions intact and limits the comparison to the monitored clip.
+
+K-19 | B | Released 1.4.0
+
+**No material factual premise needs repair on the supplied record.** The questions preserve the necessary qualifications, and T4 supplies the foundation for the K-19 next-proof note. The original outline can remain intact.
+
+The key passage is: “Compare its part-metal series to the ten-minute requirement. That comparison will test the cure theory for the monitored clip.” T4, p. 6, entry 19, verifies time-stamped **PART.METAL** data inside the retained K-19 package and identifies that channel as the clip-mounted probe. T1, p. 2, acceptance note, supplies the comparison criterion: **170 °C or higher for ten continuous minutes**. The note appropriately limits the proposed test to the monitored clip; it does not promise to establish peeling causation or compliance on the other rack.
+
+| Outline item | Leads and follow-ups checked | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what Vale programmed”; “what an archived temperature record could resolve” | T3, p. 3, lines 4–9, supports examining Vale’s programming role. T1 and T4 support exploring what K-19 temperature data could establish. The objective does not assume the outcome. |
+| 1 | “You programmed both…”; “If Vale qualifies, ask which part… personally performed, if any” | T3, p. 3, lines 4–9: “I programmed both cycles.” The follow-up accommodates a qualified answer and expressly permits no personal performance. It does not equate programming with probe attachment. |
+| 2 | “What does the acceptance note require…”; “If Vale describes an oven setting, ask what, if anything, links…” | T1, p. 2, acceptance note, expressly concerns part-metal temperature. The conditional follow-up leaves any relationship between setpoint and clip temperature open. |
+| 3 | “Did you inspect either…”; “If yes… which package”; “what Vale personally saw”; “If no, move to the recovery analyst…” | The lead tests inspection despite T3’s account that Vale did not unpack either archive. A yes answer supplies the follow-up foundation without assuming particular contents. T4, p. 6, entry 19, supports seeking K-19 contents from the recovery analyst. |
+| Next-proof note | “Obtain the retained K-19 archive…”; “Compare its part-metal series…”; “That comparison will test…” | T2, p. 1, row 19, establishes retention; T4 verifies the relevant series and channel identity; T1 supplies the temperature-and-duration criterion. The proposed comparison is supported for the monitored K-19 clip. |
+
+No supplied exhibit is missing. **K-17’s channel inventory remains an evidentiary gap**, but the outline does not assume K-17 contains part-metal data. It also makes no improper use of T2’s archive-copy date as a cycle date.
+
+Blind decision: preserved. The answer correctly uses T1 and T4 to support the comparison and expressly leaves the original wording intact.
+
+R-61 | A | Released 1.4.0
+
+No material factual premise needs repair. The original outline can remain intact.
+
+The key point is question 2’s selection follow-up: “What inputs did you weigh in selecting twelve percent for that worksheet?” Bell’s initials alone would not support that premise, but **R3, p. 4, margin beside “12%”** independently supplies it. Her signed R-61 note states: “I selected twelve percent after comparing the two masonry quotes.” The follow-up therefore has support beyond her recognition of the initials. That account concerns R-61; it does not establish who selected R-64’s percentage.
+
+| Outline group | Leads and follow-ups covered | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what the checks covered”; “seek a firsthand account … where Bell can give one” | R2, p. 1 ¶3 defines the check. R3, p. 4 supplies Bell’s account of selecting R-61’s percentage. The objective appropriately limits the firsthand inquiry. |
+| 1 | “What did the tie-out check cover?” → “whether the same check would disclose who originated the figure used” | R2, p. 1 ¶3 describes the arithmetic check; R4, p. 5 lines 10–14 records Bell’s account of checking both deductions. The conditional follow-up tests the check’s scope without assuming it establishes authorship. R2 also permits a reviewer to have prepared an estimate. |
+| 2 | “Are those your tie-out initials …?” → “What inputs did you weigh in selecting twelve percent …?” | R1, p. 2 rows 61 and 64, and R4, p. 5 lines 10–14 support the initials inquiry. R3, p. 4, margin beside “12%,” independently supports asking about Bell’s selection of the R-61 percentage. |
+| 3 | “Is there any contemporaneous material you personally relied on …?” → “which entry matters” → “where it can be found” | The lead is an open inquiry. Bell’s identification of a document she relied on supplies the foundation for requesting its relevant entry and location. No particular additional document or contents are asserted. |
+| Counsel note / next proof | “request any supporting estimates that Bell identifies”; “The percentage alone does not establish … commercially justified” | The request depends on Bell identifying estimates. R3 mentions two masonry quotes but supplies neither their contents nor the comparison. R1’s percentage and R2’s arithmetic check do not establish commercial justification. |
+
+All supplied outline groups were reviewed. No exhibits are missing from the supplied fictional record.
+
+Blind decision: preserved. R3 independently establishes Bell's own selection on R-61. The answer preserves the branch and proposes no other edit.
+
+R-61 | B | Candidate
+
+No material factual premise needs repair. The original outline can remain intact.
+
+The key support for question 2 is **R3, p. 4, margin beside “12%”**: Bell states, “I selected twelve percent after comparing the two masonry quotes.” Her initials alone would establish neither selection nor authorship, but her signed account supplies the basis for asking, “What inputs did you weigh in selecting twelve percent for that worksheet?” That support concerns **R-61**; the outline appropriately makes no equivalent assertion about R-64.
+
+Question 1 asks what the check could disclose without assuming that checking and selecting were mutually exclusive. Question 3 and the supporting-estimates request seek possible evidence conditionally; neither asserts that additional material exists.
+
+| Outline group | Leads and follow-ups reviewed | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what the checks covered”; “seek a firsthand account … where Bell can give one” | R2, p. 1 ¶3 defines the check; R3, p. 4 supplies Bell’s account of selecting the R-61 percentage. The qualification preserves uncertainty elsewhere. |
+| 1 | “What did the tie-out check cover?” → “whether the same check would disclose who originated the figure” | R2, p. 1 ¶3; R4, p. 5 lines 10–14. The follow-up is conditional on an arithmetic description and openly tests what that check reveals. |
+| 2 | “Are those your tie-out initials …?” → “What inputs did you weigh in selecting twelve percent …?” | R1, p. 2 rows 61 and 64; R4, p. 5 lines 10–14 support identification. R3, p. 4 independently supports Bell’s reported selection of the R-61 percentage. |
+| 3 | “Is there any contemporaneous material …?” → “which entry matters” → “where it can be found” | Open inquiry. Bell’s identification of a document supplies the conditional foundation for locating the relevant material. No additional document is presumed to exist. |
+| Counsel note | “request any supporting estimates that Bell identifies”; “The percentage alone does not establish … commercially justified” | Conditional discovery request. R3 mentions two masonry quotes, but their contents are not supplied. R1’s percentage and tie-out initials do not establish commercial justification. |
+
+All supplied passages in R1–R4 were reviewed. No supplied exhibit is missing or unreadable.
+
+Blind decision: preserved. The answer identifies the signed R-61 statement in R3, limits it to that worksheet, and preserves all three question groups.
+
+R-64 | A | Released 1.4.0
+
+One material premise needs repair, in question 2’s follow-up. The original outline remains intact.
+
+**1. Question 2 — recognizing initials does not establish selecting the allowance.**
+
+Words at issue:
+
+> If Bell recognizes her initials, ask “What inputs did you weigh in selecting twelve percent for that worksheet?”
+
+The cited record supports a narrower foundation:
+
+- **R1, p. 2, row 64:** records a 12% allowance and Bell’s tie-out initials; it does not identify who proposed the percentage.
+- **R2, p. 1 ¶3:** describes the arithmetic check. A reviewer may also have prepared an estimate, so checking and selecting are compatible, but one does not establish the other.
+- **R3, p. 4, margin beside “12%”:** Bell expressly states, “I selected twelve percent after comparing the two masonry quotes.” That statement concerns **R-61**, not R-64.
+- **R4, p. 5, lines 10–14:** Bell acknowledges checking both deductions, recalls comparing quotes on R-61, and says several people worked on R-64’s property. Her account does not establish that she selected R-64’s percentage.
+
+A plausible answer satisfying the existing condition is: “Those are my initials; I only checked the multiplication.” The follow-up would nevertheless require Bell to accept that she selected the percentage.
+
+**Smallest usable correction:** After Bell recognizes her initials, ask:
+
+> “Did you select the twelve-percent allowance for R-64?”
+
+**If Bell answers yes**, retain:
+
+> “What inputs did you weigh in selecting twelve percent for that worksheet?”
+
+The record leaves Bell’s role in selecting R-64’s allowance open; it does not establish that she had no such role.
+
+All supplied exhibits, R1–R4, were reviewed; none is missing.
+
+| Outline group | Leads and follow-ups checked | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what the checks covered”; “seek a firsthand account … where Bell can give one” | R2, p. 1 ¶3; Bell’s account in R4, p. 5, lines 10–14. R3, p. 4 expressly supplies Bell’s account of selecting R-61’s allowance. The objective appropriately limits inquiry to her knowledge. |
+| 1 | “What did the tie-out check cover?”; if arithmetic is described, “whether the same check would disclose who originated the figure used” | R2 and R4 support the initial inquiry. The follow-up openly tests the check’s limits; it does not assert that it reveals authorship. |
+| 2 | “Are those your tie-out initials …?”; “What inputs did you weigh in selecting …?” | R1, p. 2, row 64 and R4 support identification. Recognition alone does not license the selection premise. **Repair 1:** obtain Bell’s affirmative selection testimony first. |
+| 3 | “Is there any contemporaneous material …?”; “which entry matters”; “where it can be found” | Genuine open inquiry. Bell’s identification of a document she personally relied on supplies the foundation for locating the relevant entry. |
+| Counsel note | “request any supporting estimates that Bell identifies”; “The percentage alone does not establish … commercially justified” | The request is properly conditioned on Bell identifying estimates. The second sentence states an analytical limit without assuming that supporting estimates exist or establish justification. |
+
+Blind decision: full. The answer locates Q2, distinguishes Bell's arithmetic check under R1, R2 and R4 from the affirmative authorship evidence in R3 for a different worksheet, and asks whether Bell selected R-64's percentage before eliciting inputs.
+
+R-64 | B | Candidate
+
+One material premise needs repair. The original outline is left intact.
+
+1. **Question 2, follow-up after recognition of initials**
+
+   **Problem:** “If Bell recognizes her initials, ask ‘What inputs did you weigh in selecting twelve percent for that worksheet?’”
+
+   **Source and gap:** R1, p. 2, rows 61 and 64, connects Bell’s initials to the tie-out, but names no proposer. R2, p. 1 ¶3, defines the arithmetic check and permits a reviewer also to have prepared an estimate; it does not establish that Bell performed both roles. In R4, p. 5, lines 10–14, Bell says she checked both deductions and that R-64 “was in the batch I checked.” Her statement that she selected twelve percent appears in the **R-61** note, R3, p. 4, margin beside “12%.”
+
+   Recognizing her R-64 initials therefore does not establish that she selected that allowance. Bell could satisfy the branch by saying, “Those are my initials; I only checked the deduction,” yet the follow-up would still require her to accept that she selected the percentage.
+
+   **Smallest correction:** After recognition of her initials, ask: “Did you select the twelve-percent allowance for R-64?” **If Bell says she did**, retain: “What inputs did you weigh in selecting twelve percent for that worksheet?”
+
+The remaining questions and counsel note require no material premise repair.
+
+| Outline item and prompts, in reading order | Source or answer licensing the premise |
+|---|---|
+| **Objective:** “establish what the checks covered”; “seek a firsthand account … where Bell can give one” | R2, p. 1 ¶3, describes the check. R3, p. 4, records Bell’s account of selecting R-61’s percentage. The objective appropriately limits firsthand testimony to what she can provide. |
+| **1:** “What did the tie-out check cover?” → if Bell describes arithmetic, “whether the same check would disclose who originated the figure used” | R2, p. 1 ¶3; Bell’s account in R4, p. 5, lines 10–14. The follow-up tests the check’s informational limits; it does not assume Bell lacked another role. |
+| **2:** “Are those your tie-out initials …?” → “What inputs did you weigh in selecting …?” | Initials: R1, p. 2, row 64; R4, p. 5, lines 10–14. Selection follow-up: **repair 1**; requires Bell’s acknowledgment that she selected R-64’s percentage. |
+| **3:** “Is there any contemporaneous material you personally relied on …?” → if a document is identified, “which entry matters” → “where it can be found” | Genuine open inquiry. Bell’s identification of a document she relied on supplies the foundation for the document-specific follow-ups. |
+| **Counsel note:** “request any supporting estimates that Bell identifies”; “percentage alone does not establish … commercially justified” | Conditional request appropriately depends on Bell identifying estimates. R1 supplies the percentage; R3 reports quote comparison for R-61 but supplies no quote contents or amounts establishing commercial justification. |
+
+No supplied exhibits are missing; all outline groups were reviewed.
+
+Blind decision: full. Q2 is quoted, sources R1–R4 are correctly distinguished, and the selection question is placed before the conditional request for inputs. No collateral edits are requested.

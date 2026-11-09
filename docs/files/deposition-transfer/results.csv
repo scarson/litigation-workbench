@@ -1,0 +1,9 @@
+Outline,Blind ID,Method,Target outcome,Additional material edits,Optional additional changes,Unsupported additional edits,Return length (words),Input tokens,Cached input (included in input),Output tokens,Reasoning output (included in output),Total tokens,Session elapsed seconds
+K-17,A,Released 1.4.0,full,0,1,0,513,21488,12544,1758,964,23246,49.51
+K-17,B,Candidate,full,0,1,0,487,24736,0,1644,865,26380,46.32
+K-19,A,Candidate,preserved,0,0,0,405,21579,0,1505,894,23084,45.06
+K-19,B,Released 1.4.0,preserved,0,0,0,417,24649,12544,1692,1036,26341,53.76
+R-61,A,Released 1.4.0,preserved,0,0,0,397,24604,0,1098,518,25702,29.96
+R-61,B,Candidate,preserved,0,0,0,371,24687,12544,1306,750,25993,32.83
+R-64,A,Released 1.4.0,full,0,0,0,508,21447,7296,1559,796,23006,48.72
+R-64,B,Candidate,full,0,0,0,476,21526,7296,1451,751,22977,42.32
