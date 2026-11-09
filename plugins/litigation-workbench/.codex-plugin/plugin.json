@@ -1,0 +1,23 @@
+{
+  "name": "litigation-workbench",
+  "version": "1.0.0",
+  "description": "Five record-based workflows for business litigation, from a proof matrix to a brief audit.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Litigation Workbench",
+    "shortDescription": "Business litigation workflows",
+    "longDescription": "Build a proof matrix, prepare an exhibit-linked deposition, reconcile a demand, design a Lexis research assignment, or audit a brief. Works with the sources the attorney supplies. The plugin contains written workflows and adds no external connections.",
+    "developerName": "scarson",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/scarson/litigation-workbench",
+    "logo": "./assets/mark.png",
+    "composerIcon": "./assets/mark.png",
+    "brandColor": "#115A52",
+    "defaultPrompt": [
+      "Build a proof matrix for the disputed propositions in the attached documents.",
+      "Reconcile this demand to the ledger and identify any unsupported payment triggers.",
+      "Audit this draft against the supplied authorities. Show the weakest proposition and its pinpoint."
+    ]
+  }
+}

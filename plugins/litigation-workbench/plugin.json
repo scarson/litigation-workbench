@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "litigation-workbench",
+  "version": "1.0.0",
+  "description": "Five record-based workflows for business litigation, from a proof matrix to a brief audit.",
+  "repository": "https://github.com/scarson/litigation-workbench",
+  "author": { "name": "scarson" }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "scarson-legal",
+  "interface": { "displayName": "Litigation Workbench" },
+  "plugins": [
+    {
+      "name": "litigation-workbench",
+      "source": { "source": "local", "path": "./plugins/litigation-workbench" },
+      "category": "Productivity",
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" }
+    }
+  ]
+}
