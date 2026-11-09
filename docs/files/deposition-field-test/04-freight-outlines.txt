@@ -1,0 +1,421 @@
+Fictional Rush freight | eight anonymous outlines
+
+Compare A–D within the same repetition. Letters are reassigned in the second repetition.
+
+Repetition 1 | Outline A
+
+**Ari Moss — individual fact witness; 12-minute examination.** Seek admissions that the carrier premium fell within Moss’s express approval and that the crew charge requires separate factual support.
+
+1. **Carrier approval — 2 minutes**
+
+   **Foundation:** “Did you personally send the September 9, 08:12 email to the fabricator?”
+
+   **Lead:** “You authorized the fabricator to proceed with the Saturday carrier premium up to $4,000, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3; corroborated by Moss’s own interview statement, F4, p. 5, lines 1–8.
+
+   **If denied or qualified:** Show F1. “Which part of that authorization do you dispute?” If Moss identifies a condition, ask where it was communicated and when.
+
+2. **Amount and sequence — 3 minutes**
+
+   **Foundation:** “You said in your interview that you read the booking confirmation; is that accurate?”
+
+   **Lead:** “The $3,150 premium in the 08:32 confirmation was within the $4,000 limit you approved at 08:12, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3; F2, p. 1, messages 4–5; F4, p. 5, lines 1–8.
+
+   **If qualified by timing or changed instructions:** “When did you first read the confirmation?” “Did you withdraw or change your approval before the fabricator’s 08:19 message announcing the booking? Identify the communication and its time.”
+
+   **Counsel note:** The common local timestamps establish approval sent at 08:12, the fabricator’s booking announcement at 08:19, and confirmation at 08:32. They do not establish when Moss opened either message or the precise moment the booking was placed.
+
+3. **Separate the chargeback components — 2 minutes**
+
+   **Foundation:** “Did you assemble the chargeback memo from the carrier invoice and the operations estimate?”
+
+   **Lead:** “Of the $9,550 requested, $3,150 is the carrier premium and $6,400 is an operations estimate for idle crew, correct?”
+
+   **Pinpoint:** F3, p. 2, rows A–B; F4, p. 5, lines 1–8.
+
+   **If disputed:** Ask Moss to identify the incorrect row and its supporting record. If Moss maintains that the approved premium should be charged back: “What facts support seeking reimbursement of that item despite your approval?”
+
+4. **Confront the adverse qualification — 2 minutes**
+
+   **Foundation:** “What did you mean by the last sentence of your approval email?”
+
+   **Lead:** “Your statement, ‘We’ll take up any crew costs separately,’ left crew costs open for separate discussion, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3.
+
+   **If Moss claims it established payment responsibility:** “What agreement about crew costs had been reached?” Establish the participants, date, terms, and supporting communication.
+
+   **Counsel note:** This is the strongest adverse qualification to the approval defense: carrier approval does not resolve crew costs. F4 also acknowledges a Friday crew roster. Neither passage establishes actual idle hours, causation, or the $6,400 amount.
+
+5. **Limits of personal knowledge and crew support — 3 minutes**
+
+   **Foundation:** “What work did you personally perform to verify the crew estimate before including it?”
+
+   **Lead:** “You did not personally supervise the Friday crew’s hours, correct?”
+
+   **Pinpoint:** F4, p. 5, lines 1–8; F3, p. 2, row B.
+
+   **If admitted:** “Did you review the job-coded timecards, including reassignments?” If no: “Who supplied the estimate, and what records did that person use?”
+
+   **If Moss claims firsthand knowledge or verification:** “Which workers and hours can you identify from personal observation?” Establish any records reviewed, recorded reassignments, and the calculation supporting $6,400.
+
+   **Counsel note:** F4 is Moss’s own prior interview statement. Lack of supervision limits personal observation; it does not establish that Moss lacks all other knowledge.
+
+**Single most useful missing proof:** The Friday crew’s job-coded timecards, including reassignments. Likely custodian: **site payroll**, expressly identified by Moss in F4, p. 5, lines 1–8. These would test whether rostered workers actually recorded time on this job or were reassigned—the central factual gap behind the idle-crew estimate.
+
+Repetition 1 | Outline B
+
+**Ari Moss — adverse individual fact witness; 12 minutes.** Establish approval before carrier commitment, then separate the crew claim from the approved premium.
+
+1. **“You approved the Saturday carrier premium up to $4,000, correct?”** *(2 minutes)*  
+   **Source:** F1, p. 1, message 3.
+   - If denied or qualified: show F1 and read “I approve the Saturday carrier premium up to $4,000. Please go ahead.”
+   - If recollection fails: confront with Moss’s acknowledgment that they sent the approval. **F4, p. 5, lines 1–8.**
+
+2. **“Your chargeback includes the same $3,150 carrier premium confirmed in the booking chain, correct?”** *(3 minutes)*  
+   **Sources:** F2, p. 1, message 5; F3, p. 2, row A.
+   - Lock in the sequence separately: approval at 08:12; fabricator’s booking notice at 08:19; carrier confirmation at 08:32. **F1, p. 1, message 3; F2, p. 1, messages 4–5 and header.**
+   - “That amount was within your approved limit?”
+   - If Moss disputes reading the confirmation: confront with F4’s acknowledgment. **F4, p. 5, lines 1–8.**
+   - If Moss still maintains the premium chargeback: “What facts support charging back that approved premium?” Identify the asserted basis without assuming approval resolves every possible objection.
+
+3. **“Your approval expressly left crew costs for separate discussion, correct?”** *(3 minutes)*  
+   **Source:** F1, p. 1, message 3.
+   - Read the hard language: “We’ll take up any crew costs separately.”
+   - “You also reported that a crew was rostered Friday, correct?” **F4, p. 5, lines 1–8.**
+   - “What did you personally observe about that crew’s work on Friday?”
+   - If Moss describes idle time: identify the workers, hours, tasks available, and basis for attributing that time to the delivery.
+
+   **Counsel note:** Address both adverse facts directly: crew costs remained open, and a Friday crew existed. Neither establishes the claimed $6,400 by itself.
+
+4. **“You did not supervise that crew’s hours, correct?”** *(2 minutes)*  
+   **Source:** F4, p. 5, lines 1–8.
+   - If Moss nevertheless claims particular idle hours: “How do you know those hours?” Separate personal observations from information supplied by others.
+   - If Moss names a source: identify the person or record and what it actually established. Lack of supervision alone does not establish lack of all personal knowledge.
+
+5. **“The $6,400 crew amount you included came from an operations estimate, correct?”** *(2 minutes)*  
+   **Sources:** F3, p. 2, row B; F4, p. 5, lines 1–8.
+   - “Who prepared that estimate?”
+   - “Which records did you use to check it?”
+   - “Site payroll holds the job-coded timecards, including reassignments, correct?” **F4, p. 5, lines 1–8.**
+   - If Moss reviewed them: identify the entries supporting idle hours and the treatment of reassignments. If not: establish what other verification Moss performed.
+
+**Single most useful missing proof:** Site payroll’s job-coded timecards for the Friday crew, including reassignment entries. They would test the estimated hours and whether workers charged time to other work. The roster establishes scheduling; the timecards could materially strengthen or undermine the claimed idle-crew loss.
+
+Repetition 1 | Outline C
+
+**Ari Moss — individual fact witness; 12 minutes**
+
+Objective: establish approval before booking, separate the two chargeback components, and test Moss’s personal basis for the crew claim.
+
+### 1. Approval before commitment — 2 minutes
+**Sources:** F1, p. 1, message 3; F2, p. 1, messages 4–5.
+
+- **Foundation:** “Did you send the September 9 email at 08:12?”
+- **Lead:** “You approved the Saturday carrier premium up to $4,000 before the fabricator reported booking the slot?”
+- **If qualified:** “What condition on the carrier approval did you communicate?” Then: “Your email left crew costs for separate discussion?”
+- **If no recollection:** Show F1 and F2; establish the common local time and the 08:12 approval followed by the 08:19 booking message.
+
+### 2. Confirmed price within approval — 2 minutes
+**Sources:** F2, p. 1, message 5; F4, p. 5, lines 1–8.
+
+- **Foundation:** “Did you receive and read the carrier’s 08:32 confirmation?”
+- **Lead:** “The confirmed $3,150 premium was within the amount you had approved?”
+- **If denied or uncertain:** Show the confirmation and ask which amount or approval limit Moss disputes. If Moss denies reading it, authenticate the interview before using Moss’s own statement in F4.
+
+### 3. Separate the chargeback components — 2 minutes
+**Sources:** F3, p. 2, rows A–B; F4, p. 5, lines 1–8.
+
+- **Foundation:** “Did you assemble this chargeback memo?”
+- **Lead:** “Row A seeks reimbursement of the same $3,150 carrier premium shown in the booking confirmation?”
+- **If qualified:** “What difference are you identifying?” Establish separately that row B adds $6,400 based on an operations estimate, producing the $9,550 request.
+- **Follow-up:** “What facts within your personal knowledge support charging the approved carrier premium back to the fabricator?”
+
+### 4. Address the adverse crew evidence — 3 minutes
+**Sources:** F4, p. 5, lines 1–8; F1, p. 1, message 3.
+
+- **Foundation:** “What involvement did you personally have in scheduling the Friday crew?”
+- **Lead:** “You did have a crew rostered Friday?”
+- **If yes:** “What did you personally observe about whether those workers were idle?” Establish workers, hours, tasks and any reassignments separately.
+- **If knowledge came from others:** “Who supplied that information, and what records did you see?”
+- **If denied:** Authenticate F4 and address Moss’s own interview statement; ask what Moss would now correct.
+
+### 5. Establish the limit of Moss’s hours evidence — 3 minutes
+**Source:** F4, p. 5, lines 1–8.
+
+- **Foundation:** “What responsibility did you personally have for supervising or recording those workers’ hours?”
+- **Lead:** “You did not personally supervise their hours?”
+- **If admitted:** “Did you review the job-coded timecards, including reassignments, before assembling the $6,400 claim?”
+- **If reviewed:** Identify the records and entries supporting the claimed idle hours.
+- **If not reviewed:** “Who prepared the operations estimate, and what underlying records did that person use?”
+
+**Counsel’s notes:** F4 is the strongest adverse evidence: Moss acknowledges a Friday crew was rostered. F1 also expressly reserves crew costs for separate discussion. Neither approval nor the present gap in hours evidence establishes that no crew loss occurred; approval alone does not resolve ultimate cost allocation.
+
+**Single most useful missing proof:** The Friday crew’s job-coded timecards, including reassignments, held by **site payroll**. They would test actual hours and alternative assignments underlying row B. They may still require explanation to establish causation and the claimed dollar amount.
+
+Repetition 1 | Outline D
+
+**Known:** The packet documents approval before booking and a $9,550 chargeback comprising carrier premium and estimated crew costs. Ari Moss is an individual fact witness.
+
+**Unverified or disputed:** The basis for charging back the approved premium; actual crew idleness, causation, and loss. Forum and governing orders are unspecified; this practice outline makes no procedural-law assumptions. As of November 9, 2026.
+
+**Missing:** The Friday crew’s job-coded timecards, including reassignments—the single most useful missing proof. These would test actual work against the estimate, though they may not alone establish causation or dollar loss.
+
+**Decision points:** Establish the premium authorization and sequence; test each chargeback component separately. Allocate eleven minutes below and retain one minute for clarification.
+
+1. **Approval — 2 minutes**  
+   **Lead:** “You sent the email approving the Saturday carrier premium up to $4,000, correct?”  
+   **Source:** F1, p. 1, message 3; F4, p. 5, lines 1–8.  
+   **Conditional follow-up:** If qualified, ask which words or circumstances limited that approval. If authorship or recollection is disputed, establish recognition of F1 and address the prior interview statement. Stop once the scope of approval is clear.
+
+2. **Sequence and amount — 2 minutes**  
+   **Lead:** “Your 08:12 approval preceded the fabricator’s 08:19 message saying it was booking the Saturday slot, correct?”  
+   **Source:** F1, p. 1, message 3; F2, p. 1, messages 4–5, same local time on September 9.  
+   **Conditional follow-up:** Confirm the carrier then reported a $3,150 premium at 08:32, within the approved cap. If Moss disputes the sequence, walk through the timestamps individually. Establish when Moss read the confirmation; do not assume immediate receipt or reading.
+
+3. **Premium chargeback — 2 minutes**  
+   **Lead:** “What factual basis did you use to include the approved $3,150 carrier premium in the chargeback?”  
+   **Source:** F3, p. 2, row A; F1, p. 1, message 3; F4, p. 5, lines 1–8.  
+   **Conditional follow-up:** If Moss identifies a condition, later agreement, or performance failure, obtain its specifics, source, and supporting document. Distinguish personal observations from information supplied by someone else. Stop after identifying the asserted basis and proof.
+
+4. **Hard language and adverse crew evidence — 3 minutes**  
+   **Lead:** “When you wrote, ‘We’ll take up any crew costs separately,’ what crew costs did you mean?”  
+   **Source:** F1, p. 1, message 3; F4, p. 5, lines 1–8.  
+   **Conditional follow-up:** Establish whether any particular crew amount was approved. Acknowledge Moss’s statement that a crew was rostered Friday, then ask what Moss personally observed about its actual work or idle time. Confirm the limits of Moss’s knowledge given the statement that Moss did not supervise their hours.  
+   **Purpose:** Confront the reservation of crew costs directly; premium approval does not itself resolve the crew claim.
+
+5. **Estimate and missing records — 2 minutes**  
+   **Lead:** “What records, if any, did you personally review to check the $6,400 idle-crew estimate before including it in the chargeback?”  
+   **Source:** F3, p. 2, row B; F4, p. 5, lines 1–8.  
+   **Conditional follow-up:** If records were reviewed, identify them and the hours, rates, and reassignments they supported. If Moss relied on the operations estimate, identify its preparer and inputs. Confirm that site payroll holds the job-coded timecards, including reassignments, and identify the person who can explain them. Stop once the estimate’s foundation and the records custodian are identified.
+
+Repetition 2 | Outline A
+
+**Twelve-minute examination of Ari Moss, individual fact witness.** Objective: establish the authorized premium and booking sequence, then test the factual basis for the claimed crew loss.
+
+1. **Admission: Moss authorized the carrier premium.**
+   
+   **Foundation:** “Did you send the September 9, 08:12 email in F1?”
+   
+   **Lead:** “You approved the Saturday carrier premium up to $4,000 and instructed the fabricator to go ahead, correct?”
+   
+   **Pinpoint:** F1, p. 1, message 3.
+   
+   **If qualified:** “Your email said crew costs would be taken up separately, correct?” Then: “What condition, if any, did you place on proceeding with the carrier booking?”
+   
+   **Counsel note:** F1’s crew-cost reservation is adverse to any suggestion that Moss approved all costs or surrendered the separate crew claim.
+
+2. **Admission: the written authorization preceded the announced booking.**
+   
+   **Foundation:** “Do you recognize the booking chain addressed to you in F2?”
+   
+   **Lead:** “Your 08:12 approval email preceded the fabricator’s 08:19 message saying it was booking the Saturday slot, correct?”
+   
+   **Pinpoint:** F1, p. 1, message 3; F2, p. 1, messages 4–5 and header.
+   
+   **If denied or uncertain:** Establish the September 9 date and common local time separately, then compare the timestamps. Ask: “The carrier’s 08:32 confirmation lists a $3,150 premium, within your $4,000 approval, correct?”
+   
+   **Counsel note:** These timestamps establish the message sequence. They do not establish precisely when booking occurred or when Moss read either message. F4 establishes that Moss read the confirmation, without a reading time.
+
+3. **Admission: the chargeback includes the approved premium.**
+   
+   **Foundation:** “You assembled the chargeback memo from the carrier invoice and the operations estimate, correct?”
+   
+   **Lead:** “The $3,150 in row A is the same Saturday carrier premium identified in the booking confirmation, correct?”
+   
+   **Pinpoint:** F3, p. 2, row A; F2, p. 1, message 5; F4, p. 5, lines 1–8.
+   
+   **If denied or qualified:** “What difference do you identify between those charges?” If the item is the same but Moss asserts entitlement to recover it: “What facts support charging that approved premium back to the fabricator?”
+   
+   **Counsel note:** Authorization supports the defense; it does not alone resolve every possible basis for a chargeback.
+
+4. **Adverse fact: a crew was rostered Friday.**
+   
+   **Foundation:** “How do you know a crew was rostered Friday?”
+   
+   **Lead:** “There was a crew rostered Friday, as you stated in your interview, correct?”
+   
+   **Pinpoint:** F4, p. 5, lines 1–8—Moss’s own prior statement.
+   
+   **If admitted:** “What did you personally observe about whether those workers were idle?” If Moss attributes that knowledge to someone else: “Who told you, and what did they report?”
+   
+   **If denied:** Show F4 and ask Moss to explain or correct the prior statement.
+   
+   **Counsel note:** Confront this adverse fact directly. A roster establishes scheduled staffing; actual idle hours and reassignments remain open.
+
+5. **Admission: the crew amount rests on an estimate, with underlying records elsewhere.**
+   
+   **Foundation:** “You did not supervise the crew’s hours, correct?”
+   
+   **Lead:** “The $6,400 idle-crew amount you included came from the operations estimate, correct?”
+   
+   **Pinpoint:** F3, p. 2, row B; F4, p. 5, lines 1–8.
+   
+   **If qualified:** “Which hours did you personally verify?” Then: “Did you review the job-coded timecards, including reassignments, before using that amount?” If yes, identify the records and calculations; if no, identify who prepared the estimate and its inputs.
+
+**Single most useful missing proof:** The Friday crew’s job-coded timecards, including reassignments. **Likely custodian:** site payroll, identified by Moss in F4, p. 5, lines 1–8. These records would test the hours underlying the $6,400 estimate and whether workers performed reassigned work; they would not alone establish responsibility for any resulting loss.
+
+Repetition 2 | Outline B
+
+**Ari Moss — 12-minute examination**
+
+Counsel’s objective: establish authorization before booking, match the approved premium to the chargeback, and test the factual support for crew costs. Moss is an individual fact witness; distinguish personal observations from information supplied by others.
+
+1. **Carrier authorization — 2 minutes**
+
+   **Foundation:** “Did you send the September 9, 08:12 email in F1?”
+
+   **Lead:** “You authorized the fabricator to proceed with the Saturday carrier premium up to $4,000, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3.
+
+   **If qualified or denied:** Show the complete message. “What qualification to that carrier authorization did you communicate in this email?”
+
+   **Counsel note:** Authorization supports the booking decision; it does not by itself establish final responsibility for the expense.
+
+2. **Booking followed approval — 2 minutes**
+
+   **Foundation:** “You said in your interview that you read the booking confirmation; is that accurate?”
+
+   **Lead:** “The chain records the fabricator proceeding with booking at 08:19, after your 08:12 approval, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3; F2, p. 1, messages 4–5; F4, p. 5, lines 1–8.
+
+   **If qualified or memory fails:** Have Moss identify the September 9 headers and times. “The carrier’s confirmation is timestamped 08:32, correct?”
+
+   **Counsel note:** The packet specifies the same local time. Do not imply Moss read the confirmation at precisely 08:32.
+
+3. **Premium amount matches — 2 minutes**
+
+   **Foundation:** “Did you assemble the chargeback using the carrier invoice?”
+
+   **Lead:** “The $3,150 carrier premium in row A is the same amount shown in the Saturday booking confirmation, correct?”
+
+   **Pinpoint:** F2, p. 1, message 5; F3, p. 2, row A; F4, p. 5, lines 1–8.
+
+   **If qualified:** “What difference do you identify between those amounts?” Then: “What is your factual basis for seeking reimbursement of that authorized premium?”
+
+4. **Crew costs remained open — 3 minutes**
+
+   **Foundation:** “When you sent F1, what did you personally know about the Friday crew arrangements?”
+
+   **Lead:** “Your email left crew costs for separate discussion, correct?”
+
+   **Pinpoint:** F1, p. 1, message 3; F4, p. 5, lines 1–8.
+
+   **If qualified:** “What crew-cost agreement do you say had already been reached, and what did you personally say or hear?”
+
+   **Then test the adverse fact:** “You said a crew was rostered Friday. What work or waiting did you personally observe?”
+
+   **Counsel note:** Address the strongest adverse evidence directly: F4 acknowledges a Friday crew, and F1 preserves the crew-cost issue. Neither establishes actual idle hours or responsibility for them.
+
+5. **Support for the crew estimate — 3 minutes**
+
+   **Foundation:** “Did you assemble row B of the chargeback?”
+
+   **Lead:** “The $6,400 crew charge came from an operations estimate, correct?”
+
+   **Pinpoint:** F3, p. 2, row B; F4, p. 5, lines 1–8.
+
+   **If qualified:** “Which part reflects your own observations?” Then: “You did not supervise those hours, correct?” “Did you review the job-coded timecards before including the estimate?”
+
+   **If yes:** Identify the entries relied upon and how reassignments affected the calculation. **If no:** “What idle hours did you personally verify?”
+
+**Single most useful missing proof:** The job-coded timecards, including reassignments, for the crew underlying the $6,400 estimate. F4 identifies **site payroll** as the custodian. These records would test the hours and reassignment component of the estimate; they would not alone establish causation or responsibility.
+
+Repetition 2 | Outline C
+
+**Known:** Moss approved a carrier premium up to $4,000 before the booking; the confirmed premium was $3,150. The chargeback includes that premium and a $6,400 crew estimate. (F1, p. 1, message 3; F2, p. 1, messages 4–5; F3, p. 2, rows A–B.)
+
+**Unverified or disputed:** Any withdrawal of approval, the basis for charging back the approved premium, and actual idle crew hours, reassignments, and causation.
+
+**Missing:** The single most useful proof is **site payroll’s job-coded timecards, including reassignments, for the crew and dates underlying the $6,400 estimate**. They can test actual time allocation against the estimate; a roster alone cannot establish idle hours. Moss identifies payroll as the custodian. (F4, p. 5, lines 1–8.)
+
+**Decision points:** Separate the carrier charge from crew damages. Preserve the crew-cost reservation without treating it as an agreement to pay a particular amount. Twelve minutes; Moss is an individual fact witness. As of November 9, 2026, forum, governing rules, and orders are unspecified.
+
+1. **Approval — 2 minutes**  
+   **Lead:** “You approved the Saturday carrier premium up to $4,000 in your September 9, 08:12 email, correct?”  
+   **Source:** F1, p. 1, message 3; corroborating statement in F4, p. 5, lines 1–8.  
+   **Conditional follow-ups:** If qualified, ask what limitation Moss communicated beyond the stated cap. If denied or forgotten, establish authorship and review the complete message, including the crew-cost reservation.  
+   **Stop:** Obtain Moss’s account of the authorization and its limits.
+
+2. **Booking chronology — 2 minutes**  
+   **Lead:** “You read the carrier’s 08:32 confirmation of the Saturday slot at a $3,150 premium, correct?”  
+   **Source:** F2, p. 1, message 5; F4, p. 5, lines 1–8.  
+   **Conditional follow-ups:** “When did you read it?” “What, if anything, had you communicated to withdraw or change your approval before the fabricator’s 08:19 booking message?” If Moss identifies a communication, obtain its time, recipient, wording, and location.  
+   **Stop:** Fix the sequence without assuming when Moss read the confirmation.
+
+3. **Hard exhibit: reservation of crew costs — 2 minutes**  
+   **Lead:** “What did you mean when you wrote, ‘We’ll take up any crew costs separately’?”  
+   **Source:** F1, p. 1, message 3.  
+   **Conditional follow-ups:** If Moss describes an agreement to reimburse crew costs, ask who agreed, when, and the exact terms. Address the adverse fact directly: “You said a crew was rostered Friday; what did you personally observe about their work that day?”  
+   **Additional source:** F4, p. 5, lines 1–8.  
+   **Stop:** Preserve the explanation; do not press for an unsupported waiver.
+
+4. **Carrier chargeback basis — 2 minutes**  
+   **Lead:** “What was your basis for including the $3,150 carrier premium in the chargeback you assembled?”  
+   **Source:** F3, p. 2, row A; F4, p. 5, lines 1–8.  
+   **Conditional follow-ups:** If Moss identifies a separate repayment agreement or condition, obtain its speaker, date, terms, and supporting record. If necessary, confirm whether row A concerns the same premium shown in F2.  
+   **Stop:** Capture the factual explanation for charging back the approved expense.
+
+5. **Crew estimate and personal knowledge — 3 minutes**  
+   **Lead:** “What did you personally verify about the $6,400 operations estimate before including it?”  
+   **Source:** F3, p. 2, row B; F4, p. 5, lines 1–8.  
+   **Conditional follow-ups:** If verified, identify the records, hours, rates, reassignments, and basis for attributing idle time to this delivery. If not, identify the estimator and payroll custodian. Ask whether Moss reviewed the job-coded timecards.  
+   **Stop:** Establish Moss’s knowledge boundary and the route to the missing timecards.
+
+Reserve **one minute** to clarify the most consequential qualification or identify a newly mentioned record.
+
+Repetition 2 | Outline D
+
+**Ari Moss — adverse individual fact witness; twelve-minute sequence.**
+
+1. **“You authorized the fabricator to proceed with a Saturday carrier premium up to $4,000, correct?”**  
+   **Source:** F1, p. 1, message 3.
+
+   **If qualified or denied:** Show the email and confirm separately: “You wrote, ‘I approve the Saturday carrier premium up to $4,000’?” Then: “You also wrote, ‘Please go ahead’?” Ask Moss to identify any condition he says limited that authorization.
+
+   *Time: 2 minutes.*
+
+2. **“You sent that approval before the fabricator’s 08:19 message saying it was booking the Saturday slot, correct?”**  
+   **Sources:** F1, p. 1, message 3; F2, p. 1, message 4 and header.
+
+   **Follow-ups:** Establish the sequence separately: approval at 08:12; booking message at 08:19; carrier confirmation at 08:32. Then: “The confirmed premium was $3,150?” “That was within your $4,000 limit?”  
+   **If Moss denies reading the confirmation:** Confront with his statement that he read it.  
+   **Sources:** F2, p. 1, messages 4–5; F4, p. 5, lines 1–8.
+
+   *Time: 2 minutes.*
+
+3. **“Your chargeback nevertheless includes the same $3,150 carrier premium, correct?”**  
+   **Sources:** F3, p. 2, row A; F2, p. 1, message 5.
+
+   **If admitted:** “What factual basis do you claim for charging that approved premium back to the fabricator?”  
+   **If Moss describes the entire $9,550 as crew loss:** Separate the entries: $3,150 supported by the carrier invoice and $6,400 identified as an operations estimate.  
+   **Source:** F3, p. 2, rows A–B.
+
+   *Time: 2 minutes.*
+
+4. **“Your approval email left crew costs for separate discussion, correct?”**  
+   **Source:** F1, p. 1, message 3.
+
+   **Hard evidence for the defense:** The email preserves the crew-cost issue, and Moss reports that a Friday crew was rostered. Do not treat carrier approval as a waiver of crew costs.
+
+   **Follow-ups:** “You had a crew rostered Friday?” **Source:** F4, p. 5, lines 1–8. Then ask what Moss personally observed about their work or inactivity.  
+   **If he claims a separate agreement assigning crew costs to the fabricator:** Ask who agreed, when, the words used, and what document records it. The packet does not establish such an agreement.
+
+   *Time: 2 minutes.*
+
+5. **“The $6,400 crew figure you used came from an operations estimate, correct?”**  
+   **Sources:** F3, p. 2, row B; F4, p. 5, lines 1–8.
+
+   **Follow-ups:** “You did not supervise those hours?” “Site payroll holds the job-coded timecards, including reassignments?” **Source:** F4, p. 5, lines 1–8. Ask whether he reviewed those records before assembling the chargeback.
+   
+   **If yes:** Identify the records, claimed idle hours, and treatment of reassigned time.  
+   **If no:** Identify the estimator and the basis Moss personally has for the claimed hours, rates, and connection to this delivery.
+
+   *Time: 4 minutes.*
+
+**Single most useful missing proof:** The Friday crew’s job-coded timecards, including reassignments, held by site payroll. **Source identifying the records and custodian:** F4, p. 5, lines 1–8. Compare them with the $6,400 estimate to test actual hours and reassigned time; they would not alone establish who bears the cost.

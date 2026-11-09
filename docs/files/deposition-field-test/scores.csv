@@ -1,0 +1,65 @@
+Record,Repetition,Blind ID,Skill,Grader,Client and adverse case,Source fidelity,Foundation,Next proof,Live use,Total / 10,Material premise to repair (same audit for both graders)
+Distributor credit,1,A,Claude for Legal,Astra,2,1,2,2,2,9,No
+Distributor credit,1,A,Claude for Legal,Sol,2,2,2,2,2,10,No
+Distributor credit,1,B,LegalQuants Litigation,Astra,2,2,2,2,2,10,Yes
+Distributor credit,1,B,LegalQuants Litigation,Sol,2,2,2,2,2,10,Yes
+Distributor credit,1,C,Workbench 1.3.2,Astra,2,1,2,2,2,9,Yes
+Distributor credit,1,C,Workbench 1.3.2,Sol,2,2,2,2,2,10,Yes
+Distributor credit,1,D,Workbench 1.3.1 (control),Astra,2,1,2,2,2,9,Yes
+Distributor credit,1,D,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,Yes
+Distributor credit,2,A,Workbench 1.3.1 (control),Astra,1,2,2,2,2,9,Yes
+Distributor credit,2,A,Workbench 1.3.1 (control),Sol,1,2,2,2,2,9,Yes
+Distributor credit,2,B,LegalQuants Litigation,Astra,2,1,2,2,2,9,Yes
+Distributor credit,2,B,LegalQuants Litigation,Sol,2,2,2,2,2,10,Yes
+Distributor credit,2,C,Workbench 1.3.2,Astra,2,1,2,2,2,9,Yes
+Distributor credit,2,C,Workbench 1.3.2,Sol,2,2,2,2,2,10,Yes
+Distributor credit,2,D,Claude for Legal,Astra,2,1,1,2,2,8,Yes
+Distributor credit,2,D,Claude for Legal,Sol,2,2,2,2,2,10,Yes
+Finishing trial,1,A,Claude for Legal,Astra,2,2,2,2,2,10,No
+Finishing trial,1,A,Claude for Legal,Sol,2,2,2,2,2,10,No
+Finishing trial,1,B,Workbench 1.3.1 (control),Astra,2,1,2,2,2,9,Yes
+Finishing trial,1,B,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,Yes
+Finishing trial,1,C,LegalQuants Litigation,Astra,2,2,2,2,2,10,Yes
+Finishing trial,1,C,LegalQuants Litigation,Sol,2,2,2,2,2,10,Yes
+Finishing trial,1,D,Workbench 1.3.2,Astra,2,2,2,2,2,10,Yes
+Finishing trial,1,D,Workbench 1.3.2,Sol,2,2,2,2,2,10,Yes
+Finishing trial,2,A,Workbench 1.3.2,Astra,2,2,2,2,2,10,No
+Finishing trial,2,A,Workbench 1.3.2,Sol,2,2,2,2,2,10,No
+Finishing trial,2,B,LegalQuants Litigation,Astra,2,1,2,2,2,9,Yes
+Finishing trial,2,B,LegalQuants Litigation,Sol,2,2,2,2,2,10,Yes
+Finishing trial,2,C,Claude for Legal,Astra,2,1,2,2,2,9,Yes
+Finishing trial,2,C,Claude for Legal,Sol,2,2,2,1,2,9,Yes
+Finishing trial,2,D,Workbench 1.3.1 (control),Astra,2,2,2,2,2,10,No
+Finishing trial,2,D,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,No
+Lost retail placement,1,A,Workbench 1.3.1 (control),Astra,2,1,2,2,2,9,Yes
+Lost retail placement,1,A,Workbench 1.3.1 (control),Sol,2,1,2,2,2,9,Yes
+Lost retail placement,1,B,LegalQuants Litigation,Astra,2,2,2,2,2,10,Yes
+Lost retail placement,1,B,LegalQuants Litigation,Sol,2,1,2,2,2,9,Yes
+Lost retail placement,1,C,Workbench 1.3.2,Astra,2,1,2,2,1,8,Yes
+Lost retail placement,1,C,Workbench 1.3.2,Sol,2,2,2,2,2,10,Yes
+Lost retail placement,1,D,Claude for Legal,Astra,2,1,2,2,2,9,Yes
+Lost retail placement,1,D,Claude for Legal,Sol,2,2,2,2,2,10,Yes
+Lost retail placement,2,A,Claude for Legal,Astra,2,1,2,2,2,9,Yes
+Lost retail placement,2,A,Claude for Legal,Sol,2,2,2,2,2,10,Yes
+Lost retail placement,2,B,Workbench 1.3.1 (control),Astra,2,1,2,2,2,9,Yes
+Lost retail placement,2,B,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,Yes
+Lost retail placement,2,C,LegalQuants Litigation,Astra,2,2,2,2,2,10,Yes
+Lost retail placement,2,C,LegalQuants Litigation,Sol,2,2,2,2,2,10,Yes
+Lost retail placement,2,D,Workbench 1.3.2,Astra,2,2,2,2,2,10,Yes
+Lost retail placement,2,D,Workbench 1.3.2,Sol,2,2,2,2,2,10,Yes
+Rush freight,1,A,Workbench 1.3.2,Astra,2,2,2,2,2,10,No
+Rush freight,1,A,Workbench 1.3.2,Sol,2,2,2,2,2,10,No
+Rush freight,1,B,Claude for Legal,Astra,2,2,2,2,2,10,Yes
+Rush freight,1,B,Claude for Legal,Sol,2,2,2,2,2,10,Yes
+Rush freight,1,C,Workbench 1.3.1 (control),Astra,2,1,2,2,2,9,Yes
+Rush freight,1,C,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,Yes
+Rush freight,1,D,LegalQuants Litigation,Astra,2,2,2,2,2,10,No
+Rush freight,1,D,LegalQuants Litigation,Sol,2,2,2,2,2,10,No
+Rush freight,2,A,Workbench 1.3.2,Astra,2,2,2,2,2,10,No
+Rush freight,2,A,Workbench 1.3.2,Sol,2,2,2,2,2,10,No
+Rush freight,2,B,Workbench 1.3.1 (control),Astra,1,2,2,2,2,9,Yes
+Rush freight,2,B,Workbench 1.3.1 (control),Sol,2,2,2,2,2,10,Yes
+Rush freight,2,C,LegalQuants Litigation,Astra,2,2,2,2,2,10,No
+Rush freight,2,C,LegalQuants Litigation,Sol,2,2,2,2,2,10,No
+Rush freight,2,D,Claude for Legal,Astra,2,2,2,2,2,10,Yes
+Rush freight,2,D,Claude for Legal,Sol,2,2,2,2,2,10,Yes

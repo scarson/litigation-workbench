@@ -1,0 +1,349 @@
+Fictional Lost retail placement | eight anonymous outlines
+
+Compare A–D within the same repetition. Letters are reassigned in the second repetition.
+
+Repetition 1 | Outline A
+
+**Examination: Neri Shaw — individual fact witness; packaging vendor examining; 12 minutes.** Objective: establish what the delay actually changed, test the buyer’s stated reason against the CRM coding, and distinguish forecast loss from a committed placement. Shaw can establish her own communications and actions; the packet does not establish her knowledge of the buyer’s internal decision.
+
+### Five lead questions
+
+**1. Commitment and claimed value — 2 minutes**  
+**Exhibits:** R1, p. 3, line 6; R5, p. 12, lines 2–10.
+
+**Lead / personal foundation:** “As the person who owned the Harbor pitch, what buyer commitment, if any, did you personally obtain for the forecasted 8,000 units?”
+
+**Follow-up:** If a commitment: “Who made it, when, and where was it recorded?” If only a forecast: “What supported the unit forecast and expected contribution?”
+
+**2. Actual effect of the sleeve delay — 3 minutes**  
+**Exhibit:** R2, p. 1, messages 1–2.
+
+**Lead / personal foundation:** “How, if at all, did the announced Thursday sleeve arrival change what you actually showed the buyer?”
+
+**Follow-up:** If she identifies missing mock-ups: “When was that meeting, and what did the buyer say about their absence?” If she cannot recall: “What record would show what you presented?”
+
+**3. Buyer’s stated reason and any competing explanation — 3 minutes**  
+**Exhibit:** R3, p. 2, message 4, dated May 17.
+
+**Lead / personal foundation:** “What did the buyer tell you about why Harbor was passing that cycle?”
+
+**Follow-up:** If she identifies samples as a reason: “When did the buyer say that, and is it recorded?” If she identifies the missing margin approval: “Did the buyer tell you that timely sleeves would have changed the outcome despite that missing approval?”
+
+**4. Basis for the CRM loss category — 2 minutes**  
+**Exhibits:** R4, p. 1, row 19; R5, p. 12, lines 2–10.
+
+**Lead / personal foundation:** “What information from your own dealings with the buyer did you provide for Harbor’s Samples loss category?”
+
+**Follow-up:** If she supplied the reason: “Was that based on something the buyer said or on your assessment?” If someone else supplied it: “Who selected that category, and what do you personally know about its source?”
+
+**5. Actual decision date — 2 minutes**  
+**Exhibits:** R3, p. 2, message 4; R4, p. 1, row 19; R5, p. 12, lines 2–10.
+
+**Lead / personal foundation:** “What do you personally know about when the buyer made the assortment decision?”
+
+**Follow-up:** If she relies on May 18: “Was that the buyer’s decision date or the date the pitch left your active pipeline?” If she gives another date: “Who supplied that date, and where is it recorded?”
+
+### Counsel’s notes
+
+- **Strongest brand evidence:** Shaw’s May 6 response contemporaneously connects the announced delay to mock-ups she wanted for the buyer meeting. The CRM later categorizes the loss as Samples. Establish the actual meeting date, missing materials, and buyer reaction before minimizing that evidence.
+- **Strongest vendor evidence:** The buyer’s May 17 email identifies the unapproved margin exception and expresses approval of the carton direction. That supports an alternative cause; it does not establish that sample timing played no role.
+- **Source tension, not Shaw impeachment:** Side by side, Shaw’s May 6 communication concerns lost presentation materials (**R2, p. 1, messages 1–2**); the buyer’s May 17 email concerns missing margin approval (**R3, p. 2, message 4**). They address different propositions and can both be true.
+- **CRM limits:** The May 18 entry identifies Shaw as owner (**R4**), but her interview says an ops analyst enters categories from sales wrap-up and the close date removes pitches from the pipeline (**R5**). Ownership alone does not establish authorship, buyer attribution, or decision timing. The interview is Shaw’s prior statement; the buyer email is another person’s statement.
+- **Amount:** R1’s arithmetic yields **$56,000 in forecast contribution**. The plan labels Harbor a pitch and attaches no purchase order. Neither an actual commitment nor the absence of any commitment elsewhere is established.
+
+**Single next proof:** Obtain the **Harbor buyer’s assortment decision sheet**, identified in R5. The retail buyer is the likely custodian. Seek the complete sheet with its decision date, reasons, and any recorded margin or sample conditions; it could resolve both causation and chronology.
+
+Repetition 1 | Outline B
+
+**Known:** Shaw owned the pitch and spoke with the buyer; Shaw is an individual fact witness. (R5, p. 12, lines 2–10.)
+
+**Unverified or disputed:** Whether sample timing caused the lost placement, whether it affected margin approval, and whether Harbor would have purchased the forecast quantity.
+
+**Missing:** The buyer’s assortment decision sheet, actual decision date, purchase commitment, and support for expected contribution.
+
+**Decision points:** Test causation first, then the CRM’s evidentiary value and claimed loss. Twelve minutes: eleven allocated below, one reserved for a consequential answer. Practice outline as of November 9, 2026; forum and governing orders are unspecified.
+
+| Time | Lead question and exhibit pinpoint | Short follow-ups that could change course; stopping point |
+|---|---|---|
+| **2 min** | **1. “What effect, if any, did the sleeve timing described in this exchange have on your Harbor pitch?”** **R2, p. 1, messages 1–2**; personal-knowledge foundation: **R5, p. 12, lines 2–10**. | Confirm Shaw sent the reply. “What presentation materials were actually unavailable?” “What did the buyer say or do in response?” If Shaw attributes the loss to samples: “What exact words did the buyer use, and when?” **Stop:** distinguish Shaw’s contemporaneous concern from an observed buyer reaction. |
+| **3 min** | **2. “What did the buyer tell you about why Harbor passed that cycle?”** **R3, p. 2, message 4, dated May 17**. | Confirm receipt, then: “What did the buyer tell you about the missing margin approval?” If Shaw links approval to sleeves: “What did you personally hear or see connecting the two?” If Shaw recalls an additional sample-related explanation: “When was that, and how does it fit with this email?” **Stop:** preserve both the stated margin obstacle and any firsthand evidence connecting samples to the decision. |
+| **2 min** | **3. “How did ‘Samples’ become the loss category for this pitch?”** **R4, p. 1, row 19**; **R5, p. 12, lines 2–10**. | “What did you personally contribute to the wrap-up?” “What information supported that category?” If Shaw did not supply it: “Who did?” If Shaw did: “Was that based on something the buyer said, or your assessment?” **Stop:** establish the entry’s source and basis; ownership of the CRM account does not establish authorship of the category. |
+| **2 min** | **4. “When did you first learn that Harbor had decided to pass?”** **R3, p. 2, message 4**; **R4, p. 1, row 19**; **R5, p. 12, lines 2–10**. | “What communication fixes that date?” “What event does the May 18 CRM close date record?” If Shaw claims an earlier decision: “How do you know?” “Have you seen Harbor’s assortment decision sheet since your interview?” **Stop:** separate the decision, communication, and pipeline-removal dates; record any remaining uncertainty. |
+| **2 min** | **5. “How was the 8,000-unit Harbor forecast developed?”** **R1, p. 3, line 6**. | “What, if anything, had Harbor committed to purchase?” If a commitment is claimed: “Who made it, when, and where is it recorded?” “What supports the expected $7 contribution per unit?” **Stop:** identify the basis for quantity, commitment, and contribution without treating an unattached purchase order as proof none existed. |
+
+**Best evidence for the vendor:** The buyer’s contemporaneous email expressly identifies missing margin approval and expresses approval of the carton direction. It supports an alternative cause, but does not establish that samples played no role. (R3, p. 2, message 4.)
+
+**Best evidence for the brand:** The vendor announced a delay, and Shaw immediately identified its effect on planned buyer-meeting mock-ups. The CRM later categorized the loss as “Samples,” although its source and basis need examination. (R2, p. 1, messages 1–2; R4, p. 1, row 19; R5, p. 12, lines 2–10.) The account plan supplies a **$56,000 forecast contribution**, not an established loss: 8,000 × $7, with status “pitch.” (R1, p. 3, line 6.)
+
+**Single next proof:** Pursue **Harbor’s contemporaneous assortment decision sheet**, identified by Shaw but unseen by Shaw at the interview. It may establish the actual decision date and recorded grounds, resolving whether samples, margin approval, or both drove the result. Its contents remain unknown. (R5, p. 12, lines 2–10.)
+
+Repetition 1 | Outline C
+
+**Neri Shaw — packaging vendor’s examination · 12 minutes**
+
+Objective: establish what Shaw personally knows about the lost placement, test the sample-delay and margin explanations, and distinguish a forecast from a committed sale.
+
+1. **Forecast and commitment — 2 minutes**  
+   **Exhibit:** R1, p. 3, line 6; R5, p. 12, lines 2–10.  
+   **Foundation:** “Did you prepare or use this account plan in handling the Harbor pitch?”  
+   **Lead:** “What commitment, if any, had Harbor made to buy the forecast 8,000 units?”  
+   **Follow-up:** If a commitment existed: “Who made it, when, and subject to what conditions?” If none: “What supported the unit forecast and the expected $7 contribution?”
+
+   *Counsel note:* The forecast implies $56,000 in expected contribution. R1 identifies a pitch and has no attached purchase order; that does not establish that no order existed elsewhere.
+
+2. **Practical effect of the delay — 3 minutes**  
+   **Exhibit:** R2, p. 1, messages 1–2.  
+   **Foundation:** “Did you exchange these May 6 messages with the vendor?”  
+   **Lead:** “Did the revised sleeve delivery timing prevent you from using the mock-ups at the buyer meeting?”  
+   **Follow-up:** Establish separately: “When was the meeting?” and “When did the sleeves actually arrive?” Then: “What did the buyer see, and what did the buyer say about the missing mock-ups?”
+
+   *Counsel note:* This is strong evidence for the brand: the vendor announced a delay, and Shaw contemporaneously identified an impact on meeting preparation. R2 establishes promised timing, not actual delivery, the meeting date, or the buyer’s reaction. The buyer was not copied.
+
+3. **The buyer’s stated explanation — 3 minutes**  
+   **Exhibit:** R3, p. 2, message 4.  
+   **Foundation:** “Did you receive this May 17 email from Harbor’s buyer?”  
+   **Lead:** “What did the buyer tell you about why Harbor was passing that cycle?”  
+   **Follow-up:** If Shaw identifies samples or another reason: “What exactly did the buyer say, and when?” For margin approval: “What did you personally know about the exception’s status when you received this email?”
+
+   *Counsel note:* The buyer’s email identifies the absence of an approved margin exception and expresses approval of the carton direction. It supports an alternative cause, without proving that samples played no role. May 17 dates the email; establish the decision date separately.
+
+4. **Basis of the CRM category — 2 minutes**  
+   **Exhibit:** R4, p. 1, row 19; R5, p. 12, lines 2–10.  
+   **Foundation:** “Did your team’s wrap-up supply information for this Harbor CRM entry?”  
+   **Lead:** “Do you know what information led to Harbor being assigned the Samples loss category?”  
+   **Follow-up:** If yes: “Who supplied that information, and was it based on something the buyer said?” If unknown: “Which analyst or salesperson would know?” Then: “What event does the May 18 close date record?”
+
+   *Counsel note:* The Samples category supports the brand. Shaw’s ownership of the pitch does not establish that Shaw selected the category. R5 describes analyst entry and administrative pipeline closure; May 18 is not established as the buyer’s decision date. These records are not necessarily inconsistent.
+
+5. **Direct support for the causal claim — 2 minutes**  
+   **Exhibit:** R2, p. 1, messages 1–2; R3, p. 2, message 4; R5, p. 12, lines 2–10.  
+   **Foundation:** “You personally spoke with Harbor’s buyer about this pitch?”  
+   **Lead:** “Did the buyer ever tell you that timely sleeve samples would have changed Harbor’s decision?”  
+   **Follow-up:** If yes: “What were the buyer’s words, when were they said, and what conditions remained?” If no or uncertain: “What other firsthand observation supports your view that the sleeve delay cost the placement?”
+
+   *Counsel note:* R3 contains the buyer’s statement; R5 contains Shaw’s own interview account. Keep those sources distinct from the analyst-entered CRM category.
+
+**Single next proof:** Obtain the **Harbor assortment decision sheet**, identified in R5, from the **retail buyer or the buyer’s assortment-records custodian**. Seek the contemporaneous sheet showing the decision date, reasons, and any conditions involving margin approval or samples. It could corroborate either causal explanation; Shaw’s interview establishes that Shaw had not seen it.
+
+Repetition 1 | Outline D
+
+1. **Buyer’s stated reason — 3 minutes**  
+   “The buyer’s May 17 email told you, ‘We never got an approved margin exception,’ correct?” **[R3, p. 2, msg. 4]**
+   
+   Follow-ups: “What did the buyer tell you about why approval was missing?” “Did the buyer ever connect that approval to the sleeve samples?”
+   - **If connected:** “What exactly did the buyer say, and when?”
+   - **If independent:** “Would that approval still have been required with timely samples?”
+
+2. **What the sample delay actually affected — 3 minutes**  
+   “On May 6, you told the vendor the delay took away the mock-ups you wanted for the buyer meeting, correct?” **[R2, p. 1, msgs. 1–2]**
+   
+   Follow-ups: “When did that meeting occur?” “When did the sleeves actually arrive?” “What did the buyer say about the missing mock-ups?”
+   - **If Shaw reports a buyer statement linking samples to rejection:** Obtain the exact words, date, and anyone present.
+   - **If Shaw draws the connection herself:** “What did you personally observe that supports that conclusion?”
+
+3. **Who supplied the CRM explanation — 2 minutes**  
+   “Your ops analyst enters CRM loss categories from the sales team’s wrap-up, correct?” **[R5, p. 12, lines 2–10]**
+   
+   Follow-ups: “Who selected ‘Samples’ for Harbor?” **[R4, p. 1, row 19]**
+   - **If Shaw:** “Was that based on something the buyer said? What exactly?”
+   - **If someone else or unknown:** “Who can identify the source?”
+   
+   “Does the May 18 close date identify the buyer’s decision date, or when the pitch left your active pipeline?” **[R4, p. 1, row 19; R5, p. 12, lines 2–10]**
+
+4. **Forecast versus secured business — 2 minutes**  
+   “The 8,000 units in the account plan were a forecast, correct?” **[R1, p. 3, line 6]**
+   
+   Follow-ups: “Had the buyer committed to any quantity?”
+   - **If yes:** “Where is that commitment recorded, and what conditions remained?”
+   - **If no:** “What supported the 8,000-unit estimate?”
+   
+   “What supported the expected $7 unit contribution, and which costs did it deduct?”
+
+5. **The missing decision record — 2 minutes**  
+   “You have not seen Harbor’s assortment decision sheet, correct?” **[R5, p. 12, lines 2–10]**
+   
+   Follow-ups: “Who maintains it?”
+   - **If Shaw now has seen it:** “When, and what does it record about Harbor’s rejection?”
+   - **If still unseen:** “Did the buyer describe its contents to you? What exactly?”
+
+**Best evidence for the vendor:** The buyer’s contemporaneous email identifies missing margin approval and expresses approval of the carton direction. The CRM’s source and administrative close date need foundation. The account plan supports a projected **$56,000 contribution**, with pitch status and no attached purchase order—not secured sales. **[R3, p. 2, msg. 4; R4, p. 1, row 19; R5, p. 12, lines 2–10; R1, p. 3, line 6]**
+
+**Best evidence for the brand:** The vendor announced a delay, Shaw contemporaneously identified its effect on planned buyer mock-ups, and the CRM categorizes the loss as samples. Those facts support a sample-related explanation, but do not yet establish that timely samples would have produced placement. Missing margin approval could also have been connected to samples; the packet does not resolve that relationship. **[R2, p. 1, msgs. 1–2; R4, p. 1, row 19; R3, p. 2, msg. 4]**
+
+**Single next proof:** Obtain the buyer’s Harbor assortment decision sheet. Test whether it records the decision date, the actual rejection reason, and any relationship between sample availability and margin approval. Shaw identifies that record but has not seen it. **[R5, p. 12, lines 2–10]**
+
+Repetition 2 | Outline A
+
+**Neri Shaw — twelve-minute examination**
+
+1. **“The buyer’s May 17 email says, ‘We never got an approved margin exception,’ correct?”**  
+   *R3, p. 2, message 4 — 3 minutes.*
+   - “Did the buyer also tell you the sleeve samples affected the decision?” If yes: “What words did the buyer use, and when?”
+   - “Was margin approval dependent on the samples?” If yes: “How do you know?”
+
+2. **“On May 6, you told the vendor the delay took away the mock-ups you wanted for the buyer meeting, correct?”**  
+   *R2, p. 1, messages 1–2 — 3 minutes.*
+   - “When was that meeting?” “When did the sleeves actually arrive?”
+   - “What did you show the buyer?” “What did the buyer say about the missing mock-ups?”
+   - If Shaw links their absence to rejection: “Did the buyer say that, or is that your conclusion?”
+
+3. **“You said your ops analyst enters CRM loss categories from the sales team’s wrap-up, correct?”**  
+   *R5, p. 12, lines 2–10; show R4, p. 1, row 19 — 2 minutes.*
+   - “Who supplied ‘Samples’ for Harbor?” “What information supported that entry?”
+   - If attributed to the buyer: “What exactly did the buyer say, and to whom?”
+   - “Does May 18 identify the buyer’s decision date or when the pitch left the active pipeline?”  
+   *Keep the category’s source separate from the administrative close date.*
+
+4. **“The 8,000 units in the account plan were a pitch-stage forecast, correct?”**  
+   *R1, p. 3, line 6 and stated pitch status — 2 minutes.*
+   - “Did Harbor ever issue a purchase order or another commitment?” If yes: “Identify it and its conditions.”
+   - “What supported the 8,000-unit estimate?” “What supported the $7 expected unit contribution?”  
+   *No purchase order is attached; that does not establish none existed.*
+
+5. **“At your interview, you had not seen Harbor’s assortment decision sheet, correct?”**  
+   *R5, p. 12, lines 2–10 — 2 minutes.*
+   - “Have you seen it since?” If yes: “When, and what reasons did it record?”
+   - If no: “Who maintains it?” “Apart from the May 17 email, what did the buyer personally tell you about the decision?”
+
+**Best evidence for the vendor:** R3 records the missing margin exception as the buyer’s stated obstacle. R1 supports a projected $56,000 contribution, subject to forecast assumptions and proof of a placement. R4’s category requires a source foundation; its close date does not establish when the buyer decided.
+
+**Best evidence for the brand:** R2 contemporaneously documents the vendor’s changed delivery promise and Shaw’s lost opportunity to use mock-ups. R4 records “Samples” as the loss category. Neither alone establishes the buyer’s reason, but testimony connecting samples to margin approval could materially strengthen causation.
+
+**Single next proof:** Obtain Harbor’s assortment decision sheet identified in R5. Seek its recorded decision reasons and timing, particularly whether the missing margin exception was independent of, or resulted from, the sample problem.
+
+Repetition 2 | Outline B
+
+**Neri Shaw — packaging vendor examination — 12 minutes**
+
+Objective: establish what Shaw personally knows about the lost placement, test the competing explanations, and distinguish projected contribution from a committed sale.
+
+1. **Sample delay and its practical effect — 2 minutes**  
+   **Foundation:** “Did you send the May 6 reply to the vendor?”  
+   **Lead:** “What effect did the delayed sleeves actually have on your presentation to the buyer?”  
+   **Pinpoint:** R2, p. 1, messages 1–2.  
+   **Follow-up:** If mock-ups were unavailable: “When was the meeting, and what did you present?” If Shaw links the delay to rejection: “What exactly did the buyer say about the missing mock-ups, and when?”  
+   *Counsel’s note:* This is the strongest evidence for the brand: the vendor acknowledged delayed delivery, and Shaw contemporaneously identified a presentation consequence. It does not establish the buyer’s reason for declining.
+
+2. **Buyer’s stated reason and any competing explanation — 3 minutes**  
+   **Foundation:** “Did you receive the buyer’s May 17 email?”  
+   **Lead:** “What did you understand the buyer to mean by saying there was never an approved margin exception?”  
+   **Pinpoint:** R3, p. 2, message 4.  
+   **Follow-up:** If Shaw says samples also mattered: “What buyer statement supports that?” Then: “Did the buyer say timely samples would have changed the outcome despite the margin issue?” If Shaw does not know the approval history: “Who handled the exception request?”  
+   *Counsel’s note:* This is the strongest vendor document. The buyer identifies the margin problem and likes the carton direction. It is the buyer’s statement, not Shaw’s prior testimony; it does not expressly exclude an additional sample-related reason.
+
+3. **Source and meaning of the CRM entry — 3 minutes**  
+   **Foundation:** “Did you participate in the sales-team wrap-up for Harbor?”  
+   **Lead:** “What personal knowledge do you have of how ‘Samples’ became the loss category for this pitch?”  
+   **Pinpoints:** R4, p. 1, row 19; R5, p. 12, lines 2–10.  
+   **Follow-up:** If Shaw supplied it: “What facts supported that category?” If someone else supplied it: “Who, and how do you know?” If May 18 is offered as the buyer’s decision date: “What establishes that date apart from the CRM close date?”  
+   *Counsel’s note:* Compare the buyer’s May 17 margin explanation in R3 with the internal “Samples” classification and May 18 close date in R4. R5 is Shaw’s own account of general CRM practices, not confirmation of who entered this particular category. The differing records do not yet establish an inconsistency by Shaw.
+
+4. **Forecast versus commitment — 2 minutes**  
+   **Foundation:** “Did you use this account plan in managing the Harbor pitch?”  
+   **Lead:** “Had Harbor committed to the forecast quantity of 8,000 units?”  
+   **Pinpoint:** R1, p. 3, line 6; status: pitch; no purchase order attached.  
+   **Follow-up:** If yes: “Who committed, when, and where is that commitment recorded?” If no: “What supported the forecast and the expected $7 unit contribution?”  
+   *Counsel’s note:* The arithmetic yields $56,000 in expected contribution. The packet establishes a forecast, not a purchase commitment; an unattached purchase order is not proof that none existed.
+
+5. **Limits of Shaw’s knowledge — 2 minutes**  
+   **Foundation:** “You spoke with the buyer about this pitch?”  
+   **Lead:** “Have you seen Harbor’s assortment decision sheet since your interview?”  
+   **Pinpoint:** R5, p. 12, lines 2–10.  
+   **Follow-up:** If yes: “When, and what did it record about this decision?” If no: “Who maintains it, and who made the assortment decision?”
+
+**Single next proof:** Obtain Harbor’s contemporaneous assortment decision sheet from the retail buyer or retailer’s assortment-record custodian. It may identify the decision’s timing, recorded reasons, and whether samples and margin approval were separate obstacles. Shaw identifies its existence but had not seen it; its contents remain unknown.
+
+Repetition 2 | Outline C
+
+**Known:** The packet records a changed sample-delivery promise, Shaw’s concern about missing mock-ups, a buyer email citing an unapproved margin exception, a CRM “Samples” category, and a pitch forecast. Shaw owned the pitch and spoke with the buyer. [R1, p. 3, l. 6; R2, p. 1, msgs. 1–2; R3, p. 2, msg. 4; R4, p. 1, row 19; R5, p. 12, ll. 2–10.]
+
+**Unverified or disputed:** Actual delivery and meeting dates; whether the delay affected the margin exception or placement; the source of “Samples”; any purchase commitment; and recoverable loss. The May 17 email communicates a rejection; the May 18 CRM date does not itself establish when the buyer decided.
+
+**Missing:** The buyer’s Harbor assortment decision sheet, which Shaw had not seen when interviewed. [R5, p. 12, ll. 2–10.]
+
+**Decision points:** Test the causal chain, the CRM’s independent value, and the forecast’s support. Individual fact-witness outline; as of November 9, 2026. Forum and governing orders are unspecified; no procedural or admissibility conclusion is assumed.
+
+1. **Actual effect of the delay — 2 minutes**
+
+   **“What, if anything, did the delivery change described in these messages prevent you from showing Harbor’s buyer?”**  
+   *Pinpoint: R2, p. 1, msgs. 1–2.*
+
+   Follow-ups: “When was the meeting?” “When did the sleeves actually arrive?” If something was missing: “What did the buyer say about its absence?”  
+   **Stop:** Separate Shaw’s intended presentation from any reaction Shaw personally heard from the buyer.
+
+2. **Margin exception and competing causal explanations — 3 minutes**
+
+   **“What do you know firsthand about why the margin exception mentioned in the buyer’s May 17 email had not been approved?”**  
+   *Pinpoint: R3, p. 2, msg. 4; knowledge foundation: R5, p. 12, ll. 2–10.*
+
+   If Shaw connects approval to samples: “Who told you that?” “What exactly did they say, and when?” If Shaw identifies an independent margin obstacle: “Did the buyer say whether timely sleeves would have changed that outcome?” If unknown, establish that limit and move on.  
+   **Stop:** Preserve both the buyer’s stated reason and any supported connection between that reason and the delay.
+
+3. **CRM provenance and date — 2 minutes**
+
+   **“What information supplied the basis for ‘Samples’ in this CRM entry?”**  
+   *Pinpoint: R4, p. 1, row 19; R5, p. 12, ll. 2–10.*
+
+   If buyer-sourced: “Who heard the buyer say that?” If sales-team-sourced: “What information did you contribute to the wrap-up?” Then: “What event does the May 18 close date record?”  
+   **Stop:** Identify the underlying source; do not treat Shaw’s ownership as proof that Shaw entered the category, or the close date as the buyer’s decision date.
+
+4. **Commitment and damages — 2 minutes**
+
+   **“What, if anything, had Harbor committed to purchase when this forecast was prepared?”**  
+   *Pinpoint: R1, p. 3, l. 6.*
+
+   If a commitment is claimed: “Who made it?” “What quantities and conditions did they specify?” “Where is it recorded?” If only a forecast: “What supported 8,000 units?” “What supported the $7 expected unit contribution?”  
+   **Stop:** Distinguish any supported commitment from the **$56,000 forecast contribution**; absence of an attached purchase order alone does not exclude an oral commitment.
+
+5. **Buyer evidence beyond the existing documents — 2 minutes**
+
+   **“What other communication from the buyer, if any, connects the sleeve timing to Harbor’s decision to pass?”**  
+   *Pinpoint: R2, p. 1, msgs. 1–2; R3, p. 2, msg. 4; R5, p. 12, ll. 2–10.*
+
+   If identified: “What were the buyer’s words?” “When and how were they communicated?” If none: “Who can identify the Harbor assortment decision sheet you mentioned?” If Shaw has since seen it, establish when and what it says.  
+   **Stop:** Capture the strongest buyer-sourced evidence and its location.
+
+Reserve the final **one minute** to clarify the most consequential qualified answer.
+
+**Best evidence for the vendor:** The buyer expressly cited an unapproved margin exception. The CRM’s category requires tracing to its source, and the forecast remains a pitch. The favorable carton comment does not establish that sleeve timing was immaterial.
+
+**Best evidence for the brand:** The vendor acknowledged changing promised delivery timing, and Shaw contemporaneously identified the resulting loss of intended mock-ups. The “Samples” category could gain weight if traced to a specific buyer statement. Neither presently establishes that timely sleeves would have secured placement.
+
+**Single next proof:** Obtain the buyer’s **Harbor assortment decision sheet** from its custodian, with its author and decision date identified. It may independently resolve whether samples, margin approval, or both drove the rejection. Its contents remain unknown.
+
+Repetition 2 | Outline D
+
+**Neri Shaw — individual fact witness; 12 minutes**  
+**Examining party:** packaging vendor. **Objective:** establish Shaw’s firsthand account of the delay, test the buyer’s stated reason against the CRM entry, and distinguish a forecast from a committed sale.
+
+1. **Purchase commitment — 2 minutes**  
+   **Lead / personal-knowledge foundation:** “What purchase commitment, if any, had you obtained from Harbor for the forecast 8,000 units?”  
+   **Pinpoints:** R1, p. 3, line 6; R5, p. 12, lines 2–10.  
+   **Follow-up:** If a commitment: “Who made it, when, and where was it recorded?” If still a pitch: “What was your basis for the expected $7 unit contribution?”  
+   **Counsel note:** R1 supports a $56,000 forecast of contribution. It does not establish a completed sale or realized loss. No attached purchase order does not establish that none exists.
+
+2. **Actual effect of the delay — 3 minutes**  
+   **Lead / personal-knowledge foundation:** “What, if anything, did the sleeve delay prevent you personally from showing the Harbor buyer?”  
+   **Pinpoint:** R2, p. 1, messages 1–2.  
+   **Follow-up:** If a presentation occurred: “When was it?” Separately: “When did the sleeves actually arrive?” If Shaw attributes the lost placement to missing samples: “What did the buyer say that connects the missing samples to the decision?”  
+   **Counsel note:** This is the strongest direct evidence for the brand: the vendor acknowledged a changed delivery date, and Shaw contemporaneously identified lost use of desired mock-ups. Thursday was the promised revised arrival, not proven actual receipt. The buyer was not copied.
+
+3. **Buyer’s stated reason — 3 minutes**  
+   **Lead / personal-knowledge foundation:** “What did the buyer tell you about the margin exception mentioned in the May 17 email to you?”  
+   **Pinpoints:** R3, p. 2, message 4; R5, p. 12, lines 2–10.  
+   **Follow-up:** If samples also mattered: “What exactly did the buyer say about samples, and when?” If Shaw says timely samples would have secured the exception: “What communication or event supports that connection?”  
+   **Counsel note:** R3 is the vendor’s strongest document: the buyer identifies the missing margin approval while expressing approval of the carton direction. It is the buyer’s statement, not Shaw’s prior testimony. It does not establish that samples played no role or that approval was impossible.
+
+4. **Source of the CRM explanation — 2 minutes**  
+   **Lead / personal-knowledge foundation:** “What part did you personally play in supplying the information used for Harbor’s Samples loss category?”  
+   **Pinpoints:** R4, p. 1, row 19; R5, p. 12, lines 2–10.  
+   **Follow-up:** If Shaw supplied it: “What facts supported that category?” If someone else supplied it: “Who, and what do you personally know about their source?” If relying on the buyer: “Which buyer communication?”  
+   **Counsel note:** Put R4’s Samples entry beside Shaw’s R5 explanation that an ops analyst enters categories from sales wrap-ups. The entry may preserve a contemporaneous sales account, but ownership of the pitch does not establish authorship of the entry or buyer confirmation. No direct contradiction is yet established.
+
+5. **Decision timing — 2 minutes**  
+   **Lead / personal-knowledge foundation:** “What do you personally know about when Harbor made its decision to pass?”  
+   **Pinpoints:** R3, p. 2, message 4; R4, p. 1, row 19; R5, p. 12, lines 2–10.  
+   **Follow-up:** If Shaw gives a date: “How do you know that was the decision date?” If relying on May 18: “What event did that CRM close date record?” If unknown: “When did you first learn of the decision?”  
+   **Counsel note:** May 17 dates the buyer’s email; May 18 is the CRM close date. Neither necessarily dates the underlying assortment decision. Shaw’s account of pipeline administration limits what May 18 proves.
+
+**Single next proof:** Obtain Harbor’s assortment decision sheet from the retail buyer, the likely custodian identified by Shaw in R5. It is the best identified lead for the actual decision timing and recorded reasons, including whether margin approval, samples, or both affected the outcome. Shaw has not seen it; its contents remain unknown.

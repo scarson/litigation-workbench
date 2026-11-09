@@ -1,0 +1,381 @@
+Fictional Finishing trial | eight anonymous outlines
+
+Compare A–D within the same repetition. Letters are reassigned in the second repetition.
+
+Repetition 1 | Outline A
+
+**Sol Ren — individual fact witness; 12 minutes.** Use open questions grounded in Ren’s personal recollection. The central issue is what settings were actually communicated at the trial.
+
+1. **Who heard the presentation — 1 minute**
+
+   **Ask:** “Whom do you personally remember seeing during your March 11 presentation?”  
+   **Pinpoint:** T5, p. 6, lines 4–10.
+
+   **If Ren qualifies presence:** “What do you remember about whether the production engineer stayed for the presentation after you greeted them?”  
+   Do not equate a greeting or T1’s visitor list with hearing settings.
+
+2. **Address the contemporaneous email — 3 minutes**
+
+   **Ask:** “In your March 11 email, what did you mean by ‘We left the rest for the lab follow-up’?”  
+   **Pinpoint:** T3, p. 2, message 1.
+
+   **If Ren says only some material was deferred:** “Which material did you leave for follow-up?” Then: “What settings, if any, had you already communicated?”  
+   Obtain the distinction in Ren’s own words; do not supply an explanation for the email.
+
+3. **Establish what actually appeared on screen — 3 minutes**
+
+   **Ask:** “What do you independently remember displaying from the conference-room laptop on March 11?”  
+   **Pinpoint:** T5, p. 6, lines 4–10.
+
+   **If Ren relies on slide 5 of the produced deck:** “What connects this saved version to the file you actually displayed that day?”  
+   **Branch pinpoints:** T2, slide 5 and file properties, p. 1; T5, p. 6, lines 4–10. The March 14 save date and deck reuse require a foundation before treating slide 5 as trial content.
+
+4. **Test oral disclosure separately — 3 minutes**
+
+   **Ask:** “Apart from what appeared on screen, what process settings, if any, do you independently remember saying aloud at the trial?”  
+   **Pinpoints:** T3, p. 2, message 1; T5, p. 6, lines 4–10.
+
+   **If Ren recalls a setting:** “What value do you remember stating?” Then: “Whom do you personally remember being present when you said it?”  
+   **If the recollection is qualified:** “What part do you remember yourself, and what part are you inferring from documents?”
+
+5. **Test the notebook’s connection to Ren — 2 minutes**
+
+   **Ask:** “What, if anything, do you know firsthand about the source of the notebook entry ‘12:1? confirm with lab.’?”  
+   **Pinpoint:** T4, p. 9, heading “trial.”
+
+   **If Ren says it probably came from the presentation:** “What do you personally remember that connects that entry to something you said or displayed?”  
+   If Ren cannot supply that connection, leave the source unresolved. The entry contains uncertainty and no speaker attribution.
+
+**Best evidence against our position:** Ren’s same-day email says the supplier wanted settings, Ren showed the yield chart, and the rest was left for lab follow-up. That directly challenges disclosure, although “the rest” needs explanation. **T3, p. 2, message 1.** The produced settings slide does not resolve this: the file was last saved March 14, and Ren says the deck was reused. **T2, file properties, p. 1 and slide 5; T5, p. 6, lines 4–10.**
+
+**Single next source:** The AV recording saved under booking **M-18**. **T5, p. 6, lines 4–10.** If it captures the screen and speech, it could establish whether settings were displayed or spoken during the trial.
+
+Repetition 1 | Outline B
+
+**Sol Ren — five lead questions for a twelve-minute examination**
+
+Objective: establish what Ren personally disclosed, to whom, and through what means. Treat disclosure of the process settings as an unresolved fact.
+
+**1. Establish the recipient’s presence.**  
+*Pinpoint: T1, p. 1, item 3; T5, p. 6, lines 4–10.*
+
+- **Foundation:** “You personally greeted the supplier’s production engineer at the March 11 trial?”
+- **Lead:** “Was that engineer present when you gave your technical presentation?”
+- **If qualified:** “Which part of the presentation did you personally see the engineer attend?” If Ren cannot place the engineer during a particular disclosure, preserve that limit.
+
+**2. Identify the presentation actually used.**  
+*Pinpoint: T2, file properties, p. 1, and slides 4–5; T5, p. 6, lines 4–10.*
+
+- **Foundation:** “You used the conference-room laptop for the March 11 presentation?”
+- **Lead:** “Can you identify T2 as the version you actually opened on that laptop?”
+- **If qualified:** “What do you personally remember that identifies the version you used?” If Ren identifies T2 positively: “Its last-save date is March 14; do you know whether slide 5 was in the file on March 11?”
+
+**3. Obtain the disclosure admission—or its precise limit.**  
+*Pinpoint: T2, slide 5; T5, p. 6, lines 4–10.*
+
+- **Foundation:** “What do you independently remember displaying after the photograph and yield chart?”
+- **Lead:** “Did you display a bath-ratio and setting table to supplier personnel during the March 11 trial?”
+- **If qualified or denied:** “Did you communicate any process setting orally or by another means?” For any affirmative answer: “What exact setting, by what means, and whom did you personally observe receiving it?” Separate actual recollection from an inference based on the saved deck.
+
+**4. Address Ren’s contemporaneous account directly.**  
+*Pinpoint: T3, p. 2, message 1.*
+
+- **Foundation:** “Did you write this March 11 email to engineering?”
+- **Lead:** “When you wrote, ‘We left the rest for the lab follow-up,’ did ‘the rest’ include the bath ratio and process settings?”
+- **If qualified:** “Which settings had already been communicated, and which remained for the lab follow-up?” Then: “What did ‘They wanted the settings’ refer to?” Require specifics before accepting a distinction between requested settings and disclosed settings.
+
+**5. Test whether the notebook connects a setting to Ren.**  
+*Pinpoint: T4, p. 9, heading “trial,” entry “12:1? confirm with lab.”*
+
+- **Foundation:** “Did you personally see the supplier’s engineer make this entry?”
+- **Lead:** “Did you say ‘12:1’ to that engineer during the March 11 trial?”
+- **If qualified:** “What exactly did you say, and was the value confirmed or awaiting lab confirmation?” If Ren cannot remember: “Do you have personal knowledge of where the engineer obtained that number?”
+
+**Counsel’s notes**
+
+The strongest adverse evidence is **Ren’s own contemporaneous email, T3**: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.” Its strongest reading is that the settings were requested but deferred.
+
+| Ren’s March 11 statement | Ren’s examination statement—date unspecified |
+|---|---|
+| T3, p. 2, message 1: the full passage quoted above. | T5, p. 6, lines 4–10: Ren remembers showing the photograph and yield chart, identifies the conference-room laptop, and says the deck gets reused for lab visits. |
+
+These passages do not establish an inconsistency. T2’s March 14 save date leaves the March 11 version unresolved. T4’s question mark, lab-confirmation notation, and absent speaker attribution limit its value as proof of disclosure by Ren. T1 establishes listed visitors, not actual attendance. T5 omits the examining question; obtain the complete question and answer before using it for impeachment.
+
+**Single next source:** the **AV recording for booking M-18**, from the supplier’s AV or conference-room recording custodian. Seek the complete recording, including any captured presentation screen and audio. It could establish what was actually displayed or spoken during the trial and resolve the central uncertainty more directly than the later-saved deck.
+
+Repetition 1 | Outline C
+
+**Known:** Ren is an individual fact witness who recalls showing the photograph and yield chart using the conference-room laptop. (T5, p. 6, lines 4–10.)
+
+**Unverified or disputed:** Whether settings were communicated; whether the produced deck matches what was displayed; who actually received any disclosure. (T2, slides 4–5 and file properties p. 1; T3, p. 2, message 1; T5, p. 6, lines 4–10.)
+
+**Missing:** The contemporaneous presentation record. Forum and local protocol are unspecified; this is a practice outline as of November 9, 2026.
+
+**Decision points:** Establish actual communication from personal knowledge, test it against the contemporaneous email, and distinguish displayed content from later file contents.
+
+1. **Actual disclosure — 2 minutes**  
+   “What, if anything, do you personally recall communicating about process settings during the March 11 trial?”  
+   **Pinpoint:** T3, p. 2, message 1; T5, p. 6, lines 4–10.  
+   **If qualified:** “Which particular setting do you remember communicating?” Then: “Was that spoken or displayed?” “Who do you personally recall being present for that communication?” If Ren relies on the visitor list, distinguish scheduled visitors from observed attendees. **Stop** at the limits of recollection. (T1, p. 1, item 3; T5, p. 6, lines 4–10.)
+
+2. **Deck identity — 2 minutes**  
+   “What basis, if any, do you have to identify slide 5 of the produced file as something displayed at the trial?”  
+   **Pinpoint:** T2, slide 5 and file properties, p. 1; T5, p. 6, lines 4–10.  
+   **If qualified:** “Does that come from your memory of the presentation or from reviewing this file afterward?” Then: “What do you know about changes between March 11 and the March 14 save?” **Stop** if Ren cannot connect the produced version to the laptop presentation; slide inclusion alone does not establish display.
+
+3. **Contemporaneous limitation — 3 minutes**  
+   “What did you mean by ‘We left the rest for the lab follow-up’ in your March 11 email?”  
+   **Pinpoint:** T3, p. 2, message 1.  
+   **If qualified:** “Did ‘the rest’ include the bath ratio?” Then separately: “Did it include the other process settings?” If Ren now recalls disclosure, ask: “How does that recollection fit with this email?” **Stop** after preserving the explanation and its factual basis; the email is not yet a contradiction unless the testimony conflicts.
+
+4. **Notebook attribution — 2 minutes**  
+   “What personal knowledge, if any, do you have of how the supplier engineer obtained the information recorded as ‘12:1? confirm with lab’?”  
+   **Pinpoint:** T4, p. 9.  
+   **If qualified:** “What did you personally hear or see that supports that connection?” Establish speaker and timing separately. **Stop** if Ren is inferring from the entry. Its question mark, lab reference, and lack of attribution remain unresolved.
+
+5. **Contemporaneous recording — 2 minutes**  
+   “What do you personally know about whether AV recorded the trial under booking M-18?”  
+   **Pinpoint:** T5, p. 6, lines 4–10.  
+   **If qualified:** “Who can locate that booking’s recording?” If Ren confirms a recording, ask what it captured and where it is maintained. **Stop** once the retrieval path and knowledge limits are clear.
+
+Reserve **one minute** to clarify the most consequential qualification.
+
+**Best evidence against disclosure:** T3 is Ren’s same-day account: the supplier wanted settings, Ren showed the yield chart, and the rest awaited lab follow-up. Its natural reading cuts against disclosure of settings, although “the rest” needs clarification. T5 reinforces the limited recollection. The later-saved deck and unattributed notebook entry do not resolve that problem.
+
+**Single next source:** The complete AV recording for **booking M-18**, if it exists. It could establish what was actually said and displayed, subject to its coverage and completeness, and resolve the central conflict more directly than the March 14 saved deck. (T5, p. 6, lines 4–10.)
+
+Repetition 1 | Outline D
+
+**Objective:** Establish what Ren personally communicated, to whom, and whether any process setting was disclosed during the March 11 trial. Ren is an individual witness; distinguish personal recollection from assumptions about the manufacturer’s usual deck.
+
+**1. Audience — 1 minute**
+
+**Lead:** “Do you personally remember the supplier’s production engineer being present while you presented?”
+
+**Pinpoint / foundation:** T5, p. 6, lines 4–10: Ren remembers greeting the engineer but did not take attendance. T1, p. 1, item 3 lists visitors; it does not establish actual attendance.
+
+**If qualified:** “Apart from greeting the engineer, what do you remember that places that person in the room during your presentation?”
+
+**Counsel note:** Establish attendance during any disclosure separately from attendance at the trial generally.
+
+**2. Identify the actual presentation — 2 minutes**
+
+**Lead:** “Can you identify T2 as the version you actually presented from the conference-room laptop on March 11?”
+
+**Pinpoint / foundation:** T2, file properties, p. 1, and slides 4–5; T5, p. 6, lines 4–10. Have Ren examine the file before answering.
+
+**If qualified:** “What lets you connect this saved version to the version on that laptop?” If Ren cannot connect them: “Which slides do you independently remember displaying?”
+
+**Counsel note:** March 14 dates the last save of the produced file. It does not establish when slide 5 was added or whether it was displayed on March 11. The trial title and six-slide count do not resolve that gap.
+
+**3. Actual disclosure — 3 minutes**
+
+**Lead:** “Which process settings, if any, do you personally remember showing or stating to supplier personnel during the March 11 trial?”
+
+**Pinpoint / foundation:** T2, slide 5 contains the bath ratio and setting table. T5, p. 6, lines 4–10 establishes Ren’s participation and recollection of showing the photo and yield chart.
+
+**If qualified:** “Is that a memory of this trial, or an inference from what the reused deck contains?” For each setting actually recalled: “What was the setting?” Then: “Who do you remember receiving that information?”
+
+**Counsel note:** Separate displaying a setting, stating it orally, and merely possessing a deck containing it. Do not supply slide 5 as a remembered event.
+
+**4. Address Ren’s contemporaneous account — 4 minutes**
+
+**Foundation:** “Do you recognize T3 as your March 11 email to engineering?”
+
+**Lead:** “What did you mean by ‘We left the rest for the lab follow-up’?”
+
+**Pinpoint:** T3, p. 2, message 1. The complete supplied passage reads: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.”
+
+**If qualified:** “Did ‘the rest’ include the bath ratio?” Then address any other claimed setting individually. If Ren says settings were nevertheless disclosed: “Which settings had you already communicated, and which remained for the lab follow-up?”
+
+**Counsel note:** This is Ren’s own prior statement. T5’s recollection of the photo and chart does not contradict it. Neither passage expressly confirms disclosure of settings.
+
+**5. Test the notebook’s source — 2 minutes**
+
+**Lead:** “Do you personally know where the supplier engineer’s notation ‘12:1? confirm with lab’ came from?”
+
+**Pinpoint / foundation:** T4, p. 9, heading “trial.” Show Ren the entry and establish whether Ren recognizes it.
+
+**If qualified:** “What did you personally say, hear, or see that connects that notation to your presentation?” If Ren relies on inference: “Do you independently remember stating 12:1 during the trial?”
+
+**Counsel note:** This is another person’s notation, without speaker attribution. Its question mark and request for lab confirmation support an alternative reading: an uncertain value awaiting confirmation. It does not itself identify Ren as the source.
+
+**Best evidence against our position:** T3. Ren’s same-day account distinguishes the requested settings from the yield chart actually shown and places “the rest” at a lab follow-up. T2’s later-saved settings slide does not overcome that account without evidence connecting it to the actual presentation.
+
+**Single next source:** The supplier’s AV recording for booking **M-18**, identified in T5, p. 6, lines 4–10. Likely custodian: the supplier’s AV or conference-room recording administrator. Its audio and any captured presentation images could establish what Ren actually disclosed; any visible audience could also help establish recipients.
+
+Repetition 2 | Outline A
+
+**Sol Ren — individual fact witness; twelve-minute outline**
+
+Objective: establish what Ren actually communicated at the March 11 trial, through what medium, and to whom. Allow roughly two minutes per group, leaving two minutes for clarification.
+
+**1. Identify the disclosure from personal recollection**
+
+- **Foundation:** “You used the conference-room laptop for your March 11 presentation?”
+- **Lead:** “What bath ratio or other process settings, if any, did you personally communicate during that trial?”
+- **If qualified:** “What do you specifically remember saying or displaying that day?” If Ren cannot identify settings: “Do you remember that no settings were communicated, or do you lack a recollection either way?”
+- **Pinpoint:** T5, p. 6, lines 4–10; T1, p. 1, item 3.
+
+**2. Establish whether slide 5 was actually displayed**
+
+- **Foundation:** “Do you recognize this six-slide presentation file?”
+- **Lead:** “Was the bath-ratio and setting table now appearing on slide 5 displayed during the March 11 trial?”
+- **If qualified:** “What connects this saved file to the version displayed on the conference-room laptop that day?” If the answer rests on customary practice: “Do you independently remember displaying that table on March 11?”
+- **Pinpoint:** T2, slide 5 and file properties, p. 1; T5, p. 6, lines 4–10.
+
+**3. Address Ren’s contemporaneous account directly**
+
+- **Foundation:** “Did you send this March 11 email to engineering?”
+- **Lead:** “When you wrote, ‘We left the rest for the lab follow-up,’ did ‘the rest’ include the bath ratio and process settings?”
+- **If qualified:** “Which settings, if any, had you already communicated at the trial, and which were left for the lab follow-up?” If Ren distinguishes spoken disclosure from displayed material: “What exactly did you communicate orally?”
+- **Pinpoint:** T3, p. 2, message 1.
+
+**4. Test the notebook’s numerical entry**
+
+- **Foundation:** “Did you personally hear or participate in a discussion of a bath ratio during the trial?”
+- **Lead:** “Did you personally state a 12:1 ratio during that trial?”
+- **If qualified:** “What exactly did you say, and did you describe the ratio as established or requiring confirmation?” If Ren denies saying it: “Do you know from personal knowledge who supplied that number?” If recollection fails: “Does this entry refresh your own recollection, or are you only reading the entry?”
+- **Pinpoint:** T4, p. 9, heading “trial,” entry “12:1? confirm with lab.”
+
+**5. Establish the audience for any identified disclosure**
+
+- **Foundation:** “You recall greeting the supplier’s production engineer in the room?”
+- **Lead:** “Who do you personally remember being present when you communicated each setting you have identified?”
+- **If qualified:** “What do you remember observing that places that person in the room at the time of the disclosure?” If Ren relies on the visitor list: “Apart from the agenda, what do you personally remember?”
+- **Pinpoint:** T5, p. 6, lines 4–10; T1, p. 1, item 3. If Ren identifies no settings, ask who was present for the photograph and yield-chart presentation.
+
+**Counsel’s notes — evidence and limits**
+
+The strongest adverse evidence is **Ren’s own March 11 email**, T3, p. 2, message 1: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.” Its strongest adverse reading is that the requested settings were deferred. Establish what “the rest” meant before advancing a narrower interpretation.
+
+That email is consistent with Ren’s supplied examination excerpt recalling the photograph and yield chart, T5, p. 6, lines 4–10. No contradiction is yet established. The packet supplies no examination date or underlying question text; obtain those before using the excerpt as a formal impeachment passage.
+
+T2 establishes what the produced file contains and that it was last saved March 14. It does not establish what was displayed March 11 or when slide 5 entered the deck. Ren’s statement that the deck gets reused reinforces that gap. T4 is the supplier engineer’s entry, not Ren’s prior statement; it identifies neither the speaker nor a confirmed ratio. T1 lists visitors but does not establish attendance during a particular disclosure.
+
+**Single next source**
+
+Obtain the **AV recording for trial booking M-18**, identified by Ren in T5, p. 6, lines 4–10. Likely custodian: the trial venue’s AV or room-booking administrator. Depending on what it captured, this could directly establish the displayed slides, spoken settings, qualifications, and audience—the central gaps in the present record.
+
+Repetition 2 | Outline B
+
+**Known:** Ren recalls showing the photograph and yield chart and greeting the supplier’s production engineer. Ren used the conference-room laptop. (T5, p. 6, lines 4–10.)
+
+**Unverified or disputed:** Whether Ren disclosed settings; whether T2 matches the file actually presented; and the source of the notebook’s tentative ratio entry. Listed visitors are not proof of attendance. (T1, p. 1, item 3; T2, file properties p. 1; T4, p. 9.)
+
+**Missing:** The M-18 recording and the presentation version used that day. Forum and governing orders are unspecified. Individual fact-witness outline; as of November 9, 2026.
+
+**Decision points:** Establish the exact information communicated and its recipient, distinguish recollection from reconstruction, and secure the best verification source.
+
+1. **Actual disclosure — 3 minutes**  
+   **Ask:** “What bath ratio or other process settings, if any, did you personally display or state to anyone from the supplier during the March 11 trial?”  
+   **Pinpoint:** T2, slide 5; T3, p. 2, message 1; T5, p. 6, lines 4–10.  
+   **If qualified:** “Which specific setting do you independently remember communicating?” Then establish how it was communicated and who Ren personally observed receiving it. If Ren recalls only the photograph and chart: “Are you saying no settings were communicated, or that you do not remember whether they were?” Preserve that distinction.
+
+2. **Presentation identity — 2 minutes**  
+   **Ask:** “What, if anything, lets you identify T2 as the version you actually used on the conference-room laptop on March 11?”  
+   **Pinpoint:** T2, file properties p. 1, slides 4–5; T5, p. 6, lines 4–10.  
+   **If qualified:** If “the same deck,” ask: “Do you remember displaying slide 5 that day, or are you relying on its presence in this saved file?” Ask what Ren knows about the March 14 save and reuse for lab visits. If Ren cannot identify the presented version, stop treating T2’s contents as proof of what was shown.
+
+3. **Contemporaneous contrary account — 2 minutes**  
+   **Ask, after Ren identifies the email:** “In your March 11 email, what did you mean by ‘We left the rest for the lab follow-up’?”  
+   **Pinpoint:** T3, p. 2, message 1: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.”  
+   **If qualified:** If Ren says some settings were nevertheless disclosed: “Which settings were disclosed, and which were left for follow-up?” Then ask what supports that distinction and how it fits the email. Do not characterize a qualification as a contradiction until the scope is clear.
+
+4. **Notebook attribution — 1½ minutes**  
+   **Ask:** “What personal knowledge, if any, do you have of how ‘12:1? confirm with lab’ came to be written in the supplier engineer’s notebook?”  
+   **Pinpoint:** T4, p. 9, heading “trial,” ratio entry.  
+   **If qualified:** If Ren says it “must have” come from the presentation: “What did you personally see or hear that supports that?” If Ren recalls supplying the ratio, establish the exact words, recipient, and occasion. If Ren cannot attribute it, stop; the entry alone does not identify a speaker or establish a confirmed setting.
+
+5. **Verification source — 1½ minutes**  
+   **Ask:** “How would AV locate the recording for trial booking M-18?”  
+   **Pinpoint:** T5, p. 6, lines 4–10.  
+   **If qualified:** If Ren knows only the general practice: “Who would know whether the M-18 recording exists and how to retrieve it?” Establish what Ren actually knows about whether it captures the screen and audio; leave unknown coverage unresolved.
+
+**Reserve:** Two minutes for the most consequential qualification and a clean clarification of recollection versus inference.
+
+**Best evidence against our position:** T3’s contemporaneous email expressly distinguishes the requested settings from the yield chart shown and defers “the rest” to lab follow-up. T2’s later save and reuse leave version uncertainty; T4’s question mark, confirmation notation, and missing speaker attribution do not cure that gap.
+
+**Single next source:** The **AV recording associated with booking M-18**. Its screen and audio content, if captured and complete, would most directly test what Ren displayed and said during the trial. (T5, p. 6, lines 4–10.)
+
+Repetition 2 | Outline C
+
+**Sol Ren — twelve-minute examination**
+
+Our witness; use controlled, open questions grounded in Ren’s personal recollection. The key fact is whether settings actually reached the supplier during the trial.
+
+1. **“What, if any, process settings do you personally remember communicating at the March 11 trial?”**  
+   **Pinpoint:** T5, p. 6, lines 4–10; T3, p. 2, message 1. **Time: 2 minutes.**  
+   **If qualified:** “Which details do you independently remember?” Then: “What are you reconstructing from documents?” If Ren recalls disclosure, establish the specific setting and whether it was spoken, displayed, or otherwise conveyed.
+
+2. **“How, if at all, can you connect this six-slide file to what you actually presented on March 11?”**  
+   **Pinpoint:** T2, slides 4–5 and file properties, p. 1; T5, p. 6, lines 4–10. **Time: 3 minutes.**  
+   **If qualified:** If Ren says it was the usual or reused deck: “What do you specifically remember about displaying slide 5 that day?” If Ren cannot remember, establish the basis for identifying the file. Its March 14 save date does not establish what the conference-room laptop displayed on March 11.
+
+3. **“In your March 11 email, what did you mean by ‘We left the rest for the lab follow-up’?”**  
+   **Pinpoint:** T3, p. 2, message 1. **Time: 3 minutes.**  
+   **If qualified:** If Ren says some settings were nevertheless disclosed: “Which settings had you already communicated?” Then: “What remained for the lab?” If Ren does not remember, ask what the email refreshes; leave any remaining uncertainty explicit.
+
+4. **“What, if anything, do you know firsthand about how the entry ‘12:1? confirm with lab’ came to be written?”**  
+   **Pinpoint:** T4, p. 9, entry beneath “trial.” **Time: 2 minutes.**  
+   **If qualified:** If Ren says it probably came from the presentation: “What do you actually remember saying or displaying that connects you to that entry?” Without that foundation, do not attribute the ratio to Ren or treat it as a confirmed setting.
+
+5. **“Who do you personally remember attending your March 11 presentation?”**  
+   **Pinpoint:** T1, p. 1, item 3; T5, p. 6, lines 4–10. **Time: 2 minutes.**  
+   **If qualified:** If Ren relies on the visitor list: “Whose presence do you independently remember?” If disclosure has been established: “Who do you remember being present when you conveyed those settings?” Greeting the production engineer does not establish the purchasing observer’s attendance or either person’s presence throughout.
+
+**Best evidence against our position:** Ren’s contemporaneous email distinguishes the requested settings from the yield chart actually shown and says the rest was deferred to the lab. That is the strongest evidence that settings were withheld at this trial. **T3, p. 2, message 1.** Ren’s recalled presentation likewise covers the photograph and yield chart. **T5, p. 6, lines 4–10.** The later-saved deck and unattributed, tentative notebook entry do not resolve that gap. **T2, file properties, p. 1, slide 5; T4, p. 9.**
+
+**Single next source:** The AV recording for booking **M-18**. Ren identifies that booking and the recording practice. **T5, p. 6, lines 4–10.** Its captured audio and screen content could establish whether settings were actually spoken or displayed during the trial.
+
+Repetition 2 | Outline D
+
+**Twelve-minute outline — Sol Ren, individual fact witness**
+
+Objective: establish any firsthand evidence of settings disclosed at the trial, the recipients, and the limits of Ren’s recollection. Allow about two minutes per lead; reserve two minutes for qualifications.
+
+1. **What settings did Ren actually disclose?**  
+   **Foundation:** “Did you personally give the technical presentation at the supplier’s March 11 trial?”  
+   **Lead:** “What process settings, if any, do you remember showing or stating aloud during that presentation?”  
+   **Pinpoint:** T1, p. 1, item 3; T5, p. 6, lines 4–10.  
+   **If qualified:** “Do you remember displaying settings, discussing them orally, or both?” If recollection remains limited: “Is your present recollection limited to the photograph and yield chart?”
+
+2. **Who received the information?**  
+   **Foundation:** “You remember greeting the supplier’s production engineer in the room?”  
+   **Lead:** “Which portions of your presentation do you personally remember that engineer being present for?”  
+   **Pinpoint:** T5, p. 6, lines 4–10; T1, p. 1, item 3.  
+   **If qualified:** “Do you remember the engineer being present for any discussion of settings?” If relying on the agenda: “Apart from being listed as a visitor, do you personally remember the purchasing observer attending?” Do not equate greeting someone with their presence throughout.
+
+3. **Does the produced deck establish what appeared on screen?**  
+   **Foundation:** “Do you recognize T2, and what is the basis for your recognition?”  
+   **Lead:** “Can you identify from personal knowledge whether slide 5’s bath ratio and setting table appeared on the conference-room laptop during the March 11 trial?”  
+   **Pinpoint:** T2, slide 5 and file properties, p. 1; T5, p. 6, lines 4–10.  
+   **If qualified:** “Is that an independent memory of the screen, or an inference from this saved file?” Then: “Can you identify any changes between the trial version and this file, last saved March 14?”
+
+4. **What did Ren’s contemporaneous email reserve for later?**  
+   **Foundation:** “Did you write the March 11 email to engineering shown in T3?”  
+   **Lead:** “What did you mean when you said you left the rest for the lab follow-up?”  
+   **Pinpoint:** T3, p. 2, message 1.  
+   **If qualified:** “Did that include the bath ratio?” Then separately: “Did it include the other process settings?” If Ren says some settings were disclosed: “Which ones, how did you communicate them, and what remained for the lab?”
+
+5. **Can Ren connect the notebook’s ratio to a trial disclosure?**  
+   **Foundation:** “Do you have any personal knowledge of how the supplier engineer’s notebook entry was made?”  
+   **Lead:** “Do you remember communicating a 12:1 ratio at the March 11 trial?”  
+   **Pinpoint:** T4, p. 9, heading “trial,” entry “12:1? confirm with lab.”  
+   **If qualified:** “Does this entry refresh an actual memory, or are you inferring disclosure from the notation?” If Ren recalls disclosure: “What did the ratio describe, and to whom did you communicate it?”
+
+**Counsel’s notes**
+
+The strongest adverse evidence is **Ren’s own March 11 email**, T3, p. 2, message 1: the supplier wanted settings, Ren showed the yield chart, and the rest was deferred. Its strongest adverse reading is that settings were reserved for the lab follow-up. Resolve what “the rest” meant before pressing a disclosure premise.
+
+The relevant passages align rather than establish a contradiction:
+
+| Record | What it establishes |
+|---|---|
+| Ren’s March 11 email, T3, p. 2, message 1 | Yield chart shown; remaining material deferred. |
+| Ren’s examination, date unspecified, T5, p. 6, lines 4–10 | Recollection of photograph and yield chart; decks reused. |
+| T2, slide 5; properties, p. 1 | Settings exist in a file saved March 14; trial display remains unproved. |
+
+T4 is another person’s unattributed notation, with uncertainty and contemplated lab confirmation. T5 supplies no examination question; obtain the surrounding question and answer before using it for impeachment.
+
+**Single next source:** the **AV recording for booking M-18**, identified by Ren in T5, p. 6, lines 4–10. Likely custodian: the supplier’s conference-room AV administrator. It offers the best prospect of establishing what was displayed or said during the trial.

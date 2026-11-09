@@ -1,0 +1,361 @@
+Fictional Distributor credit | eight anonymous outlines
+
+Compare A–D within the same repetition. Letters are reassigned in the second repetition.
+
+Repetition 1 | Outline A
+
+**Remi Dale — five lead questions, twelve minutes**
+
+The packet supports a **$30,000 credit for North and South**: 3% of $1 million after returns. East could add **$6,000**, but its participation during the relevant delivery period remains unproved. (P1, p. 2 ¶3; P2, p. 1 rows 1–3.)
+
+1. **“The signed program letter provides a 3% credit on net invoiced sales delivered during the quarter to participating locations, correct?”**  
+   **Pinpoint:** P1, p. 2 ¶3. **Time:** 2 minutes.  
+   - If acknowledged: “Do you have any factual basis to dispute the North and South figures in this reconciliation?” (P2, p. 1 rows 1–2.)
+   - If Dale defers to Finance: establish the limit of his knowledge and move on. His interview says he did not perform the quarter-close calculation. (P5, p. 4 lines 3–8.) Counsel can calculate $30,000 without asking Dale to adopt Finance’s work.
+
+2. **“This portal printout generated June 8 displays East as ‘Participating,’ correct?”**  
+   **Pinpoint:** P3, p. 1, header and East entry. **Time:** 2 minutes.  
+   - If identification is disputed: “Your interview records that you can identify the supplier’s portal printouts. Can you identify this one?” (P5, p. 4 lines 3–8.)
+   - If acknowledged: “Does any displayed field give East’s participation effective date?”
+   - If Dale relies on January 12: “That field is labeled ‘Account created,’ correct?”  
+   **Purpose:** Secure the favorable status evidence without treating account creation or a June printout as proof of quarter-end participation.
+
+3. **“In February, you asked the distributor to send East’s onboarding form so you could sponsor East at the program desk, correct?”**  
+   **Pinpoint:** P4, p. 1, message 2. **Time:** 3 minutes.  
+   - If acknowledged: “Did you receive the form?”
+   - If yes: “When?” Then: “Did you submit East to the program desk?” Obtain the date and any remembered response.
+   - If no or uncertain: “Do you recall receiving it separately from this email?”  
+   **Weak-point test:** The email shows an offer to sponsor. Its missing attachment does not establish whether the form was ever submitted, and sponsorship does not establish approval.
+
+4. **“The program desk decided site entries, correct?”**  
+   **Pinpoint:** P5, p. 4 lines 3–8. **Time:** 2 minutes.  
+   - If acknowledged: “Who handled East’s entry?” Then: “Who maintained the site-change register?”
+   - If Dale now claims decision authority: show the interview passage and ask, “What did you mean when you said the program desk decided entries?”  
+   **Purpose:** Establish Dale’s actual role and identify the person and record that can resolve approval.
+
+5. **“Do you personally know when East’s participation became effective?”**  
+   **Pinpoint:** P3, p. 1; P4, p. 1, message 2; P5, p. 4 lines 3–8. **Time:** 3 minutes.  
+   - If yes: “What date?” Then: “What did you personally see or receive establishing that date?”
+   - If he cites sponsorship or account creation: “Did the program desk communicate an effective date?”
+   - If participation began during the quarter: “Do you know which East deliveries occurred after that date?” (P2, p. 1 row 3 supplies only the aggregate.)
+   - If no: secure that limit; do not turn it into an admission that East was ineligible.
+
+**Single most useful remaining item:** East’s site-change register history, including its approval and participation effective date. The program desk kept that record (P5, p. 4 lines 3–8). It would most directly resolve whether—and from when—East qualified during the quarter, bridging the gap between February’s proposed sponsorship and June’s displayed status.
+
+Repetition 1 | Outline B
+
+**Known:** The signed letter provides 3% of qualifying net sales after returns. North and South supply a $1 million qualifying base, yielding $30,000. East adds a potential $6,000, depending on participation when its sales were delivered. (P1, p. 2 ¶3; P2, p. 1 rows 1–3.)
+
+**Unverified or disputed:** East’s participation during the quarter. June status and January account creation do not themselves establish its participation effective date. Dale’s offer to sponsor East does not establish approval. (P3, p. 1; P4, p. 1, message 2.)
+
+**Missing:** East’s approval and effective-date history; delivery-date allocation if participation began midquarter. Forum and governing orders are unspecified. This is an individual fact-witness outline, as of November 9, 2026.
+
+**Decision points:** Secure the $30,000 base; determine whether evidence supports all, part, or none of East’s additional $6,000. Budget eleven minutes below and reserve one minute for clarification.
+
+1. **“What did you personally do concerning East’s proposed participation in the winter program?”** — **1 minute**  
+   **Pinpoint:** P4, p. 1, message 2; P5, p. 4 lines 3–8.  
+   **Conditional follow-ups:** If Dale describes sponsorship: “Who made the entry decision?” If he describes approval: “How did you personally learn of that decision?”  
+   **Stop:** Establish his firsthand knowledge and distinguish sponsorship from the desk’s decision.
+
+2. **“Do you have any factual basis to dispute a $30,000 credit on North and South’s sales under paragraph 3?”** — **2 minutes**  
+   **Pinpoint:** P1, p. 2 ¶3; P2, p. 1 rows 1–2; P5, p. 4 lines 3–8.  
+   **Conditional follow-ups:** If yes: “Which fact do you dispute?” Then: “What supports that?” If calculation is outside his knowledge: “Who in Finance handled the quarter-close calculation?”  
+   **Stop:** Preserve the supported base without treating Dale as Finance’s representative or converting lack of knowledge into agreement.
+
+3. **“What happened after you asked the distributor to send East’s onboarding form?”** — **3 minutes**  
+   **Pinpoint:** P4, p. 1, message 2.  
+   **Conditional follow-ups:** If received: “When?” “What did you do with it?” If submitted to the desk: “What response did you receive?” If he cannot recall: “What record would refresh your memory?”  
+   **Stop:** Obtain the actual sequence or identify the missing record. The absence of an attachment in this production does not prove the form was never sent.
+
+4. **“Can you identify P3 as a supplier portal printout?”** — **2 minutes**  
+   **Pinpoint:** P3, p. 1, header and East fields; P5, p. 4 lines 3–8.  
+   **Conditional follow-ups:** If identified: “What date does the displayed status describe?” “What does ‘Account created January 12’ mean?” If he equates creation with participation: “What is your basis for treating those as the same date?”  
+   **Stop:** Establish foundation and test the weakest inference: neither June status nor account creation necessarily proves quarter eligibility.
+
+5. **“What, if anything, does the site-change register show about when East became participating?”** — **3 minutes**  
+   **Pinpoint:** P5, p. 4 lines 3–8; P1, p. 2 ¶3.  
+   **Conditional follow-ups:** If he knows an entry: “What effective date does it give?” “Did you personally review that entry?” If unknown: “Who maintains it?” If participation began midquarter: “What do you personally know about which East deliveries occurred after that date?”  
+   **Stop:** Obtain a supported effective date or a precise custodian lead; do not assume all $200,000 qualifies merely because approval preceded March 31.
+
+**Single most useful remaining item:** East’s site-change register history covering the quarter. It is the best identified source for testing the desk’s decision and participation effective date—the gap controlling East’s additional credit. A midquarter effective date would still require matching eligible deliveries to the sales total.
+
+Repetition 1 | Outline C
+
+**Remi Dale — twelve-minute examination**
+
+**Counsel’s objective:** Establish the undisputed credit base, then test whether East qualified. Dale is an individual fact witness: establish what he personally did, saw or learned. P5 limits his role in entry decisions and the credit calculation.
+
+1. **Program terms — 2 minutes**
+
+   **Lead:** “Do you recognize P1 as the signed letter governing this winter credit program?”
+
+   **Pinpoint:** P1, p. 2 ¶3.
+
+   **Conditional follow-ups:** If yes: “Did you use these terms when sponsoring locations?” Then: “The letter provides a three-percent credit on net invoiced sales delivered during the quarter to participating locations, correct?” “Returns reduce those sales?” If unfamiliar: “Who administered this letter’s terms?”
+
+   **Counsel note:** Establish familiarity before seeking confirmation of the terms. Do not assume Dale signed the letter.
+
+2. **Undisputed North and South participation — 2 minutes**
+
+   **Lead:** “From your own work with North and South, were both participating locations throughout the quarter ending March 31?”
+
+   **Pinpoint:** P2, p. 1 rows 1–2; P1, p. 2 ¶3.
+
+   **Conditional follow-ups:** If yes: “What work gave you that knowledge?” If qualified: “Which location or dates can you personally confirm?” If he disputes participation: “What specific fact supports that?”
+
+   **Counsel note:** P2 establishes $1 million in delivered, invoiced sales after returns, supporting a $30,000 credit under P1. That arithmetic comes from the packet; Dale need not adopt Finance’s calculation. Neither party disputes these locations’ participation.
+
+3. **East: promise versus completed action — 3 minutes**
+
+   **Lead:** “What steps, if any, did you personally take to obtain East’s participation in the program?”
+
+   **Pinpoint:** P4, p. 1, message 2; P5, p. 4 lines 3–8.
+
+   **Conditional follow-ups:** If he recalls action: “Did you receive East’s onboarding form?” “Did you submit or sponsor East at the program desk?” “When?” If he cannot recall, establish that he sent P4, then ask: “Does this email refresh your recollection of anything you actually completed?”
+
+   **Counsel note:** P4 is the strongest adverse reading: Dale offered future sponsorship, conditional on receiving a form. It does not establish completed sponsorship or entry. The missing attachment in this production does not establish that no form was ever sent.
+
+4. **Portal: current status versus quarter participation — 3 minutes**
+
+   **Lead:** “Can you identify P3 as a supplier portal printout?”
+
+   **Pinpoint:** P3, p. 1, header, displayed statuses and East account-creation field; P5, p. 4 lines 3–8.
+
+   **Conditional follow-ups:** If identified: “What does the June 8 generation date tell us about when these statuses applied?” “What event does East’s January 12 account-creation date record?” “From your knowledge of the portal, can either field establish East’s participation by March 31?” If yes: “How?”
+
+   **Counsel note:** This tests the weakest inference. Neither displayed date expressly identifies East’s participation effective date. Establish what each field dates before connecting it to quarter eligibility.
+
+5. **Actual decision and Dale’s knowledge — 2 minutes**
+
+   **Lead:** “Did you personally receive any program-desk decision about whether East participated during the quarter ending March 31?”
+
+   **Pinpoint:** P5, p. 4 lines 3–8; P4, p. 1, message 2.
+
+   **Conditional follow-ups:** If yes: “Who communicated it?” “When did you receive it?” “What participation effective date did it specify?” “Did you see a corresponding register entry?” If no recollection: “Who at the program desk maintained East’s site-change history?”
+
+   **Counsel note:** Keep the communication date separate from the participation effective date. P5 is Dale’s own interview statement identifying the desk’s decision-making and recordkeeping roles. His lack of knowledge would not establish East’s exclusion.
+
+**Single most useful remaining item:** East’s site-change register history, including its participation effective date, from the program desk. It could resolve the missing link between account creation, sponsorship and actual participation. East adds up to $6,000 if all its recorded sales qualify, bringing the total to $36,000; any partial-quarter participation would require matching eligible dates to deliveries.
+
+Repetition 1 | Outline D
+
+1. **Establish the credit formula.**  
+   **Foundation:** “Were you familiar with this signed program letter in your channel-management work?”  
+   **Lead:** “Paragraph 3 provides a 3% credit on net invoiced sales delivered during the quarter to participating locations, with returns reducing net sales, correct?”  
+   **Pinpoint:** P1, p. 2 ¶3.  
+   **If qualified:** “Which part do you disagree with, and what is the basis for that disagreement?”  
+   **Counsel note:** Establish the written terms without asking Dale to authenticate Finance’s calculation.
+
+2. **Secure the undisputed participation baseline.**  
+   **Foundation:** “Did your work include dealings with North and South during this quarter?”  
+   **Lead:** “North and South participated throughout the quarter ending March 31, correct?”  
+   **Pinpoint:** P2, p. 1 rows 1–2; P1, p. 2 ¶3.  
+   **If denied or uncertain:** “What do you personally know that puts either location’s participation in question?” Then identify the supporting record and its custodian.  
+   **Counsel note:** The undisputed $1 million in delivered, invoiced sales after returns yields **$30,000** under P1. Dale did not perform the quarter-close calculation; do not make his ability to verify Finance’s work a condition of securing the participation admission. P5, p. 4 lines 3–8.
+
+3. **Test the portal’s temporal limit—our weakest point.**  
+   **Foundation:** “Can you identify P3 as one of your company’s portal printouts?”  
+   **Lead:** “Does this June 8 directory establish when East’s participating status first took effect?”  
+   **Pinpoint:** P3, p. 1, header, displayed fields and East entry; P5, p. 4 lines 3–8.  
+   **If yes:** “Which field supplies that effective date?”  
+   **If relying on January 12:** “What makes the account-creation date the participation-effective date?”  
+   **Counsel note:** The printout displays East as participating in a directory generated after quarter close. It does not display a participation-effective date. Account creation alone does not establish quarter eligibility.
+
+4. **Find out whether sponsorship progressed to approval.**  
+   **Foundation:** “Did you send the February email shown in P4?”  
+   **Lead:** “After that email, what steps, if any, did you personally take to sponsor East?”  
+   **Pinpoint:** P4, p. 1, message 2; P5, p. 4 lines 3–8.  
+   **If sponsorship occurred:** “Did you receive the onboarding form? When did you submit it, and to whom?”  
+   **If approval is claimed:** “Did you personally receive the decision? What record identifies it?”  
+   **If no recollection:** “Who or what record could establish those steps?”  
+   **Counsel note:** The email requests a form and offers sponsorship; it does not establish approval. Production without an attachment does not prove the form was never sent.
+
+5. **Locate the controlling decision and date.**  
+   **Foundation:** “In your work sponsoring sites, who decided entries and maintained the site-change register?”  
+   **Lead:** “What effective participation date for East, if any, can you establish from your personal knowledge?”  
+   **Pinpoint:** P5, p. 4 lines 3–8—Dale’s own prior interview statement about the program desk’s authority and records.  
+   **If a date is supplied:** “How do you know that date? What record supports it? Did the decision cover any earlier deliveries?”  
+   **If unknown:** “Who at the program desk can identify East’s entry and explain its effective date?”  
+   **Counsel note:** East adds **up to $6,000**, producing a possible **$36,000 total**, only if all $200,000 qualifies. A midquarter effective date may require matching eligibility to delivery dates.
+
+**Single most useful remaining item:** East’s site-change-register entry, including its approval and effective-date history, from the program desk’s register custodian. It would distinguish sponsorship and June status from participation covering quarter deliveries—the unresolved fact controlling East’s additional credit.
+
+Repetition 2 | Outline A
+
+Counsel’s target: establish the undisputed North/South basis and test whether East participated by March 31. Under P1’s formula, North/South generate **$30,000**; East adds **$6,000 only if it qualified during the quarter**. Those figures are counsel’s arithmetic, not Dale’s calculation.
+
+1. **Establish Dale’s knowledge and authority.**
+
+   **Lead:** “In your work with this program, you sponsored sites, while the program desk decided entries—is that accurate?”
+
+   **Pinpoint:** P5, p. 4 lines 3–8.
+
+   **Foundation:** “Did your channel-manager duties include sponsoring sites?”
+
+   **Conditional follow-ups:** If qualified: “What decisions could you personally make?” If Dale disclaims calculation knowledge: “Who in Finance performed the quarter-close calculation?”
+
+   **Counsel note:** P5 is Dale’s own interview statement. Establish the boundaries of his knowledge before seeking admissions about approval or calculation.
+
+2. **Secure the undisputed credit basis.**
+
+   **Lead:** “Do you dispute that North and South participated throughout the quarter ending March 31?”
+
+   **Pinpoint:** P2, p. 1 rows 1–2; P1, p. 2 ¶3.
+
+   **Foundation:** “What involvement did you have with North and South under this program?”
+
+   **Conditional follow-ups:** If admitted: “Does paragraph 3 provide a 3% credit on their net invoiced sales delivered during the quarter?” If Dale disputes participation: “What facts support that?” If he cannot verify the sales: “Who can authenticate the reconciliation?”
+
+   **Counsel note:** P2 supplies $1 million after returns. Seek the participation admission without treating Dale as the preparer of P2 or the credit calculation.
+
+3. **Test the portal’s historical limits.**
+
+   **Lead:** “Does this June 8 printout tell us when East became a participating location?”
+
+   **Pinpoint:** P3, p. 1, generation header, East status and account-creation field.
+
+   **Foundation:** “Can you identify P3 as a supplier portal printout?”
+
+   **Conditional follow-ups:** If Dale relies on January 12: “Does account creation itself establish program participation?” If he says the status proves quarter-end participation: “What feature of the portal makes that status historical?” If it shows only current status: “Could East have joined after March 31 and still appear this way on June 8?”
+
+   **Counsel note:** The strongest adverse reading is that East joined after quarter-close. P3 does not display an admission or effective date.
+
+4. **Determine whether sponsorship progressed beyond the email.**
+
+   **Lead:** “After your February email, what steps, if any, did you personally take to sponsor East before March 31?”
+
+   **Pinpoint:** P4, p. 1 message 2.
+
+   **Foundation:** “Did you send this email to the distributor?”
+
+   **Conditional follow-ups:** If he sponsored East: “When, and how did you submit it?” If he awaited the form: “Did you receive it before March 31?” If he cannot recall: “What record would refresh your recollection?”
+
+   **Counsel note:** This is Dale’s own email. It offers future sponsorship conditioned on receiving the form; the supplied production contains no attachment. Neither fact proves whether the form was later supplied.
+
+5. **Test actual timely participation.**
+
+   **Lead:** “What do you personally know about whether East’s participation took effect by March 31?”
+
+   **Pinpoint:** P5, p. 4 lines 3–8; P4, p. 1 message 2.
+
+   **Foundation:** “Did the program desk communicate an East entry decision to you?”
+
+   **Conditional follow-ups:** If yes: “Who communicated it, when, and what effective date did they give?” If he equates sponsorship with approval: “Did the desk still have to decide the entry?” If no knowledge: “Would the site-change register record that decision and its effective date?”
+
+**Single most useful remaining item:** East’s entry in the **program desk’s site-change register**, including its effective participation date, from the program desk custodian. It would resolve the timing gap left by the February sponsorship email and June portal snapshot—the gap controlling the additional $6,000.
+
+Repetition 2 | Outline B
+
+**Known:** The signed letter provides a 3% credit on qualifying net sales, with returns deducted. North and South’s undisputed participating status and $1,000,000 in net sales support a **$30,000 credit**. East could add **$6,000 if all its sales qualify**. These are arithmetic applications, not Dale’s calculation. (P1, p. 2 ¶3; P2, p. 1 rows 1–3.)
+
+**Unverified or disputed:** East’s participation during the quarter. The June 8 directory shows its status then; the January 12 account-creation field does not expressly establish its participation date. Dale’s February offer to sponsor East does not establish completed onboarding or a program-desk decision. (P3, p. 1; P4, p. 1 message 2.)
+
+**Missing:** East’s participation decision and effective date, and Dale’s firsthand account of what happened after his email.
+
+**Decision points:** Secure the North/South foundation, then determine whether East’s claim has support tied to the quarter. Dale is an individual fact witness; distinguish his knowledge from program-desk decisions and Finance’s calculations. Forum and orders are unspecified; this is a factual examination outline as of November 9, 2026.
+
+1. **“What was your role in adding locations to this program?”** — **1 minute**  
+   **Pinpoint:** P5, p. 4 lines 3–8.  
+   **Follow-ups:** “Who at the program desk handled East?” “What involvement did you personally have in its decision?”  
+   **Stop:** Establish sponsorship versus decision authority; do not seek an organization-wide answer from Dale.
+
+2. **“Do you have any factual basis to dispute the North and South net-sales figures in P2?”** — **2 minutes**  
+   **Pinpoints:** P2, p. 1 rows 1–2; P1, p. 2 ¶3; knowledge limit at P5, p. 4 lines 3–8.  
+   **Follow-ups:** Establish separately: “North and South participated throughout the quarter?” If Dale recognizes the program letter: “Paragraph 3 specifies a 3% credit?”  
+   **If he disputes a figure:** “Which figure?” “What record supports that?”  
+   **If outside his knowledge:** Identify the knowledgeable Finance person and move on. Preserve the $30,000 calculation for counsel.
+
+3. **“What did you do about East after sending this February email?”** — **3 minutes**  
+   **Pinpoint:** P4, p. 1 message 2; P5, p. 4 lines 3–8.  
+   **Follow-ups:** “Did you receive East’s onboarding form?” If yes: “When?” “What did you do with it?” “What response did the program desk give?” Ask separately for the basis of each recollection.  
+   **If no form or decision is recalled:** “What record would show what happened?”  
+   **Stop:** The produced email has no attachment; that does not establish that no form was ever sent. Sponsorship alone does not establish participation.
+
+4. **“What does ‘Participating’ beside East on this printout tell you about when East entered the program?”** — **2 minutes**  
+   **Pinpoint:** P3, p. 1, header, East status and account-creation field; identification foundation at P5, p. 4 lines 3–8.  
+   **Follow-ups:** First have Dale identify the printout. If he claims it proves quarter participation: “Which field establishes that date?” “What is the basis for treating account creation as program entry?”  
+   **If it shows only June 8 status:** Confirm that limitation and stop.  
+   **Purpose:** Test the strongest apparent East evidence without treating a later directory as historical enrollment proof.
+
+5. **“What do you personally know about whether East became a participating location by March 31?”** — **3 minutes**  
+   **Pinpoints:** P1, p. 2 ¶3 and quarter-close fact; P4, p. 1 message 2; P5, p. 4 lines 3–8.  
+   **If yes:** “What was the effective date?” “How do you know?” “Where was that recorded?”  
+   **If no or uncertain:** “Who maintains East’s entry in the site-change register?”  
+   **If participation began during the quarter:** Preserve the date; do not assume all $200,000 qualifies.  
+   **Stop:** A specific date and its evidentiary basis, or a clear knowledge gap and identified record custodian.
+
+Reserve **1 minute** for an unexpected answer or unfinished foundation.
+
+**Single most useful remaining item:** East’s complete site-change register entry, including its effective-date and change history. The program desk kept that register and decided entries. It is the most direct identified record for resolving whether—and when—East participated during the quarter, which controls whether any or all of the additional $6,000 is supported. (P5, p. 4 lines 3–8.)
+
+Repetition 2 | Outline C
+
+The target is the **$30,000 North/South credit**, plus any supported East credit of up to **$6,000**. Dale can address his own sponsorship work and identify portal printouts; P5 places entry decisions with the program desk and calculations with Finance.
+
+1. **“In your work on this program, did you sponsor sites while the program desk decided entries?”**  
+   **Pinpoint:** P5, p. 4 lines 3–8.  
+   **If confirmed:** “Did that desk also keep the site-change register?”  
+   **If qualified:** “What entry decisions did you personally make?”  
+   *Counsel note:* P5 is Dale’s own prior interview statement. Establish his role without treating him as a corporate representative or the credit calculator.
+
+2. **“From your work with North and South, did you know them to be participating throughout the quarter ending March 31?”**  
+   **Pinpoints:** P2, p. 1 rows 1–2; P1, p. 2 ¶3.  
+   **If yes:** “Do you know any factual reason their listed net sales would fall outside the signed credit term?”  
+   **If a reason is offered:** “What fact supports that, and how do you know it?”  
+   **If no personal knowledge:** “Who maintained their participation records?”  
+   *Counsel note:* Their participation is undisputed. P2 supplies $1 million in delivered, invoiced sales after returns; P1 supplies 3%. That yields $30,000. Dale need not authenticate Finance’s calculation to establish facts within his knowledge.
+
+3. **“Do you recognize P3 as a supplier portal printout you can identify?”**  
+   **Pinpoints:** P3, p. 1, header and East fields; P5, p. 4 lines 3–8.  
+   **If yes:** “What date does East’s displayed ‘Participating’ status describe?”  
+   **If he connects it to the quarter:** “What feature or record establishes that historical status?”  
+   **If he relies on January 12:** “Does that date record account creation or participation becoming effective?”  
+   *Counsel note:* This is the best displayed evidence for East, but June 8 dates generation, and January 12 expressly dates account creation. Neither field expressly supplies East’s participation effective date.
+
+4. **“Do you recognize P4 as your February email asking for East’s onboarding form and offering to sponsor East?”**  
+   **Pinpoint:** P4, p. 1, message 2.  
+   **If yes:** “Did you receive the form?” Then, separately: “Did you sponsor East?”  
+   **If either occurred:** “When, and what record would show it?”  
+   **If he equates sponsorship with entry:** “What did the program desk decide?”  
+   *Counsel note:* Test the strongest adverse reading: the email describes a proposed pilot and prospective sponsorship, not completed entry. The production’s missing attachment does not establish that the form was never sent.
+
+5. **“Do you personally know whether East participated during the quarter ending March 31?”**  
+   **Pinpoints:** P3, p. 1; P4, p. 1, message 2; P5, p. 4 lines 3–8.  
+   **If yes:** “What was the effective date, and how do you know?” Separately: “When did the desk make that decision?”  
+   **If participation began midquarter:** “Do you know which East deliveries occurred while it participated?”  
+   **If unknown:** “Who at the program desk can establish the effective date?”  
+   *Counsel note:* Decision date and effective date may differ. P2’s $200,000 East total does not identify delivery dates; the full additional $6,000 remains contingent.
+
+**Single most useful remaining item:** The program desk’s **East site-change register history, including its participation effective date**. The likely custodian is the program desk identified in P5. It would resolve the central gap between proposed sponsorship, the later portal status, and participation during the credit quarter.
+
+Repetition 2 | Outline D
+
+1. **Program promise — 1 minute**  
+   “The signed program letter provides a three-percent credit on qualifying net invoiced sales, correct?”  
+   **Pinpoint:** P1, p. 2 ¶3.  
+   **Follow-ups:** If disputed: “Which words do you disagree with?” If returns are raised: “Returns reduce net sales under that paragraph, correct?”
+
+2. **Undisputed locations — 2 minutes**  
+   “North and South participated throughout the quarter, correct?”  
+   **Pinpoint:** P2, p. 1 rows 1–3.  
+   **Follow-ups:** If confirmed, show the reconciliation: “Do you recognize this reconciliation?” If yes, confirm North’s $600,000 and South’s $400,000 separately, then confirm those figures already account for returns. If knowledge is limited: “Who can authenticate those figures?”  
+   **Counsel’s anchor:** Those undisputed locations supply a $1 million base and a **$30,000 credit** under P1. This is arithmetic from the packet; Dale did not perform Finance’s calculation. P5, p. 4 lines 3–8.
+
+3. **Sponsorship versus completed entry — 3 minutes**  
+   “Your February email offered to sponsor East after you received its onboarding form, correct?”  
+   **Pinpoint:** P4, p. 1 message 2.  
+   **Follow-ups:** If yes: “Did you receive the form?” If received: “When?” Then: “Did you submit it to the program desk?” If submitted: “What response did you receive?” If Dale claims approval, establish who communicated it, when, and the participation effective date. If Dale denies offering sponsorship, have Dale read message 2.  
+   **Weakness to test:** The email documents an offer to sponsor East; it does not establish completed onboarding or approval. The missing attachment does not establish that no form was ever sent.
+
+4. **Limits of the portal evidence — 3 minutes**  
+   “The January 12 date beneath East is labeled account creation, correct?”  
+   **Pinpoint:** P3, p. 1.  
+   **Follow-ups:** First establish recognition if needed; Dale said they could identify portal printouts. P5, p. 4 lines 3–8. If confirmed: “This printout was generated June 8, correct?” Then: “East displays Participating?” Finally: “Does any displayed field give East’s participation effective date?” If Dale equates account creation with participation, ask what personal knowledge supports that connection.  
+   **Limit:** June status and January account creation do not, by themselves, establish participation during the quarter ending March 31.
+
+5. **Quarter-end knowledge and the decisive record — 3 minutes**  
+   “Did the program desk ever tell you that East’s participation was effective on or before March 31?”  
+   **Pinpoints:** P5, p. 4 lines 3–8; P4, p. 1 message 2.  
+   **Follow-ups:** If yes: “Who told you?” “When?” “What effective date did they give?” “Was that recorded?” If no or uncertain: “The program desk kept the site-change register, correct?” Then identify its custodian. A lack of personal knowledge does not establish that East was rejected.
+
+**Single remaining item:** Obtain **East’s site-change register history, including the approval entry and participation effective date**. P5 identifies this as the program desk’s record. It would resolve the central timing gap left by P3 and P4. East could add **up to $6,000**, but only if all $200,000 qualifies; an effective date within the quarter would require matching qualifying deliveries to that date.

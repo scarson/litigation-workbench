@@ -1,0 +1,768 @@
+Blind deposition study | full grader and source-audit record
+
+Read the anonymous files first if you want to compare the questions yourself. Raw model scores are preserved. A 'verified audit' decision is separate from a grading deduction.
+
+Distributor credit, repetition 1
+
+A | Claude for Legal
+Verified audit: Clear
+Adjudication note: P3 supplies an actual June listing. “Who handled East’s entry?” does not date the entry or assert the February offer was accepted. Specify the June listing aloud to avoid ambiguity.
+Masked auditor's source check: “Does any displayed field give East’s participation effective date?” accurately tests P3, p. 1. The header dates generation to June 8 and the East field dates account creation to January 12. Neither supplies a participation effective date.
+Masked auditor's candidates: [{"quote": "Who handled East’s entry?", "locator": "P5, p. 4 lines 3–8, desk’s general role; P4, p. 1, message 2; P3, p. 1, June 8 header and East entry", "why": "The trigger is Dale’s acknowledgment that the desk decided entries generally. That does not establish that anyone at the desk handled the February proposal. The June listing identifies no handler or decision.", "repair": "Ask whether Dale knows if the desk received or acted on the proposal. If so, ask who handled it and how Dale knows."}]
+
+Astra | order CBAD | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2 and Q3 test both favorable exhibits. Q5 ties East’s potential $6,000 to the deliveries covered by participation, while Q1 preserves the $30,000 base.
+2. The pinpoints support the figures, portal fields and email. Q4 moves from the desk’s general authority to a specific East entry without establishing that link.
+3. Q1 allows Dale to defer to Finance. Q4 distinguishes sponsorship from decision authority, and Q5 asks what Dale personally saw or received.
+4. The closing request identifies East’s register history, the program desk that kept it and the timing issue it could resolve.
+5. Five timed leads fit twelve minutes. Q5 pursues delivery timing if Dale supplies a midquarter date and records his knowledge limit if he cannot.
+Grader's candidates: [{"quote": "Who handled East’s entry?", "reason": "Dale’s acknowledgment that the desk decided site entries would establish its general role. It would leave open whether the desk handled an East entry that Dale could identify.", "locator": "Q4, first follow-up. P5, p. 4 lines 3–8 and P3, p. 1."}]
+First edit: Replace Q4’s first follow-up with “Did you personally see the desk act on East’s proposed entry?” If yes, ask who handled it.
+
+Sol | order DABC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 preserves the $30,000 base; Q2–Q5 test East's additional credit against incomplete sponsorship and uncertain effective participation.
+2. Pinpoints support the questions and notes; Q2 distinguishes account creation from participation, and Q3 avoids inferring nonreceipt from the missing attachment.
+3. Q3–Q5 distinguish Dale's actions, the desk's authority, and his personal knowledge; Q1 respects Finance's separate role.
+4. The closing request identifies East's register history, the program desk as keeper, and the quarter-participation gap it would resolve.
+5. Five questions fit twelve minutes; receipt, authority, and effective-date branches produce different useful evidence.
+Grader's candidates: []
+First edit: Add to Q1: 'North and South participated throughout the quarter, correct?' before asking about their sales figures.
+
+B | LegalQuants Litigation
+Verified audit: P4–P5. “If Dale describes sponsorship: ‘Who made the entry decision?’” assumes the desk acted on that sponsorship. Ask whether Dale learned of a desk decision on this request, then who made it.
+Masked auditor's source check: “If submitted to the desk: ‘What response did you receive?’” makes submission a condition of the follow-up. P4, p. 1, message 2 establishes the request for a form and the offer to sponsor. The question leaves room for Dale to say he received no response.
+Masked auditor's candidates: []
+
+Astra | order CBAD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 addresses the $30,000 base. Q3 tests whether the offer led to action, Q4 tests what the portal dates mean, and Q5 allows for partial eligibility.
+2. P1 and P2 support the arithmetic. Q3 keeps receipt and submission conditional, and Q4 asks Dale to explain the relationship between account creation and participation.
+3. Q1 asks how Dale learned of any approval. Q2 permits referral to Finance, and Q5 checks whether he personally reviewed the register entry.
+4. Q5 asks who maintains the register if Dale lacks knowledge. The closing request specifies East’s history for the quarter and explains why delivery dates may still matter.
+5. The five leads use eleven minutes and leave one in reserve. Q3 can produce either a firsthand chronology or a record that might refresh Dale’s memory.
+Grader's candidates: []
+First edit: Narrow Q1 to “In your work on East, who had authority to decide participation?” That leaves the form and submission chronology for Q3.
+
+Sol | order DABC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 addresses the supported $30,000 base; Q3–Q5 test whether all, part, or none of East's additional credit qualifies.
+2. Questions have usable pinpoints; the notes correctly separate sponsorship, approval, account creation, and participation covering deliveries.
+3. Q1 establishes firsthand involvement; Q2 respects Finance's role; Q5 asks whether Dale personally reviewed the register entry.
+4. The closing request specifies East's register history; Q1 and Q5 develop the desk and custodian route and the effective-date issue.
+5. Five functionally distinct questions use eleven minutes plus a reserve; branches distinguish actual submission, missing recollection, and midquarter participation.
+Grader's candidates: []
+First edit: Make the closing request's route explicit by adding 'from the program desk's register custodian.'
+
+C | Workbench 1.3.2
+Verified audit: P2 and P5 establish participation and Dale’s general role. “From your own work with North and South” supplies an unestablished role. Ask how Dale knows. A communicated decision could also be a denial with no effective date.
+Masked auditor's source check: “Did you personally receive any program-desk decision about whether East participated during the quarter ending March 31?” tests a genuine gap. P5, p. 4 lines 3–8 assigns decisions to the desk, and P4, p. 1, message 2 contains only Dale’s offer.
+Masked auditor's candidates: [{"quote": "From your own work with North and South", "locator": "P2, p. 1 rows 1–2; P5, p. 4 lines 3–8", "why": "North and South’s participation is undisputed. Neither exhibit says Dale personally worked with either outlet. Asking what work gave him that knowledge only after an affirmative answer puts the foundation too late.", "repair": "First ask whether Dale worked with either outlet during the quarter. Ask what participation he can confirm from any work he identifies."}, {"quote": "What participation effective date did it specify?", "locator": "P5, p. 4 lines 3–8; P4, p. 1, message 2", "why": "The branch requires only that Dale received a desk decision about whether East participated. A decision could have declined entry, or approved it without specifying an effective date.", "repair": "Ask what the desk communicated. If it approved entry, ask whether it gave an effective date and, if so, what date."}]
+
+Astra | order CBAD | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2 establishes the undisputed base. Q3 through Q5 test completed sponsorship, the meaning of the portal dates and an actual desk decision. The closing note allows for partial-quarter credit.
+2. The exhibit pinpoints support the amounts and chronology. Q2 assumes dealings with both outlets, and Q5 assumes a decision communicated to Dale specified an effective date.
+3. Q2 probes the source and extent of Dale’s knowledge. Q3 tests his own acts and recollection, and Q5 distinguishes when he learned of a decision from when participation took effect.
+4. The outline requests East’s site-change history from the program desk and explains how effective dates would guide a match to deliveries.
+5. Five timed leads total twelve minutes. Q3 uses the email to refresh recollection, and Q4 asks for the basis of any claim that a portal field establishes March participation.
+Grader's candidates: [{"quote": "From your own work with North and South", "reason": "P2 establishes both outlets’ participation. Neither P2 nor Dale’s general description of sponsoring sites establishes that he personally worked with both.", "locator": "Q2 lead. P2, p. 1 rows 1–2 and P5, p. 4 lines 3–8."}, {"quote": "What participation effective date did it specify?", "reason": "The branch establishes only that Dale received a decision. The desk could have declined entry or communicated a decision without specifying a date.", "locator": "Q5, yes branch. P4, p. 1 message 2 and P5, p. 4 lines 3–8."}]
+First edit: Rewrite Q2 as “What, if anything, do you personally know about North’s and South’s participation during the quarter ending March 31?”
+
+Sol | order DABC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 secures the undisputed base; Q3–Q5 test East's favorable sponsorship evidence against the absence of established approval and timing.
+2. Pinpoints support the premises; the notes distinguish missing attachments, communication dates, and participation effective dates.
+3. Q1 establishes familiarity, Q2 probes personal knowledge, and Q5 separates Dale's receipt of a decision from the desk's authority.
+4. The closing request identifies East's register history from the program desk and explains its role in resolving eligible deliveries.
+5. Five questions total twelve minutes; recollection, portal interpretation, and decision-receipt branches change the evidence obtained.
+Grader's candidates: []
+First edit: Replace Q4's 'participation by March 31' with 'participation covering any of East's quarter deliveries' to focus the oral question on eligible sales.
+
+D | Workbench 1.3.1 (control)
+Verified audit: P4–P5. “When did you submit it, and to whom?” still needs confirmation of submission even if Dale sponsored East and received the form.
+Masked auditor's source check: “Did the decision cover any earlier deliveries?” properly tests the scope of a decision if Dale supplies a date. P1, p. 2 ¶3 ties the credit to qualifying deliveries, and P2, p. 1 row 3 gives only East’s aggregate.
+Masked auditor's candidates: [{"quote": "Then identify the supporting record and its custodian.", "locator": "P2, p. 1 rows 1–2; P5, p. 4 lines 3–8", "why": "This instruction follows either denial or uncertainty about North and South. Dale may simply lack personal knowledge. Neither uncertainty nor denial establishes that a contrary record exists.", "repair": "If Dale identifies a contrary fact, ask how he knows it and whether a record supports it. If he lacks knowledge, establish that limit."}, {"quote": "When did you submit it, and to whom?", "locator": "P4, p. 1, message 2; P5, p. 4 lines 3–8", "why": "The branch establishes sponsorship at most. Even if Dale confirms receiving the form, neither sponsorship nor receipt establishes that he submitted that form himself.", "repair": "Ask whether Dale submitted the form. Seek the date and recipient if he confirms submission."}]
+
+Astra | order CBAD | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2 secures the $30,000 baseline. Q3 tests the January and June inferences, Q4 probes what followed the sponsorship offer, and Q5 asks which deliveries a decision covered.
+2. The lead questions have usable pinpoints. Q4 assumes form submission once sponsorship is established, and Q5’s custodian branch presumes an East entry with an effective date.
+3. The foundation questions establish Dale’s dealings, document familiarity and role. Q4 asks whether he personally received a claimed approval, and Q5 asks how he knows any date supplied.
+4. The closing request identifies East’s register history, the program desk’s custodian and the question of coverage for quarter deliveries.
+5. Five distinct leads progress from the formula and baseline to East’s evidence and the decision record. Q3’s January 12 branch asks Dale to explain the claimed link between the two dates.
+Grader's candidates: [{"quote": "When did you submit it, and to whom?", "reason": "Sponsoring East would not establish that Dale submitted the onboarding form. Even an affirmative answer about receipt leaves submission open.", "locator": "Q4, sponsorship branch. P4, p. 1 message 2."}, {"quote": "Who at the program desk can identify East’s entry and explain its effective date?", "reason": "P5 identifies the register keeper. Whether the register contains an East entry specifying an effective date is the fact the proposed search would test.", "locator": "Q5, unknown-date branch. P5, p. 4 lines 3–8."}]
+First edit: In Q4, follow receipt with “Did you submit the form to the desk?” Ask when and to whom only if Dale confirms submission.
+
+Sol | order DABC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 establishes the $30,000 base; Q3–Q5 test East's potential credit against the portal's temporal limits and incomplete sponsorship evidence.
+2. Each question has a usable pinpoint; notes accurately distinguish account creation, sponsorship, approval, and delivery-specific eligibility.
+3. Foundations establish familiarity and identification; Q4–Q5 probe personal actions and knowledge while separating the desk and Finance roles.
+4. The closing request specifies East's approval and effective-date history, its program-desk custodian, and the unresolved eligibility issue.
+5. Five distinct topics follow a usable sequence; branches test claimed dates, completed sponsorship, and decisions covering earlier deliveries.
+Grader's candidates: []
+First edit: Add a twelve-minute allocation to the five topics: 1, 2, 3, 3, and 3 minutes.
+
+Distributor credit, repetition 2
+
+A | Workbench 1.3.1 (control)
+Verified audit: P4–P5. After asking whether the desk communicated an entry decision, “what effective date did they give?” assumes a favorable decision with a stated date. Ask what the desk said, then whether it gave an effective date.
+Adjudication note: The opening $6,000 estimate would be clearer as a ceiling. Qualification during the quarter is a necessary condition for that figure. The counted defect is the effective-date follow-up.
+Masked auditor's source check: “Could East have joined after March 31 and still appear this way on June 8?” tests a possible chronology. P3, p. 1, header and East fields leave that chronology open. The outline labels it an adverse reading.
+Masked auditor's candidates: [{"quote": "East adds **$6,000 only if it qualified during the quarter**.", "locator": "P1, p. 2 ¶3; P2, p. 1 row 3", "why": "Participation at some point during the quarter is necessary for an East credit, but it does not determine the amount. The stated target and closing reference to “the additional $6,000” leave counsel treating a by-March-31 finding as resolving the full increment. P2 gives no delivery-date breakdown.", "repair": "State that East adds 3% of net sales delivered while it participated, up to $6,000. If the register shows participation for part of the quarter, match that period to the deliveries."}]
+
+Astra | order BCDA | scores [1, 2, 2, 2, 2] = 9/10
+1. Q2 secures the $30,000 basis, and Q3 tests whether East could have joined after March 31. Q5 seeks an effective date but leaves open how a midquarter entry would affect the amount claimed.
+2. Q3 identifies exactly what the January 12 field dates. Q4 accurately describes the sponsorship offer and leaves open whether the form arrived later.
+3. Q1 establishes Dale’s authority. Q4 asks what Dale personally did, and Q5 distinguishes a decision communicated by the desk from Dale’s own sponsorship.
+4. The closing request identifies East’s register entry, the program desk custodian, and the effective date needed to assess East’s deliveries.
+5. Five distinct leads move from foundation to the disputed entry. Q3 gives counsel a different question depending on which portal field Dale relies on.
+Grader's candidates: []
+First edit: Add a Q5 branch for a midquarter effective date: “Which East deliveries, if any, do you personally know occurred while East was participating?”
+
+Sol | order ADCB | scores [1, 2, 2, 2, 2] = 9/10
+1. Q3–Q5 test sponsorship and later enrollment, but the $6,000 framing and March 31 cutoff omit whether only some East deliveries qualify.
+2. Pinpoints and factual premises are supported; conditional portal questions do not assert historical participation.
+3. Q1 establishes sponsorship versus decision authority; Q4–Q5 distinguish personal acts, communicated decisions, and recollection limits.
+4. Identifies East’s effective-date entry in the program desk’s register, its custodian, and the timing gap it would resolve.
+5. Five distinct leads form a usable sequence; Q4 branches distinguish sponsorship, an outstanding form, and failed recollection.
+Grader's candidates: []
+First edit: Add to Q5: “If East began participating midquarter, which deliveries occurred while it participated, and what record would identify them?”
+
+B | LegalQuants Litigation
+Verified audit: P4–P5. “What response did the program desk give?” after receipt of the form assumes submission and a response. Ask whether Dale submitted it and whether there was a reply.
+Masked auditor's source check: “If participation began during the quarter: Preserve the date; do not assume all $200,000 qualifies.” This follows P1, p. 2 ¶3 and P2, p. 1 row 3. The reconciliation supplies the total, while the letter makes participation at delivery material.
+Masked auditor's candidates: [{"quote": "Who at the program desk handled East?” “What involvement did you personally have in its decision?", "locator": "P4, p. 1, message 2; P5, p. 4 lines 3–8; P3, p. 1, East status", "why": "Learning Dale’s general role does not establish that the February proposal reached a desk employee or produced a decision. The June status does not identify how or when East was entered.", "repair": "Ask whether Dale knows if anyone at the desk handled the proposal. If he identifies a handler or decision, ask what Dale personally did or learned."}, {"quote": "What response did the program desk give?", "locator": "P4, p. 1, message 2; P5, p. 4 lines 3–8", "why": "This follow-up is triggered by receipt of the form. Dale could have received it without forwarding it, and the desk could have received it without responding.", "repair": "After establishing receipt, ask whether the form reached the desk. If it did, ask whether Dale received a response before asking what it said."}]
+
+Astra | order BCDA | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2 preserves the $30,000 basis. Q3–Q5 test whether sponsorship progressed to participation and expressly allow for only some East deliveries to qualify.
+2. The exhibit pinpoints are usable throughout. Q1’s follow-ups assume East reached the desk before Dale has established a submission.
+3. Q1 separates sponsorship from decision authority, Q2 routes calculation questions to Finance, and Q3 asks for the basis of Dale’s recollection.
+4. The closing request seeks East’s change history and effective date from the desk that kept the register, tying the record to the disputed period.
+5. The five leads total eleven minutes, leaving one minute in reserve. Q3 shifts from tracing the form to identifying a record if Dale cannot recall what happened.
+Grader's candidates: [{"quote": "Who at the program desk handled East?", "reason": "P4 documents an offer to sponsor East. P5 describes the desk’s general role. Neither establishes that East’s proposed pilot reached anyone there.", "locator": "Q1, follow-ups about who handled East and Dale’s involvement in its decision"}]
+First edit: Move the East-handler question to Q3 and condition it on Dale confirming a referral: “Who at the desk received it?”
+
+Sol | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Preserves the $30,000 basis, tests East’s incomplete onboarding and historical-status weaknesses, and expressly avoids assuming all East sales qualify.
+2. Uses supported packet premises and usable pinpoints without equating account creation or sponsorship with participation.
+3. Q1 distinguishes actors; Q2 accommodates Finance limits; Q3 and Q5 pursue personal involvement and the basis of recollection.
+4. Requests East’s register entry and change history from the program desk to resolve whether and when participation became effective.
+5. Five leads total eleven minutes plus a reserve; conditional branches produce dates, supporting records, or a custodian.
+Grader's candidates: []
+First edit: Delete the sentence about unspecified forum, orders, and the November 9, 2026 examination date; it adds nothing to the packet-based examination.
+
+C | Workbench 1.3.2
+Verified audit: P2 and P5. “From your work with North and South” attributes firsthand involvement the record does not establish. Ask what involvement Dale had with those sites, if any.
+Adjudication note: Calling the desk a likely custodian is reasonable given P5; precise custody can be confirmed.
+Masked auditor's source check: “Do you know which East deliveries occurred while it participated?” uses the correct period if participation began midquarter. P1, p. 2 ¶3 supplies the delivery condition and P2, p. 1 row 3 supplies only the $200,000 total.
+Masked auditor's candidates: [{"quote": "From your work with North and South", "locator": "P2, p. 1 rows 1–2; P5, p. 4 lines 3–8", "why": "P2 establishes the outlets’ undisputed participation. P5 describes Dale’s work sponsoring sites generally. Neither places him in dealings with North or South.", "repair": "Ask whether his work involved either outlet during the quarter before asking what he knew from that work."}, {"quote": "When did the desk make that decision?", "locator": "P3, p. 1, East fields; P4, p. 1, message 2; P5, p. 4 lines 3–8", "why": "The trigger is personal knowledge of whether East participated. Dale could know East was outside the program during the quarter, or have observed its status, without knowing of a particular desk decision. The same branch also asks for an effective date before establishing an affirmative entry.", "repair": "Ask what Dale knows and how he learned it. Seek an effective date if he identifies participation, and a decision date if he knows of a specific desk decision."}, {"quote": "The likely custodian is the program desk identified in P5.", "locator": "P5, p. 4 lines 3–8, “The program desk decided entries and kept the site-change register.”", "why": "Dale affirmatively identified the desk as the unit that kept the register. Calling that historical recordkeeping assignment merely likely understates his testimony. The individual custodian and present holder remain unidentified.", "repair": "State that the program desk kept the register and ask who can produce East’s history now."}]
+
+Astra | order BCDA | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2 supports the $30,000 claim. Q3 and Q4 test the limits of the directory and email, and Q5 asks which deliveries occurred during any midquarter participation.
+2. Q3 accurately distinguishes generation, account creation, and participation. Q2 introduces an unsupported premise about Dale’s work with the two outlets.
+3. Q1 establishes the division of authority. Q2 provides a route if Dale lacks personal knowledge, and Q5 asks how Dale knows the effective date.
+4. The requested East register history, its likely program desk custodian, and the quarter-specific timing issue are all identified.
+5. Five short leads have distinct purposes. Q5 separates the decision date from the effective date and branches to delivery evidence when those facts matter.
+Grader's candidates: [{"quote": "From your work with North and South", "reason": "P2 establishes the outlets’ participation. P5 establishes Dale’s general duties. Neither says Dale worked with those particular outlets.", "locator": "Q2, opening clause"}]
+First edit: Replace Q2 with “Did you personally know whether North and South participated throughout the quarter ending March 31?”
+
+Sol | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Tests the undisputed base and East’s competing enrollment readings; Q5 expressly connects midquarter participation to qualifying deliveries.
+2. Pinpoints support the premises; notes correctly distinguish generation, account creation, decision date, and effective date.
+3. Q1 establishes authority limits; Q3–Q4 authenticate exhibits; Q5 asks how Dale knows the effective date.
+4. Identifies the program desk’s East register history, likely custodian, and the participation timing it would establish.
+5. Five distinct, sequenced leads are usable within twelve minutes; branches change the inquiry according to knowledge and timing.
+Grader's candidates: []
+First edit: Add a Q5 follow-up after Dale identifies qualifying deliveries: “What record would identify those deliveries and their dates?”
+
+D | Claude for Legal
+Verified audit: P4–P5. The request for the register “including the approval entry and participation effective date” treats approval as a known entry. Request the history, including any decision and any effective date. The spoken sponsorship question should also make receipt of the form expressly conditional.
+Adjudication note: The final arithmetic expressly acknowledges a midquarter start and qualifying deliveries. That paragraph’s treatment of the $6,000 ceiling is reasonable.
+Masked auditor's source check: “Did the program desk ever tell you that East’s participation was effective on or before March 31?” tests a communication to Dale. P5, p. 4 lines 3–8 identifies the decision-maker, and P4, p. 1, message 2 leaves any later communication open.
+Masked auditor's candidates: [{"quote": "after you received its onboarding form", "locator": "P4, p. 1, message 2", "why": "Spoken aloud, the past-tense wording can place receipt before the offer or describe receipt as a completed event. The email asks the distributor to send the form. Receipt is the fact the next question seeks to establish.", "repair": "Ask, “You asked the distributor to send East’s onboarding form and offered to sponsor East if it did, correct?” Then ask whether Dale ever received it."}, {"quote": "including the approval entry and participation effective date", "locator": "P5, p. 4 lines 3–8; P3, p. 1, East entry; P4, p. 1, message 2", "why": "P5 establishes that the register existed and the desk kept it. No exhibit establishes that it contains a particular East approval entry with an effective date.", "repair": "Request East’s complete register history, including any decision and effective-date entries. Its contents can then establish what the desk recorded."}, {"quote": "East could add **up to $6,000**, but only if all $200,000 qualifies", "locator": "P1, p. 2 ¶3; P2, p. 1 row 3", "why": "The all-sales condition applies to the $6,000 maximum. As written it applies to an increment of any size, despite the following clause recognizing the need to match deliveries.", "repair": "Say that East adds 3% of the qualifying portion of $200,000. The increment reaches $6,000 if all of it qualifies."}]
+
+Astra | order BCDA | scores [2, 1, 1, 2, 2] = 8/10
+1. Q2 anchors the $30,000 claim. Q3 and Q4 test the adverse readings of the email and directory, and the closing note calls for matching deliveries to any midquarter effective date.
+2. The figures and portal labels track P1–P3. Q3’s wording can imply prior receipt of the form, and the closing request presupposes an approval entry.
+3. Q2 and Q4 check document recognition. Q1 seeks agreement about the letter without establishing Dale’s familiarity, and Q5’s negative branch leaves unexplored what Dale learned through means other than a desk communication.
+4. East’s register history is a particular record obtainable from the program desk. Its effective entries would establish the period to compare with delivery dates.
+5. The five leads fit the twelve minutes. Q3 traces receipt, submission, and the desk’s response one step at a time, so counsel can stop where Dale’s knowledge ends.
+Grader's candidates: [{"quote": "after you received its onboarding form", "reason": "The intended condition is clear from the follow-up, but the lead can be heard as placing receipt before the offer. P4 establishes only that Dale requested the form.", "locator": "Q3, lead question"}, {"quote": "including the approval entry", "reason": "P5 identifies the register and its keeper. Whether the desk recorded an approval for East is the fact the request seeks to resolve.", "locator": "Single remaining item"}]
+First edit: Replace Q3’s lead with “In February, you asked the distributor to send East’s onboarding form and offered to sponsor East at the program desk, correct?” Keep “Did you receive the form?” as the next question.
+
+Sol | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Establishes the $30,000 base, tests prospective sponsorship and portal limitations, and expressly requires delivery matching for midquarter participation.
+2. Premises and pinpoints are supported; notes correctly avoid treating the missing attachment as proof that no form arrived.
+3. Q2 checks recognition and knowledge limits; Q3–Q5 distinguish Dale’s acts from desk decisions and identify communication sources.
+4. Requests East’s register history and effective date through the program desk and explains the timing gap it would resolve.
+5. Five timed leads fit twelve minutes; branches pursue receipt, submission, desk response, and alternative record sources.
+Grader's candidates: []
+First edit: Before Q1’s confirmation of the credit term, ask: “Do you recognize this signed program letter?”
+
+Finishing trial, repetition 1
+
+A | Claude for Legal
+Verified audit: Clear
+Masked auditor's source check: “What do you remember about whether the production engineer stayed for the presentation after you greeted them?” T5, p. 6, lines 4–10 supports the greeting. Whether the engineer stayed is precisely the fact Ren is asked to supply.
+Masked auditor's candidates: []
+
+Astra | order DBAC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 asks what Ren deferred, and Q3–Q4 separately test whether Ren displayed or spoke any settings.
+2. Q3 ties the version question to T2’s save date and T5’s deck reuse. Q5 leaves the source of T4’s number open.
+3. Q1 distinguishes greeting the engineer from seeing the engineer during the presentation. Q4 asks who was present when Ren stated a value.
+4. T5 identifies AV and booking M-18 as the retrieval route. The note specifies what screen and audio coverage could establish.
+5. Five distinct questions total twelve minutes. Q3 gives counsel a concrete follow-up if Ren relies on the saved slide.
+Grader's candidates: []
+First edit: Add a recipient follow-up to Q3 if Ren recalls displaying a setting: “Who do you remember being in the room while that setting was on screen?”
+
+Sol | order CABD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2–Q4 test actual disclosure against the same-day email's adverse reading.
+2. Questions and branches have usable pinpoints; the notes distinguish saved slide content from actual display.
+3. Q1 tests observed attendance; Q3–Q5 separate independent recollection from document-based inference.
+4. Identifies AV's booking M-18 recording and explains how screen and speech coverage could resolve disclosure.
+5. Five distinct questions total twelve minutes, with branches addressing partial deferral, version identity, and uncertain recollection.
+Grader's candidates: []
+First edit: Make the retrieval route explicit in the next-source note: request booking M-18 from the supplier's AV recording custodian.
+
+B | Workbench 1.3.1 (control)
+Verified audit: T2, T3 and T5. “What do you independently remember displaying after the photograph and yield chart?” assumes Ren displayed more. Ask whether Ren recalls displaying anything else.
+Masked auditor's source check: “Did you say ‘12:1’ to that engineer during the March 11 trial?” tests attribution directly. T4, p. 9 supplies the number and no speaker. The question leaves Ren free to deny saying it.
+Masked auditor's candidates: [{"quote": "What do you independently remember displaying after the photograph and yield chart?", "locator": "T5, p. 6, lines 4–10 and T2, slides 4–5 and file properties, p. 1", "why": "Ren recalls the photograph and chart. The order of the slides in the March 14 file supplies no basis for assuming the display continued after them.", "repair": "Ask “Do you remember displaying anything else that day?” Establish sequence only if Ren recalls another display."}, {"quote": "Which settings had already been communicated, and which remained for the lab follow-up?", "locator": "T3, p. 2, message 1", "why": "A qualification about the meaning of “the rest” could concern what the lab was to cover without establishing that Ren had already communicated a setting. The branch assumes a prior disclosure before Ren identifies one.", "repair": "Ask “Which settings, if any, had you already communicated?” Then ask what was left for the lab."}]
+
+Astra | order DBAC | scores [2, 1, 2, 2, 2] = 9/10
+1. Q3 tests display and oral disclosure. Q4 puts the strongest adverse reading directly to Ren by asking whether the deferred material included the settings.
+2. Q3’s foundation implies that Ren displayed further material after the photograph and chart. Neither T2’s slide order nor T5’s recollection establishes that sequence.
+3. Q1 asks which part the engineer attended, and Q5 separately tests whether Ren saw the entry being made or personally supplied the number.
+4. The next-source note identifies booking M-18, the supplier’s AV custodian, and the screen and audio evidence that could resolve disclosure.
+5. The five leads progress from audience and file identity to disclosure and the two written accounts. A denial of display in Q3 triggers a distinct inquiry into oral communication.
+Grader's candidates: [{"quote": "What do you independently remember displaying after the photograph and yield chart?", "reason": "The question presupposes a subsequent display. Ren recalls the photograph and chart, and the produced file does not establish what came next at the trial.", "locator": "Q3 foundation, citing T2 slide 5 and T5 p. 6 lines 4–10"}]
+First edit: Replace the Q3 foundation with “Besides the photograph and yield chart, what else, if anything, do you independently remember displaying?”
+
+Sol | order CABD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 directly tests disclosure; Q4 confronts the strongest competing reading of Ren's email.
+2. Pinpoints support the questions and branches; notes correctly limit the deck, notebook, visitor list, and claimed inconsistency.
+3. Foundations distinguish greeting from attendance, file identification from display, and personal knowledge from inference.
+4. Names booking M-18, the likely AV custodian, and the screen/audio evidence needed to resolve actual disclosure.
+5. Five main questions follow a usable sequence; Q3's denied-or-qualified branch separately tests oral disclosure.
+Grader's candidates: []
+First edit: Add minute allocations to the five numbered questions so counsel can preserve time for the email and disclosure branches.
+
+C | LegalQuants Litigation
+Verified audit: T2–T5. “Which particular setting do you remember communicating?” follows a qualified answer that may identify no disclosure. First ask whether Ren recalls communicating any setting.
+Adjudication note: Ren describes recording practice. Actual retention remains open, so 'if it exists' is a permissible qualification.
+Masked auditor's source check: “Did ‘the rest’ include the bath ratio?” properly tests the scope of T3, p. 2, message 1. The email leaves the referent of “the rest” unstated.
+Masked auditor's candidates: [{"quote": "Which particular setting do you remember communicating?", "locator": "T3, p. 2, message 1 and T5, p. 6, lines 4–10", "why": "The branch runs on any qualified answer. Ren could recall a request for settings while remaining unsure whether any setting was communicated. The follow-up, and then “Was that spoken or displayed?”, take communication as established.", "repair": "Ask whether Ren independently remembers communicating any specific setting. Ask for the value, medium and audience after an affirmative answer."}, {"quote": "What do you know about changes between March 11 and the March 14 save?", "locator": "T2, file properties, p. 1 and slide 5, and T5, p. 6, lines 4–10", "why": "The save date and reuse leave open whether the contents changed. Asking about “changes” presupposes an edit.", "repair": "Ask “Do you know whether the contents changed between the trial and the March 14 save?” If yes, ask what changed and how Ren knows."}, {"quote": "The complete AV recording for **booking M-18**, if it exists.", "locator": "T5, p. 6, lines 4–10", "why": "Ren affirmatively says AV saves a recording under each booking number and identifies M-18 as the trial booking. The “if it exists” note and the lead asking “whether AV recorded the trial” omit that affirmative basis. Present retention, retrieval and coverage remain open.", "repair": "Start with Ren’s account of saving by booking number. Ask how to retrieve M-18 and what Ren personally knows about its present availability and contents."}]
+
+Astra | order DBAC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests actual communication, and Q3 asks whether the bath ratio and other settings were among the matters deferred in Ren’s same-day email.
+2. Q2 asks for a basis to connect slide 5 to the trial. Q4 accurately identifies the uncertainty and lack of speaker attribution on T4 p. 9.
+3. Q1 asks whom Ren personally recalls at the moment of communication. Q4 asks what Ren saw or heard that could establish the notebook entry’s source.
+4. Q5 identifies AV and booking M-18 and asks who can retrieve the recording. The note makes its evidentiary value depend on what it captured.
+5. Five timed leads leave a minute for clarification. If Ren qualifies the recording answer, Q5 shifts to identifying someone who can locate it.
+Grader's candidates: []
+First edit: Frame Q2’s save-date follow-up more precisely: “Do you know whether slide 5 changed between the trial and the March 14 save?”
+
+Sol | order CABD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests actual communication; Q3 and the adverse-evidence note develop the email's competing reading.
+2. Pinpoints support the questions; the outline does not infer display from slide inclusion or later addition from the save date.
+3. Branches distinguish memory, observed recipients, notebook attribution, and limits of recording knowledge.
+4. Q5 develops the retrieval path for AV's M-18 recording; the next-source note identifies what its coverage could resolve.
+5. Five distinct questions use eleven minutes plus a reserve; conditional branches develop specific settings, means, recipients, and source knowledge.
+Grader's candidates: []
+First edit: Replace the forum-and-date sentence under 'Missing' with a direct note that the M-18 recording's existence and coverage remain unconfirmed.
+
+D | Workbench 1.3.2
+Verified audit: T5. The next-proof note says “Its audio and any captured presentation images.” The recording practice establishes neither the captured channels nor preserved audio. Ask AV what was captured and retained before relying on it to prove spoken disclosure.
+Masked auditor's source check: “It does not establish when slide 5 was added or whether it was displayed on March 11.” T2, slide 5 and file properties, p. 1 establish the slide’s presence in the six-slide file last saved March 14. Neither identifies the slide’s creation date or trial use.
+Masked auditor's candidates: [{"quote": "Its audio and any captured presentation images could establish what Ren actually disclosed", "locator": "T5, p. 6, lines 4–10", "why": "The note conditions image capture but assumes the recording includes audio. Ren identifies the recording practice and booking number without describing the tracks captured. Audio matters to the proposed proof of oral disclosure.", "repair": "Say that any intelligible audio could establish what Ren said and any captured presentation images could establish what appeared on screen."}]
+
+Astra | order DBAC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 asks which settings Ren showed or stated, and Q4 tests whether Ren’s same-day reference to “the rest” included the bath ratio.
+2. Q2 accurately limits what T2’s March 14 save establishes. Q5 uses T4’s exact notation and asks Ren for the missing attribution.
+3. Q1 tests presence during the presentation beyond the greeting. Q3 distinguishes event memory from deck reuse, and Q5 distinguishes Ren’s observations from the engineer’s notation.
+4. The note identifies the supplier’s AV administrator, booking M-18, and what captured audio, slides, or audience images could establish.
+5. Five leads total twelve minutes. If Ren cannot identify the file in Q2, counsel can still establish which slides Ren independently remembers displaying.
+Grader's candidates: []
+First edit: Replace Q3’s recipient follow-up with “Who was there when you communicated that setting, and what did you see or hear that indicated they received it?”
+
+Sol | order CABD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 tests actual disclosure; Q4 directly probes the adverse same-day account and any claimed partial disclosure.
+2. Pinpoints are usable throughout; notes expressly avoid treating the save date as proof of when slide 5 was added.
+3. Questions distinguish observed attendance, remembered communication, version identification, and another person's notebook.
+4. Identifies the M-18 recording, its likely supplier AV custodian, and its potential to establish content and recipients.
+5. Five distinct questions total twelve minutes; branches develop version uncertainty, inference, and settings allegedly disclosed before follow-up.
+Grader's candidates: []
+First edit: In Q3's branch, replace 'Who do you remember receiving that information?' with 'Whom did you personally observe present when you showed or stated that setting?'
+
+Finishing trial, repetition 2
+
+A | Workbench 1.3.2
+Verified audit: Clear
+Adjudication note: Question 4 explicitly routes denials and failures of recollection away from the detail branch, and question 5 supplies an alternative if no settings were identified.
+Masked auditor's source check: “Do you remember that no settings were communicated, or do you lack a recollection either way?” T5, p. 6, lines 4–10 records an affirmative memory of the photograph and chart. It leaves room for either answer about settings.
+Masked auditor's candidates: []
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 asks what Ren communicated, Q5 identifies who was present for each setting, and Q3 tests whether the March 11 email meant all settings were deferred.
+2. Q2 distinguishes the table in the saved file from the table displayed at trial. Q4 uses the exact T4 entry and asks who supplied the number without assigning a speaker.
+3. Q1 distinguishes remembering that no disclosure occurred from having no memory either way. Q5 tests attendance at the moment of disclosure.
+4. The notes identify booking M-18, give the AV or room-booking administrator as the retrieval route, and condition the recording’s value on what it captured.
+5. Five distinct leads fit the time budget. Q5 supplies a usable audience question even if Ren identifies no settings.
+Grader's candidates: []
+First edit: Add a Q5 follow-up for a recalled oral disclosure: “What, if anything, did the engineer say or do in response?”
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests actual disclosure; Q3 directly tests whether the email reserved settings for follow-up.
+2. Pinpoints support the premises; notes correctly limit what the save date, notebook and visitor list establish.
+3. Q1 distinguishes no disclosure from no recollection; Q4 and Q5 test attribution and personally observed recipients.
+4. Identifies M-18, the venue AV or booking administrator, and the disclosure gaps the recording could resolve.
+5. Five distinct leads follow a usable sequence, with consequential branches and two minutes reserved.
+Grader's candidates: []
+First edit: Begin Q2 with 'Do you personally remember the slide-5 table being displayed during the March 11 trial?' to foreground recollection.
+
+B | LegalQuants Litigation
+Verified audit: T2–T5. “Which specific setting do you independently remember communicating?” assumes that a qualified answer identified a communicated setting. First distinguish an actual memory of disclosure from uncertainty.
+Masked auditor's source check: “How would AV locate the recording for trial booking M-18?” uses the saving practice and booking number in T5, p. 6, lines 4–10. The conditional referral to someone at AV is appropriate if Ren knows only the practice and cannot establish present retrievability.
+Masked auditor's candidates: [{"quote": "The M-18 recording and the presentation version used that day.", "locator": "T2, slides 4–5 and file properties, p. 1, and T5, p. 6, lines 4–10", "why": "Listing the trial version as missing prematurely resolves the identity question. T2 could be the version Ren used. What the packet lacks is evidence establishing that match.", "repair": "List the M-18 recording as absent from the packet and the identity of the file displayed on March 11 as unresolved."}, {"quote": "Which specific setting do you independently remember communicating?", "locator": "T3, p. 2, message 1 and T5, p. 6, lines 4–10", "why": "A qualified answer can express uncertainty whether any setting was communicated. This branch assumes at least one and then directs counsel to establish its recipient. The later chart-only branch handles one possible qualification but does not establish disclosure for the others.", "repair": "Use the specifics-and-recipient branch only if Ren recalls communicating a setting. Otherwise ask what Ren remembers that bears on whether a disclosure occurred."}]
+
+Astra | order ADCB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1 tests the setting, medium, and supplier recipient. Q3 asks Ren to reconcile any claimed disclosure with the same-day email deferring “the rest.”
+2. Q2 gives accurate version pinpoints, but the opening calls the trial version missing and the adverse-evidence note attributes reuse to T2 itself. The exhibits leave the version identity open.
+3. Q1 separates denial from failed recollection. Q4 asks what Ren saw or heard before crediting an attribution in the supplier engineer’s notebook.
+4. Q5 uses M-18 to seek the recording through AV and asks who can verify its existence, retrieval, and coverage if Ren knows only the booking practice.
+5. The five timed leads leave two minutes in reserve. Q4 gives counsel a concrete stopping point if Ren cannot identify the source of the ratio.
+Grader's candidates: [{"quote": "and the presentation version used that day", "reason": "Listing the version as missing implies that T2 is a different version. T2 could match the trial version. Its identity remains unverified.", "locator": "Opening “Missing” note, checked against T2 file properties, p. 1 and T5, p. 6, lines 4–10"}, {"quote": "T2’s later save and reuse", "reason": "T2 establishes the March 14 save. Ren describes a general practice of deck reuse, without identifying a reuse of this particular file.", "locator": "“Best evidence against our position,” checked against T2 file properties, p. 1 and T5, p. 6, lines 4–10"}]
+First edit: Replace “T2’s later save and reuse” with “T2 was last saved March 14, and Ren described a general practice of reusing the deck for lab visits.”
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests settings actually communicated; Q3 explores the strongest adverse reading of the contemporaneous email.
+2. Specific pinpoints support the questions and branches; version identity and notebook attribution remain properly unresolved.
+3. Q1 develops recipients and independent memory; Q2 and Q4 distinguish recollection from inference.
+4. Q5 supplies an AV retrieval route and fallback contact question; the notes identify M-18 and its evidentiary purpose.
+5. Five distinct leads total ten minutes, leaving a usable reserve; branches change the facts counsel can establish.
+Grader's candidates: []
+First edit: Turn Q1's recipient instruction into a ready question: 'Who did you personally observe receiving that specific setting?'
+
+C | Claude for Legal
+Verified audit: T2 and T5. Identifying a familiar deck does not establish that slide 5 was shown. Ask whether Ren recalls showing the slide before asking what Ren remembers about displaying it. The proof note also assumes both sound and screen were captured.
+Masked auditor's source check: “Who do you remember being present when you conveyed those settings?” is expressly conditioned on disclosure having been established. T1, p. 1, item 3 lists visitors, and T5, p. 6, lines 4–10 places the engineer in the room for a greeting. The branch seeks the missing timing from Ren.
+Masked auditor's candidates: [{"quote": "What do you specifically remember about displaying slide 5 that day?", "locator": "T2, slide 5 and file properties, p. 1, and T5, p. 6, lines 4–10", "why": "The branch is triggered by recognition of the usual or reused deck. Even positive identification of the file would leave open whether Ren displayed slide 5. The question embeds the disputed act in a request for details.", "repair": "Ask “Do you independently remember whether you displayed the setting table that day?” Seek details if Ren remembers displaying it."}, {"quote": "Its captured audio and screen content could establish whether settings were actually spoken or displayed during the trial.", "locator": "T5, p. 6, lines 4–10", "why": "“Its captured audio and screen content” assumes both forms of capture. The conditional “could establish” qualifies the evidentiary result, while Ren’s testimony leaves the recording’s contents unknown.", "repair": "Ask AV what M-18 captured. Condition proof of speech on intelligible audio and proof of display on a view of the presentation."}]
+
+Astra | order ADCB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1 tests actual communication, Q5 ties any disclosed settings to people present, and Q3 probes the adverse reading of “the rest.”
+2. Q2 and Q4 accurately limit what T2 and T4 establish. The final source note assumes the recording captured both audio and screen content, which T5 leaves open.
+3. Q4 asks for firsthand knowledge of the entry’s origin. Q5 distinguishes remembered attendance from the visitor list and asks who was there when settings were conveyed.
+4. The AV recording and booking M-18 give counsel a specific retrieval route. The note identifies the two disputed events the recording could resolve: what Ren said and what appeared on screen.
+5. The five leads total twelve minutes. Q2 gives counsel a focused slide 5 question if Ren identifies the file from customary use.
+Grader's candidates: [{"quote": "Its captured audio and screen content", "reason": "T5 identifies the recording practice and booking number. Whether the recording includes either channel remains unknown.", "locator": "“Single next source,” final sentence, checked against T5, p. 6, lines 4–10"}]
+First edit: Replace the final sentence with “If the recording includes audio, listen for spoken settings. If it shows the screen, check whether the settings table appeared.”
+
+Sol | order BCDA | scores [2, 2, 2, 1, 2] = 9/10
+1. Q1 tests actual communication; Q3 and the adverse-evidence note confront the email's settings-withheld reading.
+2. Pinpoints are usable, and the outline avoids treating the later save, tentative ratio or visitor list as proof of disclosure.
+3. Q1 separates memory from reconstruction; Q4 tests firsthand attribution; Q5 establishes personally remembered attendance.
+4. Names M-18 and what it could resolve, but does not expressly identify a likely custodian or retrieval route.
+5. Five distinct leads fit twelve minutes; conditional follow-ups address version uncertainty, partial disclosure and audience.
+Grader's candidates: []
+First edit: Add to the next-source note: 'Request M-18 from the trial venue's AV or room-booking administrator using the booking number.'
+
+D | Workbench 1.3.1 (control)
+Verified audit: Clear
+Adjudication note: The next question explicitly permits recollection limited to the photo/chart. Adding 'neither' to the first branch would make that route easier to hear.
+Masked auditor's source check: “Can you identify any changes between the trial version and this file, last saved March 14?” asks whether Ren can identify a change. T2, file properties, p. 1 establishes the save date, and T5, p. 6, lines 4–10 supplies the reason to test version identity. Neither establishes an edit.
+Masked auditor's candidates: [{"quote": "Do you remember displaying settings, discussing them orally, or both?", "locator": "T3, p. 2, message 1 and T5, p. 6, lines 4–10", "why": "A qualification need not be an affirmative memory of disclosure. All three offered choices involve settings, and Ren could remember discussing the supplier’s request without communicating a value. The later chart-only question does not cover that possibility.", "repair": "Ask “What do you remember about the request for settings?” Then ask whether Ren recalls giving any value. Establish the medium for each value actually recalled."}]
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests spoken and displayed settings, Q2 tests the engineer’s presence, and Q4 separately asks whether the email deferred the bath ratio and the other settings.
+2. Q3 accurately identifies slide 5 and the March 14 save while leaving changes open. Q5 uses the tentative T4 entry without attributing it to Ren.
+3. Q2 asks which portions the engineer attended. Q3 and Q5 distinguish Ren’s own memory from inferences drawn from the file or notebook.
+4. The source note names the supplier’s conference-room AV administrator as the likely custodian, supplies booking M-18, and identifies what the recording could settle.
+5. Five leads leave two minutes for qualifications. Q4 turns a partial-disclosure answer into separate accounts of what Ren communicated and what remained for the lab.
+Grader's candidates: []
+First edit: Change Q3’s lead to “What, if anything, do you remember showing the supplier from the table now on slide 5?” This focuses Ren on what the audience could see.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 tests actual disclosure; Q4 and the notes explicitly develop the strongest adverse reading of the email.
+2. Questions have supported pinpoints; neither the notebook nor the later-saved deck is asserted to prove trial disclosure.
+3. Foundations establish personal knowledge; Q2 tests the engineer's presence during particular portions; Q3 separates memory from inference.
+4. Identifies M-18, a likely AV custodian, and what the recording could establish about displayed or spoken information.
+5. Five distinct leads have a workable sequence, meaningful conditional branches and two minutes reserved.
+Grader's candidates: []
+First edit: Add to Q1's limited-recollection branch: 'Do you remember that no settings were communicated, or do you not remember whether any were?'
+
+Lost retail placement, repetition 1
+
+A | Workbench 1.3.1 (control)
+Verified audit: R4–R5. “What information from your own dealings with the buyer did you provide for Harbor’s Samples loss category?” assumes Shaw personally supplied information. Ask whether Shaw contributed and, if so, how Shaw knew it.
+Adjudication note: The CRM observation gives no exact date for entering the category. Make its administrative nature explicit. The count rests on assuming Shaw supplied the information.
+Masked auditor's source check: “What do you personally know about when the buyer made the assortment decision?” properly tests Shaw’s knowledge. May 17 dates the buyer’s communication, and May 18 is the CRM close date used for pipeline administration. R3, p. 2, message 4. R4, p. 1, row 19. R5, p. 12, lines 2–10.
+Masked auditor's candidates: [{"quote": "How, if at all, did the announced Thursday sleeve arrival change what you actually showed the buyer?", "locator": "R2, p. 1, messages 1–2. R5, p. 12, lines 2–10.", "why": "The question leaves the effect open but assumes Shaw actually showed the buyer something. R2 identifies materials she wanted for a planned meeting. R5 confirms that she spoke with the buyer.", "repair": "Ask whether the meeting took place and what, if anything, Shaw showed. Then ask how that differed from what she had planned."}, {"quote": "What information from your own dealings with the buyer did you provide for Harbor’s Samples loss category?", "locator": "R4, p. 1, row 19. R5, p. 12, lines 2–10.", "why": "The lead assumes Shaw furnished buyer-derived information for the category. The owner field and the general wrap-up practice establish neither her participation nor the source of this entry. The later branch recognizes that someone else may have supplied it.", "repair": "First ask whether Shaw supplied any information used for the category. If she did, ask what she supplied and how she knew it."}]
+
+Astra | order CDAB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2–Q3 test what the delay changed for the buyer and whether timely sleeves would have mattered given the missing margin approval. Q1 tests the claimed quantity.
+2. Q4 assumes Shaw supplied buyer-derived information for the Samples code. R4 identifies her as owner, and R5 describes the ordinary entry process.
+3. Q3 asks what the buyer told Shaw. Q4’s branches distinguish her assessment from the buyer’s words, and Q5 tests how she knows a decision date.
+4. The outline identifies the Harbor decision sheet, the buyer as likely custodian, and the timing and causal questions the sheet could resolve.
+5. Five timed leads fit the examination. Q2 shifts from buyer reaction to identifying a presentation record if Shaw cannot recall what she showed.
+Grader's candidates: [{"quote": "What information from your own dealings with the buyer did you provide for Harbor’s Samples loss category?", "reason": "Neither exhibit establishes that Shaw supplied information for this category or that her buyer contacts informed it.", "locator": "Q4 lead. R4, p. 1, row 19 and R5, p. 12, lines 2–10."}]
+First edit: Replace the Q4 lead with “Did you supply any information that was used to select ‘Samples’ for Harbor?”
+
+Sol | order BADC | scores [2, 1, 2, 2, 2] = 9/10
+1. Q2–Q3 test the delay's actual effect and the buyer's margin explanation; Q1 tests commitment and forecast value.
+2. Pinpoints are usable, but the brand-evidence note asserts that the CRM categorization occurred later; R4 supplies a close date, not a categorization date.
+3. Q1 and Q5 expressly seek personal knowledge; Q4 distinguishes buyer statements, Shaw's assessment, and another person's coding.
+4. Names the buyer's assortment decision sheet, identifies the retail buyer as likely custodian, and specifies chronology and causation issues it could resolve.
+5. Five distinct leads total twelve minutes, with consequential branches for commitment, sample attribution, coding source, and decision timing.
+Grader's candidates: [{"quote": "The CRM later categorizes the loss as Samples.", "reason": "The packet does not date the categorization. The May 18 close date records pipeline closure and cannot establish when the category was entered.", "locator": "Counsel's notes, Strongest brand evidence"}]
+First edit: Replace 'The CRM later categorizes the loss as Samples' with 'The CRM records Samples as the loss category; when that category was entered remains unestablished.'
+
+B | LegalQuants Litigation
+Verified audit: R2 and R5. “What presentation materials were actually unavailable?” presupposes something was missing when Shaw met the buyer. A change in promised delivery and a contemporaneous concern do not establish what happened at a meeting.
+Adjudication note: A retrospective category is a reasonable reading of R4–R5. The date of entry is open. The counted defect is the missing-materials premise.
+Masked auditor's source check: “When did you first learn that Harbor had decided to pass?” asks for an event Shaw can date from personal knowledge. The May 17 email is one possible source, and the May 18 pipeline close does not establish when she first learned the news. R3, p. 2, message 4. R4, p. 1, row 19. R5, p. 12, lines 2–10.
+Masked auditor's candidates: [{"quote": "What presentation materials were actually unavailable?", "locator": "R2, p. 1, messages 1–2.", "why": "Shaw reported what the changed promise meant for her planned mock-ups. The exchange does not inventory what was actually unavailable at a meeting. The next question, “What did the buyer say or do in response?”, also needs that foundation.", "repair": "Ask whether the meeting occurred and whether anything Shaw intended to show was unavailable. If so, identify it and ask what reaction, if any, she observed."}]
+
+Astra | order CDAB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 seeks an observed buyer reaction to the sample problem. Q2 tests both the stated margin obstacle and a possible connection to sleeves. Q5 tests purchase commitment.
+2. The leads have usable pinpoints. Q2 makes the samples–margin link conditional, Q4 asks what May 18 records, and the damages note correctly calculates forecast contribution.
+3. Q3 separates Shaw’s input, the analyst’s entry, and the buyer’s words. Q4 distinguishes when Shaw learned the outcome from when Harbor decided.
+4. The outline identifies the buyer’s Harbor assortment decision sheet and explains how its recorded grounds and date could clarify causation and timing.
+5. The five leads use eleven minutes with one in reserve. Q3 changes course depending on who supplied the category, and the stopping points help counsel move on.
+Grader's candidates: []
+First edit: In Q1, if Shaw identifies unavailable materials, ask “When did the sleeves actually arrive relative to the buyer meeting?”
+
+Sol | order BADC | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1–Q2 test sample causation against the margin obstacle, while Q5 distinguishes forecast contribution from committed business.
+2. Exhibit pinpoints support the questions, but the brand-evidence note assigns an unsupported temporal sequence to CRM categorization.
+3. Q1–Q3 distinguish Shaw's observations, buyer statements, wrap-up contributions, and analyst entry; Q4 develops timing uncertainty.
+4. Identifies the buyer's Harbor decision sheet and explains how its recorded date and grounds could resolve the competing explanations.
+5. Five leads use eleven minutes with one reserved; conditional branches pursue sample-margin linkage, coding authorship, earlier decisions, and commitments.
+Grader's candidates: [{"quote": "The CRM later categorized the loss as “Samples,”", "reason": "R4 establishes the category and administrative close date, but does not establish when categorization occurred relative to the other evidence.", "locator": "Best evidence for the brand"}]
+First edit: Replace 'The CRM later categorized the loss as “Samples”' with 'The CRM lists “Samples” as the loss category; its entry date is not established.'
+
+C | Workbench 1.3.2
+Verified audit: R2. “What did the buyer say about the missing mock-ups?” is asked without first establishing that the meeting took place without them or that the buyer commented.
+Masked auditor's source check: “Did the buyer ever tell you that timely sleeve samples would have changed Harbor’s decision?” tests a genuinely open issue. Shaw spoke with the buyer, and the buyer’s written margin explanation leaves open what else the buyer told her. R3, p. 2, message 4. R5, p. 12, lines 2–10.
+Masked auditor's candidates: [{"quote": "What did the buyer see, and what did the buyer say about the missing mock-ups?", "locator": "R2, p. 1, messages 1–2.", "why": "The preceding lead tests whether the timing prevented use of the mock-ups, but this follow-up is directed regardless of the answer. Even establishing the meeting and delivery dates would not establish what was missing or whether the buyer commented.", "repair": "If the meeting occurred, ask what Shaw showed. If she confirms an omission, ask whether the buyer mentioned it and, if so, for the buyer’s words."}, {"quote": "What other firsthand observation supports your view that the sleeve delay cost the placement?", "locator": "R2, p. 1, message 2. R4, p. 1, row 19. R5, p. 12, lines 2–10.", "why": "A negative or uncertain answer about what the buyer said does not establish that Shaw personally holds the brand’s causal view. Her reply concerns mock-ups. Her ownership of the pitch does not attribute the Samples assessment to her.", "repair": "Ask whether Shaw herself believes the timing affected the decision. If she does, ask what she observed that supports that belief."}]
+
+Astra | order CDAB | scores [2, 1, 2, 2, 1] = 8/10
+1. Q2 tests the practical harm to the presentation, Q3 develops the margin explanation, and Q5 asks whether the buyer said timely samples would have changed the result.
+2. Q2’s follow-up calls the mock-ups missing before Shaw confirms what the buyer saw. Its own R2 note correctly identifies that evidentiary gap.
+3. Q1 checks Shaw’s familiarity with the plan. Q4 asks who supplied the CRM information, and Q5 distinguishes a direct buyer statement from Shaw’s observations.
+4. The outline names the Harbor decision sheet, gives a route through the buyer or records custodian, and identifies the decision date, reasons, and conditions to check.
+5. The five leads have meaningful branches, but each adds a separate foundation question. Q2 also calls for both dates, the presentation contents, and the buyer’s reaction within three minutes.
+Grader's candidates: [{"quote": "what did the buyer say about the missing mock-ups?", "reason": "R2 establishes what Shaw expected to lose for the meeting. Asking about the buyer’s reaction to an absence requires confirmation that the mock-ups were actually absent.", "locator": "Q2 follow-up. R2, p. 1, messages 1–2."}]
+First edit: Streamline Q2 to “What, if anything, did the timing change about what the buyer saw?” Ask about the buyer’s reaction only if Shaw identifies something missing.
+
+Sol | order BADC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2–Q3 and Q5 test actual sample effects, the margin explanation, and direct buyer support for causation; Q1 tests commitment and value.
+2. Usable pinpoints and notes distinguish promised from actual delivery, email from decision date, and forecast contribution from proved loss.
+3. Express foundations authenticate Shaw's involvement; Q4 separates coding actors, and Q5 seeks firsthand support rather than assumed buyer reasoning.
+4. Names the Harbor decision sheet, the retail buyer or records custodian, and the decision date, reasons, and conditions it could establish.
+5. Five leads total twelve minutes; commitment, coding-knowledge, and buyer-statement branches change the evidence obtained.
+Grader's candidates: []
+First edit: Add to Q3: 'If you understood margin approval to depend on samples, what did you personally hear or see connecting them?'
+
+D | Claude for Legal
+Verified audit: R2. “What did the buyer say about the missing mock-ups?” assumes actual absence and a buyer comment. Establish both before asking for words.
+Masked auditor's source check: “You have not seen Harbor’s assortment decision sheet, correct?” tests whether Shaw’s interview answer remains current. The express branch for having seen it since preserves that distinction. R5, p. 12, lines 2–10.
+Masked auditor's candidates: [{"quote": "What did the buyer say about the missing mock-ups?", "locator": "R2, p. 1, messages 1–2.", "why": "Confirming Shaw’s May 6 statement, the meeting date and the actual arrival date would still leave open whether the mock-ups were absent and whether the buyer said anything about them. The buyer was not copied on the exchange.", "repair": "Ask whether the meeting occurred and whether Shaw used the mock-ups. If they were absent, ask whether the buyer commented and obtain any exact words."}]
+
+Astra | order CDAB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1 directly tests whether the buyer linked margin approval to sleeves. Q2 pursues evidence favoring the brand, and Q4 tests commitment and expected contribution.
+2. Q2 accurately quotes Shaw’s May 6 concern, but its follow-ups assume the planned meeting occurred with the mock-ups missing. R2 establishes neither event.
+3. Q2 distinguishes the buyer’s words from Shaw’s inference. Q3 separates category selection from analyst entry, and Q5 checks whether Shaw has since seen the sheet.
+4. Q5 asks who maintains the buyer’s decision sheet. The proof request identifies the date, rejection reason, and possible approval condition to check.
+5. Five timed leads put the competing causal accounts first. A reported buyer statement triggers questions about exact words and witnesses, while Shaw’s own inference triggers a request for observations.
+Grader's candidates: [{"quote": "What did the buyer say about the missing mock-ups?", "reason": "The announced delay and Shaw’s reply establish a problem with her plan. The meeting and the actual absence need confirmation before asking about a reaction.", "locator": "Q2 follow-ups. R2, p. 1, messages 1–2."}]
+First edit: Start Q2’s follow-ups with “Did the meeting take place, and if so, what did you show the buyer?” Use the buyer-reaction branch if Shaw confirms the mock-ups were missing.
+
+Sol | order BADC | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 expressly tests whether margin approval depended on samples; Q2 develops the brand's mock-up evidence, and Q4 tests the claimed business value.
+2. Leads have usable pinpoints; notes correctly limit the forecast, CRM date, and unresolved relationship between samples and approval.
+3. Q2 separates buyer statements from Shaw's inference; Q3 identifies coding actors, and Q5 tests whether Shaw has since seen the decision record.
+4. Names the buyer's Harbor decision sheet, identifies its owner through the buyer, and specifies chronology, rejection grounds, and sample-margin linkage.
+5. Five leads total twelve minutes, with useful branches for linked or independent approval, coding source, commitment, and access to the sheet.
+Grader's candidates: []
+First edit: Rephrase Q5 as 'Since your interview, have you seen Harbor's assortment decision sheet?' to establish Shaw's current knowledge directly.
+
+Lost retail placement, repetition 2
+
+A | Claude for Legal
+Verified audit: R2. The open question about what Shaw showed can elicit that the samples were present. Make “What did the buyer say about the missing mock-ups?” conditional on confirmed absence and an actual comment.
+Masked auditor's source check: “Was margin approval dependent on the samples?” tests a possible causal link, and the follow-up asks Shaw how she knows. The buyer identified missing approval but gave no explanation for why it was missing. R3, p. 2, message 4.
+Masked auditor's candidates: [{"quote": "What did the buyer say about the missing mock-ups?", "locator": "R2, p. 1, messages 1–2.", "why": "This follow-up assumes the mock-ups were missing and the buyer spoke about them. Neither follows from Shaw’s May 6 reply. The preceding question about what she showed could produce an answer that defeats the premise.", "repair": "Use the answer about what Shaw showed. Only if the mock-ups were absent, ask whether the buyer said anything about their absence."}, {"quote": "R2 contemporaneously documents the vendor’s changed delivery promise and Shaw’s lost opportunity to use mock-ups.", "locator": "R2, p. 1, messages 1–2.", "why": "The note presents the lost opportunity as an established outcome. R2 documents the changed promise and Shaw’s contemporaneous statement about its effect on her plans. Actual delivery and use at the meeting remain open.", "repair": "Attribute the consequence to Shaw’s May 6 account. Establish what happened at the meeting before describing the opportunity as actually lost."}]
+
+Astra | order ADCB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1 asks whether samples affected margin approval. Q2 tests whether the buyer linked the missing mock-ups to rejection.
+2. Q2 uses the correct R2 pinpoint but asks about the buyer’s reaction before establishing that the mock-ups were absent.
+3. Q2 separates the buyer’s words from Shaw’s conclusion. Q3 traces who supplied the CRM category, and Q5 checks what Shaw has seen since the interview.
+4. Q5 identifies the buyer’s Harbor decision sheet and asks who maintains it. The stated purpose is to establish timing and test the connection between samples and margin approval.
+5. Five timed leads fit twelve minutes. Q3’s buyer-source branch can turn an internal CRM label into testimony about who heard what.
+Grader's candidates: [{"quote": "What did the buyer say about the missing mock-ups?", "reason": "Shaw’s May 6 reply establishes what she expected to lose. Whether the meeting occurred without the mock-ups still needs an answer.", "locator": "Q2 follow-up, R2 p. 1 messages 1–2"}]
+First edit: Replace the reaction question with “If the meeting went ahead without the mock-ups, what, if anything, did the buyer say about their absence?”
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+Grader's candidates: []
+First edit: Add 'from the retail buyer or the keeper identified in Q5' to the single-next-proof instruction.
+
+B | Workbench 1.3.1 (control)
+Verified audit: R2–R3. The lead assumes a presentation happened. “Who handled the exception request?” then assumes a request was made. The buyer reported lack of approval. Ask separately whether a request was made and who handled it.
+Masked auditor's source check: “R5 is Shaw’s own account of general CRM practices, not confirmation of who entered this particular category.” R5 describes the analyst’s routine. The Harbor row identifies Shaw as owner and gives the category without naming its contributor or operator. R5, p. 12, lines 2–10. R4, p. 1, row 19.
+Masked auditor's candidates: [{"quote": "What effect did the delayed sleeves actually have on your presentation to the buyer?", "locator": "R2, p. 1, messages 1–2. R5, p. 12, lines 2–10.", "why": "The lead presumes an actual presentation. The vendor announced a slip and Shaw identified a problem for her plans. Her buyer contact does not establish what presentation occurred or when she received the sleeves.", "repair": "Ask whether the presentation occurred, when the sleeves arrived, and what effect, if any, their timing had on what Shaw showed."}, {"quote": "What exactly did the buyer say about the missing mock-ups, and when?", "locator": "R2, p. 1, messages 1–2. R3, p. 2, message 4.", "why": "The trigger is Shaw linking delay to rejection. She could draw that inference herself. It does not establish that mock-ups were missing or that the buyer commented on them. The supplied buyer statement concerns margin approval.", "repair": "Ask what Shaw bases the link on. If she identifies missing mock-ups and a buyer statement about them, obtain the words and date."}, {"quote": "Who handled the exception request?", "locator": "R3, p. 2, message 4.", "why": "The buyer affirmatively reports that Harbor never got an approved exception. The email leaves open whether anyone requested one. The branch is specifically for a witness who lacks knowledge of the approval history.", "repair": "Ask whether Shaw knows if anyone sought an exception. If so, ask who handled it and how she knows."}]
+
+Astra | order ADCB | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1 seeks the buyer’s words connecting samples to rejection. Q2 tests whether timely samples could have changed the result given the stated margin problem.
+2. The exhibit pinpoints are usable. Q1 assumes a presentation occurred, Q2 assumes someone requested an exception, and the next-proof note assigns the sheet an unsupported timing.
+3. Q3 establishes Shaw’s wrap-up participation and asks how she knows who supplied the category. Q5 distinguishes speaking to the buyer from seeing the decision record.
+4. The outline names the Harbor sheet, gives a route through the buyer or retailer’s records custodian, and specifies the timing and causal questions it could answer.
+5. Five timed topics cover the twelve minutes. Q4 sends counsel either to the person who committed Harbor or to the basis for the forecast.
+Grader's candidates: [{"quote": "your presentation to the buyer", "reason": "R2 identifies a planned meeting. Whether Shaw actually presented to the buyer matters to the claimed effect of the delay.", "locator": "Q1 lead, R2 p. 1 messages 1–2"}, {"quote": "Who handled the exception request?", "reason": "The buyer reported a lack of approval. R3 leaves open whether anyone requested an exception.", "locator": "Q2 final follow-up, R3 p. 2 message 4"}, {"quote": "Harbor’s contemporaneous assortment decision sheet", "reason": "Shaw identified the sheet and said she had never seen it. R5 gives no creation or entry date.", "locator": "Single next proof, R5 p. 12 lines 2–10"}]
+First edit: Start Q1 with “Did the planned buyer meeting take place?” If yes, ask what Shaw showed. If no, ask what she knows about why it did not go ahead.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+Grader's candidates: []
+First edit: Replace Q2’s lead with 'What did the buyer personally tell you about why the margin exception had not been approved?'
+
+C | LegalQuants Litigation
+Verified audit: R2 and R5. “When was the meeting?” follows a lead that allows the answer ‘nothing’ and assumes the planned meeting occurred. Even the branch “If something was missing” does not establish the buyer commented on it. Confirm the event and any reaction before eliciting dates or words.
+Masked auditor's source check: “If something was missing: ‘What did the buyer say about its absence?’” makes the buyer-reaction inquiry conditional on establishing an actual omission. R2 supports Shaw’s contemporaneous concern about the intended mock-ups and leaves the presentation and buyer reaction open. R2, p. 1, messages 1–2.
+Masked auditor's candidates: []
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 tests both causal paths directly. Its follow-ups seek the source of a sample-related approval problem or the buyer’s view of whether timely sleeves could have overcome an independent margin obstacle.
+2. Q1 leaves the actual presentation effect open. Q3 accurately distinguishes the CRM category and close date, and Q4 correctly describes $56,000 as forecast contribution.
+3. Q2 asks what Shaw knows firsthand, Q3 asks who heard the buyer, and Q5 develops the words, timing, and medium of any further buyer communication.
+4. Q5 provides a route to the Harbor decision sheet. The next-proof instruction seeks its custodian, author, and decision date to assess the recorded reasons.
+5. The five leads use eleven minutes and leave one for a consequential answer. Q3 changes course according to whether the category came from the buyer or the sales team.
+Grader's candidates: []
+First edit: Make Q5’s sheet-custodian question available on either branch so counsel can locate the sheet even if Shaw identifies another buyer communication.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+Grader's candidates: []
+First edit: Delete the prefatory sentence beginning 'Individual fact-witness outline; as of November 9, 2026' to shorten the live-use document.
+
+D | Workbench 1.3.2
+Verified audit: R4–R5. “What part did you personally play in supplying the information used for Harbor’s Samples loss category?” takes Shaw’s personal contribution for granted. Start by asking whether Shaw supplied any information.
+Masked auditor's source check: “What do you personally know about when Harbor made its decision to pass?” leaves room for a firsthand date while requiring a basis. The buyer communicated the pass on May 17, and the CRM lists May 18 as its close date. R3, p. 2, message 4. R4, p. 1, row 19. R5, p. 12, lines 2–10.
+Masked auditor's candidates: [{"quote": "What part did you personally play in supplying the information used for Harbor’s Samples loss category?", "locator": "R4, p. 1, row 19. R5, p. 12, lines 2–10.", "why": "The lead presupposes a personal role in supplying information used for this category. Shaw owned the pitch and described the team’s usual process. Neither fact establishes that she contributed to this entry.", "repair": "Ask what part, if any, Shaw played. If she supplied information, identify it and establish whether it came from the buyer or from her own assessment."}]
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 seeks the actual presentation effect and the buyer’s response. Q3 tests the stated margin obstacle and asks what supports a link between timely samples and approval.
+2. Q2 distinguishes the revised Thursday promise from actual receipt. Q4 and Q5 accurately limit what the CRM owner, category, and close date establish.
+3. Q4 asks what Shaw personally contributed and how she knows anyone else’s source. Q5 separates the date Shaw learned of the decision from the date Harbor made it.
+4. The outline identifies the Harbor sheet, names the retail buyer as likely custodian, and specifies that its timing and recorded reasons could distinguish the competing explanations.
+5. Five timed leads fit twelve minutes. Q5 gives counsel distinct routes for a date Shaw can substantiate, a date drawn from the CRM, and a decision date she does not know.
+Grader's candidates: []
+First edit: In Q3, ask “Did the buyer ever tell you whether the sleeve timing affected margin approval?” This reaches the causal link even if Shaw initially answers only that approval never came.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+Grader's candidates: []
+First edit: Add to Q5: 'Have you seen the assortment decision sheet since your interview?' to update the next-proof foundation.
+
+Rush freight, repetition 1
+
+A | Workbench 1.3.2
+Verified audit: Clear
+Masked auditor's source check: “When did you first read the confirmation?” tests an open issue. F2, p. 1, message 5 timestamps the carrier’s confirmation at 08:32. F4, p. 5, lines 1–8 establishes that Moss read it and gives no reading time.
+Masked auditor's candidates: []
+
+Astra | order ABCD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 establishes that $3,150 fell within the cap. Q3 asks why reimbursement was sought, and Q4 tests whether the crew-cost reservation reflected any payment agreement.
+2. Q1–Q3 cite both sides of the amount and timing comparisons. The Q2 note accurately distinguishes the timestamped messages from the time Moss opened them.
+3. Q5 asks what Moss personally verified and allows for knowledge gained through records despite the lack of supervision.
+4. The missing-proof note identifies site payroll’s Friday job-coded timecards and explains how reassignment entries could test the estimate.
+5. The five leads fit the twelve-minute allocation. A claimed crew-cost agreement in Q4 opens a distinct inquiry into its participants, terms, and documentation.
+Grader's candidates: []
+First edit: In Q2, ask expressly whether the fabricator’s 08:19 message acknowledged Moss’s approval before the carrier confirmed the slot at 08:32.
+
+Sol | order DCBA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–3 establish authorization, amount, sequence, and the premium chargeback basis; Q4 directly tests the reservation of crew costs.
+2. Pinpoints support the premises. Q2 preserves the documented sequence while correctly distinguishing it from when Moss read messages.
+3. Foundations establish authorship and assembly of the memo; Q5 separates supervision, personal observations, records, and others’ information.
+4. Identifies Friday job-coded timecards and reassignments, site payroll as custodian, and their relevance to actual work underlying the estimate.
+5. Five distinct questions total twelve minutes; branches on changed instructions, crew agreements, and verification develop different evidence.
+Grader's candidates: []
+First edit: In Q5, add: “Who at site payroll can identify and explain those timecards?”
+
+B | Claude for Legal
+Verified audit: F1–F2. The introductory theory says “approval before carrier commitment.” The messages establish approval before acknowledged booking activity and carrier confirmation. They do not date when the carrier first committed. Narrow the objective to what the chain shows.
+Adjudication note: The spoken sequence is accurate. This finding concerns counsel's stated objective, which could be carried into argument.
+Masked auditor's source check: “What facts support charging back that approved premium?” is grounded in F1, p. 1, message 3 and F3, p. 2, row A. The attached invoice supports the $3,150 amount. Moss’s reason for seeking reimbursement remains open.
+Masked auditor's candidates: [{"quote": "Establish approval before carrier commitment", "locator": "F1, p. 1, message 3 and F2, p. 1, messages 4–5 and header", "why": "The approval at 08:12 and the fabricator’s acknowledgment at 08:19 both precede the carrier’s confirmation at 08:32. The carrier confirms an existing booking status. Its message does not say when it first committed to the slot.", "repair": "Use “Establish approval and acknowledged receipt before carrier confirmation.” If the time of an earlier commitment matters, ask what Moss personally knows about it."}]
+
+Astra | order ABCD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 asks why the confirmed, approved premium was charged back. Q3 confronts both the crew-cost reservation and the Friday roster, then probes whether delivery caused any idle time.
+2. Q2 pairs F2 message 5 with F3 row A to identify the same premium and cites F1 and the F2 header for the sequence. Q3–Q5 accurately attribute the roster, estimate, and payroll evidence.
+3. Q3 asks what Moss observed. Q4 tests how Moss knows particular hours, and Q5 distinguishes the estimate’s preparer from the person who checked it.
+4. Q5 identifies site payroll’s job-coded timecards and asks how reassigned hours were treated in the estimate.
+5. Five timed leads move from authorization to verification. Q5 gives counsel different inquiries depending on whether Moss reviewed the timecards.
+Grader's candidates: []
+First edit: In Q2’s reimbursement branch, ask what, if anything, the parties said about who would ultimately bear the invoiced $3,150.
+
+Sol | order DCBA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–2 test the approved premium and the asserted chargeback basis; Q3 confronts both reserved crew costs and the Friday roster.
+2. Sources support the amounts, component identity, and timestamp sequence; conditional questions do not assume unproved idle time.
+3. Q4 distinguishes lack of supervision from lack of all knowledge and identifies the people or records supporting claimed hours.
+4. Names site payroll’s Friday job-coded timecards, including reassignments, and explains how they would test estimated hours and alternative work.
+5. Five distinct leads total twelve minutes; branches on observations, sources, and reviewed records change what counsel can establish.
+Grader's candidates: []
+First edit: In Q5, ask Moss to identify the particular site-payroll contact who holds and can explain the records.
+
+C | Workbench 1.3.1 (control)
+Verified audit: F1–F2. The heading “Approval before commitment” exceeds the sourced lead, which accurately asks about approval before the fabricator reported booking. Use the event actually dated in the heading and counsel’s theory.
+Adjudication note: The heading and the spoken question prove different propositions. No defect was assigned to the spoken sequence.
+Masked auditor's source check: “What did you personally observe about whether those workers were idle?” follows Moss’s acknowledgment that a crew was rostered Friday. F4, p. 5, lines 1–8 establishes scheduling and lack of hours supervision while leaving Moss’s other observations open.
+Masked auditor's candidates: [{"quote": "Approval before commitment", "locator": "F1, p. 1, message 3 and F2, p. 1, messages 4–5", "why": "The lead accurately asks whether approval preceded the fabricator’s report that it was booking. The heading goes further if counsel relies on it to establish when a binding commitment arose. Neither booking message identifies that event.", "repair": "Use “Approval before the booking message” as the heading and retain the lead as written."}]
+
+Astra | order ABCD | scores [2, 1, 2, 2, 2] = 9/10
+1. Q1–Q3 test the cap and Moss’s basis for seeking reimbursement. Q4 directly confronts the Friday roster and asks what Moss saw that could establish idleness.
+2. The comparisons are supported across the outline, but Q2 omits F1 message 3 for the approved limit, and Q3 omits F2 message 5 for the premium it identifies as the same charge.
+3. Q4 separates scheduling involvement and personal observation from information supplied by others. Q5 distinguishes supervision from later records review.
+4. The missing-proof note names site payroll, the Friday job-coded timecards, and the reassignment entries. It accurately limits what those records could establish about causation and dollars.
+5. The five leads total twelve minutes. Q4 gives counsel distinct paths for firsthand observation, secondhand information, and denial of Moss’s interview statement.
+Grader's candidates: []
+First edit: Add F2, p. 1, message 5 to Q3 alongside F3, p. 2, row A so counsel can put both records to Moss when asking whether they concern the same premium.
+
+Sol | order DCBA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–3 establish approval, price, and the premium chargeback basis; Q4 tests the adverse roster evidence, and the notes preserve the crew-cost reservation.
+2. Premises and pinpoints track the exhibits; the outline neither assumes immediate reading nor treats approval as resolving ultimate cost allocation.
+3. Foundations address authorship, receipt, memo preparation, scheduling, and supervision; branches distinguish observations from others’ information.
+4. Specifies Friday timecards and reassignments held by site payroll, their evidentiary purpose, and their limits concerning causation and dollars.
+5. Five distinct leads total twelve minutes; denial, secondhand knowledge, and record-review branches produce useful alternative paths.
+Grader's candidates: []
+First edit: Make the crew-cost reservation question in Q1 unconditional so counsel asks it even if Moss accepts the premium approval without qualification.
+
+D | LegalQuants Litigation
+Verified audit: Clear
+Adjudication note: An instruction to obtain support for a newly identified factual basis is a legitimate discovery lead.
+Masked auditor's source check: “What records, if any, did you personally review to check the $6,400 idle-crew estimate before including it in the chargeback?” tracks F3, p. 2, row B and F4, p. 5, lines 1–8. Moss identifies the estimate as a source and site payroll as the timecard holder. Whether Moss checked the timecards remains open.
+Masked auditor's candidates: []
+
+Astra | order ABCD | scores [2, 2, 2, 2, 2] = 10/10
+1. Q2 establishes the sequence and cap. Q3 invites Moss’s basis for reimbursement, and Q4 tests both the reserved crew costs and the evidence of a rostered crew.
+2. Q2 identifies the 08:19 message as the fabricator’s report and the 08:32 confirmation as the carrier’s. Q3 treats a later agreement or performance failure as conditional.
+3. Q3 asks for the source of Moss’s account. Q4 and Q5 distinguish what Moss saw, what Moss supervised, and what records Moss reviewed.
+4. Q5 identifies site payroll’s job-coded timecards, asks who can explain them, and connects reassignment entries to verification of the crew estimate.
+5. Five distinct leads use eleven minutes and leave one for clarification. Q3 can uncover a separate reimbursement agreement and its supporting document if Moss identifies one.
+Grader's candidates: []
+First edit: Tighten the opening “Known” sentence to state the documented sequence explicitly: Moss approved at 08:12, the fabricator acknowledged approval at 08:19, and the carrier confirmed at 08:32.
+
+Sol | order DCBA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–3 test authorization, sequence, and the premium chargeback basis; Q4 directly addresses reserved crew costs and the Friday roster.
+2. Pinpoints support the premises, including the common timestamp basis; Q2 distinguishes documented sequence from Moss’s reading time.
+3. Q1 addresses recognition and recollection; Q3–5 distinguish personal observations, supplied information, estimate preparation, and record review.
+4. Identifies Friday job-coded timecards and reassignments, routes inquiry through site payroll, and explains both their use and evidentiary limits.
+5. Five distinct primary questions use eleven minutes with one reserved; branches on asserted conditions and estimate inputs develop different proof.
+Grader's candidates: []
+First edit: Remove the forum, governing-orders, and as-of-date boilerplate to keep the examination sheet focused on the twelve-minute task.
+
+Rush freight, repetition 2
+
+A | Workbench 1.3.2
+Verified audit: Clear
+Masked auditor's source check: “Your 08:12 approval email preceded the fabricator’s 08:19 message saying it was booking the Saturday slot, correct?” is established by F1, p. 1, message 3 and F2, p. 1, message 4 and header. The fabricator expressly acknowledges receipt. The counsel note’s qualification concerns the precise booking time and preserves the documented order.
+Masked auditor's candidates: []
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 tests why the customer seeks reimbursement for the approved premium. Q1 preserves the crew-cost reservation, and Q4 confronts the Friday roster.
+2. Q2 uses F1 message 3 and F2 messages 4–5 to establish what each sender said and when. Q3 traces the confirmed $3,150 to row A.
+3. Q4 asks what Moss personally observed and who supplied any secondhand account. Q5 distinguishes assembling the estimate-based claim from supervising the hours.
+4. The outline identifies site payroll’s Friday job-coded timecards and explains how reassignment entries could test the claimed idle hours.
+5. The five leads move from authorization to the two chargeback entries. Q5 changes the inquiry depending on whether Moss reviewed the timecards.
+Grader's candidates: []
+First edit: After Q4, if Moss observed workers waiting, ask, “What did you personally observe about why they were waiting?”
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–Q3 establish authorization and the premium chargeback; Q4 confronts the roster, and Q1 preserves the crew-cost reservation.
+2. Pinpoints support the premises. Q2 distinguishes message chronology from precise booking and reading times without disputing approval-before-confirmation order.
+3. Authorship, personal observations, secondhand information, and lack of supervision are developed through Q1, Q4, and Q5.
+4. Identifies site payroll’s job-coded timecards and reassignments to test estimated hours and alternative work, with appropriate limits.
+5. Five distinct questions follow a usable sequence; Q4’s knowledge-source branch and Q5’s records-review branch change the inquiry.
+Grader's candidates: []
+First edit: Make Q3’s question about the factual basis for charging back the approved premium a routine follow-up after confirming the item.
+
+B | Workbench 1.3.1 (control)
+Verified audit: F1 and F4. “What crew-cost agreement do you say had already been reached” follows any qualification of the reservation. A qualification might concern the amount or the scope of discussions without any agreement. Ask whether Moss claims an agreement before asking its terms.
+Masked auditor's source check: “The $6,400 crew charge came from an operations estimate, correct?” is supported by F3, p. 2, row B and Moss’s account of assembling the memo in F4, p. 5, lines 1–8. The follow-up properly asks whether Moss separately reviewed the timecards.
+Masked auditor's candidates: []
+
+Astra | order ADCB | scores [1, 2, 2, 2, 2] = 9/10
+1. Q4 directly tests the crew reservation and roster. Q3 asks about the basis for reimbursement only if Moss qualifies the dollar match, so a simple admission leaves the customer’s basis for row A unexplored.
+2. Q2 anchors the booking message and confirmation in F2 and leaves the reading time open. Q3 and Q5 accurately distinguish the invoiced amount from the estimate.
+3. Q4 asks what Moss personally said, heard, or observed. Q5 tests supervision and record review separately.
+4. The missing-proof note identifies site payroll’s job-coded timecards, including reassignments, and specifies which part of the $6,400 estimate they could test.
+5. Five timed leads fit twelve minutes. Q5 seeks specific entries if Moss reviewed the records and asks what hours Moss personally verified otherwise.
+Grader's candidates: []
+First edit: Move “What is your factual basis for seeking reimbursement of that authorized premium?” outside Q3’s qualification branch so counsel asks it even when Moss agrees the amounts match.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–Q3 test authorization, sequence, and amount; Q4 directly examines the crew reservation and Friday roster.
+2. Sources support the questions and notes, including common local time and the distinction between confirmation time and reading time.
+3. Foundation questions establish Moss’s participation; Q4 and Q5 distinguish observation, supervision, and reliance on records.
+4. Names the particular timecards, site payroll as custodian, and their role in testing hours and reassignments.
+5. Five timed topics total twelve minutes; Q5’s reviewed-versus-unreviewed branch produces different evidence.
+Grader's candidates: []
+First edit: Move Q3’s reimbursement-basis question outside the qualification branch so it is asked even if Moss admits the amounts match.
+
+C | LegalQuants Litigation
+Verified audit: Clear
+Adjudication note: Seeking any supporting record after Moss identifies a separate basis for repayment is a discovery step.
+Masked auditor's source check: “What, if anything, had you communicated to withdraw or change your approval before the fabricator’s 08:19 booking message?” permits the answer “nothing.” F1, p. 1, message 3 records approval, and F2, p. 1, messages 4–5 records acknowledgment followed by confirmation. Neither exhibit identifies a withdrawal.
+Masked auditor's candidates: []
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 gives Moss room to explain the crew reservation and the Friday roster. Q4 directly asks why Moss included the approved carrier expense.
+2. F1 message 3 and F2 messages 4–5 support the written chronology. Q2 distinguishes the confirmation timestamp from Moss’s reading time and asks neutrally about any change to the approval.
+3. Q3 separates Moss’s own observations from the roster. Q5 asks what Moss verified and follows up on attribution, records, and the estimator.
+4. The outline identifies site payroll, the job-coded records for the crew and dates behind the estimate, and the time allocations those records could verify.
+5. The five principal questions take eleven minutes and leave one minute for a qualification. Q3 pursues the participants and terms if Moss describes a reimbursement agreement.
+Grader's candidates: []
+First edit: Lead Q2 with “At 08:19 the fabricator wrote, ‘I have your approval,’ before the carrier confirmed the slot at 08:32, correct?” Cite F2, p. 1, messages 4–5. This puts the acknowledgment of receipt on the record.
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1 and Q4 test approval and ultimate allocation; Q3 squarely addresses the reservation and roster supporting the competing case.
+2. Usable pinpoints support the premises; Q2 asks neutrally about possible withdrawal without asserting one or confusing the documented sequence.
+3. Q3–Q5 develop personal observation, agreement participants, verification, and the limits of Moss’s knowledge.
+4. Specifies site payroll’s job-coded timecards for the estimate’s crew and dates, explaining what time allocation they would resolve.
+5. Five distinct lead questions fit eleven minutes plus a reserve; agreement and verification branches pursue materially different evidence.
+Grader's candidates: []
+First edit: Delete the sentence about November 9, 2026, forum, governing rules, and orders; it does not advance this packet-based examination.
+
+D | Claude for Legal
+Verified audit: F1 and F4. Even if Moss claims an agreement, “what document records it” assumes a written memorial. Ask whether it was documented before asking for a document.
+Masked auditor's source check: “Site payroll holds the job-coded timecards, including reassignments?” tracks Moss’s affirmative statement in F4, p. 5, lines 1–8. Those records would test time allocation behind F3, p. 2, row B. Their contents and the reason for any idle time remain open.
+Masked auditor's candidates: [{"quote": "what document records it", "locator": "F1, p. 1, message 3 and F4, p. 5, lines 1–8", "why": "The branch assumes Moss has just claimed a separate crew-cost agreement. That testimony alone would supply no basis to assume a document records it. F1 reserves crew costs for later discussion, and F4 identifies the operations estimate as the source for the crew charge.", "repair": "Ask who agreed, when, and what each person said. Then ask, “Was that agreement recorded anywhere?” If yes, identify the record."}]
+
+Astra | order ADCB | scores [2, 2, 2, 2, 2] = 10/10
+1. Q3 asks why the customer charged back the approved premium. Q4 tests both the express reservation and the possibility of a separate crew-cost agreement.
+2. Q2 pins the three messages to their senders and timestamps and uses F4 for Moss’s statement about reading the confirmation. Q3 accurately identifies the support for each memo row.
+3. Q4 asks what Moss observed about the rostered crew. Q5 tests supervision, record review, and the basis for attributing any idle time to the delivery.
+4. The outline names site payroll’s Friday job-coded timecards and explains how to compare hours and reassignments with the estimate.
+5. Five leads allocate the full twelve minutes, with four for the crew estimate. Q5 seeks entries and reassigned time on a yes answer, or the estimator and Moss’s independent basis on a no.
+Grader's candidates: []
+First edit: Replace Q3’s branch about describing all $9,550 as crew loss with “If you dispute that row A is the confirmed premium, which carrier charge does row A cover?”
+
+Sol | order BCDA | scores [2, 2, 2, 2, 2] = 10/10
+1. Q1–Q3 establish authorization and probe chargeback entitlement; Q4 addresses the preserved crew claim and Friday roster.
+2. Pinpoints support chronology, the premium’s amount and cap, separate chargeback entries, and Moss’s prior statements.
+3. Q4 seeks personal observations and agreement participants; Q5 distinguishes supervision, record review, and the estimator’s information.
+4. Identifies site payroll’s Friday crew timecards and reassignments to test actual hours while reserving ultimate cost responsibility.
+5. Five distinct questions total twelve minutes; Q3’s allocation branch and Q5’s record-review branches change what counsel learns.
+Grader's candidates: []
+First edit: In Q5, ask Moss to identify the site payroll contact who can provide the job-coded timecards and reassignment records.
