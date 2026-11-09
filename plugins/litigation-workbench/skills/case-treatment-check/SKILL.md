@@ -1,6 +1,6 @@
 ---
 name: case-treatment-check
-description: Check whether a U.S. case can still support a particular proposition, investigate adverse history and later treatment, and prepare or reconcile counsel's dated Shepard's check. Use for good-law, Shepardize, and update-my-authorities requests.
+description: Determine what subsequent history or later decisions do to a named U.S. case on a particular proposition. Prepare or reconcile counsel’s dated Shepard’s check for that point. Use for “still good law,” “Shepardize this case,” or updating cited cases for later treatment.
 ---
 
 Start with the cited case, the exact proposition or draft sentence, the forum and the requested as-of date. For a bare citation, resolve the case and report any direct history you can substantiate. Ask which proposition and forum matter before offering a reliance recommendation. Resolve short forms to their antecedents. Give separate rows for materially different propositions drawn from the same opinion.

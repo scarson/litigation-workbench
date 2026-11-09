@@ -25,6 +25,8 @@ codex plugin add litigation-workbench@scarson-legal
 
 ## Give it a first assignment
 
+After the workshop, keep Workbench installed and switch it off until you want a particular deliverable. Compare your preferred daily litigation bundle on your own material. [How to switch plugins, choose a skill explicitly and compare results](https://scarson.github.io/litigation-workbench/tools.html#overlap).
+
 The [practical guide to the tools](https://scarson.github.io/litigation-workbench/tools.html) covers what each one provides, copyable examples, and how to check the work. For Anthropic’s plugin, [browse all 19 litigation skills and try a civil claim chart](https://scarson.github.io/litigation-workbench/tools.html#claude-for-legal).
 
 **[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the seven assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation, CourtListener and optional Descrybe install links. A browser-only user can use the prompts while sorting out plugin access.

@@ -1,6 +1,6 @@
 ---
 name: lexis-research-handoff
-description: Turn a legal issue into a research assignment for a lawyer to run in Lexis and synthesize independently obtained authorities and counsel's verification notes.
+description: Prepare queries, filters, and an adverse-authority search for counsel to run in firm Lexis on an open issue. Synthesize returned public authorities and counsel’s authorized notes when supplied.
 ---
 
 For a new assignment, identify forum, governing law, posture, issue and as-of date. Ask for any missing item that would change the search, or provide labeled branches. Reduce the question to the facts that can change the rule. Draft search text that counsel can enter in Lexis: a plain-language formulation, targeted terms and connectors, and a search for adverse authority or exceptions. Suggest filters and what would distinguish a promising result. Leave case names blank until supported by a source.

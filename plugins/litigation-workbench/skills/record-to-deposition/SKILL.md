@@ -1,6 +1,6 @@
 ---
 name: record-to-deposition
-description: Prepare or update an exhibit-linked deposition outline for a named witness from a supplied litigation record.
+description: Build an admission-by-admission examination outline for a named witness from supplied exhibits. Tie each question to foundation, a pinpoint and a follow-up for denial or qualification. Update the outline when new evidence arrives.
 ---
 
 Use the current assignment, the supplied record and any matter brief counsel provided. Identify the examining party, the witness's role, the admissions sought and the limits of the witness's likely knowledge. If the record leaves an objective open, propose one and label it as counsel's choice.

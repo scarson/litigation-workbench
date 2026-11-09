@@ -1,6 +1,6 @@
 ---
 name: evidence-matrix
-description: Build or update a chronology or proposition-by-proposition proof matrix from a litigation record, with pinpoints and conflicts.
+description: Build or update a proof matrix for disputed factual propositions. Give each a stable ID, the best record evidence on each side and a specific gap to close. Preserve IDs and edits when new exhibits arrive, including in an existing Workbench chronology.
 ---
 
 Identify counsel's decision and the propositions material to it. Use the attorney's issue list when supplied. If no governing elements are provided, organize by factual issues and flag legal elements for research. Inventory the files you could actually read, including any missing pages, attachments, OCR problems or partial productions that affect coverage.

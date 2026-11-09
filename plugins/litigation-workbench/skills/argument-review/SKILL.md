@@ -1,11 +1,13 @@
 ---
 name: argument-review
-description: Pressure-test counsel’s argument, case theory, or proposed term. Show the original, a written steelman, an independent adversarial review, and a revised position with a record of what changed.
+description: "Adversarial review of counsel’s own position: preserve the original, write a separate steelman, seek an independent opponent’s critique, and show which objections changed the revision. Use for testing a case theory or proposed term through both sides’ arguments."
 ---
 
 Work toward the decision counsel names. Establish the side, audience, forum, posture, cutoff and permitted materials. For a partial record, identify the gap and proceed as far as the available sources allow. Use record IDs and locators a lawyer can reopen. Attribute a stipulation or admission to its actual speaker and scope. Keep a hypothetical concession, a proposed offer, and an agreed fact distinct.
 
 ## Before and after the steelman
+
+Honor a narrower assignment. If counsel asks for just one objection or a quick single-pass read, return that review directly and leave the independent stage for a request that calls for it.
 
 1. **Original.** Reproduce the assigned language verbatim, with its draft version and paragraph if available. For a long draft, quote the assigned passage and identify its scope. If counsel supplies only a question, write a short starting argument labeled “working baseline drafted by agent.” Keep that text visible through the final answer.
 2. **Steelman.** Write a second, complete, usable version of the strongest argument for counsel’s position. Preserve the client’s objective. Strength may come from narrowing a claim, acknowledging adverse text, or proposing a different remedy. Identify each material change and its supporting pinpoint or explicit assumption. If the requested conclusion cannot be supported, explain the limit and give the strongest supportable alternative. Freeze both versions before inviting review.

@@ -13,6 +13,7 @@
     <a href="./#install">← Setup and installation</a>
     <h1>A litigator’s guide to the tools</h1>
     <p class="lead">Which tool would you open for the work on your desk?</p>
+    <p><a href="#overlap">What to leave enabled after the workshop, and how to choose when two tools fit.</a></p>
     <nav class="task-links" aria-label="Choose a tool by task">
       <a href="#claude-for-legal">Map a claim or prepare a witness <strong>Claude for Legal</strong></a>
       <a href="#workbench">Reconcile a demand or test an argument <strong>Litigation Workbench</strong></a>
@@ -22,6 +23,38 @@
       <a href="#shepards">Shepardize a proposition at work <strong>Lexis and Shepard’s</strong></a>
     </nav>
   </header>
+  <section id="overlap">
+    <h2>What should I leave enabled?</h2>
+    <p><strong>After the session, leave Workbench installed and switch it off.</strong> Start daily work with one general litigation bundle. Try Claude for Legal first if your week centers on developing proof, examining witnesses and briefing matters. Try LegalQuants Litigation first if your next job is checking a filing or reviewing a production. Keep CourtListener available when you want public sources. Add Descrybe if you use its subscription. Your firm’s Shepard’s workflow carries on in Lexis.</p>
+    <p>Bring Workbench back for a particular output you value. Examples are a damages bridge from invoices to contractual payment triggers, the original argument beside a steelman and an independent reviewer’s objections, or a proposition-by-proposition handoff for your own Shepard’s checks. Make it a daily default only if a recurring job takes less time <em>including your corrections</em>. We tested selection and example outputs. We have no head-to-head evidence of superior legal work.</p>
+    <h3>Compare two tools on your own question</h3>
+    <ol>
+      <li>Install the bundles you want to try. For an ordinary-language test, enable one competing bundle at a time and begin a fresh chat for each run. Give each the same approved exhibits, question and output format. Keep the first answer and your corrections out of the second chat.</li>
+      <li>For a deposition comparison, try the short assignment below. Open both outlines beside the exhibit. Which one asks a question the witness can answer, preserves the qualification and gives you a useful follow-up? Record how many minutes it takes to get each outline ready to use.</li>
+      <li>Keep your preferred bundle enabled for everyday requests. For an occasional second opinion, re-enable the other bundle, start a fresh chat, explicitly select its skill and give it the same record. A switch applies to the whole bundle, including its other skills.</li>
+    </ol>
+    <blockquote class="prompt">We represent the buyer and will examine the seller’s project manager. On page 2 of Exhibit M1 the manager wrote, “I haven’t seen the signed acceptance.” Draft four questions about what she personally knew. Include foundation, an exhibit pinpoint, and a follow-up if she says someone else handled acceptance.</blockquote>
+    <p><strong>What to score.</strong> An outline loses the point if it turns “I haven’t seen it” into “no one signed it.” Give credit for a question that identifies who would know or where the signed copy would be kept.</p>
+    <h3>How to choose explicitly</h3>
+    <p><strong>Personal desktop shortcut.</strong> In a local Codex chat, you can ask “Turn off Litigation Workbench for my local Codex account, keep it installed, and show me its enabled setting. Leave the other plugins alone.” To use it again, ask Codex to enable it and start a fresh chat. If you only want to pick another skill for this assignment, use the picker below.</p>
+    <ul>
+      <li><strong>ChatGPT Work or desktop.</strong> Type <code>@</code> in the composer and select the bundled skill when it appears. In a Codex view with <strong>Sources → Use plugins</strong>, select the installed plugin and name the skill in your request. Check the publisher when names look alike. In a managed workspace, use the chat picker to compare tools without changing workspace-wide settings.</li>
+      <li><strong>Local Codex CLI.</strong> In the interactive chat, type <code>/plugins</code>, highlight an installed plugin and press <kbd>Space</kbd> to toggle it. Begin a fresh chat. Type <code>/skills</code> or type <code>$</code> and pick the skill. For example, select <code>record-to-deposition</code> from Workbench or <code>depositions</code> from LegalQuants before adding the same question. An explicit pick requires the plugin to be enabled. <a href="https://learn.chatgpt.com/docs/plugins">Plugin controls</a> · <a href="https://learn.chatgpt.com/docs/build-skills">Skill invocation</a> · <a href="https://help.openai.com/en/articles/20001256">Desktop picker instructions</a>.</li>
+    </ul>
+    <details><summary>Which ordinary requests overlap?</summary>
+      <p>Codex can use skill descriptions to select a workflow. The words below are examples of requests a lawyer could actually type. Adding the desired work product often resolves the ambiguity.</p>
+      <dl class="routes">
+        <dt>“Help me prepare for this deposition.”</dt><dd>Three skills fit. For admissions, exhibit foundation and a follow-up for each denial, try Workbench <code>record-to-deposition</code>. For an outline tied to case theory and witness documents, try Claude <code>deposition-prep</code>. For corporate designee topics, witness preparation or work with the transcript afterward, try LegalQuants <code>depositions</code>.</dd>
+        <dt>“Organize the evidence.”</dt><dd>Ask Claude for a dated timeline (<code>chronology</code>) or a chart for specified claim or defense elements (<code>claim-chart</code>). Ask Workbench for factual propositions with stable IDs, support, contrary evidence and missing proof (<code>evidence-matrix</code>). Ask LegalQuants to inventory a production against requests (<code>docreview</code>) or organize an accepted matter’s workspace (<code>organize-case-docs</code>).</dd>
+        <dt>“Check my brief.”</dt><dd>Ask LegalQuants <code>cite-check</code> to check the filing’s citations and quotations. Ask Workbench <code>brief-audit</code> for the paragraph that outruns its source and a defensible rewrite. For new prose, Claude <code>brief-section-drafter</code> and LegalQuants <code>writing</code> both draft. Give them the same section if you are comparing style.</dd>
+        <dt>“Pressure-test this.”</dt><dd>Workbench <code>argument-review</code> keeps the original, steelman, independent challenge and decisions on revisions. For LegalQuants’ check of internal logic, dates and figures, explicitly pick <code>pressuretest</code>. Its publisher marks it explicit-only in Codex, even though its description uses the words “pressure-test.”</dd>
+        <dt>“Check this case.”</dt><dd>Ask CourtListener for the public opinion or filing. Ask Descrybe for a later-treatment search if connected. For the effect on one sentence and a dated firm citator check, ask Workbench for <code>case-treatment-check</code>. For searches you will run yourself on an open issue, request a Lexis search plan. Retrieval and treatment review can be successive steps on one assignment.</dd>
+        <dt>“Open this matter” or “update the client.”</dt><dd>Claude <code>matter-intake</code> starts its matter log. LegalQuants <code>new-matter</code> starts its controlled intake. Choose the one whose record you intend to maintain. For a call from the existing log, use Claude <code>matter-briefing</code>. For a recipient-ready draft, ask LegalQuants for <code>client-update</code>. Pick the same home for later updates to avoid maintaining two matter logs.</dd>
+        <dt>“Help with this demand, subpoena or privilege log.”</dt><dd>Claude has dedicated <code>demand-received</code>, <code>demand-draft</code>, <code>subpoena-triage</code> and <code>privilege-log-review</code> workflows. LegalQuants <code>correspondence</code> covers demand and response letters, <code>document-discovery</code> covers objections and conferral, and <code>docreview</code> can build a privilege review queue. Specify the artifact you need and the source set it should cover.</dd>
+      </dl>
+      <p><a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md#natural-language-selection-in-codex">Description audit and routing test results</a> · <a href="https://github.com/LegalQuants/lq-plugin-oss/blob/main/plugins/legalquants-litigation/skills/pressuretest/agents/openai.yaml">LegalQuants invocation policy</a>.</p>
+    </details>
+  </section>
   <section id="claude-for-legal">
     <h2>Claude for Legal (compatible with Codex)</h2>
     <p>The setup page installs <strong>Litigation Legal</strong> from Anthropic’s Claude for Legal collection. It gives Codex 19 named skills. A skill is a set of instructions for a particular job. For example, <code>claim-chart</code> tells Codex how to map evidence to each element, while <code>deposition-prep</code> builds a witness outline around the issues and exhibits. You can start either with approved local files.</p>
@@ -77,7 +110,7 @@
   </section>
   <section id="legalquants">
     <h2>LegalQuants Litigation</h2>
-    <p>A practitioner-built collection for reviewing and drafting litigation work. Use <code>cite-check</code> for a brief and its sources, <code>pressuretest</code> for an opponent’s best response, or <code>depositions</code> for witness preparation. The bundle also covers discovery, document review, client updates and correspondence.</p>
+    <p>A practitioner-built collection for reviewing and drafting litigation work. Use <code>cite-check</code> for a brief and its sources or <code>depositions</code> for witness preparation. For an opponent’s best response, explicitly select <code>pressuretest</code> in the skill picker. The bundle also covers discovery, document review, client updates and correspondence.</p>
     <p><strong>Try a cite check.</strong> Select the plugin in a fresh chat. Attach your numbered draft and the cited opinions it may read. The fictional practice file includes a two-sentence draft and a public opinion for this comparison.</p>
     <blockquote class="prompt">Use LegalQuants Litigation’s cite-check on the attached draft and opinions. For each challenged sentence, give the paragraph number, the proposition, the controlling passage and reporter page. Identify any authority you could not read. Show me the most consequential correction first.</blockquote>
     <p><strong>Check the correction.</strong> Open the page and read the sentences on either side. Check whether the majority or a separate opinion spoke. If a real citation only supports a narrower proposition, ask for a revised sentence you can use. <a href="practice.html#brief-audit">Try the two-sentence audit</a> · <a href="./#install-legalquants">Install LegalQuants Litigation</a> · <a href="https://github.com/LegalQuants/lq-plugin-oss/tree/main/plugins/legalquants-litigation/skills">Publisher’s skill directory</a>.</p>

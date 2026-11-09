@@ -1,6 +1,6 @@
 ---
 name: brief-audit
-description: Audit a draft brief or opponent's argument against the supplied record and primary authorities and return prioritized corrections.
+description: Find where a draft paragraph overstates a supplied exhibit or primary opinion. Prioritize consequential defects, show the limiting passage and give the narrowest supportable rewrite.
 ---
 
 Use the draft as a list of claims to test. Identify its version, the assigned issue, posture and available sources. Break compound sentences into their material factual and legal propositions. For each challenged proposition give the draft paragraph, assertion, cited source and pinpoint, what the source actually supports, the strongest contrary passage and the practical effect.

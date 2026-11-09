@@ -51,5 +51,7 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line);
 .inventory dl { margin: .5rem 0 1rem; }
 .inventory dt { font-family: ui-monospace, monospace; font-size: .9rem; }
 .inventory dd { margin: .1rem 0 .55rem; }
+.routes dt { margin-top: .8rem; font-weight: 650; }
+.routes dd { margin: .15rem 0 .75rem; }
 @media (max-width: 40rem) { .hero, .tool { grid-template-columns: 1fr; } .hero { gap: 1.3rem; } .tool a { justify-self: start; } .prep { padding-left: 1rem; } summary span { display: block; margin-left: 1.1rem; } }
 @media print { :root { font-size: 10pt; } main { max-width: none; padding: 0; } .copy, .status, nav { display: none; } .hero { grid-template-columns: 1fr 1fr; } h1 { font-size: 26pt; } }
