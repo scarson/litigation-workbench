@@ -1,0 +1,75 @@
+Print-job export | Source-check replay
+The earlier investigation's outline ID is shown for each review. Source reviews follow verbatim. The adjudications are AI judgments. “New” means an additional material premise the adjudicator accepted. “Optional” means a wording clarification. “False” means an unsupported objection. “Unverified” means source access remains unresolved.
+
+Print-job export | Outline I | Revised skill
+
+The main repairs concern the assumed printing sequence and the assumption that someone approved closure. The ticket timestamps themselves are supported. The original outline is left intact below; these are proposed edits only.
+
+1. **Objective — “explore who authorized closure.”**
+
+   **Source:** E2, p. 2, lines 5–8, attributes ticket closure to the service desk and says some tickets require supervisor approval. E3, p. 3, paragraph 2, says the log does not record an approver. Neither establishes that anyone authorized this closure.
+
+   **Smallest correction:** “explore who, if anyone, authorized closure.”
+
+   Establishing when printing finished remains a proper investigative objective, but the supplied log cannot establish that time.
+
+2. **Question 1 — “Why did you restart the job after it had finished printing?”**
+
+   **Source:** E1, p. 1, rows 12–13, establishes ticket opening at 10:02 and closure at 10:44 Wednesday. E2, p. 2, lines 5–8, records the foreperson’s account of restarting the job that morning at an unremembered time and seeing a finished stack after lunch. E3, p. 3, paragraph 2, explains that closure can reflect referral or resolution and does not record the press finish time.
+
+   **Unsupported inference:** These facts do not establish that printing finished before the restart. Ticket closure also does not establish printing completion.
+
+   **Smallest usable correction:** “What had you observed about the job’s printing status before you restarted it?”
+
+   Retain the follow-up about what the foreperson personally observed and when. Ask why the foreperson restarted an already finished job only if testimony first establishes that the job had finished before that restart.
+
+3. **Question 2, conditional follow-up — “If the witness knows whether it was required, ask ‘Who approved this closure?’”**
+
+   **Source:** E2, p. 2, lines 5–8, says only that some tickets require supervisor approval. E3, p. 3, paragraph 2, says the log does not identify an approver.
+
+   **Unsupported inference:** Knowing whether approval was required does not establish that approval occurred. The witness could satisfy the condition by answering, “No approval was required,” or “Approval was required, but none was obtained.”
+
+   **Smallest usable correction:** Keep the lead. Replace its branch with: “Did anyone approve this closure?” Only if the witness says someone did, ask, “Who approved this closure?”
+
+| Coverage | Lead and follow-ups; source or necessary foundation |
+|---|---|
+| Objective | “establish when the printer finished” is an investigative goal; E3 prevents treating closure as finish time. “explore who authorized closure” needs **repair 1**. |
+| Question 1 | “Why did you restart…” needs **repair 2**. “what the foreperson personally observed…” and “when” are open inquiries; E2 supplies the reported restart and later stack observation, without establishing their relationship to actual completion. |
+| Question 2 | “Do you know whether supervisor approval was required…” is an open inquiry supported as a topic by E2. “Who approved this closure?” requires testimony that approval occurred; **repair 3** supplies that condition. |
+| Question 3 | “The ticket was opened at 10:02 and closed at 10:44…” is supported by E1, p. 1, rows 12–13, including the same local clock. “who maintains the service log” is an open foundation inquiry if authentication fails. No repair needed. |
+| Next-proof notes | No separate notes supplied. The personal-observation and log-maintenance branches are covered above. |
+
+All supplied question groups and branches were checked. No referenced exhibit is missing.
+
+ADJUDICATION
+The review fully catches both assigned defects and separately repairs the objective’s assumption that someone authorized closure.
+
+Target 9 (The press finished before the manual restart.) | full | The review locates the assumption in Question 1’s phrase “after it had finished printing.” E1, rows 12–13, dates the ticket entries. E3, paragraph 2, explains that either referral or resolution can close a ticket. E2, lines 5–8, places the stack observation after lunch but leaves the order of completion and restart unresolved. The replacement asks what the foreperson observed before restarting and reserves the original why-question until testimony establishes that order.
+Review excerpt: These facts do not establish that printing finished before the restart. Ticket closure also does not establish printing completion.
+
+Target 10 (Knowing the approval rule means someone approved the closure.) | full | The review identifies the faulty condition for asking “Who approved this closure?” E2, lines 5–8, says some tickets require approval, and E3, paragraph 2, says the log records no approver. The repair preserves the question about the requirement, then asks whether anyone approved this closure before seeking a name.
+Review excerpt: Knowing whether approval was required does not establish that approval occurred.
+
+Additional finding | new | “explore who, if anyone, authorized closure.”
+The objective’s wording directs counsel to identify an authorizer and leaves out the possibility that closure occurred without authorization. E2, p. 2, lines 5–8, identifies who handles closure generally, and E3, p. 3, paragraph 2, says the log records no approver. Adding “if anyone” brings that possible answer within the stated objective.
+
+Print-job export | Outline II | Revised skill
+
+No material factual premise needs repair. The outline can remain intact. Its conditional follow-ups supply the necessary foundation, and its open questions do not treat approval or a particular press-finish sequence as established.
+
+The key limits are preserved: E1 dates ticket opening and closure; E2 reports the foreperson’s restart and later observation of a finished stack; E3 explains that closure can reflect referral or resolution and records neither press completion nor an approver.
+
+| Item | Lead and each follow-up, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| Objective | “establish what the record dates”; “the basis for any closure authority” | E1, p. 1, rows 12–13 dates ticket events. E2, p. 2, lines 5–8 and E3, p. 3, ¶2 leave ticket-specific approval and authority open for inquiry. |
+| 1 | “What do you personally recall…”; if the witness can place both events, “what observation fixes their order” | E2, p. 2, lines 5–8 supports the witness’s account of a manual restart and seeing a finished stack after lunch. The lead openly seeks personal recollection; the follow-up depends on an answer placing both events. E1 and E3 do **not** establish their order or the press finish time. |
+| 2 | “Do you know whether anyone actually approved…”; if a specific approval is recalled, “who gave it” and “how the witness personally learned of it” | Genuine open inquiry. E2, p. 2, lines 5–8 says only that some tickets require supervisor approval. E3, p. 3, ¶2 says the log records no approver. The conditional answer supplies the approval premise for both follow-ups. |
+| 3 | “The ticket was opened at 10:02…”; if authentication fails, “who maintains the service log” | E1, p. 1, rows 12–13 expressly supports both times and the same local clock. The maintenance question seeks a possible foundation witness without assuming this foreperson can authenticate the entries. |
+| Next-proof notes | None separately supplied | The observation, approval-knowledge and log-maintenance inquiries are covered above. |
+
+All supplied objective language, leads and branches were checked. No exhibits are missing from the supplied packet.
+
+ADJUDICATION
+The review correctly approves the outline because E1 supports both ticket times and the follow-ups about press sequence and closure approval depend on the foreperson’s recollection.
+
+No target or additional repair recorded.

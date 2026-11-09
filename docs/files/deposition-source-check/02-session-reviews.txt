@@ -1,0 +1,640 @@
+Supplier presentation | Source-check replay
+The earlier investigation's outline ID is shown for each review. Source reviews follow verbatim. The adjudications are AI judgments. “New” means an additional material premise the adjudicator accepted. “Optional” means a wording clarification. “False” means an unsupported objection. “Unverified” means source access remains unresolved.
+
+Supplier presentation | Outline 1A | Plain request
+
+The outline has no material factual contradiction with the packet. I would make two narrow qualifications, leaving the questions and branches intact.
+
+1. **Avoid implying that Ren confirmed reuse of this particular file.**
+
+   **Problem:** “the file was last saved March 14, and Ren says the deck was reused.”
+
+   **Source:** T5, p. 6, lines 4–10: “Our deck gets reused for lab visits.” This describes a general practice; it does not establish that the produced version was previously reused or that slide 5 was added after the trial. T2, file properties, p. 1, establishes the March 14 save date.
+
+   **Smallest correction:** “the file was last saved March 14, and Ren describes a general practice of reusing the deck for lab visits.”
+
+2. **Describe the recording as a source to seek, with availability unconfirmed.**
+
+   **Problem:** “The AV recording saved under booking **M-18**.”
+
+   **Source:** T5, p. 6, lines 4–10. Ren describes AV’s practice of saving recordings under booking numbers and identifies M-18 as the trial booking. The packet supplies no recording or separate confirmation of its current availability.
+
+   **Smallest correction:** “Any available AV recording for trial booking **M-18**.”
+
+The remaining factual premises are appropriately qualified. In particular, the outline preserves the uncertainty about attendance, whether slide 5 appeared at the trial, what “the rest” meant, and who supplied the notebook’s ratio. Its identification of T3 as the strongest adverse evidence is supported without treating that email as conclusive proof that no settings were disclosed.
+
+ADJUDICATION
+A identifies an unsupported assumption about the M-18 recording and offers an optional clarification about deck reuse.
+
+Additional finding | optional | Avoid implying that Ren confirmed reuse of this particular file.
+T5, p. 6, lines 4–10 describes routine deck reuse. T2, file properties, p. 1 dates the produced file’s last save. The existing branch already requires Ren to connect that file to the trial. The edit clarifies what Ren meant by reuse without changing that foundation.
+
+Additional finding | new | Any available AV recording for trial booking **M-18**.
+T5, p. 6, lines 4–10 identifies AV’s recording practice and the booking number. The outline’s definite wording assumes a specific recording was saved, and its condition addresses only what the recording captures. The edit makes availability a question for AV.
+
+Supplier presentation | Outline 1A | Initial skill
+
+I found two factual foundations to tighten under the supplied deposition-source-check instructions. The original outline remains intact.
+
+1. **Section 4 — recollection of a setting does not necessarily establish disclosure of its value.**
+
+   **Problem:** “If Ren recalls a setting: ‘What value do you remember stating?’”
+
+   **Source:** T3, p. 2, message 1 records showing the yield chart and leaving “the rest” for follow-up. T5, p. 6, lines 4–10 records Ren’s recollection of showing the photograph and yield chart. Neither establishes an orally stated setting value.
+
+   The lead appropriately tests oral disclosure, but the branch can overrun a qualified answer such as, “I remember discussing bath ratio, but I don’t remember giving a number.” That answer recalls a setting without establishing that Ren stated its value.
+
+   **Smallest correction:** “Do you independently remember stating a value for that setting?” **If yes:** “What value do you remember stating?” Then retain the question about who was present.
+
+2. **Single next source — the specific recording’s existence remains unconfirmed.**
+
+   **Problem:** “The AV recording saved under booking **M-18**.”
+
+   **Source:** T5, p. 6, lines 4–10: “AV saves a recording under each booking number. The trial booking was M-18.” This establishes Ren’s account of AV’s practice and the trial’s booking number. It does not independently confirm that a recording was made and remains available for this trial.
+
+   **Smallest correction:** “Check AV for a March 11 trial recording under booking **M-18**. If one exists and captures the screen and speech, it could establish whether settings were displayed or spoken during the trial.”
+
+   The existing condition concerning screen and speech coverage is sound; preserve it.
+
+**Coverage:** Checked all five leads, their foundations and branches, headings, the adverse-evidence note, and the next-source note against the supplied T1–T5 passages. No other material premise repair identified. The AV recording itself was not supplied and could not be checked.
+
+ADJUDICATION
+B identifies two material assumptions and supplies usable questions for establishing whether Ren stated a value and whether AV has the M-18 recording.
+
+Additional finding | new | Do you independently remember stating a value for that setting?
+The section 4 branch asks for a value as soon as Ren recalls a setting. Ren could recall discussing bath ratio while remaining unsure whether a number was spoken. T3, p. 2, message 1 and T5, p. 6, lines 4–10 leave that distinction open. The proposed question resolves it before counsel asks for the number.
+
+Additional finding | new | Check AV for a March 11 trial recording under booking **M-18**.
+T5, p. 6, lines 4–10 gives counsel a booking number and Ren’s account of AV’s practice. The recording itself is absent from the packet. Checking for it addresses the original assumption that one was saved while preserving the separate condition about screen and speech coverage.
+
+Supplier presentation | Outline 1A | Revised skill
+
+I found one premise to qualify in the next-source note. The five question groups need no material factual-premise repair. The original outline remains intact.
+
+1. **Single next source — recording existence**
+
+   **Words at issue:** “The AV recording saved under booking **M-18**.”
+
+   **Source:** T5, p. 6, lines 4–10: “AV saves a recording under each booking number. The trial booking was M-18.”
+
+   **Supported fact and gap:** Ren describes AV’s recording practice and identifies the trial booking. That supports seeking a recording, but does not independently confirm that this particular recording was made, saved or remains available. The following sentence appropriately makes screen and speech coverage conditional; it leaves existence unqualified.
+
+   **Smallest correction:** “Seek any AV recording associated with trial booking **M-18**, and confirm whether it was made and retained. If available, determine whether it captures the screen and speech.”
+
+**Coverage of the supplied outline**
+
+| Group or note | Lead and follow-ups, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **1. Who heard** | “Whom do you personally remember…” → “What do you remember about whether the production engineer stayed…” | T5, p. 6, lines 4–10 supports the greeting and lack of attendance-taking. Both questions seek personal recollection; the branch tests continued presence without treating greeting or T1’s visitor list as proof of hearing settings. |
+| **2. Email** | “In your March 11 email…” → “Which material did you leave…” → “What settings, if any, had you already communicated?” | T3, p. 2, message 1 supplies the quoted language. Ren’s answer that some material was deferred licenses identifying it. The settings question remains open, including an answer of none. |
+| **3. Screen content** | “What do you independently remember displaying…” → “What connects this saved version…” | T5 supports laptop use and remembered photo/chart display. Reliance on slide 5 triggers the version-foundation inquiry. T2, slide 5 and file properties, p. 1, together with T5’s reuse account, support testing the connection rather than assuming that slide appeared at trial. |
+| **4. Oral disclosure** | “Apart from what appeared on screen…” → “What value do you remember stating?” → “Whom do you personally remember being present…” → “What part do you remember yourself…” | The lead openly tests oral disclosure; T3 and T5 do not establish it. Ren’s affirmative recollection of stating a setting licenses the value and audience inquiries. A qualified recollection licenses separating memory from inference. |
+| **5. Notebook** | “What, if anything, do you know firsthand…” → “What do you personally remember that connects that entry…” | T4, p. 9, supplies the entry, uncertainty and absent attribution. Both questions seek a connection; Ren’s proposed presentation connection triggers the follow-up without establishing that connection as fact. |
+| **Objectives and scope** | “Individual fact witness; 12 minutes”; “what settings were actually communicated” | The assignment supplies the role, time limit and disputed issue. The outline treats disclosure as something to establish. |
+| **Best evidence note** | “Ren’s same-day email…”; “The produced settings slide does not resolve this…” | T3 supports the adverse account while leaving “the rest” ambiguous. T2’s later save date and T5’s reuse account support the stated foundation concern; neither proves slide 5 was absent. |
+| **Next-proof note** | “The AV recording saved…”; “If it captures…” | T5 supports the search target. Qualify existence as in **repair 1**; retain the conditional treatment of contents. |
+
+All supplied exhibit excerpts were reviewed. No cited exhibit is missing from this packet.
+
+ADJUDICATION
+No legacy targets were assigned, and the review identified one material premise to qualify in the next-source note.
+
+Additional finding | new | Seek any AV recording associated with trial booking **M-18**, and confirm whether it was made and retained. If available, determine whether it captures the screen and speech.
+T5, p. 6, lines 4–10 identifies AV’s routine practice and the M-18 booking number. The outline’s phrase “The AV recording saved under booking M-18” assumes that AV saved this particular recording. The repair directs counsel to verify creation and retention while preserving the existing condition on screen and speech coverage.
+
+Supplier presentation | Outline 1C | Initial skill
+
+Four foundation repairs are warranted. The original outline remains intact.
+
+1. **Question 1, qualified-answer branch:** “Which particular setting do you remember communicating?”
+
+   **Source:** T5, p. 6, lines 4–10, supports Ren’s recollection of showing the photograph and yield chart. T3, p. 2, message 1, reports that settings were requested; neither establishes that Ren remembers communicating one. A qualified answer such as “I remember the request, but not whether I answered” would leave this follow-up assuming disclosure.
+
+   **Smallest correction:** “Do you remember communicating any particular process setting?” **If yes:** retain “Which particular setting?”, followed by the questions about how it was communicated and who was present.
+
+2. **Question 2, follow-up:** “What do you know about changes between March 11 and the March 14 save?”
+
+   **Source:** T2, file properties, p. 1, establishes a March 14 last-save date. It does not establish that content changed after March 11 or identify the version displayed.
+
+   **Smallest correction:** “Do you know whether this file changed between the March 11 trial and the March 14 save?” **If yes:** “What changes do you know about?”
+
+3. **Question 4, lead:** “how the supplier engineer obtained the information recorded as ‘12:1? confirm with lab’”
+
+   **Source:** T4, p. 9, contains that tentative entry beneath “trial,” without speaker attribution. It does not establish that the engineer received the ratio from someone; the entry could reflect a question or hypothesis.
+
+   **Smallest correction:** “What personal knowledge, if any, do you have about the basis for the entry ‘12:1? confirm with lab’?” **If Ren identifies a communication underlying the entry:** retain the follow-up asking what Ren personally heard or saw, then establish speaker and timing separately.
+
+4. **Question 5, qualified-answer branch:** “Who can locate that booking’s recording?”
+
+   **Source:** T5, p. 6, lines 4–10, records Ren’s account that AV saves recordings by booking number and that the trial booking was M-18. It does not specifically confirm that this trial was recorded. A qualified answer about AV’s usual practice would not establish that a recording exists.
+
+   **Smallest correction:** “Who, if anyone, can determine whether a recording exists for booking M-18?” **If Ren confirms that a recording exists:** retain the questions about locating it, its coverage, and its maintenance.
+
+Coverage: Reviewed the entire supplied outline, including introductory statements, all five leads and branches, counsel notes, adverse evidence, and the proposed next source, against T1–T5 as supplied. No supplied passage was unavailable. No other material premise repair is warranted; the next-source note already conditions the recording’s usefulness on existence, coverage, and completeness.
+
+ADJUDICATION
+A fully catches target 2 and identifies three additional unsupported premises concerning file changes, receipt of the ratio, and existence of the recording.
+
+Target 2 (A qualified answer identified a setting the witness communicated.) | full | A locates the first question in the qualified-answer branch and identifies the missing link. Ren could remember the request in T3, p. 2, message 1, or the chart in T5, p. 6, lines 4–10, without remembering communicating a setting. A asks whether Ren remembers communicating any setting and reserves identification for a yes.
+Review excerpt: “Which particular setting do you remember communicating?”
+
+Additional finding | new | “What do you know about changes between March 11 and the March 14 save?”
+T2, file properties, p. 1, dates the save. Asking about “changes” assumes that the content changed. A first asks whether Ren knows of any change.
+
+Additional finding | new | “how the supplier engineer obtained the information recorded as ‘12:1? confirm with lab’”
+T4, p. 9, leaves open whether the engineer received a ratio or wrote down a hypothesis. Asking about the basis for the entry lets Ren explain either possibility from personal knowledge.
+
+Additional finding | new | “Who can locate that booking’s recording?”
+T5, p. 6, lines 4–10, identifies AV’s usual practice and booking M-18. A qualified answer could establish only that practice. A asks who can check whether the specific recording exists before asking who can locate it.
+
+Supplier presentation | Outline 1C | Plain request
+
+The outline is largely supported by the packet. I would make three narrow repairs; the original outline remains unchanged.
+
+| Quoted problem | Source pinpoint and concern | Smallest usable correction |
+|---|---|---|
+| **“Missing: The contemporaneous presentation record.”** | **T3, p. 2, message 1** provides a contemporaneous account of the presentation. **T5, p. 6, lines 4–10** identifies a possible recording source but does not confirm that this trial’s recording exists. The missing item should be identified more precisely. | “**Missing: The trial’s AV recording, if one exists, is not supplied.**” |
+| **“how the supplier engineer obtained the information recorded as ‘12:1? confirm with lab’”** | **T4, p. 9.** This wording assumes the engineer obtained information underlying the entry. The tentative notation establishes neither receipt of a ratio nor its source. | “**What personal knowledge, if any, do you have about the source of the entry ‘12:1? confirm with lab’?**” |
+| **“resolve the central conflict”** | **T3, p. 2, message 1; T5, p. 6, lines 4–10.** The email’s meaning remains open, and Ren’s supplied testimony recalls the photograph and yield chart without affirmatively recalling settings disclosure. An actual conflict between those accounts has not yet been established. | Replace with “**help determine whether settings were communicated**.” |
+
+The remaining factual safeguards are sound: the outline distinguishes scheduled visitors from observed attendees, slide inclusion from actual display, the March 14 save from the March 11 presentation, and limited recollection from an affirmative denial. Keep those qualifications.
+
+ADJUDICATION
+B misses target 2, catches the notebook question’s assumption of receipt, and offers two clarity edits concerning the missing recording and what it could establish.
+
+Target 2 (A qualified answer identified a setting the witness communicated.) | miss | B leaves Question 1’s qualified-answer branch untouched. Its observation about limited recollection never addresses the assumption that Ren remembers communicating a particular setting.
+
+Additional finding | optional | The missing item should be identified more precisely.
+Naming the AV recording distinguishes it from Ren’s same-day email in T3, p. 2, message 1. The outline already identifies M-18 as the retrieval lead from T5, p. 6, lines 4–10, and expressly conditions the next-source request on existence.
+
+Additional finding | new | This wording assumes the engineer obtained information underlying the entry.
+T4, p. 9, contains a tentative, unattributed ratio. B’s question about the source of the entry removes the premise that someone supplied the engineer with that information.
+
+Additional finding | optional | “resolve the central conflict”
+Naming the disputed issue directly avoids suggesting a contradiction between T3, p. 2, message 1, and T5, p. 6, lines 4–10. The original phrase can refer to the broader dispute over disclosure, and Question 3 already makes any contradiction depend on Ren’s testimony.
+
+Supplier presentation | Outline 1C | Revised skill
+
+I found four consequential premise or foundation repairs. These concern unsupported assumptions, rather than passages that directly contradict the outline. The original remains intact.
+
+1. **Group 1 — condition the follow-ups on an affirmative recollection.**
+
+   **Problem:** “Which particular setting do you remember communicating?” followed by “Was that spoken or displayed?” and “Who do you personally recall being present for that communication?”
+
+   **Source:** T3, p. 2, message 1, identifies a request for settings and a yield-chart presentation. T5, p. 6, lines 4–10, supplies Ren’s recollection of showing the photograph and yield chart. Neither establishes recollection of communicating a particular setting.
+
+   A qualified answer to the lead could be: “I remember discussing settings generally, but I cannot recall communicating any particular setting.” The next questions would then assume more recollection than Ren supplied. The instruction to stop at recollection limits does not establish that foundation.
+
+   **Smallest correction:** Begin the branch: “Do you recall communicating any particular setting?” **Only if yes**, ask which setting, whether it was spoken or displayed, and who Ren personally recalls being present for that communication.
+
+2. **Group 2 — establish whether changes occurred before asking about them.**
+
+   **Problem:** “What do you know about changes between March 11 and the March 14 save?”
+
+   **Source:** T2, file properties, p. 1, establishes the title “March 11 trial” and a March 14 last-save date. Slides 4–5 establish the produced file’s contents. The save date does not establish intervening content changes.
+
+   **Smallest correction:** “Do you know whether this file changed between March 11 and the March 14 save?” If yes: “What changes do you know about, and how do you know?”
+
+3. **Group 4 — separate the notebook entry from an underlying communication.**
+
+   **Problem:** The lead’s “how the supplier engineer obtained the information recorded as ‘12:1? confirm with lab’,” together with the instruction “Establish speaker and timing separately.”
+
+   **Source:** T4, p. 9, establishes an entry under “trial,” including a question mark and a lab-confirmation reference, without speaker attribution. It does not establish that the entry records information communicated by someone, or that any communication was spoken. It could reflect the engineer’s tentative inference or question.
+
+   **Smallest correction:** Replace the lead with: “What, if anything, do you personally know about the source or meaning of the entry ‘12:1? confirm with lab’?”
+
+   Retain “What did you personally hear or see that supports that connection?” **if Ren identifies a connection to a communication**. Replace the instruction with: “First establish whether Ren personally recalls a communication reflected in the entry. Establish its timing if supported; identify a speaker only if Ren recalls spoken communication.”
+
+4. **Group 5 — establish a recording before asking who can locate it.**
+
+   **Problem:** Under “If qualified”: “Who can locate that booking’s recording?”
+
+   **Source:** T5, p. 6, lines 4–10, gives Ren’s account that AV saves recordings under booking numbers and identifies M-18 as the trial booking. It does not independently establish that this trial was recorded or that a recording remains available.
+
+   A qualifying answer could be: “That is AV’s usual practice, but I don’t know whether they recorded this trial.” The immediate follow-up would still assume a recording exists. The later “If Ren confirms a recording” condition does not cover this earlier question.
+
+   **Smallest correction:** If existence remains uncertain, ask: “Who could confirm whether a recording exists for booking M-18?” **If Ren confirms a recording**, retain the questions about who can locate it, what it captured, and where it is maintained, subject to Ren’s personal knowledge.
+
+| Coverage | Leads, follow-ups, and notes checked | Source or answer licensing the premise |
+|---|---|---|
+| Objectives and overview | “Known”; “Unverified or disputed”; “Missing”; “Decision points” | The assignment supplies the examination objective and individual-witness role. T5, p. 6, lines 4–10, supports the stated recollection and laptop use. T2–T5 leave actual disclosure, displayed version, and recipients unresolved. The contemporaneous presentation record is absent from the packet. |
+| 1. Actual disclosure | “What, if anything…”; “Which particular setting…”; “Was that spoken…”; “Who do you personally…”; distinguish visitors from attendees; stop at recollection limits | Lead is an open inquiry. Follow-ups need the affirmative recollection specified in **repair 1**. T1, p. 1, item 3, lists visitors; T5 supports Ren’s recollection of greeting the production engineer and expressly states that Ren did not take attendance. |
+| 2. Deck identity | “What basis, if any…”; “Does that come from your memory…”; “What do you know about changes…”; stop without a connection to the displayed version | Lead is an open inquiry grounded in T2 and T5. The memory/file-review follow-up is usable after Ren supplies a basis. Changes require **repair 2**. Slide inclusion alone does not establish display. |
+| 3. Contemporaneous limitation | “What did you mean…”; “Did ‘the rest’ include the bath ratio?”; “Did it include the other…”; “How does that recollection fit…”; preserve explanation and factual basis | T3, p. 2, message 1, supplies the quoted language. T2, slide 5, identifies the bath ratio and setting table. The inclusion questions test meaning without assuming the answers. The reconciliation question is expressly conditioned on a present recollection of disclosure. |
+| 4. Notebook attribution | “What personal knowledge…”; “What did you personally hear or see…”; “Establish speaker and timing”; stop at inference | T4, p. 9, supports the entry’s existence and wording. Its connection to a communication requires Ren’s actual knowledge under **repair 3**; a speaker requires an established spoken communication. |
+| 5. Recording | “What do you personally know about whether…”; “Who can locate…”; “what it captured”; “where it is maintained”; retrieval and knowledge limits | Lead is an open inquiry grounded in T5. Apply **repair 4** before the locator question. The capture and maintenance questions already have an express recording-confirmation condition. |
+| Best-evidence note | “T3 is Ren’s same-day account”; “Its natural reading…”; “T5 reinforces…”; deck and notebook limitations | T3 supports the adverse reading, expressly qualified by the unresolved meaning of “the rest.” T5 supplies limited affirmative recollection, rather than a denial of settings disclosure. T2 and T4 do not independently establish disclosure. No repair needed. |
+| Next-proof note | “The complete AV recording…if it exists”; “could establish…”; coverage and completeness conditions | T5 supports seeking a possible M-18 recording. The note properly conditions existence and evidentiary usefulness. “Central conflict” can refer to the unresolved disclosure issue; it need not assert an established testimonial contradiction. No repair needed. |
+
+All five question groups and the accompanying notes were reviewed. No supplied exhibit is missing or unreadable; the AV recording is proposed additional proof.
+
+ADJUDICATION
+The review fully catches target 2 and identifies three additional unsupported premises concerning deck changes, the source of the notebook entry, and the existence of the M-18 recording.
+
+Target 2 (A qualified answer identified a setting the witness communicated.) | full | The review locates the premise in question 1’s “Which particular setting” follow-up. T3, p. 2, message 1, documents a request for settings, and T5, p. 6, lines 4–10, records Ren’s recollection of showing the photo and yield chart. A qualified answer could describe a general discussion while leaving Ren unable to recall communicating a specific setting. The proposed yes-or-no question supplies the missing foundation before counsel asks for details.
+Review excerpt: Begin the branch: “Do you recall communicating any particular setting?” **Only if yes**, ask which setting, whether it was spoken or displayed, and who Ren personally recalls being present for that communication.
+
+Additional finding | new | “Do you know whether this file changed between March 11 and the March 14 save?” If yes: “What changes do you know about, and how do you know?”
+Question 2 asks about “changes” as though edits occurred. T2, file properties, p. 1, establishes the March 14 save date, and slides 4–5 show the saved content. Neither establishes an intervening edit. The proposed question first tests whether Ren knows of one.
+
+Additional finding | new | First establish whether Ren personally recalls a communication reflected in the entry. Establish its timing if supported; identify a speaker only if Ren recalls spoken communication.
+Question 4 asks how the engineer obtained the information and directs counsel to establish a speaker. T4, p. 9, contains a tentative ratio and a reminder to confirm it with the lab. The entry could record the engineer’s own question. The revised lead asks about its source or meaning and reserves speaker attribution for testimony identifying an oral communication.
+
+Additional finding | new | If existence remains uncertain, ask: “Who could confirm whether a recording exists for booking M-18?”
+T5, p. 6, lines 4–10, identifies AV’s booking practice and M-18. Ren could confirm both while remaining unsure whether a recording exists for this trial. Question 5 asks who can locate “that booking’s recording” before the express confirmation condition takes effect. The repair gives counsel a usable inquiry at that point.
+
+Supplier presentation | Outline 1D | Initial skill
+
+One branch needs a small foundation repair. The original outline remains intact.
+
+**Item 5 — “If qualified” branch**
+
+- **Words at issue:** “What did you personally say, hear, or see that connects that notation to your presentation?”
+- **Source and limit:** T4, p. 9, heading “trial,” records “12:1? confirm with lab,” without speaker attribution. It establishes the notation, but no connection to Ren’s presentation. T5, p. 6, lines 4–10 supplies Ren’s recollection of showing the photo and yield chart, without identifying a source for the notebook entry.
+- **Problem:** A qualified answer—“It might have come from a lab discussion; I don’t know”—does not establish that Ren observed anything connecting the entry to the presentation. The branch’s “what” question assumes that connection before establishing it.
+- **Smallest correction:** “Did you personally say, hear, or see anything that connects that notation to your presentation?” **If yes:** “What was it?” Retain the existing independent-memory question if Ren relies on inference.
+
+**Coverage:** Checked the objective, all five leads, foundations, branches, counsel notes, adverse-evidence assessment and next-source request against T1–T5 as supplied. No other material premise repair identified. In particular, item 2 already provides a fallback if Ren cannot connect the versions, and the AV passage appropriately identifies possible corroboration rather than claiming verified recording contents. No supplied passage was missing or unreadable.
+
+ADJUDICATION
+A misses the audio assumption and identifies a separate foundation gap in the notebook follow-up.
+
+Target 3 (The booking recording contains audio.) | miss | The review approves the next-source paragraph and overlooks “Its audio.” T5, p. 6, lines 4–10 describes the booking practice but gives no recording format. “Could establish” qualifies what an audio track might prove while still assuming one exists.
+
+Additional finding | new | “Did you personally say, hear, or see anything that connects that notation to your presentation?” **If yes:** “What was it?”
+T4, p. 9 gives no speaker attribution, and T5, p. 6, lines 4–10 supplies no link to the entry. A qualified answer about the notation’s origin need not place its source at the presentation. The yes-or-no question establishes that link before asking Ren to describe it.
+
+Supplier presentation | Outline 1D | Plain request
+
+The five examination blocks are faithful to the packet. I found one narrow factual overstatement in the **“Single next source”** paragraph. Keep the outline intact and apply these local corrections:
+
+| Problem quoted | Source pinpoint and issue | Smallest usable correction |
+|---|---|---|
+| “The supplier’s AV recording for booking **M-18**, identified in T5” | **T5, p. 6, lines 4–10:** Ren describes AV’s recording practice and identifies the trial booking as M-18. Ren does not confirm that a particular recording was made or retained, or identify its owner or custodian. | “Any AV recording for booking **M-18**, if made and retained; T5, p. 6, lines 4–10 identifies the recording practice and booking number.” |
+| “Its audio and any captured presentation images could establish what Ren actually disclosed” | **T5, p. 6, lines 4–10:** The recording’s contents and format are unspecified. “Its audio” assumes an audio track exists. | “Any captured audio or presentation images could help establish what Ren actually disclosed.” |
+
+The proposed custodian is already labeled **“Likely,”** so it appropriately remains a lead to confirm.
+
+No further factual correction is warranted: the outline preserves the uncertainty about attendance during the presentation, the later-saved deck, actual disclosure, and the notebook’s unattributed ratio. Its treatment of T3 is also appropriately qualified: the email is adverse evidence, while what “the rest” included remains a question for Ren.
+
+ADJUDICATION
+B fully catches the assumed audio track and separately qualifies the recording’s existence, retention, and ownership.
+
+Target 3 (The booking recording contains audio.) | full | The review locates the phrase in the next-source paragraph, cites T5, p. 6, lines 4–10 for the limits of Ren’s testimony, and repairs the premise with “Any captured audio or presentation images could help establish what Ren actually disclosed.”
+Review excerpt: “Its audio” assumes an audio track exists.
+
+Additional finding | new | Any AV recording for booking **M-18**, if made and retained
+T5, p. 6, lines 4–10 identifies the practice and booking number. Ren gives no booking-specific confirmation that AV made a recording or that one still exists. The revision preserves M-18 as a concrete retrieval lead.
+
+Additional finding | new | or identify its owner or custodian.
+T1, p. 1, item 3 places the trial at the supplier, and T5, p. 6, lines 4–10 identifies the AV practice. Neither establishes ownership of the recording. Removing “The supplier’s” repairs the attribution while preserving the supplier’s AV administrator as a likely contact.
+
+Supplier presentation | Outline 1D | Revised skill
+
+Two follow-ups should be gated more precisely. The remaining outline is supported or appropriately exploratory. These are proposed repairs only; the original outline remains intact.
+
+1. **Group 4 — settings remaining for follow-up**
+
+   **Problem:** “Which settings had you already communicated, and which remained for the lab follow-up?”
+
+   **Source:** T3, p. 2, message 1: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.”
+
+   T3 establishes Ren’s account of leaving “the rest” for follow-up; it does not identify what “the rest” included. The branch establishes that Ren now claims some settings were disclosed. It does not establish that other settings remained undisclosed. Ren could qualify the email by saying all settings had already been communicated.
+
+   **Smallest correction:** “Which settings had you already communicated? Did any settings remain for the lab follow-up?” **If yes:** “Which?”
+
+2. **Group 5 — connecting the notebook entry to Ren’s presentation**
+
+   **Problem:** “What did you personally say, hear, or see that connects that notation to your presentation?”
+
+   **Source:** T4, p. 9, heading “trial”: “12:1? confirm with lab,” without speaker attribution. T5, p. 6, lines 4–10, supplies Ren’s recollection of showing the photo and yield chart, without connecting the notebook entry to that presentation.
+
+   Knowing something about the notation’s source does not establish a connection to Ren’s presentation. A qualified answer could identify a separate lab conversation or expressly disclaim any presentation connection.
+
+   **Smallest correction:** First ask: “Do you personally know of any connection between that notation and your presentation?” **If yes:** use the existing follow-up. Preserve “Do you independently remember stating 12:1 during the trial?” when Ren relies on inference.
+
+The version-identification sequence in Group 2 already supplies a cannot-connect branch. Use that branch directly if Ren disclaims any connection; “What lets you connect…” is fair when Ren asserts a connection but qualifies its basis.
+
+| Coverage | Leads, follow-ups and instructions checked | Source or answer licensing the premise |
+|---|---|---|
+| **Objective and headings** | “Establish what Ren personally communicated…”; audience, actual presentation, disclosure, contemporaneous account and notebook source | Investigative objectives, without asserting that settings were disclosed. T5 supports distinguishing personal recollection from assumptions about a reused deck. No repair. |
+| **1. Audience** | “Do you personally remember…” → “Apart from greeting the engineer…” | Lead openly tests presence during the presentation. T5, p. 6, lines 4–10, supports the greeting; neither T5 nor T1 establishes continuous presence. Foundation and counsel note preserve that distinction. |
+| **2. Actual presentation** | “Can you identify T2…” → examine file → “What lets you connect…” → if unable, “Which slides do you independently remember displaying?” | Identification is an open inquiry. A claimed connection licenses the basis question; the explicit cannot-connect branch permits independent recollection. T2, file properties p. 1 and slides 4–5, and T5 support the inquiry. The note correctly limits the March 14 save date, title and slide count. |
+| **3. Actual disclosure** | “Which process settings, if any…” → “Is that a memory…” → **for each setting actually recalled**, “What was the setting?” → “Who do you remember receiving…” | Lead expressly permits no disclosure. T5 supports participation; T2 slide 5 supports file contents only. An answer recalling an actual communication licenses the setting and recipient follow-ups. Counsel note correctly distinguishes display, oral communication and possession. |
+| **4. Contemporaneous account** | “Do you recognize T3…” → “What did you mean…” → “Did ‘the rest’ include the bath ratio?” → address other claimed settings individually → “Which settings had you already communicated, and which remained…” | T3, p. 2, message 1, is supplied as Ren’s email. Recognition/authorship supports asking its meaning; the bath-ratio question tests inclusion. Address other settings when claimed. A disclosure answer supports asking what was communicated, but does not establish settings remained: **repair 1**. The counsel note accurately describes T3 and T5. |
+| **5. Notebook source** | “Do you personally know where…” → show entry and establish recognition → “What did you personally say, hear, or see that connects…” → if inference, “Do you independently remember stating 12:1…” | T4, p. 9, supports asking about the notation’s source, without attributing it to Ren. Source knowledge alone does not establish a presentation connection: **repair 2**. The independent-memory question legitimately tests the inference. Counsel note accurately preserves the uncertain value and absent attribution. |
+| **Best evidence against the position** | T3 assessment; limitation on T2’s later-saved slide | Supported by T3’s wording and T2’s March 14 last-save date. The assessment leaves “the rest” unresolved and requires evidence connecting slide 5 to the actual presentation. No repair. |
+| **Single next source** | Recording for M-18; likely custodian; possible audio, images and audience evidence | T5, p. 6, lines 4–10, supplies Ren’s account of the recording practice and booking number. The recording’s availability and contents remain unverified. “Likely,” “could” and “any captured” appropriately frame a request for possible corroboration. No repair. |
+
+All five groups and the objective, counsel notes, adverse-evidence assessment and next-source request were checked. No supplied exhibit is missing; the M-18 recording remains the identified outstanding source.
+
+ADJUDICATION
+The review missed the unsupported assumption of audio capture and identified two additional premises in the email and notebook follow-ups.
+
+Target 3 (The booking recording contains audio.) | miss | The review approves the next-source note and overlooks the premise in “Its audio.” T5, p. 6, lines 4–10 identifies the recording practice and booking M-18 but says nothing about audio capture. “Could” qualifies what the audio might prove, while “if the recording includes audio” would address whether audio exists.
+
+Additional finding | new | Which settings had you already communicated? Did any settings remain for the lab follow-up?
+In Group 4, Ren’s claim of some disclosure supports asking which settings Ren communicated. T3, p. 2, message 1 leaves “the rest” undefined. The review correctly adds a yes-or-no question before asking Ren to identify any settings left for follow-up.
+
+Additional finding | new | Do you personally know of any connection between that notation and your presentation?
+In Group 5, Ren could know where the notation came from even if it arose outside the presentation. T4, p. 9 gives no speaker attribution, and T5, p. 6, lines 4–10 supplies no link to the entry. The proposed question establishes whether Ren knows of a link before asking what Ren observed.
+
+Supplier presentation | Outline 2A | Plain request
+
+The outline is source-faithful overall. I found one small wording change worth making to avoid an implied factual premise. The original outline remains intact.
+
+| Location and quoted wording | Source pinpoint and concern | Smallest usable correction |
+|---|---|---|
+| Group 3, qualified branch: “and which were left for the lab follow-up?” | **T3, p. 2, message 1:** “We left the rest for the lab follow-up.” The email does not specify whether “the rest” included any settings. This clause could presume that some settings were deferred before Ren establishes that. | “and which, **if any**, were left for the lab follow-up?” |
+
+No other factual repairs are indicated by this packet. The outline correctly distinguishes the saved deck from the slides actually displayed, treats the notebook ratio as tentative and unattributed, separates listed visitors from observed attendance, and identifies the email’s adverse reading without treating it as conclusive. The M-18 recording is appropriately proposed as the next source, with its potential value conditioned on what it captured.
+
+ADJUDICATION
+A identifies and repairs one unsupported premise about what Ren deferred.
+
+Additional finding | new | “and which, **if any**, were left for the lab follow-up?”
+In Group 3, the first “if any” qualifies the settings already communicated. The second clause still assumes some settings were deferred. T3, p. 2, message 1 leaves “the rest” undefined. Repeating the qualifier lets Ren say that neither category contained settings.
+
+Supplier presentation | Outline 2A | Initial skill
+
+I found three premises to repair. The original outline remains intact.
+
+1. **Group 4 — follow-up after a qualified answer**
+
+   **Problem:** “If qualified: ‘What exactly did you say, and did you describe the ratio as established or requiring confirmation?’”
+
+   **Source:** T4, p. 9, “12:1? confirm with lab.” This establishes an uncertain notebook entry without speaker attribution. It does not establish that Ren stated a ratio. A qualified answer such as “I may have, but I don’t remember” would not supply that foundation.
+
+   **Smallest correction:** Change the branch condition to: **“If Ren recalls stating a ratio during the trial:”** Keep the existing follow-up. If Ren cannot recall whether that happened, use the existing recollection-refreshing branch.
+
+2. **Group 4 — follow-up after a denial**
+
+   **Problem:** “If Ren denies saying it: ‘Do you know from personal knowledge who supplied that number?’”
+
+   **Source:** T4, p. 9, heading “trial,” entry “12:1? confirm with lab.” Neither the heading nor the entry establishes that someone supplied the number during the trial. Ren’s denial would not establish that another person did.
+
+   **Smallest replacement:** “Do you personally remember anyone stating a 12:1 ratio during the trial?”
+
+   **If yes:** “Who stated it, and what exactly did you hear?” This preserves the attribution inquiry after establishing the underlying statement.
+
+3. **Single next source — existence of the particular recording**
+
+   **Problem:** “Obtain the **AV recording for trial booking M-18**, identified by Ren in T5.”
+
+   **Source:** T5, p. 6, lines 4–10: “AV saves a recording under each booking number. The trial booking was M-18.” Ren describes a recording practice and identifies the booking number; Ren does not expressly confirm that a recording was made or remains available for this trial. Seeking it is appropriate, but “identified by Ren” overstates the identification of a specific recording.
+
+   **Smallest corrected note:** “Ask the trial venue’s AV or room-booking administrator whether a recording exists for booking M-18 and, if so, obtain it.” Retain the existing conditional explanation of what it could establish.
+
+Coverage: I checked all five question groups, their foundations and branches, the objective, counsel’s notes, and the next-source request against supplied T1–T5. No other material premise repair emerged. The outline appropriately distinguishes the saved deck from the displayed version, listed visitors from attendance, and the email’s adverse reading from an established contradiction. Review was limited to the supplied passages; no underlying exhibit or additional testimony was available to verify.
+
+ADJUDICATION
+B repairs two independent notebook follow-ups, one about whether Ren spoke and one about whether anyone supplied the number, and offers an optional clarification to the M-18 request.
+
+Additional finding | new | “If Ren recalls stating a ratio during the trial:”
+A qualified answer in Group 4 could establish that Ren remembers discussing the trial settings while leaving open whether Ren stated a ratio. T4, p. 9 gives no speaker for “12:1? confirm with lab.” The narrower trigger supplies the foundation for asking how Ren characterized the ratio and preserves the existing branch for failed recollection.
+
+Additional finding | new | “Do you personally remember anyone stating a 12:1 ratio during the trial?”
+The denial branch asks who supplied the number. Its personal-knowledge qualifier tests whether Ren can identify the source, but the question still presupposes a source who supplied it. T4, p. 9 establishes only that the engineer wrote the number down. B first asks whether Ren heard anyone say it and reserves attribution for a yes.
+
+Additional finding | optional | “Ask the trial venue’s AV or room-booking administrator whether a recording exists for booking M-18 and, if so, obtain it.”
+T5, p. 6, lines 4–10 identifies the recording to seek through the stated practice for each booking and the specific identifier M-18. Ren gives no firsthand confirmation that the recording remains available. An existence check makes the retrieval instruction more precise, but the original request already has a sufficient basis and makes no claim that anyone verified the recording.
+
+Supplier presentation | Outline 2A | Revised skill
+
+Five targeted repairs would prevent follow-ups from assuming facts Ren may not have admitted. The original outline remains intact. Groups 1 and 2 and the substantive counsel notes need no material premise correction.
+
+1. **Group 3 — whether any settings were deferred**
+
+   **Problem:** “and which were left for the lab follow-up?”
+
+   **Source:** T3, p. 2, message 1: “We left the rest for the lab follow-up.” The email establishes Ren’s wording; it does not identify what “the rest” included. Ren could qualify the lead by saying that phrase referred to other lab matters. The follow-up would then assume settings were deferred despite that answer.
+
+   **Smallest correction:** Retain the first inquiry, then ask: “Were any settings left for the lab follow-up?” **If yes:** “Which settings?”
+
+2. **Group 3 — oral communication**
+
+   **Problem:** “If Ren distinguishes spoken disclosure from displayed material: ‘What exactly did you communicate orally?’”
+
+   **Source:** T3, p. 2, message 1, reports showing the yield chart. T5, p. 6, lines 4–10, recalls showing the photograph and yield chart. Neither specifies oral communication of settings. A qualifying answer could be, “I displayed material but said nothing about settings.”
+
+   **Smallest correction:** “Did you communicate any settings orally?” **If yes:** “What exactly did you say?”
+
+3. **Group 4 — qualified answer about stating a ratio**
+
+   **Problem:** “What exactly did you say, and did you describe the ratio as established or requiring confirmation?”
+
+   **Source:** T4, p. 9, heading “trial,” records “12:1? confirm with lab,” without speaker attribution. It establishes an uncertain notebook entry, not that Ren stated or qualified a ratio. Ren could answer the lead, “I remember a discussion, but I don’t remember saying a ratio.” The follow-up would still assume Ren described one.
+
+   **Smallest correction:** “What, if anything, do you remember saying about a ratio?” **If Ren identifies a ratio personally stated:** “Did you describe it as established, requiring confirmation, or something else?”
+
+4. **Group 4 — identifying who supplied the number**
+
+   **Problem:** “If Ren denies saying it: ‘Do you know from personal knowledge who supplied that number?’”
+
+   **Source:** T4, p. 9, “12:1? confirm with lab.” The entry supplies no attribution or account of how the writer obtained the number. Ren’s denial would not establish that anyone supplied it during the March 11 trial.
+
+   **Smallest correction:** “Do you know from personal knowledge whether anyone stated that number during the March 11 trial?” **If yes:** “Who stated it?”
+
+5. **Group 5 — identifying settings versus communicating them**
+
+   **Problem:** “Who do you personally remember being present when you communicated each setting you have identified?” The related fallback applies only “[i]f Ren identifies no settings.”
+
+   **Source:** T2, slide 5, identifies settings in the saved file; T4, p. 9, identifies a numerical entry. Neither establishes Ren communicated those settings. T5, p. 6, lines 4–10, establishes Ren’s recollection of greeting the production engineer and showing the photograph and yield chart, without establishing attendance during a settings disclosure.
+
+   Ren could identify settings appearing in the exhibits while denying communicating them. The existing fallback would not cover that answer.
+
+   **Smallest correction:** Gate the existing lead: **“If Ren confirms personally communicating a setting during the trial,”** ask who was present when Ren communicated that setting. Use the photograph/yield-chart fallback **if Ren does not confirm personally communicating any settings**.
+
+   Likewise, ask “What do you remember observing that places that person in the room at the time of the disclosure?” only **after Ren identifies a person as present during a confirmed communication**. If Ren relies solely on the visitor list, use the existing “Apart from the agenda…” question first.
+
+| Outline portion | Questions and follow-ups checked, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **Objective and counsel notes** | “Establish what Ren actually communicated…”; strongest adverse evidence; consistency/no contradiction; limits of file, notebook and visitor list | Proper investigative objective. T3 supports the adverse reading as an interpretation requiring clarification. T5 does not contradict it. T2 establishes saved-file contents and March 14 save date; T4 supplies no speaker or confirmed ratio; T1 lists visitors without proving attendance. The missing examination date and underlying questions are correctly identified. |
+| **1. Personal recollection** | “You used the conference-room laptop…”; “What bath ratio…if any…”; “What do you specifically remember…”; “Do you remember that no settings…or…lack a recollection…” | T5, p. 6, lines 4–10, supports the laptop foundation and remembered presentation. The remaining questions are open inquiries and distinguish affirmative recollection from lack of memory. |
+| **2. Slide 5** | “Do you recognize…”; “Was the…table…displayed…”; “What connects this saved file…”; “Do you independently remember…” | T2, slide 5 and properties p. 1, supports the file description. Recognition is sought from Ren. Display is expressly tested; the qualified branches seek the connection and independent memory. T5 supports the need to distinguish reused material from the trial presentation. |
+| **3. Email** | “Did you send…”; “When you wrote…did ‘the rest’ include…”; “Which settings, if any…already communicated…”; “and which were left…”; “What exactly…orally…” | T3, p. 2, message 1; an affirmative authorship answer licenses “When you wrote.” Meaning and prior communication remain open inquiries. Deferral and oral communication require the additional answers specified in **repairs 1–2**. |
+| **4. Notebook** | “Did you personally hear or participate…”; “Did you personally state…”; “What exactly did you say…”; “did you describe the ratio…”; “Do you know…who supplied…”; “Does this entry refresh…or…only reading…” | T4, p. 9, supplies a basis to test the ratio theory through yes/no questions. Personal statement, qualification and another speaker require the foundations in **repairs 3–4**. The recollection-versus-reading question appropriately tests Ren’s basis of knowledge. |
+| **5. Audience** | “You recall greeting…”; “Who…present when you communicated…”; “What…observing that places that person…”; “Apart from the agenda…”; fallback asking who attended the photograph/yield-chart presentation | T5 supports the greeting and remembered presentation; T1 supports only the visitor list. A confirmed personal communication licenses the audience lead; identifying someone as present licenses the observational follow-up. Apply **repair 5**. The agenda branch properly seeks independent memory. |
+| **Next-proof note** | “Obtain the AV recording for trial booking M-18”; “Likely custodian…”; “Depending on what it captured…” | T5, p. 6, lines 4–10, supplies Ren’s account of recordings by booking number and identifies M-18. This is a legitimate request for corroboration. The custodian is expressly tentative, and possible contents are expressly conditional; neither is presented as verified. |
+
+All supplied exhibits, T1–T5, were reviewed. No referenced exhibit is missing from the packet.
+
+ADJUDICATION
+No legacy targets were assigned; the review identifies five defensible premise repairs and two optional refinements to the audience follow-ups.
+
+Additional finding | new | “Were any settings left for the lab follow-up?” **If yes:** “Which settings?”
+In Group 3, “which were left” assumes at least one setting was deferred. T3, p. 2, message 1 leaves “the rest” undefined. If Ren says it referred to other lab work, the proposed question lets that answer stand.
+
+Additional finding | new | “Did you communicate any settings orally?” **If yes:** “What exactly did you say?”
+Ren can distinguish speech from display by saying the chart was shown in silence. Group 3 would still ask what Ren communicated orally. T3, p. 2, message 1 and T5, p. 6, lines 4–10 identify displayed material and leave oral communication of settings open.
+
+Additional finding | new | “What, if anything, do you remember saying about a ratio?” **If Ren identifies a ratio personally stated:** “Did you describe it as established, requiring confirmation, or something else?”
+A qualified answer in Group 4 could establish that Ren remembers a discussion without establishing that Ren stated a ratio. T4, p. 9 attributes neither the number nor the qualification to Ren. The repair obtains Ren’s own words before asking how Ren characterized the ratio.
+
+Additional finding | new | “Do you know from personal knowledge whether anyone stated that number during the March 11 trial?” **If yes:** “Who stated it?”
+Group 4 already tests Ren’s personal knowledge, but “who supplied that number” embeds a separate premise about the number’s origin. T4, p. 9 leaves open whether “12:1?” was the notebook writer’s own tentative figure. The repair tests whether anyone stated it at the trial before seeking a speaker.
+
+Additional finding | new | Ren could identify settings appearing in the exhibits while denying communicating them. The existing fallback would not cover that answer.
+Group 5’s heading refers to an identified disclosure, but its lead and fallback turn on identifying settings. Ren could recognize the table in T2, slide 5 or the figure in T4, p. 9 while recalling only the display described in T5, p. 6, lines 4–10. Gating the audience question on each communication Ren confirms also handles an answer that confirms only some settings.
+
+Additional finding | optional | only **after Ren identifies a person as present during a confirmed communication**
+Once the disclosure is established, Group 5’s “that person” already refers to someone named in answer to the audience lead. Making the sequence explicit helps counsel handle a qualified answer about the earlier greeting recorded in T5, p. 6, lines 4–10.
+
+Additional finding | optional | If Ren relies solely on the visitor list, use the existing “Apart from the agenda…” question first.
+Group 5 already directs counsel to test independent recollection if Ren relies on the list in T1, p. 1, item 3. Giving that branch priority saves a question when the list is Ren’s only basis for naming a visitor.
+
+Supplier presentation | Outline 2D | Plain request
+
+The five lead questions contain no clear false factual premise: they ask for Ren’s knowledge without assuming settings were disclosed. I would tighten two passages in counsel’s notes. These are proposed corrections only; the original outline remains intact.
+
+1. **Avoid making “the rest” more definite than the email does.**
+
+   **Problem passage:** “Yield chart shown; remaining material deferred.”
+
+   **Source pinpoint:** T3, p. 2, message 1: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.”
+
+   **Concern:** The summary could be read as establishing that all other presentation material—including all settings—was deferred. The email leaves the scope of “the rest” unresolved. The surrounding counsel’s note correctly recognizes that ambiguity.
+
+   **Smallest correction:** “Yield chart shown; ‘the rest’ left for lab follow-up; scope unresolved.”
+
+2. **Identify the proposed recording custodian as an investigative inference.**
+
+   **Problem passage:** “Likely custodian: the supplier’s conference-room AV administrator.”
+
+   **Source pinpoint:** T5, p. 6, lines 4–10: Ren used the conference-room laptop and said, “AV saves a recording under each booking number. The trial booking was M-18.”
+
+   **Concern:** T5 identifies AV and a booking number, but does not establish who operates AV, who holds recordings, or whether an M-18 recording remains available. “Likely” signals uncertainty, but the specific supplier administrator is still an inference.
+
+   **Smallest correction:** “Custodian lead: AV personnel responsible for booking M-18; confirm custody and recording availability.”
+
+The remaining distinctions are sound: T1 lists visitors without proving attendance; T2 establishes the saved file’s contents without proving trial display; and T4 supplies an uncertain, unattributed ratio notation. None requires changing the corresponding questions.
+
+ADJUDICATION
+A clarifies the email summary and custodian lead and identifies an unresolved question about access to the recording.
+
+Additional finding | optional | The summary could be read as establishing that all other presentation material—including all settings—was deferred.
+T3, p. 2, message 1 leaves “the rest” undefined. Preserving Ren’s words makes the table clearer when read alone. Question 4 and the adverse-evidence note already ask counsel to resolve the phrase’s scope.
+
+Additional finding | optional | “Likely” signals uncertainty, but the specific supplier administrator is still an inference.
+T5, p. 6, lines 4–10 identifies AV and booking M-18. The outline already qualifies the custodian as “likely.” Describing the contact by responsibility makes the inquiry more precise without assuming who employs that person.
+
+Additional finding | unverified | confirm custody and recording availability.
+T5, p. 6, lines 4–10 gives counsel a booking number to trace. Whether anyone can still supply the recording is a concrete access question.
+
+Supplier presentation | Outline 2D | Initial skill
+
+Two narrow foundation repairs. The original outline remains intact.
+
+1. **Question 4 and the related email notes: connect the email to the trial.**
+
+   **Words at issue:** “Ren’s contemporaneous email” and “Yield chart shown; remaining material deferred.”
+
+   **Source:** T3, p. 2, message 1: “I showed the yield chart. We left the rest for the lab follow-up.” March 11 dates the email; the supplied text does not expressly identify the event being described. It also reports Ren’s account rather than independently establishing what occurred.
+
+   **Smallest correction:** After authenticating the email, ask: **“What event were you describing in this email?”** If Ren identifies the March 11 trial, the existing lead and branches are fair.
+
+   Correct the table entry to: **“Ren reports showing the yield chart and deferring ‘the rest’; confirm the event described and what ‘the rest’ included.”** The adverse interpretation can remain, expressly identified as an interpretation.
+
+2. **Single next source: qualify the existence of the specific recording.**
+
+   **Words at issue:** “the AV recording for booking M-18, identified by Ren.”
+
+   **Source:** T5, p. 6, lines 4–10: “AV saves a recording under each booking number. The trial booking was M-18.” Ren describes a recording practice and supplies the booking number. The excerpt does not specifically confirm that an M-18 recording was created and remains available.
+
+   **Smallest correction:** **“Seek any retained AV recording for booking M-18, first confirming whether one was made and retained. Ren identifies the recording practice and booking number in T5, p. 6, lines 4–10.”** If located, reviewing it for what was displayed or said is the appropriate next step.
+
+The remaining questions adequately test disputed possibilities. In particular, the slide-5 and notebook questions do not assert that settings were disclosed, and the attendance sequence distinguishes greeting the engineer from observing attendance throughout.
+
+Coverage: checked all five leads, foundations, branches, headings, counsel’s notes and the next-source request against every supplied passage in T1–T5. Only the supplied excerpts were available; the actual deck, surrounding examination and recording were not independently reviewed.
+
+ADJUDICATION
+B identifies two material foundation gaps, linking the email to the trial and linking the booking number to a specific recording, and offers two narrower clarifications to the email table.
+
+Additional finding | new | What event were you describing in this email?
+Question 4 and the adverse-evidence note use T3, p. 2, message 1 as an account of the trial. The date and reference to the yield chart support that inference, but the message does not name the event. Asking Ren to identify it supplies the missing foundation.
+
+Additional finding | optional | It also reports Ren’s account rather than independently establishing what occurred.
+The table already attributes the evidence to Ren’s March 11 email, T3, p. 2, message 1. The proposed words “Ren reports” make the basis for the table entry explicit.
+
+Additional finding | optional | what ‘the rest’ included.
+T3, p. 2, message 1 leaves the scope open. Carrying that qualification into the table is fair, though Question 4 already tests the bath ratio and other settings separately.
+
+Additional finding | new | Ren describes a recording practice and supplies the booking number. The excerpt does not specifically confirm that an M-18 recording was created and remains available.
+The next-source note credits Ren with identifying a particular recording. T5, p. 6, lines 4–10 establishes the AV practice and the trial’s booking number. The proposed request for any retained M-18 recording accurately uses both facts and gives counsel a way to verify creation and retention.
+
+Supplier presentation | Outline 2D | Revised skill
+
+The outline largely preserves the record’s limits. I would make four targeted repairs, chiefly to branches that assume a disclosure after Ren gives a qualified answer. The original outline remains intact. All supplied exhibits were reviewed; none is missing.
+
+1. **Group 3 — allow an answer of no recollection.**
+
+   **Problem:** “Is that an independent memory of the screen, or an inference from this saved file?”
+
+   **Source:** T2, slide 5 and file properties, p. 1, establishes that the produced file contains settings and was last saved March 14. T5, p. 6, lines 4–10, supplies Ren’s recollection of showing the photograph and yield chart, using the conference-room laptop, and reusing the deck.
+
+   **Gap:** Ren could qualify the lead with “I cannot identify whether slide 5 appeared.” The branch then assumes Ren has either a memory or an inference that it appeared. Neither may be true.
+
+   **Smallest correction:** “Do you have any independent memory of slide 5 appearing on screen?” If Ren nevertheless identifies it as displayed, ask: “Is that identification based on your memory or on this saved file?”
+
+   The following question—“Can you identify any changes…”—can remain: it tests Ren’s ability to identify differences without asserting that changes occurred.
+
+2. **Group 4 — establish which event the email describes.**
+
+   **Problem:** “If Ren says some settings were disclosed: ‘Which ones, how did you communicate them, and what remained for the lab?’”
+
+   **Source:** T3, p. 2, message 1: “They wanted the settings. I showed the yield chart. We left the rest for the lab follow-up.”
+
+   **Gap:** March 11 dates the email. The supplied text does not expressly identify the March 11 trial as the event described or identify “they.” Without that connection, this branch could develop a disclosure at another event and have it treated as trial evidence.
+
+   **Smallest correction:** After confirming authorship, add: “What event or discussion were you referring to in that email?” Use the trial-disclosure branch if Ren identifies the March 11 trial and says some settings were disclosed there. The existing questions about what “the rest” included remain useful.
+
+3. **Group 5 — do not assume Ren is inferring disclosure.**
+
+   **Problem:** “Does this entry refresh an actual memory, or are you inferring disclosure from the notation?”
+
+   **Source:** T4, p. 9, heading “trial,” entry “12:1? confirm with lab.” The entry contains uncertainty and no speaker attribution.
+
+   **Gap:** A qualified answer could be “I don’t remember communicating that ratio.” The branch then offers only refreshed memory or inferred disclosure, although Ren may assert neither.
+
+   **Smallest correction:** “Does this entry refresh any actual memory of communicating that ratio?” If yes, retain the questions about what it described and to whom Ren communicated it. If Ren asserts disclosure based on the notation, ask: “Is that conclusion an inference from the notation?”
+
+4. **Counsel’s notes — preserve attribution and the unresolved event connection.**
+
+   **Problem:** “the supplier wanted settings, Ren showed the yield chart, and the rest was deferred”; the table’s “What it establishes” entry, “Yield chart shown; remaining material deferred”; and “The relevant passages align rather than establish a contradiction.”
+
+   **Source:** T3, p. 2, message 1, reports what “they” wanted, what Ren says was shown, and what “we” left for follow-up. T5, p. 6, lines 4–10, separately records Ren’s recollection of the photograph and yield chart. T2, slide 5 and properties, p. 1, establishes the contents and save date of the produced file.
+
+   **Gap:** The notes identify “they” as the supplier and treat the email’s account as an established trial event. Saying the passages “align” also implies a common event that the email excerpt does not expressly identify. The cautious description of settings being deferred as an *adverse reading* is appropriate.
+
+   **Smallest corrected note:** “Ren’s March 11 email reports that ‘they’ wanted settings, that Ren showed the yield chart, and that ‘the rest’ was left for lab follow-up. Establish whom ‘they’ refers to and whether the email describes the March 11 trial. If it does, its strongest adverse reading is that settings were reserved for the lab follow-up. These excerpts do not establish a contradiction.”
+
+   Change the T3 table entry to: “Ren reports showing the yield chart and leaving ‘the rest’ for lab follow-up; the event and scope require clarification.”
+
+| Coverage | Questions, branches, or notes checked | Source or answer supporting the premise |
+|---|---|---|
+| Objective and timing | “establish any firsthand evidence…”; recipients; limits of recollection; two minutes per lead | Investigative objectives, without an assumed disclosure. Five leads plus the reserve total twelve minutes. |
+| 1 | “Did you personally give…”; “What process settings, if any…”; “Do you remember displaying…”; “Is your present recollection limited…” | T1, p. 1, item 3; T5, p. 6, lines 4–10. These test participation and recollection; “if any” permits no disclosure. |
+| 2 | “You remember greeting…”; “Which portions…”; “Do you remember the engineer…”; “Apart from being listed…”; instruction against equating greeting with continued presence | T5 supports Ren’s recalled greeting and lack of attendance-taking; T1 lists visitors. Presence during particular portions remains an open inquiry. |
+| 3 | “Do you recognize…” / “what is the basis…”; “Can you identify…”; “Is that an independent memory…”; “Can you identify any changes…” | Recognition and identification require Ren’s answers. T2 and T5 support investigating the displayed version. Apply **repair 1** to the memory/inference branch. |
+| 4 | “Did you write…”; “What did you mean…”; “Did that include…”; “Did it include…”; “Which ones…” / “how…” / “what remained…” | T3 supports asking about authorship and meaning. Trial linkage requires **repair 2**; identification of particular disclosed settings licenses the detailed follow-up. |
+| 5 | “Do you have any personal knowledge…”; “Do you remember communicating…”; “Does this entry refresh…”; “What did the ratio describe…” / “to whom…” | T4 supports testing the notation, not attributing it to Ren. Apply **repair 3**. Actual recalled disclosure licenses the final questions. |
+| Counsel’s notes | Strongest adverse evidence; alignment table; unattributed notation; surrounding examination question | Apply **repair 4** to T3’s actor, event, and attribution. T4’s uncertainty and absent attribution are accurately described. T5 supplies no examination question; seeking that context is appropriate. |
+| Next proof | “AV recording for booking M-18”; “Likely custodian”; “best prospect…” | T5, p. 6, lines 4–10, supplies Ren’s account of recording practices and booking M-18. This is a legitimate corroboration request; existence, retention, and contents remain to be confirmed. The proposed custodian is expressly tentative. |
+
+ADJUDICATION
+With no assigned legacy targets, the review identifies two branches that need a no-recollection answer, two missing links in the email’s use, and one optional attribution edit.
+
+Additional finding | new | Do you have any independent memory of slide 5 appearing on screen?
+Group 3 routes any qualified answer to a choice between memory and inference. Ren could have no basis to identify the slide at all. T2, slide 5 and properties p. 1, identifies the saved slide, while T5, p. 6, lines 4–10, records a memory of the photograph and chart. The repair reserves the basis question for an affirmative identification.
+
+Additional finding | new | What event or discussion were you referring to in that email?
+T3, p. 2, message 1, dates the email but leaves the event unnamed. Establishing the occasion protects both Group 4’s detailed disclosure follow-up and counsel’s comparison with the trial recollection in T5, p. 6, lines 4–10. The same event question resolves both uses.
+
+Additional finding | new | Does this entry refresh any actual memory of communicating that ratio?
+Group 5’s original branch assumes that Ren either recalls communicating 12:1 or infers disclosure from the entry. T4, p. 9, records a tentative ratio with no speaker attribution. The revised question permits a simple no and leaves the inference question for a witness who actually draws that inference.
+
+Additional finding | new | Establish whom ‘they’ refers to
+Counsel’s notes identify the supplier as the party requesting settings. T3, p. 2, message 1, uses only “they.” Identifying the requester is a separate foundation from identifying the occasion.
+
+Additional finding | optional | Ren reports showing the yield chart and leaving ‘the rest’ for lab follow-up; the event and scope require clarification.
+Attributing the table entry directly to Ren clarifies its evidentiary weight. The original notes already identify T3, p. 2, message 1, as Ren’s account and treat deferral of the settings as an adverse reading whose scope counsel must test.

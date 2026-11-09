@@ -1,0 +1,124 @@
+Distributor credit | Source-check replay
+The earlier investigation's outline ID is shown for each review. Source reviews follow verbatim. The adjudications are AI judgments. “New” means an additional material premise the adjudicator accepted. “Optional” means a wording clarification. “False” means an unsupported objection. “Unverified” means source access remains unresolved.
+
+Distributor credit | Outline 1B | Initial skill
+
+Two conditional follow-ups need a small foundation repair. The original outline remains intact.
+
+1. **Question 3 — response after submission**
+
+   **Words at issue:** “If submitted to the desk: ‘What response did you receive?’”
+
+   **Source:** P4, p. 1, message 2: “Send me their onboarding form and I’ll sponsor it at the program desk.” This establishes Dale’s request and offer. It does not establish submission or a response. Even testimony establishing submission would leave receipt of a response open.
+
+   **Smallest correction:** “What response, if any, did you receive?” If Dale confirms receiving a response, follow with questions about its content.
+
+2. **Question 5 — effective date in an entry**
+
+   **Words at issue:** “If he knows an entry: ‘What effective date does it give?’”
+
+   **Source:** P5, p. 4 lines 3–8 establishes that the program desk decided entries and kept the site-change register. It supplies no East entry or entry contents. P3, p. 1 supplies a displayed participation status and account-creation date, without a participation effective date. Knowing an entry exists does not establish that it gives an effective date; it might record a pending request.
+
+   **Smallest correction:** “Does that entry give a participation effective date?” If Dale says yes, retain: “What effective date does it give?” Retain the personal-review follow-up to establish his basis of knowledge.
+
+**Coverage:** Checked the entire supplied outline, including introductory notes, all five leads and their branches and stop instructions, and the remaining-item request, against P1–P5 at the supplied pinpoints. No other material factual-premise repair identified. The request for East’s register history legitimately seeks possible corroboration; the outline already preserves the uncertainty about quarter participation. Verification is limited to the supplied excerpts; no underlying full exhibits were provided.
+
+ADJUDICATION
+Review A misses Question 1’s assumption that the desk made a decision about East and identifies two separate unsupported premises in Questions 3 and 5.
+
+Target 1 (Sponsorship meant the program desk made a decision.) | miss | The review overlooks Question 1’s “Who made the entry decision?” P4, p. 1, message 2 offers sponsorship, and P5, p. 4 lines 3–8 identifies who generally decided entries. Even if Dale confirms sponsorship, whether the desk decided East’s entry remains open. Counsel should first ask, “Do you know whether the desk made a decision about East?”
+
+Additional finding | new | Even testimony establishing submission would leave receipt of a response open.
+Question 3 conditions the follow-up on submission, but “What response did you receive?” assumes a reply. P4, p. 1, message 2 records only the request and offer. Adding “if any” repairs the premise.
+
+Additional finding | new | Does that entry give a participation effective date?
+Question 5 conditions the follow-up on Dale knowing an entry, but then assumes the entry gives an effective date. P5, p. 4 lines 3–8 identifies the register and its keeper without describing its fields, and P3, p. 1 gives only East’s displayed status and account-creation date. The proposed question checks the entry’s contents before asking for a date.
+
+Distributor credit | Outline 1B | Plain request
+
+I found **no factual premise requiring repair** against the supplied packet. I would leave the outline intact.
+
+The main potential overstatements are already handled correctly:
+
+- **“North and South supply a $1 million qualifying base, yielding $30,000.”** Supported by the 3% term and the undisputed participation and delivered, invoiced sales after returns. **Pinpoints:** P1, p. 2 ¶3; P2, p. 1 rows 1–2. **Correction:** None.
+- **“June status and January account creation do not themselves establish its participation effective date.”** P3 displays status and account creation, without a participation effective date. **Pinpoint:** P3, p. 1, header and East fields. **Correction:** None.
+- **“Dale’s offer to sponsor East does not establish approval.”** The email offers sponsorship; Dale identifies the program desk as the decision-maker. **Pinpoints:** P4, p. 1, message 2; P5, p. 4 lines 3–8. **Correction:** None.
+- **“The absence of an attachment in this production does not prove the form was never sent.”** This correctly limits the inference available from the production. **Pinpoint:** P4, p. 1, message 2 and production description. **Correction:** None.
+
+The register’s actual contents remain unverified: P5 establishes that the desk kept it, without describing its fields. Question 5 appropriately asks what, **“if anything,”** it shows, and the final request treats it as an investigative lead. Neither requires correction.
+
+ADJUDICATION
+Review B leaves the East-specific decision premise uncorrected and requests no additional edits or source checks.
+
+Target 1 (Sponsorship meant the program desk made a decision.) | miss | The review correctly endorses the introductory statement that sponsorship does not establish approval, but overlooks “Who made the entry decision?” in Question 1. A denial would also be a decision. P4, p. 1, message 2 and P5, p. 4 lines 3–8 leave open whether the desk reached any decision about East, and the review gives no repair.
+
+Distributor credit | Outline 1B | Revised skill
+
+Four follow-ups need narrow foundation repairs. The $30,000 base is supported by P1 and P2, and the outline properly preserves uncertainty about East. The original outline is left intact.
+
+1. **Question 1 — sponsorship branch**
+
+   **Problem:** “If Dale describes sponsorship: ‘Who made the entry decision?’”
+
+   **Source:** P4, p. 1, message 2 offers sponsorship: “Send me their onboarding form and I’ll sponsor it.” P5, p. 4 lines 3–8 distinguishes Dale’s sponsorship role from the program desk’s decision role.
+
+   **Gap:** Sponsorship does not establish that anyone actually decided East’s entry. Dale could truthfully answer, “I sponsored it, but it remained pending.”
+
+   **Smallest correction:** “Was a decision made on East’s entry?” **If a decision was made:** “Who made it?”
+
+2. **Question 3 — submission branch**
+
+   **Problem:** “If submitted to the desk: ‘What response did you receive?’”
+
+   **Source:** P4, p. 1, message 2 establishes the request for an onboarding form and the sponsorship offer. It establishes no submission or response. An answer establishing submission would supply only the first of those missing facts.
+
+   **Gap:** Dale could say, “I submitted it but never heard back.” Submission alone does not establish receipt of a response.
+
+   **Smallest correction:** “Did you receive a response?” **If yes:** “What was it?”
+
+3. **Question 3 — failed-recollection branch**
+
+   **Problem:** “If he cannot recall: ‘What record would refresh your memory?’”
+
+   **Source:** P4, p. 1, message 2 includes no attachment. P5, p. 4 lines 3–8 identifies portal printouts and a site-change register generally, without identifying a record that would refresh Dale’s recollection of this sequence.
+
+   **Gap:** Inability to recall does not establish that a suitable refreshing record exists.
+
+   **Smallest correction:** “Is there any record that might refresh your memory?” **If yes:** “Which record?”
+
+4. **Question 5 — known-entry branch**
+
+   **Problem:** “If he knows an entry: ‘What effective date does it give?’”
+
+   **Source:** P5, p. 4 lines 3–8 says the program desk “decided entries and kept the site-change register.” It supplies no East entry or entry contents. P3, p. 1 supplies a displayed participation status and account-creation date, without a participation effective date.
+
+   **Gap:** Knowing of an entry does not establish that it contains an effective date. It could record a pending request or another change.
+
+   **Smallest correction:** “Does that entry give a participation effective date?” **If yes:** “What date does it give?” Retain “Did you personally review that entry?” to establish the basis of his account.
+
+The table covers every lead and distinct follow-up, together with the objectives and next-proof notes. All five supplied exhibits were available; none is missing.
+
+| Outline portion | Leads and follow-ups checked | Source or answer licensing the premise |
+|---|---|---|
+| Objectives and introductory notes | “Known”; “Unverified or disputed”; “Missing”; “Decision points” | P1, p. 2 ¶3 and P2, p. 1 rows 1–3 support the $30,000 base and potential $6,000 increment. P3–P4 leave East’s quarter participation unresolved. Delivery allocation is conditionally needed if participation began midquarter. Timing and examination objectives are counsel’s choices. |
+| **1** | “What did you personally do…”; “Who made the entry decision?”; “How did you personally learn…” | P4 and P5 support an open inquiry into Dale’s acts. Sponsorship alone does not establish a decision: **repair 1**. An answer describing East’s approval licenses asking how he learned of it. The stop instruction properly separates personal knowledge, sponsorship and decision authority. |
+| **2** | “Do you have any factual basis…”; “Which fact do you dispute?”; “What supports that?”; “Who in Finance handled…” | P1 and P2 support testing the $30,000 base. An affirmative dispute licenses identifying the disputed fact and its support. P5 identifies Finance’s calculation role. The stop instruction correctly avoids treating lack of knowledge as agreement. |
+| **3** | “What happened after…”; “When?”; “What did you do with it?”; “What response did you receive?”; “What record would refresh…” | P4 establishes the request, licensing the open sequence question. An answer establishing receipt licenses “When?” and the open inquiry into subsequent action. Submission does not establish a response: **repair 2**. Failed recollection does not establish a refreshing record: **repair 3**. The stop instruction correctly limits the significance of the missing attachment. |
+| **4** | “Can you identify P3…”; “What date does…”; “What does ‘Account created…’ mean?”; “What is your basis…” | P5 supports asking Dale to identify the printout. Once identified, P3’s displayed fields support open inquiries into their meaning and temporal scope. An answer equating creation with participation licenses asking his basis. Neither the questions nor the stop instruction treats that equation as established. |
+| **5** | “What, if anything, does the site-change register show…”; “What effective date…”; “Did you personally review…”; “Who maintains it?”; “What do you personally know about which East deliveries…” | P5 identifies the register; the lead openly tests its contents. Knowledge of an entry alone does not establish an effective-date field: **repair 4**. Personal review is properly tested rather than assumed. P5 supports the custodian inquiry. An answer establishing midquarter participation licenses the delivery inquiry; P1 explains its relevance. |
+| Next-proof note | “East’s site-change register history covering the quarter”; matching deliveries if midquarter | P5 identifies the register as a reasonable source to seek. The note proposes obtaining possible corroboration; it does not assert that an East entry or effective date has already been found. P1–P2 support the conditional need to match deliveries. |
+
+ADJUDICATION
+The review fully catches the sponsorship-to-decision gap, identifies two additional unsupported premises about a desk response and an entry’s contents, and incorrectly flags the conditional memory-aid question.
+
+Target 1 (Sponsorship meant the program desk made a decision.) | full | The review locates “Who made the entry decision?” in Question 1’s sponsorship branch. P4, p. 1, message 2 records Dale’s offer, and P5, p. 4 lines 3–8 identifies the desk’s authority. Neither establishes that the desk decided East’s entry. The repair asks whether a decision occurred before asking who made it.
+Review excerpt: Sponsorship does not establish that anyone actually decided East’s entry.
+
+Additional finding | new | Submission alone does not establish receipt of a response.
+Question 3’s “What response did you receive?” assumes a reply even after Dale confirms submission. P4, p. 1, message 2 records only the request and sponsorship offer. Asking whether Dale received a response supplies the missing foundation.
+
+Additional finding | false | Inability to recall does not establish that a suitable refreshing record exists.
+Question 3 already asks about a possible memory aid only if Dale cannot recall. He can identify a record or say none comes to mind. The missing attachment in P4, p. 1, message 2 and the general register reference in P5, p. 4 lines 3–8 leave that inquiry open. The proposed wording makes the option of answering “none” explicit, but the original needs no foundation repair.
+
+Additional finding | new | Knowing of an entry does not establish that it contains an effective date.
+Question 5’s “What effective date does it give?” assumes specific contents once Dale knows of an entry. P5, p. 4 lines 3–8 identifies the register without describing its fields, and P3, p. 1 shows East’s status and account-creation date. Asking whether the entry gives a participation effective date repairs that premise.

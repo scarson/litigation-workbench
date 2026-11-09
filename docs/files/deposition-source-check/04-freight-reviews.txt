@@ -1,0 +1,650 @@
+Rush freight | Source-check replay
+The earlier investigation's outline ID is shown for each review. Source reviews follow verbatim. The adjudications are AI judgments. “New” means an additional material premise the adjudicator accepted. “Optional” means a wording clarification. “False” means an unsupported objection. “Unverified” means source access remains unresolved.
+
+Rush freight | Outline 1A | Plain request
+
+I found **no factual premise requiring repair** against the supplied packet. No corrective wording is needed; the original outline can remain intact.
+
+The potentially sensitive passages are adequately supported or qualified:
+
+- **“The $3,150 premium … was within the $4,000 limit”** accurately compares F1, p. 1, message 3, with F2, p. 1, messages 4–5. The accompanying note correctly distinguishes message timestamps from reading times and the precise booking time.
+- **“Left crew costs open for separate discussion”** is a reasonable interpretation presented for Moss’s confirmation. F1, p. 1, message 3, expressly reserves crew costs for separate treatment; the follow-up appropriately tests any claimed agreement about responsibility.
+- **“You did not personally supervise the Friday crew’s hours”** is supported by F4, p. 5, lines 1–8. The counsel note correctly avoids equating lack of supervision with lack of all knowledge.
+- **“The Friday crew’s job-coded timecards, including reassignments”** is a supported missing-proof target. F4 identifies site payroll as holding those records. The outline appropriately describes them as testing recorded time and reassignment, without claiming they would independently establish causation or payment responsibility.
+
+There is no source-based “problem” passage to quote and replace.
+
+ADJUDICATION
+Review A recommends retaining the outline as written and proposes no edits.
+
+No target or additional repair recorded.
+
+Rush freight | Outline 1A | Initial skill
+
+Two conditional branches need foundation repairs.
+
+1. **Section 4 — claimed payment responsibility**
+
+   **Problem:** “If Moss claims it established payment responsibility: ‘What agreement about crew costs had been reached?’”
+
+   **Source:** F1, p. 1, message 3: “We’ll take up any crew costs separately.” This supports reserving crew costs for separate treatment; it does not establish a reached agreement. Moss could claim the sentence established responsibility without claiming any agreement existed.
+
+   **Smallest correction:** “Had any agreement about crew costs been reached?” **If yes**, retain the follow-up establishing participants, date, terms, and supporting communication.
+
+2. **Section 5 — firsthand knowledge or verification**
+
+   **Problem:** “If Moss claims firsthand knowledge or verification: ‘Which workers and hours can you identify from personal observation?’”
+
+   **Source:** F4, p. 5, lines 1–8. Moss says, “I did not supervise their hours,” identifies site payroll as holding the timecards, and says the chargeback was assembled from the invoice and operations estimate. That account does not establish personal observation. The branch also permits a claim of verification through records, which would not supply the question’s assumed observational basis.
+
+   **Smallest correction:** “Did you personally observe any of the Friday crew’s hours?” **If yes:** “Which workers and hours?” If Moss claims verification through records, proceed to the existing questions about records reviewed and the calculation supporting $6,400.
+
+Checked all five sections, including objectives, foundations, leads, branches, pinpoints, counsel notes, and the missing-proof request, against all supplied passages of F1–F4. No other material factual-premise repair identified. The timing note preserves the distinction between message times and the actual booking time; the timecard request is supported by Moss’s account. Nothing in the supplied packet was unavailable for review. The original outline remains intact.
+
+ADJUDICATION
+Review B identifies two unsupported assumptions in conditional follow-ups and supplies a usable foundation question for each.
+
+Additional finding | new | Moss could claim the sentence established responsibility without claiming any agreement existed.
+In section 4, “What agreement about crew costs had been reached?” assumes an agreement once Moss asserts payment responsibility. F1, p. 1, message 3 reserves crew costs for separate treatment. Asking whether an agreement existed gives counsel a foundation for pursuing its terms.
+
+Additional finding | new | The branch also permits a claim of verification through records, which would not supply the question’s assumed observational basis.
+In section 5, verification alone triggers a request to identify workers and hours from personal observation. F4, p. 5, lines 1–8 identifies payroll records and an operations estimate but leaves open what Moss personally observed. The proposed follow-up asks about observation first and directs records-based testimony to the documents and calculation.
+
+Rush freight | Outline 1A | Revised skill
+
+The amounts, approval language, and message sequence are supported. The material repairs concern follow-ups that assume a communication, agreement, observation, or supporting record before the branch establishes it. The original outline remains intact.
+
+1. **Group 1 — communication of a claimed condition**
+
+   **Problem:** “If Moss identifies a condition, ask where it was communicated and when.”
+
+   **Source:** F1, p. 1, message 3, expressly approves the carrier premium and reserves crew costs for separate treatment. It does not establish that any additional condition Moss might identify was communicated. Moss could describe an unspoken understanding.
+
+   **Smallest correction:** “Did you communicate that condition to the fabricator?” **If yes:** “How and when?”
+
+2. **Group 2 — withdrawal or changed instructions**
+
+   **Problem:** “Did you withdraw or change your approval before the fabricator’s 08:19 message announcing the booking? Identify the communication and its time.”
+
+   **Source:** F2, p. 1, messages 4–5, establishes the 08:19 booking announcement and 08:32 confirmation. Neither F1 nor F2 establishes a withdrawal or change. The first question properly tests that possibility; the next instruction assumes an affirmative answer.
+
+   **Smallest correction:** Keep the first question. Add **“If yes:”** before “Identify the communication and its time.” An oral communication can satisfy this follow-up.
+
+3. **Group 3 — documentary support for a disagreement**
+
+   **Problem:** “Ask Moss to identify the incorrect row and its supporting record.”
+
+   **Source:** F3, p. 2, rows A–B, supplies the stated components and total; F4, p. 5, lines 1–8, identifies Moss’s assembly sources. Neither establishes that Moss’s disagreement would involve an incorrect row or have a supporting record.
+
+   **Smallest correction:** “Which row, if any, do you contend is incorrect, and why?” Then: “Is there a record supporting that correction?” **If yes:** “Identify it.”
+
+4. **Group 4 — payment responsibility versus an agreement**
+
+   **Problem:** “If Moss claims it established payment responsibility: ‘What agreement about crew costs had been reached?’ Establish the participants, date, terms, and supporting communication.”
+
+   **Source:** F1, p. 1, message 3, says, “We’ll take up any crew costs separately.” That reservation does not establish a reached agreement. Moss might claim the sentence assigned responsibility without claiming mutual assent.
+
+   **Smallest correction:** “Had any agreement about responsibility for crew costs been reached?” **If yes:** Establish the participants, date, terms, and how the agreement was communicated.
+
+5. **Group 5 — records used by the estimate’s preparer**
+
+   **Problem:** “Who supplied the estimate, and what records did that person use?”
+
+   **Source:** F4, p. 5, lines 1–8, says Moss assembled the chargeback using an operations estimate and that site payroll holds timecards. It does not identify the preparer, establish that the preparer used records, or establish Moss’s knowledge of that process.
+
+   **Smallest correction:** “Who prepared or supplied the estimate?” Then: “Do you know whether that person used any records?” **If yes:** “Which records, and how do you know?”
+
+6. **Group 5 — verification does not establish personal observation**
+
+   **Problem:** Under “If Moss claims firsthand knowledge **or verification**”: “Which workers and hours can you identify from personal observation?”
+
+   **Source:** F4, p. 5, lines 1–8, disclaims supervision of crew hours. Moss could truthfully claim verification through records without having observed any workers. The alternative branch does not supply the observation premise.
+
+   **Smallest correction:** “Did you personally observe any of the Friday crew’s work or hours?” **If yes:** “Which workers and hours can you identify from personal observation?”
+
+7. **Group 5 — actual reassignments and a calculation remain open**
+
+   **Problem:** “Establish any records reviewed, recorded reassignments, and the calculation supporting $6,400.”
+
+   **Source:** F4, p. 5, lines 1–8, identifies timecards “including reassignments”; it does not establish that this crew had recorded reassignments. F3, p. 2, row B, labels $6,400 an operations estimate without supplying a calculation.
+
+   **Smallest correction:** “What records, if any, did you review? Did those records show any reassignments?” **If yes:** Identify them. “Was the $6,400 based on a calculation?” **If yes:** Obtain the calculation and its inputs.
+
+Coverage of the supplied outline:
+
+| Item | Questions, branches, and notes checked | Source or answer licensing the premise |
+|---|---|---|
+| Objectives | “Seek admissions that the carrier premium…”; “crew charge requires separate factual support” | F1–F3 support approval within the cap and distinct chargeback components. F4 identifies limits of Moss’s observation and the estimate’s stated basis. These support the examination objectives. |
+| 1. Carrier approval | “Did you personally send…”; “You authorized…”; show F1; “Which part…do you dispute?”; condition: “where…communicated and when” | F1 and Moss’s account in F4 support authorship and authorization. The dispute question seeks clarification against F1. Communication of an additional condition requires **repair 1**. |
+| 2. Amount and sequence | “You said…you read…”; “The $3,150 premium…”; “When did you first read…”; “Did you withdraw or change…”; “Identify the communication…”; timestamp note | F4 supports reported reading, but supplies no reading time. F1–F2 support the amount comparison and message sequence. Reading time and withdrawal are open inquiries; identification requires an affirmative answer—**repair 2**. The counsel note correctly distinguishes message times from reading and booking times. |
+| 3. Components | “Did you assemble…”; “Of the $9,550 requested…”; “identify the incorrect row and its supporting record”; “What facts support seeking reimbursement…” | F3 supports the figures; F4 supports Moss’s assembly account. Disagreement does not establish a correction or supporting record—**repair 3**. The reimbursement question is licensed by the stated branch and F1’s approval; it seeks Moss’s factual basis. |
+| 4. Adverse qualification | “What did you mean…”; “Your statement…left crew costs open…”; “What agreement…”; participants, date, terms, communication; adverse-evidence note | Meaning is an open inquiry; the lead tests a reading grounded in F1. Claimed payment responsibility does not establish agreement—**repair 4**. The note accurately preserves unresolved crew costs and distinguishes F4’s roster account from proof of idle hours, causation, or amount. |
+| 5. Knowledge and support | “What work…to verify…”; “You did not personally supervise…”; “Did you review…”; “Who supplied…” / “what records…”; “Which workers and hours…”; records reviewed, reassignments, calculation; knowledge note | Verification and review are open inquiries; F4 supports the supervision lead. The later branches require **repairs 5–7**. The counsel note correctly avoids equating lack of supervision with lack of all knowledge. |
+| Next-proof note | “The Friday crew’s job-coded timecards, including reassignments”; “Likely custodian: site payroll”; “would test whether…” | F4 expressly identifies site payroll and these records. Seeking them is supported. Their proposed use is appropriately conditional; recorded job time alone would not establish that it was idle or establish causation and the $6,400 amount. |
+
+All supplied F1–F4 excerpts were reviewed. No cited exhibit is missing from the packet provided; the underlying timecards remain the identified missing proof.
+
+ADJUDICATION
+No legacy targets were assigned, and the review identifies seven additional premise gaps and two optional clarifications.
+
+Additional finding | new | Moss could describe an unspoken understanding.
+F1, p. 1, message 3 records the express approval and crew-cost reservation. If Moss identifies another condition, asking where and when it was communicated skips the material question of whether Moss ever conveyed it to the fabricator.
+
+Additional finding | optional | Add **“If yes:”** before “Identify the communication and its time.”
+The outline already asks whether Moss withdrew or changed the approval. A negative answer naturally ends that inquiry. The added cue makes the sequence explicit. F1, p. 1, message 3 and F2, p. 1, messages 4–5 establish the approval and booking messages.
+
+Additional finding | optional | Which row, if any, do you contend is incorrect, and why?
+The original already conditions the row question on Moss disputing the breakdown. Adding “if any” gives Moss room to dispute the total or the characterization of a charge. F3, p. 2, rows A–B identifies both entries and the requested total.
+
+Additional finding | new | Is there a record supporting that correction?
+F3, p. 2, rows A–B and F4, p. 5, lines 1–8 identify the sources for the original memo. Moss could offer a correction from memory. Asking for “its supporting record” assumes a document exists for that correction.
+
+Additional finding | new | Moss might claim the sentence assigned responsibility without claiming mutual assent.
+F1, p. 1, message 3 reserves crew costs for separate treatment. Even if Moss interprets that sentence as assigning responsibility, “What agreement about crew costs had been reached?” assumes both sides agreed. The proposed yes-or-no question establishes that premise before counsel asks for terms.
+
+Additional finding | new | Do you know whether that person used any records?
+F4, p. 5, lines 1–8 identifies the operations estimate as Moss’s source and site payroll as the timecard custodian. Asking what records the preparer used assumes both that the preparer consulted records and that Moss knows which ones. The proposed follow-up tests both points.
+
+Additional finding | new | Moss could truthfully claim verification through records without having observed any workers.
+The outline opens the personal-observation branch upon a claim of verification alone. F4, p. 5, lines 1–8 disclaims supervision and identifies a possible documentary source. Asking whether Moss observed any work gives counsel a basis for pursuing worker-specific testimony.
+
+Additional finding | new | Did those records show any reassignments?
+F4, p. 5, lines 1–8 describes payroll’s timecards as including reassignments. Whether the Friday crew had any recorded reassignments remains open. The proposed question tests that fact before asking Moss to identify particular entries.
+
+Additional finding | new | Was the $6,400 based on a calculation?
+F3, p. 2, row B calls the figure an operations estimate. F4, p. 5, lines 1–8 establishes that Moss used it in the memo. Asking for “the calculation” assumes a method that neither passage identifies. The proposed question establishes whether there are inputs to pursue.
+
+Rush freight | Outline 1B | Initial skill
+
+Two narrow repairs would keep the counsel notes within the supplied record. The five lead questions and their conditional branches otherwise have adequate factual foundations.
+
+1. **Question 3, counsel note:** “a Friday crew existed.”
+
+   **Source:** F4, p. 5, lines 1–8: “We did have a crew rostered Friday.” This supports Moss’s account of scheduling. It does not establish that workers attended, worked particular hours, or were idle.
+
+   **Smallest correction:** “Moss reported that a crew was rostered Friday.”
+
+   If attendance becomes material, ask: “Did any of those workers report for work Friday?” If yes, identify the workers and Moss’s basis of knowledge before pursuing their hours or activities.
+
+2. **Missing-proof note:** “The roster establishes scheduling.”
+
+   **Source:** F4, p. 5, lines 1–8, contains Moss’s statement that a crew was rostered. No roster itself is supplied. The note treats a reported staffing arrangement as a reviewed document.
+
+   **Smallest correction:** “Moss’s interview reports that a crew was rostered Friday.”
+
+   Retain the request for job-coded timecards, including reassignments: F4 expressly identifies those records and their custodian. The outline appropriately says they *could* strengthen or undermine the estimate without assuming their contents.
+
+**Coverage:** Checked the heading and objective, all five leads, every follow-up and counsel note, and the missing-proof discussion against F1–F4 in full as supplied. No supplied passage was missing or unreadable. The timing sequence accurately tracks the approval email, booking notice, and carrier confirmation. The original outline remains intact.
+
+ADJUDICATION
+A misses the carrier-commitment gap but identifies an unsupported reliance on the roster itself and offers a narrower description of the scheduled crew.
+
+Target 7 (Approval preceded carrier commitment.) | miss | The review confirms the sequence in F1, p. 1, message 3, and F2, p. 1, messages 4–5, but overlooks the objective’s claim that approval preceded carrier commitment. Neither message dates the first binding commitment.
+
+Additional finding | optional | Moss reported that a crew was rostered Friday.
+F4, p. 5, lines 1–8, supports the existence of a rostered crew. The Question 3 note does not assert attendance. The proposed wording identifies precisely what Moss reported, and the follow-up gives counsel a way to establish attendance if it matters.
+
+Additional finding | new | No roster itself is supplied. The note treats a reported staffing arrangement as a reviewed document.
+The missing-proof note attributes scheduling to the roster itself. F4, p. 5, lines 1–8, supplies only Moss’s interview statement about scheduling. The replacement correctly attributes that evidence to Moss.
+
+Rush freight | Outline 1B | Plain request
+
+The outline has no clear contradiction with the exhibits. I would tighten these three phrases; these are localized edits, leaving the original outline intact.
+
+| Quoted language | Source pinpoint and concern | Smallest usable correction |
+|---|---|---|
+| “Establish approval before carrier commitment” | **F1, p. 1, message 3; F2, p. 1, messages 4–5 and header.** The recorded sequence supports that inference: approval at 08:12, booking notice at 08:19, confirmation at 08:32. The packet does not independently establish the first binding carrier commitment. | “Establish approval before the recorded booking notice and carrier confirmation.” |
+| “a Friday crew existed” | **F4, p. 5, lines 1–8:** “We did have a crew rostered Friday.” That establishes scheduling; it does not establish attendance, work performed, or idle time. | “a crew was rostered for Friday.” |
+| “What did you personally observe about that crew’s work on Friday?” | **F4, p. 5, lines 1–8.** The packet establishes a roster and lack of supervision, but does not establish that the crew actually worked Friday. The question unnecessarily assumes work occurred. | “What, if anything, did you personally observe about the rostered crew on Friday?” |
+
+The five lead questions otherwise have support in their cited exhibits. The outline correctly preserves the separate treatment of crew costs without treating that reservation as agreement to the $6,400 claim, and correctly avoids equating lack of supervision with lack of all personal knowledge.
+
+The identified missing proof—job-coded timecards, including reassignments—is supported by **F4, p. 5, lines 1–8** and remains a useful choice.
+
+ADJUDICATION
+B repairs the commitment objective, removes an unsupported premise from the personal-observation question and clarifies the crew note.
+
+Target 7 (Approval preceded carrier commitment.) | full | The review locates “Establish approval before carrier commitment” in the objective and identifies the missing fact. F1, p. 1, message 3, and F2, p. 1, messages 4–5 and header, date approval, booking notice and confirmation. The replacement limits the objective to those documented events.
+Review excerpt: The packet does not independently establish the first binding carrier commitment.
+
+Additional finding | optional | a crew was rostered for Friday.
+F4, p. 5, lines 1–8, supports the Question 3 note’s statement that a Friday crew existed in the scheduling sense. Using Moss’s more precise term reduces ambiguity about attendance.
+
+Additional finding | new | What, if anything, did you personally observe about the rostered crew on Friday?
+The original Question 3 follow-up refers to “that crew’s work on Friday,” presupposing work occurred. F4, p. 5, lines 1–8, establishes scheduling and Moss’s lack of supervision. The revised question leaves Moss free to describe work, idleness or no observations.
+
+Rush freight | Outline 1B | Revised skill
+
+The main repairs concern the crew follow-ups and references to a roster. The approval and booking sequence has support: F2 expressly says, “I have your approval. I’m booking the Saturday slot now.” The original outline remains intact.
+
+1. **Question 3, idle-time branch — attribution needs its own foundation.**
+
+   **Problem:** “basis for attributing that time to the delivery.”
+
+   **Source:** F4, p. 5, lines 1–8 establishes Moss’s account that a crew was rostered Friday and that Moss did not supervise its hours. Neither that account nor a later description of idle time necessarily attributes the idleness to the delivery.
+
+   **Smallest correction:** “Do you attribute any of those idle hours to the delivery?” **If yes:** “Which hours, and on what basis?” Preserve the inquiries about workers, hours, and available tasks.
+
+2. **Question 3, counsel note — retain the scheduling qualification.**
+
+   **Problem:** “a Friday crew existed.”
+
+   **Source:** F4, p. 5, lines 1–8: “We did have a crew rostered Friday.” This supports Moss’s report of scheduling; it does not establish actual attendance, work, or idle hours.
+
+   **Smallest correction:** Replace with “Moss reported that a crew was rostered Friday.”
+
+3. **Question 5, verification follow-up — establish whether records were used.**
+
+   **Problem:** “Which records did you use to check it?”
+
+   **Sources:** F3, p. 2, row B identifies an operations estimate. F4, p. 5, lines 1–8 says Moss assembled the chargeback from that estimate and the carrier invoice. Neither establishes that Moss checked the estimate against records.
+
+   **Smallest correction:** “Did you use any records to check that estimate?” **If yes:** “Which records?”
+
+4. **Question 5, both timecard branches — review does not establish corroboration, and nonreview does not establish other verification.**
+
+   **Problems:** “If Moss reviewed them: identify the entries supporting idle hours and the treatment of reassignments.” Also: “If not: establish what other verification Moss performed.”
+
+   **Source:** F4, p. 5, lines 1–8 identifies site payroll as holding job-coded timecards, including reassignments. It does not establish that Moss reviewed them, that relevant entries support idle hours, or that Moss performed another verification.
+
+   **Smallest correction:**
+   - **If reviewed:** “Did any entries support the claimed idle hours?” **If yes:** “Which entries?” Then: “Did those records show any reassignments for those workers?” **If yes:** “How were those entries treated in calculating the claim?”
+   - **If not reviewed:** “Did you perform any other verification of the estimate?” **If yes:** “What did you do?”
+
+5. **Missing-proof note — no roster document was supplied.**
+
+   **Problem:** “The roster establishes scheduling.”
+
+   **Source:** F4, p. 5, lines 1–8 contains Moss’s statement that a crew was rostered. The packet contains no roster exhibit to inspect.
+
+   **Smallest correction:** “Moss reports that a crew was rostered Friday; the timecards could materially strengthen or undermine the claimed idle-crew loss.”
+
+   The request for job-coded timecards, including reassignment entries, remains supported and useful. Their actual contents remain unknown.
+
+The table below covers every question group, its branches, and the surrounding notes.
+
+| Group | Leads, follow-ups, and instructions checked | Source or answer licensing the premise |
+|---|---|---|
+| **Objectives and heading** | “adverse individual fact witness; 12 minutes”; “Establish approval before carrier commitment”; “separate the crew claim…” | Assignment supplies witness capacity and time. F1, p. 1, message 3 and F2, p. 1, messages 4–5/header support approval followed by the fabricator’s express booking notice and carrier confirmation. The packet does not independently specify the precise point of binding carrier commitment. F1 and F3 support separating premium and crew costs. |
+| **1** | “You approved…”; if denied, “show F1 and read…”; if recollection fails, “confront with Moss’s acknowledgment…” | F1, p. 1, message 3 supplies approval and cap. F4, p. 5, lines 1–8 supplies Moss’s acknowledgment of sending it. Both branches have their stated foundation. |
+| **2** | “Your chargeback includes…”; “Lock in the sequence…”; “That amount was within…”; if reading disputed, “confront with F4…”; if premium chargeback maintained, “What facts support…” | F2, p. 1, message 5 and F3, p. 2, row A identify the same $3,150 premium. F1/F2 and the header support the stated message sequence; $3,150 falls within $4,000. F4 supports reading the confirmation. Continued assertion of the chargeback licenses the open inquiry into its basis. |
+| **3** | “Your approval expressly left…”; “Read the hard language…”; “You also reported…”; “What did you personally observe…”; if idle time described, identify “workers, hours, tasks available,” and attribution basis; counsel note | F1, p. 1, message 3 supports separate treatment of crew costs. F4, p. 5, lines 1–8 supports the attributed scheduling statement. Personal observations are an open inquiry. A description of idle time licenses questions identifying it and exploring available tasks; causal attribution requires **repair 1**. Counsel note: **repair 2**. |
+| **4** | “You did not supervise…”; if particular hours claimed, “How do you know…”; if a source named, identify “the person or record and what it actually established”; knowledge limitation note | F4, p. 5, lines 1–8 supports lack of supervision. A claim of particular hours licenses inquiry into its basis; naming a source licenses inquiry into that source. These branches do not assume that lack of supervision eliminates all personal knowledge. |
+| **5** | “The $6,400 crew amount…”; “Who prepared…”; “Which records…”; “Site payroll holds…”; if reviewed, “identify the entries…”; if not, “what other verification…” | F3, p. 2, row B and F4, p. 5, lines 1–8 support the estimate’s existence, amount, and use. Its preparer is an open inquiry. Record checking requires **repair 3**. F4 supports the timecard custodian question. Both review branches require **repair 4**. |
+| **Next-proof note** | “Site payroll’s job-coded timecards…”; “They would test…”; “The roster establishes…”; “timecards could materially strengthen or undermine…” | F4 identifies the records and custodian; F3 identifies the estimated crew amount they could test. Seeking possible corroboration is supported. The roster characterization requires **repair 5**. |
+
+All supplied exhibits, F1–F4, were reviewed. None is missing; the roster and timecards themselves were not supplied.
+
+ADJUDICATION
+The review identifies the missing commitment timing but leaves the introductory theory unrepaired, while finding five additional unsupported premises and one optional scheduling clarification.
+
+Target 7 (Approval preceded carrier commitment.) | partial | The objectives row locates “Establish approval before carrier commitment” and correctly distinguishes the events shown by F1, p. 1, message 3 and F2, p. 1, messages 4–5 and header. The review leaves the objective intact. A usable repair would limit it to establishing approval before the booking notice and carrier confirmation.
+Review excerpt: The packet does not independently specify the precise point of binding carrier commitment.
+
+Additional finding | new | “Do you attribute any of those idle hours to the delivery?” **If yes:** “Which hours, and on what basis?”
+Question 3 conditions the branch on Moss describing idle time. Asking for the basis for attributing that time to the delivery assumes Moss has made a further causal attribution. F4, p. 5, lines 1–8 establishes only that a crew was rostered and Moss did not supervise its hours.
+
+Additional finding | optional | Replace with “Moss reported that a crew was rostered Friday.”
+F4, p. 5, lines 1–8 supports the existence of a rostered crew. The counsel note makes no express claim about attendance, and the preceding question already uses “rostered.” The edit makes the scheduling qualification explicit in the note as well.
+
+Additional finding | new | “Did you use any records to check that estimate?” **If yes:** “Which records?”
+Question 5 asks which records Moss used, presupposing a check. F3, p. 2, row B and F4, p. 5, lines 1–8 establish that Moss used the operations estimate to assemble the claim. Whether Moss checked it against records remains open.
+
+Additional finding | new | “Did any entries support the claimed idle hours?” **If yes:** “Which entries?”
+Even if Moss reviewed the timecards, directing counsel to identify supporting entries presumes what the review revealed. F4, p. 5, lines 1–8 identifies the custodian and record type. The proposed branch tests both corroboration and whether these workers had reassignment entries.
+
+Additional finding | new | “Did you perform any other verification of the estimate?” **If yes:** “What did you do?”
+If Moss did not review the timecards, the instruction to establish “what other verification Moss performed” still assumes some other check occurred. F4, p. 5, lines 1–8 identifies the inputs Moss used to assemble the chargeback and leaves verification open.
+
+Additional finding | new | The packet contains no roster exhibit to inspect.
+The missing-proof note credits “the roster” itself with establishing scheduling. The packet evidence is Moss’s interview statement at F4, p. 5, lines 1–8. The review correctly changes the attribution to Moss.
+
+Rush freight | Outline 1D | Plain request
+
+**No factual repairs are required on the supplied packet.** The outline accurately states the documented facts and leaves unresolved matters for examination. I recommend keeping it intact.
+
+The main premises check out:
+
+| Outline language | Source check | Correction |
+|---|---|---|
+| “approval before booking” | F1, p. 1, message 3 records approval at 08:12. F2, p. 1, messages 4–5 records “I’m booking … now” at 08:19 and confirmation at 08:32, using the same date and local time. Question 2 accurately asks about the messages’ sequence. | None. |
+| “the approved $3,150 carrier premium” | F1 approves the Saturday premium up to $4,000; F2 confirms $3,150; F3, p. 2, row A includes that amount in the chargeback. Asking Moss for the chargeback’s basis does not assume approval legally defeats it. | None. |
+| “reservation of crew costs” | F1 expressly leaves crew costs for separate discussion. Question 4 appropriately asks what Moss meant and whether any particular amount was approved. | None. |
+| “a crew was rostered Friday” | F4, p. 5, lines 1–8 supports rostering and Moss’s lack of supervision of hours. The outline correctly treats actual idleness as unverified. | None. |
+| “$6,400 idle-crew estimate” and “job-coded timecards, including reassignments” | F3, p. 2, row B identifies an operations estimate; F4, p. 5, lines 1–8 identifies site payroll as holding the timecards. Question 5 leaves Moss’s actual record review open. | None. |
+
+The missing-proof statement also appropriately limits what the timecards could establish: they could test the estimate without necessarily proving causation or dollar loss.
+
+ADJUDICATION
+Review A recommends keeping the outline intact and proposes no edits.
+
+No target or additional repair recorded.
+
+Rush freight | Outline 1D | Initial skill
+
+Two narrow repairs; the original outline remains intact.
+
+1. **“Known” note: “The packet documents approval before booking.”**  
+   **Source:** F1, p. 1, message 3 records the 08:12 approval. F2, p. 1, messages 4–5 records the fabricator’s 08:19 statement, “I’m booking the Saturday slot now,” and the carrier’s 08:32 confirmation. This supports the message sequence and the fabricator’s account of booking timing. Treating the underlying booking time as independently established goes further.  
+   **Smallest correction:** “The packet documents approval before the fabricator’s message announcing booking and the carrier’s confirmation.” Question 2 already preserves this distinction and needs no change.
+
+2. **Question 5, records-reviewed branch: “identify them and the hours, rates, and reassignments they supported.”**  
+   **Source:** F4, p. 5, lines 1–8 says Moss assembled the chargeback from the invoice and operations estimate, and that site payroll holds job-coded timecards, including reassignments. F3, p. 2, row B identifies the $6,400 as an operations estimate. Neither establishes what any records Moss reviewed supported. An affirmative answer that Moss reviewed records would not establish that those records supported hours, rates, or reassignments.  
+   **Smallest replacement:** “Which records did you review? What, if anything, did they show about hours, rates, or reassignments?” If Moss identifies supporting information, retain the follow-up seeking its specifics.
+
+Checked all five leads, their sources and conditional branches, and the preliminary notes, purpose statement, and missing-proof request against F1–F4 as supplied. No supplied passage was unavailable, and no other material factual-premise repair emerged.
+
+ADJUDICATION
+Review B offers an optional clarification of the booking chronology and repairs a material assumption about what records Moss reviewed could substantiate.
+
+Additional finding | optional | The packet documents approval before the fabricator’s message announcing booking and the carrier’s confirmation.
+The 08:12 approval, the fabricator’s 08:19 statement that it was booking the slot, and the carrier’s 08:32 confirmation support the outline’s chronology. The revision clarifies which events carry timestamps. F1, p. 1, message 3 and F2, p. 1, messages 4–5.
+
+Additional finding | new | Which records did you review? What, if anything, did they show about hours, rates, or reassignments?
+Even if Moss reviewed records, “the hours, rates, and reassignments they supported” presupposes what those records substantiated. F3, p. 2, row B identifies an estimate, and F4, p. 5, lines 1–8 identifies the timecard custodian. The replacement lets Moss say the records showed nothing about any of those items.
+
+Rush freight | Outline 1D | Revised skill
+
+I found one material premise to repair, in Question 5’s records branch. The original outline remains intact.
+
+1. **Question 5 — what reviewed records supported**
+
+   **Problem:** “If records were reviewed, identify them and **the hours, rates, and reassignments they supported**.”
+
+   **Source:** F3, p. 2, row B identifies the $6,400 as an “operations estimate.” F4, p. 5, lines 1–8 states that Moss did not supervise crew hours and that site payroll holds job-coded timecards, including reassignments. The packet does not establish that Moss reviewed those timecards or that any reviewed records supported particular hours, rates, or reassignments.
+
+   The branch establishes review alone. Moss could truthfully answer, “I reviewed the roster, but it did not establish actual hours or reassignments.” The next instruction would still assume supporting content.
+
+   **Smallest askable replacement:** “Which records did you review, and what, if anything, did they show about hours, rates, or reassignments?”
+
+   **Preserved follow-up:** If Moss identifies information the records supported, ask: “Where does the record show that?”
+
+The remaining questions appropriately test disputed matters or seek information without requiring an unsupported concession. In particular, Question 2 preserves the documented message sequence, and Question 3’s request for a supporting document can serve as a request for possible corroboration.
+
+| Coverage | Lead and follow-ups, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **Objectives and counsel notes** | “The packet documents approval before booking”; “Establish the premium authorization and sequence”; “test each chargeback component separately”; “premium approval does not itself resolve the crew claim.” | F1, p. 1, message 3 supplies approval and separates crew costs. F2, p. 1, messages 4–5 supplies the fabricator’s contemporaneous account—“I have your approval. I’m booking…”—and subsequent confirmation. This supports the reported booking sequence; the timestamps directly establish the message sequence. F3, p. 2, rows A–B separates the two chargeback components. Individual-witness status comes from the assignment. |
+| **1. Approval** | **Lead:** “You sent the email…” → “If qualified, ask which words or circumstances…” → “If authorship or recollection is disputed, establish recognition…” → “address the prior interview statement.” | F1, p. 1, message 3; F4, p. 5, lines 1–8 expressly attributes approval to Moss. A qualification licenses inquiry into its scope. Disputed authorship or recollection licenses recognition questions and examination about the interview statement; neither requires an admission of authenticity. |
+| **2. Sequence and amount** | **Lead:** “Your 08:12 approval preceded…” → “Confirm the carrier then reported…” → “If Moss disputes the sequence, walk through the timestamps…” → “Establish when Moss read the confirmation.” | F1, p. 1, message 3 and F2, p. 1, messages 4–5 establish the same-date, same-local-time message sequence and $3,150 premium within the $4,000 cap. F4, p. 5, lines 1–8 establishes Moss’s account of reading the confirmation. **When** Moss read it remains an open inquiry, as the outline recognizes. |
+| **3. Premium chargeback** | **Lead:** “What factual basis did you use…” → “If Moss identifies a condition, later agreement, or performance failure, obtain its specifics, source, and supporting document” → “Distinguish personal observations from information supplied…” | F1, p. 1, message 3; F3, p. 2, row A; F4, p. 5, lines 1–8 establish approval, inclusion of the premium, and Moss’s assembly of the chargeback. The asserted justification is an **open inquiry**. An identified justification licenses requests for details and possible corroboration; no supporting document is established by this packet. Knowledge sources remain open. |
+| **4. Hard language and crew evidence** | **Lead:** “When you wrote…” → “Establish whether any particular crew amount was approved” → “Acknowledge Moss’s statement…” → “ask what Moss personally observed…” → “Confirm the limits of Moss’s knowledge…” | F1, p. 1, message 3 supplies the quoted language. Whether a crew amount was approved is an **open inquiry**. F4, p. 5, lines 1–8 supports attribution of the Friday roster statement and the absence of supervision. The outline properly asks about personal observations without equating rostered time with idle time or lack of supervision with lack of all knowledge. |
+| **5. Estimate and records** | **Lead:** “What records, if any…” → “If records were reviewed, identify them…” → “the hours, rates, and reassignments they supported” → “If Moss relied on the operations estimate, identify its preparer and inputs” → “Confirm that site payroll holds…” → “identify the person who can explain them.” | F3, p. 2, row B and F4, p. 5, lines 1–8 support the estimate and Moss’s use of it. Review is an **open inquiry**; an affirmative answer licenses identifying reviewed records, but their contents require **repair 1**. The estimate’s preparer and inputs remain open inquiries. F4 supports payroll’s custody; the identity of someone able to explain the records remains open. |
+| **Next-proof note** | “The Friday crew’s job-coded timecards, including reassignments”; “These would test actual work against the estimate…” | F4, p. 5, lines 1–8 identifies these records and their holder. Selecting them as the most useful missing proof is counsel’s supported investigative judgment. Their contents remain unknown; the note appropriately limits what they could establish about causation and dollar loss. |
+
+All five groups and the accompanying notes were checked. No referenced exhibit is missing from the supplied packet; the underlying timecards remain the identified missing proof.
+
+ADJUDICATION
+No legacy targets were assigned, and the review identifies one material premise to repair in Question 5.
+
+Additional finding | new | Which records did you review, and what, if anything, did they show about hours, rates, or reassignments?
+Question 5 conditions the follow-up on Moss having reviewed records, then assumes those records supported particular figures or reassignments. F3, p. 2, row B identifies an operations estimate. F4, p. 5, lines 1–8 identifies site payroll as the timecard holder. Neither establishes what any record Moss reviewed showed. The proposed question lets Moss say that a record established none of those details.
+
+Rush freight | Outline 2A | Plain request
+
+I found **no factual premise requiring repair** against this packet. The outline’s questions and qualifications are supported. Keep the original intact.
+
+One optional clarification would make the source description more precise:
+
+| Quoted wording | Source pinpoint and issue | Smallest usable correction |
+|---|---|---|
+| Item 4, counsel note: “A roster establishes scheduled staffing; actual idle hours and reassignments remain open.” | F4, p. 5, lines 1–8 supplies Moss’s statement that a crew was rostered Friday. The packet contains no actual roster. | “Moss’s statement supports scheduled staffing; actual idle hours and reassignments remain open.” |
+
+The outline already preserves the material limits of the exhibits:
+
+- **Authorization:** F1, p. 1, message 3 approves the carrier premium while reserving crew costs separately.
+- **Timing:** F1 and F2 establish the message sequence; they supply neither the precise booking time nor Moss’s reading time.
+- **Crew loss:** F3, p. 2, row B and F4, p. 5, lines 1–8 support questioning the estimate’s basis without assuming that rostered workers were actually idle.
+- **Missing proof:** F4 expressly identifies site payroll as holding the job-coded timecards, including reassignments. The outline appropriately limits what those records could establish.
+
+ADJUDICATION
+A offers one optional attribution edit and overlooks item 5’s assumption that Moss personally verified some hours.
+
+Additional finding | optional | Moss’s statement supports scheduled staffing; actual idle hours and reassignments remain open.
+F4, p. 5, lines 1–8 contains Moss’s statement that a crew was rostered Friday. Item 4 already identifies that statement as its source. The edit clarifies the counsel note’s attribution without changing the factual premise.
+
+Rush freight | Outline 2A | Initial skill
+
+One material premise needs repair, in item 5. The original outline remains intact.
+
+1. **Item 5, “If qualified” branch:** “Which hours did you personally verify?”
+
+   **Source:** F3, p. 2, row B identifies the $6,400 as an operations estimate. F4, p. 5, lines 1–8 records Moss saying, “I did not supervise their hours,” and identifying site payroll as holding the timecards. Neither passage establishes whether Moss personally verified any hours.
+
+   **Problem:** A qualification of the estimate’s source does not establish personal verification. Moss could answer, “I used the estimate along with other information, but never checked individual hours.” The follow-up nevertheless assumes some verification occurred.
+
+   **Smallest correction:** “Did you personally verify any of the hours underlying that amount?” **If yes:** “Which hours, and how did you verify them?” Then retain the existing question about reviewing timecards.
+
+Checked all five items, including foundations, leads, conditional branches, headings, counsel notes, the objective, and the missing-proof recommendation, against all supplied passages in F1–F4. No other material premise repairs found. No supplied passage was missing or unreadable; the underlying invoice, estimate and timecards were not supplied for independent review.
+
+ADJUDICATION
+B identifies and repairs one material presupposition in item 5; its closing source-access note requests no additional action.
+
+Additional finding | new | “Did you personally verify any of the hours underlying that amount?” **If yes:** “Which hours, and how did you verify them?”
+Item 5 asks “Which hours did you personally verify?” whenever Moss qualifies the estimate’s source. F3, p. 2, row B identifies an operations estimate, and F4, p. 5, lines 1–8 establishes that Moss used it and did not supervise the crew’s hours. A qualification could identify another source while leaving personal verification unresolved. B asks whether verification occurred before seeking details.
+
+Rush freight | Outline 2A | Revised skill
+
+Two premise repairs are warranted, both in question group 5. The remaining groups preserve the distinctions supported by the packet. The original outline is unchanged.
+
+1. **Group 5, “If qualified” follow-up:** “Which hours did you personally verify?”
+
+   **Source:** F4, p. 5, lines 1–8: “I did not supervise their hours.” F3, p. 2, row B identifies an operations estimate supporting the $6,400 amount. Neither establishes that Moss personally verified any hours.
+
+   A qualified answer could be: “I used the estimate, but I personally verified none of the hours.” The follow-up nevertheless assumes some verification.
+
+   **Smallest replacement:** “Did you personally verify any of the hours underlying that amount?” **If yes:** “Which hours?”
+
+2. **Group 5, instruction after an affirmative timecard-review answer:** “If yes, identify the records and calculations”
+
+   **Source:** F4, p. 5, lines 1–8 establishes that site payroll holds job-coded timecards, including reassignments. F3, p. 2, row B identifies the operations estimate. Neither establishes what calculations Moss used or reviewed. An affirmative answer to reviewing timecards supplies foundation for identifying those records, but not for assuming Moss also used or reviewed calculations.
+
+   **Smallest replacement:** “If yes, identify the records reviewed. Ask: ‘Did you use or review any calculations for the $6,400 amount?’ If yes: ‘What calculations?’”
+
+The existing “if no” inquiry into the estimate’s preparer and inputs can remain: the estimate’s existence is supported, and those are open inquiries.
+
+| Outline location | Lead and follow-up coverage, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **Objective** | “establish the authorized premium and booking sequence”; “test the factual basis” for crew loss | F1 supports authorization; F2 supports the message sequence. Group 2’s note correctly limits what timestamps establish. F3–F4 support examining the crew estimate without assuming actual idle hours. |
+| **1. Authorization** | Foundation: “Did you send…”; lead: “You approved…”; qualified branch: “Your email said…” → “What condition, if any…” | F1, p. 1, message 3 supports authorship attribution, approval, ceiling, direction to proceed and separate treatment of crew costs. The condition question is open. The counsel note correctly avoids treating carrier approval as approval of all costs or surrender of the crew claim. |
+| **2. Message sequence** | Foundation: “Do you recognize…”; lead: “Your 08:12 approval…”; denied/uncertain branch: establish date and common local time → compare timestamps → “The carrier’s 08:32 confirmation…” | F1, p. 1, message 3; F2, p. 1, messages 4–5 and header. These support the stated message order and premium within the ceiling. F4, p. 5, lines 1–8 supports Moss’s reported reading of the confirmation, without a reading time. The counsel note preserves those limits. |
+| **3. Premium in chargeback** | Foundation: “You assembled…”; lead: “The $3,150 in row A…”; denied/qualified branch: “What difference…”; if same item and entitlement asserted: “What facts support…” | F4, p. 5, lines 1–8 supports assembly from invoice and estimate. F3, p. 2, row A and F2, p. 1, message 5 support testing whether the premiums are the same. “What difference…” permits “none”; the next branch expressly requires acknowledgment of the same item and an asserted entitlement. The counsel note appropriately leaves the ultimate chargeback basis open. |
+| **4. Friday roster** | Foundation: “How do you know…”; lead: “There was a crew rostered…”; admitted branch: “What did you personally observe…”; attributed-knowledge branch: “Who told you…” → “what did they report?”; denied branch: explain or correct F4 | F4, p. 5, lines 1–8 supplies Moss’s prior account of a Friday roster. Personal observations are an open inquiry. Attribution to another person licenses asking who and what was reported. The denial branch uses the prior statement without assuming its accuracy. The note correctly leaves idle hours and reassignments unresolved. |
+| **5. Crew estimate** | Foundation: “You did not supervise…”; lead: “The $6,400 idle-crew amount…”; qualified branch: “Which hours…” → “Did you review…”; yes branch: identify records and calculations; no branch: identify preparer and inputs | F3, p. 2, row B; F4, p. 5, lines 1–8 support the foundation and lead. **Repair 1** supplies the missing verification condition. Timecard review is an open inquiry; a yes licenses identifying reviewed records. **Repair 2** supplies the calculation condition. The estimate supports open questions about its preparer and inputs. |
+| **Next-proof note** | Friday job-coded timecards, including reassignments; site payroll as likely custodian; proposed use to test hours and reassigned work | F4, p. 5, lines 1–8 identifies payroll’s holdings; F3, p. 2, row B supplies the amount to test. Seeking the Friday records is supported. The note does not assume their contents and correctly limits what they could establish about responsibility. |
+
+All five groups, the objective, counsel notes and next-proof note were reviewed. No supplied exhibit is missing or unreadable.
+
+ADJUDICATION
+No legacy targets were assigned, and the review identifies two distinct unsupported premises in group 5 concerning Moss’s personal verification of hours and use or review of calculations.
+
+Additional finding | new | “Which hours did you personally verify?”
+F3, p. 2, row B identifies an operations estimate. F4, p. 5, lines 1–8 establishes that Moss used the estimate and did not supervise the crew’s hours. Moss could qualify the answer without claiming to have verified any hours. Asking whether Moss verified any hours gives counsel a basis for asking which ones.
+
+Additional finding | new | “If yes, identify the records and calculations”
+The affirmative answer establishes that Moss reviewed timecards. F4, p. 5, lines 1–8 identifies those records, and F3, p. 2, row B attributes the $6,400 to an estimate. Whether Moss used or reviewed calculations remains open. The proposed follow-up asks that question before requesting specifics.
+
+Rush freight | Outline 2C | Initial skill
+
+No material factual-premise repair is needed on the supplied record. Leave the original outline intact.
+
+- **Approval and booking sequence:** “Moss approved … before the booking” is supported by the message contents as well as their timestamps: approval at 08:12; “I have your approval. I’m booking the Saturday slot now” at 08:19; confirmation at 08:32. **F1, p. 1, message 3; F2, p. 1, messages 4–5.** Question 2 separately asks when Moss read the confirmation, preserving that uncertainty.
+
+- **Crew-cost reservation and roster:** Question 3 asks Moss to explain the reservation without converting it into a reimbursement agreement or waiver. “You said a crew was rostered Friday” accurately attributes Moss’s account; the next question seeks personal observations without asserting idle hours. **F1, p. 1, message 3; F4, p. 5, lines 1–8.**
+
+- **Chargeback and verification:** Questions 4–5 seek the basis for the charges and the extent of Moss’s verification. Read with their conditional branches, they allow an answer of no verification and do not establish actual idle hours, reassignments, or causation. **F3, p. 2, rows A–B; F4, p. 5, lines 1–8.** The timecard request appropriately seeks evidence to test the estimate.
+
+Coverage: Checked all prefatory notes, five leads, sources, conditional branches, stops, and the reserve-minute note against all supplied passages from F1–F4. No supplied passage was missing or unreadable; material beyond those passages was not reviewed.
+
+ADJUDICATION
+Review A correctly leaves the outline intact because the messages establish the booking sequence and the crew questions ask what Moss personally observed or verified.
+
+No target or additional repair recorded.
+
+Rush freight | Outline 2C | Plain request
+
+**No factual-premise repairs are required on the supplied packet.** The original outline can remain intact.
+
+The potentially vulnerable premises are properly supported or qualified:
+
+| Outline wording checked | Source pinpoint | Review |
+|---|---|---|
+| “Moss approved a carrier premium up to $4,000 before the booking” | F1, p. 1, message 3; F2, p. 1, messages 4–5 | Supported: approval at 08:12 precedes the 08:19 booking message and 08:32 confirmation, all in the same local time. No correction. |
+| “You read the carrier’s 08:32 confirmation…” | F2, p. 1, message 5; F4, p. 5, lines 1–8 | Supported. The question identifies the confirmation’s timestamp without asserting when Moss read it; the follow-up properly asks that separately. No correction. |
+| “reservation of crew costs” | F1, p. 1, message 3 | Fair characterization of “We’ll take up any crew costs separately.” The outline correctly leaves any reimbursement agreement open for inquiry. No correction. |
+| “a crew was rostered Friday” and “the $6,400 operations estimate” | F4, p. 5, lines 1–8; F3, p. 2, row B | Supported. The outline does not equate rostering with actual idle hours or treat the estimate as proven loss. No correction. |
+
+The proposed missing proof is also grounded in F4: Moss identifies site payroll as holding job-coded timecards, including reassignments. The outline appropriately says those records **can test** time allocation; it does not promise that they will establish causation or validate the full $6,400.
+
+ADJUDICATION
+Review B correctly leaves the outline intact because the follow-up asks when Moss read the confirmation and the proposed timecards would help test the crew estimate.
+
+No target or additional repair recorded.
+
+Rush freight | Outline 2C | Revised skill
+
+Four follow-up premises need repair. The supplied packet does not contradict them; it leaves their foundations open. The original outline remains intact.
+
+1. **Question 1 — qualified-approval branch**
+
+   **Problem:** “If qualified, ask what limitation Moss communicated beyond the stated cap.”
+
+   **Source:** F1, p. 1, message 3 establishes approval up to $4,000 and a separate crew-cost reservation. F4, p. 5, lines 1–8 confirms Moss’s account that he approved the carrier. A qualified answer could concern Moss’s private understanding without establishing another **communicated** limitation.
+
+   **Smallest correction:** “Did you communicate any limitation on the carrier approval beyond the $4,000 cap?” If yes: “What did you communicate?”
+
+2. **Question 3 — crew-observation follow-up**
+
+   **Problem:** “You said a crew was rostered Friday; what did you personally observe about their work that day?”
+
+   **Source:** F4, p. 5, lines 1–8 establishes Moss’s statement that a crew was rostered Friday and that he did not supervise their hours. It establishes neither actual work nor personal observation. Lack of supervision also does not establish lack of observation.
+
+   **Smallest correction:** “Did you personally observe the crew that Friday?” If yes: “What did you observe?”
+
+3. **Question 4 — supporting-record instruction**
+
+   **Problem:** “obtain its speaker, date, terms, and supporting record.”
+
+   **Source:** F1, p. 1, message 3 contains the approval and crew-cost reservation; F3, p. 2, row A and F4, p. 5, lines 1–8 establish the carrier chargeback and Moss’s role in assembling it. None establishes a separate repayment agreement, condition, or supporting record. The branch properly conditions questions about terms on Moss identifying an agreement or condition, but that answer could describe an entirely oral arrangement.
+
+   **Smallest correction:** Retain the speaker, date, and terms inquiries. Replace “and supporting record” with: “Is there any record supporting that agreement or condition?” If yes: “Please identify it.”
+
+4. **Question 5 — verified-estimate branch**
+
+   **Problem:** “If verified, identify the records, hours, rates, reassignments, and basis for attributing idle time to this delivery.”
+
+   **Source:** F3, p. 2, row B identifies a $6,400 operations estimate. F4, p. 5, lines 1–8 establishes that Moss used that estimate, did not supervise crew hours, and identifies payroll’s timecards. Moss could truthfully answer that he verified only arithmetic or a rate, perhaps orally. That would not establish records used, reassignments, or verification of idle time and causation.
+
+   **Smallest correction:** “For each item you verified, how did you verify it? Did you verify hours, rates, whether anyone was reassigned, or whether any idle time resulted from this delivery? What records, if any, did you use?” Pursue particulars only for matters Moss says he verified.
+
+| Coverage | Leads and follow-ups checked; source or licensing answer |
+|---|---|
+| **Objectives and counsel notes** | **“Known”**: F1–F3 support authorization, amounts, and the communicated sequence: 08:12 approval; 08:19 acknowledgment and announced booking; 08:32 confirmation. **“Unverified or disputed”** appropriately leaves withdrawal, chargeback justification, actual hours, reassignments, and causation open. **“Decision points”** preserves F1’s reservation without converting it into a reimbursement agreement. The assignment supplies the time limit and individual-witness scope. No additional repair. |
+| **1. Approval** | **“You approved…”**: F1, p. 1, message 3; Moss’s account in F4, p. 5, lines 1–8. **“what limitation…”**: repair 1. **“establish authorship” / “review the complete message”**: appropriate foundation inquiries on denial or failed recollection; F1 supplies the message and reservation. **Stop** seeks the witness’s account. |
+| **2. Booking chronology** | **“You read…”**: Moss’s account in F4; confirmation content and timestamp in F2, p. 1, message 5. **“When did you read it?”**: open timing inquiry; neither exhibit supplies that time. **“What, if anything…”**: open inquiry into withdrawal or modification before the identified message. **“obtain its time, recipient, wording, and location”**: licensed by Moss identifying a communication; it need not be written. **Stop** correctly avoids assuming reading time. |
+| **3. Crew-cost reservation** | **“What did you mean…”**: open meaning inquiry grounded in F1’s exact language. **“who agreed” / “when” / “exact terms”**: licensed if Moss describes a reimbursement agreement. **“You said a crew…”**: roster statement supported by F4; observation premise needs repair 2. **Stop** properly avoids assuming waiver. |
+| **4. Carrier chargeback** | **“What was your basis…”**: open inquiry; inclusion and assembly supported by F3, p. 2, row A and F4. **“speaker, date, terms”**: licensed by identification of a separate agreement or condition. **“supporting record”**: repair 3. **“confirm whether row A…”**: legitimate identity inquiry comparing F2 with F3. **Stop** seeks the factual explanation. |
+| **5. Crew estimate** | **“What did you personally verify…”**: open inquiry grounded in F3, row B and F4. **“If verified, identify…”**: repair 4. **“If not, identify the estimator and payroll custodian”**: legitimate identity inquiries; F3 establishes an estimate and F4 identifies site payroll as holding the timecards. **“whether Moss reviewed…”**: open inquiry; F4 supports the records’ existence, not his review. **Stop** appropriately seeks knowledge limits and access to records. |
+| **Next-proof notes and reserve minute** | **“site payroll’s job-coded timecards, including reassignments…”**: expressly supported by Moss’s account in F4, p. 5, lines 1–8. The note properly proposes testing time allocation rather than treating a roster as proof of idle hours. **“clarify…qualification” / “identify a newly mentioned record”**: licensed by the answer or record actually mentioned. |
+
+All five question groups and accompanying notes were checked. No supplied exhibit is missing or unreadable.
+
+ADJUDICATION
+No legacy targets were assigned, and the review identifies four defensible repairs to follow-ups concerning communicated limits, crew activity, documentary support, and the scope of Moss’s verification.
+
+Additional finding | new | A qualified answer could concern Moss’s private understanding without establishing another **communicated** limitation.
+F1, p. 1, message 3 states the cap and reserves crew costs. F4, p. 5, lines 1–8 confirms approval. Asking what further limitation Moss communicated skips whether he communicated one. The proposed yes-or-no question supplies that foundation.
+
+Additional finding | new | “Did you personally observe the crew that Friday?” If yes: “What did you observe?”
+F4, p. 5, lines 1–8 establishes that the crew was rostered and that Moss did not supervise its hours. The phrase “their work that day” takes actual work for granted when both work and idle time are at issue. The proposed sequence lets Moss describe work, inactivity, or lack of firsthand knowledge.
+
+Additional finding | new | The branch properly conditions questions about terms on Moss identifying an agreement or condition, but that answer could describe an entirely oral arrangement.
+F1, p. 1, message 3 records the approval. F3, p. 2, row A and F4, p. 5, lines 1–8 trace the chargeback to the carrier invoice. Even if Moss identifies a repayment agreement, the instruction to obtain its supporting record assumes one exists. Asking first whether there is a record repairs that gap.
+
+Additional finding | new | Pursue particulars only for matters Moss says he verified.
+F3, p. 2, row B labels the amount an estimate. F4, p. 5, lines 1–8 identifies who holds the timecards and says Moss used the estimate. Verification of one input, such as a rate, would still leave open whether Moss checked hours, reassignments, or causation. The proposed follow-up ties each request for detail to what he actually checked.
+
+Rush freight | Outline 2D | Initial skill
+
+Applying the supplied deposition-source-check instructions, **I found no material factual premise requiring repair.** The original outline remains intact.
+
+- **Questions 1–2:** F1, p. 1, message 3, establishes the authorization and $4,000 limit. F2, p. 1, messages 4–5 and header, establishes the later booking message and confirmation. The expressly shared date and local time support the stated sequence.
+- **Question 3:** F3, p. 2, rows A–B, supports the chargeback’s amounts and distinct bases. The question about Moss’s claimed basis seeks an explanation without assuming approval legally bars recovery.
+- **Question 4 and counsel note:** F1 expressly reserves crew costs for separate discussion. The note properly attributes the Friday roster to Moss’s account in F4, p. 5, lines 1–8.
+- **Question 5 and missing-proof note:** F3 and F4 support the estimate’s source, Moss’s lack of supervision, and his identification of payroll’s records. Whether he reviewed those records remains an open question with conditional branches. Comparing timecards with the estimate is a legitimate proposed inquiry; the note appropriately limits what that comparison could establish.
+
+Coverage: Checked all five leads, foundations, branches, counsel notes, and the missing-proof request against supplied F1–F4. No supplied passage was missing or unreadable.
+
+ADJUDICATION
+Review A misses the assumed written record in Question 4 and proposes no additional edits.
+
+Target 8 (A claimed crew-cost agreement was documented.) | miss | Review A approves Question 4 without addressing “what document records it.” Even if Moss claims a later agreement, F1, p. 1, message 3 reserves crew costs for separate discussion, and F4, p. 5, lines 1–8 identifies no writing documenting an agreement. Ask whether any document records it, then ask Moss to identify it if he says yes.
+
+Rush freight | Outline 2D | Plain request
+
+**No factual-premise repairs are needed on the supplied packet.** Keep the outline intact.
+
+The points most likely to invite overstatement are already handled accurately:
+
+- **“Before the fabricator’s 08:19 message saying it was booking”** describes the documented message sequence without assuming the precise time booking occurred. F1, p. 1, message 3; F2, p. 1, messages 4–5 and header support 08:12 approval, 08:19 booking message, and 08:32 confirmation in the same local time.
+- **“Includes the same $3,150 carrier premium”** is supported by the confirmed premium and chargeback entry. F2, p. 1, message 5; F3, p. 2, row A. The follow-up asks Moss for his basis rather than assuming approval conclusively defeats the chargeback.
+- **“Left crew costs for separate discussion”** accurately tracks “We’ll take up any crew costs separately.” F1, p. 1, message 3. The outline correctly avoids treating that language as either a waiver or an agreement allocating those costs.
+- **“You had a crew rostered Friday?”** stays within Moss’s account; it does not assume actual idle hours. F4, p. 5, lines 1–8. The later questions appropriately test personal knowledge and the estimate’s basis.
+
+The missing-proof recommendation is also supported: F4 identifies site payroll’s job-coded timecards, including reassignments. The outline correctly limits what those records could establish.
+
+There is therefore no problem passage requiring a replacement.
+
+ADJUDICATION
+Review B addresses whether the email allocated crew costs but misses the separate assumption that a later agreement was documented and proposes no additional edits.
+
+Target 8 (A claimed crew-cost agreement was documented.) | miss | Review B correctly reads F1, p. 1, message 3 as leaving crew costs open, but overlooks “what document records it” in the follow-up. A claim of later agreement could refer to an oral exchange, and F4, p. 5, lines 1–8 identifies no written memorial. Ask first whether anyone recorded the agreement in writing and seek identification only on a yes.
+
+Rush freight | Outline 2D | Revised skill
+
+Two repairs would remove assumptions about documentation and the crew estimate’s underlying detail. The approval, booking sequence, premium amount, and chargeback entries are supported. The original outline remains intact.
+
+1. **Question 4 — separate-agreement branch**
+
+   **Problem:** “Ask who agreed, when, the words used, and **what document records it**.”
+
+   **Source and limit:** F1, p. 1, message 3 says, “We’ll take up any crew costs separately.” It does not establish a later agreement or a written record. The branch supplies an agreement only if Moss claims one; that agreement could have been entirely oral.
+
+   **Smallest correction:** Keep the questions about participants, timing, and words. Replace the last request with: **“Does any document record that agreement?” If yes: “Identify it.”**
+
+2. **Question 5 — detail sought after the records-review answer**
+
+   **Problem:**  
+   - **If yes:** “Identify the records, **claimed idle hours, and treatment of reassigned time**.”  
+   - **If no:** “Identify the estimator and the basis Moss personally has for the **claimed hours, rates**, and connection to this delivery.”
+
+   **Source and limit:** F3, p. 2, row B supplies an “idle crew” operations estimate totaling $6,400. It supplies no hours, rates, or calculation method. F4, p. 5, lines 1–8 establishes that Moss did not supervise the hours and that payroll holds job-coded timecards “including reassignments.” It does not establish actual reassignments for this crew, what the records show, or whether the estimate uses hours and rates. A truthful “yes, I reviewed them” could be followed by “they showed no idle hours or reassignments.”
+
+   **Smallest corrections:**
+   - **If yes:** “Identify the records you reviewed. Did they show any idle hours or reassignments?” **If idle hours are identified:** “What hours?” **If reassignments are identified:** “How, if at all, were they accounted for in the $6,400 estimate?”
+   - **If no:** Keep the request to identify the estimator. Replace the remaining instruction with: **“What, if anything, do you personally know about how the $6,400 was calculated, including any hours or rates used, and its connection to this delivery?”**
+
+The remaining requests for explanations, personal observations, and possible corroboration are legitimate open inquiries; the packet need not already supply their answers.
+
+| Outline group | Leads, follow-ups, and other premises checked | Source or answer supplying foundation |
+|---|---|---|
+| **1 — Authorization** | “You authorized…”; “You wrote, ‘I approve…’?”; “You also wrote, ‘Please go ahead’?”; identify “any condition” | F1, p. 1, message 3 supports authorization, limit, and wording. “Any condition” invites Moss’s qualification without assuming one exists. |
+| **2 — Sequence and confirmation** | “You sent that approval before…”; establish approval at 08:12, booking message at 08:19, confirmation at 08:32; “The confirmed premium…”; “That was within…”; confront a denial of reading | F1, p. 1, message 3 and F2, p. 1, messages 4–5 and header establish the same-date, same-local-time message sequence and $3,150 premium. The questions accurately distinguish the booking message from confirmation. F4, p. 5, lines 1–8 supplies Moss’s statement that he read the confirmation. |
+| **3 — Carrier chargeback** | “Your chargeback nevertheless includes…”; “What factual basis do you claim…”; if Moss calls the entire amount crew loss, separate the invoice and estimate entries | F2, p. 1, message 5 and F3, p. 2, rows A–B support the matching premium and separate amounts. F4, p. 5, lines 1–8 connects Moss to assembling the chargeback. Admission of inclusion supplies the branch foundation; the factual-basis question is open. |
+| **4 — Crew costs and agreement** | “Your approval email left…”; “You had a crew rostered Friday?”; ask what Moss personally observed; if he claims an agreement, ask who, when, words, and documentation | F1, p. 1, message 3 supports separate discussion. F4, p. 5, lines 1–8 supplies Moss’s account of a rostered Friday crew. Personal observation is an open inquiry. Moss’s claimed agreement licenses participant, timing, and content questions; documentation requires **repair 1**. |
+| **5 — Estimate and knowledge** | “The $6,400 crew figure…”; “You did not supervise…”; “Site payroll holds…”; whether he reviewed records before assembling the chargeback; **if yes**, identify records, idle hours, and reassignment treatment; **if no**, identify estimator and personal basis for hours, rates, and connection | F3, p. 2, row B and F4, p. 5, lines 1–8 support the estimate, lack of supervision, and records custodian. Prior review is an open inquiry. A “yes” licenses identifying records reviewed; further contents and calculation details require **repair 2**. The estimator inquiry is supported by the existing operations estimate. |
+| **Objectives and counsel notes** | Adverse individual witness; approved premium included in chargeback; crew-cost issue preserved; Friday roster attributed to Moss; no carrier-approval waiver of crew costs; packet does not establish a separate agreement | Assignment supplies representation, witness role, and examination objective. F1–F3 support the premium theory and preserved crew-cost issue. F4 supplies Moss’s roster account, without proving actual idle time. The agreement caveat accurately describes the packet’s limit. |
+| **Next-proof note** | Seek Friday crew job-coded timecards, including reassignments, from payroll; compare with estimate to test hours and reassigned time; records alone do not allocate responsibility | F4, p. 5, lines 1–8 identifies the records and custodian; F3, p. 2, row B supplies the comparison amount. This is a legitimate request to investigate possible corroboration, with an appropriate limit on what the records could establish. |
+
+All five question groups, their branches, counsel notes, and the next-proof note were checked. No supplied exhibit is missing or unreadable.
+
+ADJUDICATION
+The review fully catches target 8 and identifies two additional unsupported premises in Question 5 concerning what the timecards showed and how the estimate was calculated.
+
+Target 8 (A claimed crew-cost agreement was documented.) | full | The review pinpoints “what document records it” in Question 4. F1, p. 1, message 3 leaves crew costs for later discussion, and F4, p. 5, lines 1–8 identifies no written agreement. Even if Moss claims a later agreement, it could have been oral. The repair asks whether a document exists before requesting identification.
+Review excerpt: Replace the last request with: **“Does any document record that agreement?” If yes: “Identify it.”**
+
+Additional finding | new | Identify the records you reviewed. Did they show any idle hours or reassignments?
+In Question 5’s yes branch, confirming that Moss reviewed timecards establishes which records he can identify. F4, p. 5, lines 1–8 identifies payroll’s records but gives no entries for this crew. Asking what the records showed supplies the foundation for follow-ups about specific idle hours or the treatment of reassigned time.
+
+Additional finding | new | What, if anything, do you personally know about how the $6,400 was calculated, including any hours or rates used, and its connection to this delivery?
+In Question 5’s no branch, “the claimed hours, rates” presupposes a calculation using those inputs. F3, p. 2, row B gives only the estimate and total. F4, p. 5, lines 1–8 says Moss used the estimate to assemble the chargeback. The repair asks what Moss knows about the calculation and makes hours and rates conditional.

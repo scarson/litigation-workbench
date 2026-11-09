@@ -1,0 +1,316 @@
+Lost retail placement | Source-check replay
+The earlier investigation's outline ID is shown for each review. Source reviews follow verbatim. The adjudications are AI judgments. “New” means an additional material premise the adjudicator accepted. “Optional” means a wording clarification. “False” means an unsupported objection. “Unverified” means source access remains unresolved.
+
+Lost retail placement | Outline 2C | Plain request
+
+One characterization should be tightened because it can read as establishing an actual loss of mock-ups.
+
+| Problem language | Source pinpoint and issue | Smallest usable correction |
+|---|---|---|
+| “Shaw contemporaneously identified the resulting loss of intended mock-ups.” | **R2, p. 1, msgs. 1–2:** The vendor says the sleeves “will arrive Thursday,” and Shaw responds, “That takes away the mock-ups I wanted for the buyer meeting.” This establishes Shaw’s contemporaneous assessment of the revised delivery promise. It does not establish actual arrival, what Shaw ultimately presented, or the buyer’s reaction. | “Shaw contemporaneously said the revised delivery promise would take away mock-ups wanted for the buyer meeting.” |
+
+For consistency, the heading **“Actual effect of the delay”** could become **“Effect, if any, of the revised delivery promise.”** This uses the same R2 pinpoint and avoids suggesting that actual late arrival has already been established.
+
+The remaining outline needs no factual-premise repair on this packet. It appropriately leaves causation unresolved, distinguishes the CRM close date from the buyer’s decision date, seeks the source behind “Samples,” treats **$56,000** as forecast contribution, and leaves the decision sheet’s contents unknown. The qualified questions themselves generally avoid assuming the facts they seek to establish.
+
+These are review comments only; the original outline remains intact.
+
+ADJUDICATION
+A corrects the brand summary’s treatment of anticipated missing mock-ups and offers a clearer heading, but misses both independent premises in Question 1.
+
+Target 4 (The planned buyer meeting took place.) | miss | A addresses uncertainty about what Shaw presented but leaves “When was the meeting?” intact. R2 describes a planned meeting, and R5 establishes only that Shaw spoke with the buyer. The follow-up needs to establish whether the meeting occurred before asking when.
+
+Target 5 (The buyer commented on the absent material.) | miss | A mentions the absence of evidence of a buyer reaction while editing the brand’s evidence summary. It overlooks the separate premise in “What did the buyer say about its absence?” Even if Shaw confirms something was missing, R2 supplies no buyer comment. The branch needs to ask whether the buyer said anything first.
+
+Additional finding | new | Shaw contemporaneously said the revised delivery promise would take away mock-ups wanted for the buyer meeting.
+R2, p. 1, msgs. 1–2 records Shaw’s expectation when the vendor revised its promise. A correctly replaces the brand summary’s claim of a “resulting loss” with the contemporaneous statement the exchange supports.
+
+Additional finding | optional | Effect, if any, of the revised delivery promise.
+R2, p. 1, msgs. 1–2 establishes a change in promised timing. The revised heading distinguishes that change from actual arrival more clearly, though the lead already asks “What, if anything” and the outline identifies actual delivery as unverified.
+
+Lost retail placement | Outline 2C | Initial skill
+
+I found four premises to repair. The original outline remains intact.
+
+1. **Question 2 — approval status**
+
+   **Problem:** “why the margin exception mentioned in the buyer’s May 17 email had not been approved”
+
+   **Source:** R3, p. 2, msg. 4: “We never got an approved margin exception.” This establishes the buyer’s stated reason for passing. It does not independently establish whether approval never occurred or an approved exception never reached the buyer.
+
+   **Smallest correction:** “What do you know firsthand about why the buyer never got an approved margin exception?” If Shaw establishes that approval did not occur, retain the follow-up about why it was not approved.
+
+2. **Question 3 — buyer-sourced branch**
+
+   **Problem:** “If buyer-sourced: ‘Who heard the buyer say that?’”
+
+   **Source:** R4, p. 1, row 19 records “Samples.” R5, p. 12, ll. 2–10 establishes that Shaw spoke with the buyer and that an analyst enters categories from sales-team wrap-ups. Neither establishes an oral buyer statement supporting this category. A qualifying answer could identify a written buyer communication.
+
+   **Smallest correction:** “What information from the buyer supported that category?” If Shaw identifies a communication: “Who received it?”
+
+3. **Question 3 — sales-team-sourced branch**
+
+   **Problem:** “If sales-team-sourced: ‘What information did you contribute to the wrap-up?’”
+
+   **Source:** R5, p. 12, ll. 2–10 describes the general entry process and Shaw’s ownership of the pitch. It does not establish that Shaw contributed to this wrap-up. A qualifying answer could identify another salesperson as the sole source.
+
+   **Smallest correction:** “Did you contribute any information to that wrap-up?” If yes: “What information?”
+
+4. **Question 4 — commitment branch**
+
+   **Problem:** “If a commitment is claimed: … ‘Where is it recorded?’”
+
+   **Source:** R1, p. 3, l. 6 supplies a pitch forecast, with no purchase order attached. A claimed commitment could be oral and unrecorded, as the outline’s own stop note recognizes. Establishing a commitment does not establish a record of it.
+
+   **Smallest correction:** “Was that commitment recorded anywhere?” If yes: “Where?”
+
+Coverage: I checked the full supplied outline, including its opening summaries, all five leads and branches, stop notes, evidence assessments, and proposed next proof, against R1–R5 at the supplied pinpoints. No supplied passage was missing or unreadable. The request to obtain the decision sheet is a legitimate effort to seek corroboration; its proposed significance is appropriately conditional. I found no other material factual-premise repair in this packet.
+
+ADJUDICATION
+B identifies four distinct unsupported premises in Questions 2 through 4 but misses both Question 1 follow-ups.
+
+Target 4 (The planned buyer meeting took place.) | miss | B leaves “When was the meeting?” intact. R2 shows that Shaw planned to use mock-ups at a meeting, and R5 confirms contact with the buyer without establishing that the planned meeting occurred.
+
+Target 5 (The buyer commented on the absent material.) | miss | B challenges an assumption about oral communication in Question 3 but overlooks “What did the buyer say about its absence?” in Question 1. R2 contains no buyer response, and confirming missing material would still leave open whether the buyer commented at all.
+
+Additional finding | new | What do you know firsthand about why the buyer never got an approved margin exception?
+R3, p. 2, msg. 4 reports what the buyer received. Question 2 assumes the approval itself never occurred. B grounds the lead in the buyer’s account and reserves the question about nonapproval until Shaw establishes it.
+
+Additional finding | new | A qualifying answer could identify a written buyer communication.
+R4, p. 1, row 19 gives the category, and R5, p. 12, ll. 2–10 describes the entry process. Even if the buyer supplied the information, its form remains open. B repairs “Who heard the buyer say that?” by asking what information the buyer supplied and who received it.
+
+Additional finding | new | Did you contribute any information to that wrap-up?
+R5, p. 12, ll. 2–10 establishes Shaw’s pitch ownership and the team’s general practice. Identifying the sales team as the source would still leave Shaw’s personal participation unresolved. B tests that fact before asking what Shaw contributed.
+
+Additional finding | new | Was that commitment recorded anywhere?
+R1, p. 3, l. 6 supplies a pitch forecast with no purchase order attached. Even if Shaw identifies a commitment, it could have gone unrecorded. B establishes whether a record exists before asking where to find it.
+
+Lost retail placement | Outline 2C | Revised skill
+
+Several follow-ups need foundation repairs. The main causal theories remain fairly framed. I reviewed R1–R5; no supplied exhibit is missing. The original outline remains intact.
+
+1. **Group 1 — establish occurrence before dates or reactions.**
+
+   **Problem:** “When was the meeting?” “When did the sleeves actually arrive?” and, if something was missing, “What did the buyer say about its absence?”
+
+   **Source:** R2, p. 1, msgs. 1–2, establishes a revised delivery promise and Shaw’s statement about mock-ups wanted for a buyer meeting. It does not establish that the meeting occurred, that sleeves arrived, or that the buyer commented. Something missing from Shaw’s presentation does not establish a buyer reaction.
+
+   **Smallest corrections:**
+
+   - “Did the buyer meeting take place?” If yes: “When?”
+   - “Did the sleeves actually arrive?” If yes: “When?”
+   - If something was missing: “Did the buyer say anything about its absence?” If yes: “What?”
+
+2. **Group 2 — a connection to samples need not come from someone’s statement.**
+
+   **Problem:** If Shaw connects approval to samples: “Who told you that?” followed by “What exactly did they say, and when?”
+
+   **Source:** R3, p. 2, msg. 4, reports that the buyer never got an approved margin exception. R5, p. 12, ll. 2–10, establishes that Shaw owned the pitch and spoke with the buyer. Neither establishes that someone told Shaw that samples affected approval. Shaw could satisfy the branch by offering an inference.
+
+   **Smallest correction:** “What is the basis for that connection?” If Shaw identifies a communication: “Who communicated that?” Then retain: “What exactly did they say, and when?”
+
+3. **Group 3 — distinguish buyer sourcing from an oral statement, and team sourcing from Shaw’s participation.**
+
+   **Problems:** If buyer-sourced: “Who heard the buyer say that?” If sales-team-sourced: “What information did you contribute to the wrap-up?”
+
+   **Source:** R4, p. 1, row 19, establishes the “Samples” category and Shaw’s ownership. R5, p. 12, ll. 2–10, describes an ops analyst entering categories from sales-team wrap-ups. It does not establish an oral buyer statement or Shaw’s contribution to this wrap-up. Buyer sourcing could involve a written communication; team sourcing could involve someone else.
+
+   **Smallest corrections:**
+
+   - If buyer-sourced: “What buyer communication supplied that basis?” If Shaw identifies an oral statement: “Who heard it?”
+   - If sales-team-sourced: “Did you contribute information to the wrap-up?” If yes: “What information?”
+
+4. **Group 4 — a claimed commitment need not have been recorded.**
+
+   **Problem:** If a commitment is claimed: “Where is it recorded?”
+
+   **Source:** R1, p. 3, l. 6, supplies a pitch forecast and no attached purchase order. The branch permits Shaw to claim an oral, unrecorded commitment. The stop note recognizes that possibility, but does not supply a recording foundation for this question.
+
+   **Smallest correction:** “Was that commitment recorded anywhere?” If yes: “Where?”
+
+5. **Best evidence for the brand — preserve the difference between Shaw’s contemporaneous concern and an established actual effect.**
+
+   **Problem:** “Shaw contemporaneously identified the resulting loss of intended mock-ups.”
+
+   **Source:** R2, p. 1, msgs. 1–2: “That takes away the mock-ups I wanted for the buyer meeting.” This supports Shaw’s contemporaneous account of the anticipated effect. Without actual delivery and meeting dates, it does not establish that the presentation ultimately lacked those mock-ups.
+
+   **Smallest corrected note:** “Shaw contemporaneously said the delivery change would deprive the intended buyer presentation of mock-ups.”
+
+The decision-sheet request is a legitimate next-proof inquiry. R5 supplies Shaw’s account that the buyer keeps an assortment decision sheet and that Shaw had not seen the Harbor sheet. That supports seeking it; its existence, custody, contents, author and decision date remain matters to verify. The May 17/May 18 distinction and the $56,000 forecast calculation require no repair.
+
+| Coverage | Leads and follow-ups checked, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **Objectives and opening notes** | “Known”; “Unverified or disputed”; “Missing”; “Test the causal chain…”; individual-witness limitation | R1–R5 support the stated record and identified uncertainties. Treat the sheet reference as Shaw’s account. No procedural conclusion is asserted. |
+| **1. Actual effect** | “What, if anything…prevent…”; “When was the meeting?”; “When did the sleeves…”; “What did the buyer say…”; stop instruction | Lead is an open inquiry grounded in R2. Occurrence and reaction foundations require **repair 1**. The stop instruction properly separates Shaw’s intended presentation from personally heard reactions. |
+| **2. Margin exception** | “What do you know firsthand…”; “Who told you…”; “What exactly…”; “Did the buyer say whether…”; unknown-answer instruction; stop instruction | R3 supports the buyer’s stated reason; R5 supports exploring Shaw’s knowledge. A sample connection alone does not establish a communication: **repair 2**. An identified independent obstacle licenses the yes/no counterfactual inquiry. |
+| **3. CRM** | “What information supplied…”; “Who heard…”; “What information did you contribute…”; “What event does…”; stop instruction | R4 supports asking about the entry; R5 supplies the general entry process and pipeline-date function. The two source branches require **repair 3**. The date inquiry and stop instruction are supported. |
+| **4. Commitment and damages** | “What, if anything, had Harbor committed…”; “Who made it?”; “What quantities and conditions…”; “Where is it recorded?”; “What supported 8,000…”; “What supported the $7…”; stop instruction | Lead is open under R1. A claimed commitment licenses identifying its maker and exploring its terms, including unspecified terms. Recording requires **repair 4**. A forecast-only answer licenses the support questions. $56,000 is the stated multiplication, not established loss. |
+| **5. Further buyer evidence** | “What other communication…if any…”; “What were the buyer’s words?”; “When and how…”; “Who can identify…”; “If Shaw has since seen it…”; stop instruction | Lead is open under R2, R3 and R5. An identified buyer communication licenses its content and timing questions. R5 licenses seeking someone who can identify the reported sheet. Actual subsequent review licenses questions about when Shaw saw it and its contents. |
+| **Counsel notes and next proof** | Reserve minute; “Best evidence for the vendor”; “Best evidence for the brand”; “Obtain the buyer’s…decision sheet” | R1, R3–R5 support the vendor note. R2 supports the brand note with **repair 5**. R5 supports seeking possible corroboration through the sheet; the note appropriately leaves its contents unknown. |
+
+ADJUDICATION
+The review fully catches both independent question 1 defects and identifies six additional material premises requiring repair.
+
+Target 4 (The planned buyer meeting took place.) | full | The review locates “When was the meeting?” in question 1. R2, p. 1, msgs. 1–2 establishes that Shaw planned a meeting. R5, p. 12, ll. 2–10 establishes that she spoke with the buyer, which leaves open whether the planned meeting occurred. The repair establishes occurrence before asking for a date.
+Review excerpt: “Did the buyer meeting take place?” If yes: “When?”
+
+Target 5 (The buyer commented on the absent material.) | full | The review locates “What did the buyer say about its absence?” in question 1 and identifies the independent gap. Even if Shaw confirms the mock-ups were missing, R2, p. 1, msgs. 1–2 contains only the vendor–Shaw exchange. The repair asks whether the buyer commented before seeking the buyer’s words.
+Review excerpt: If something was missing: “Did the buyer say anything about its absence?” If yes: “What?”
+
+Additional finding | new | “Did the sleeves actually arrive?” If yes: “When?”
+R2, p. 1, msgs. 1–2 gives a revised delivery promise. Asking when the sleeves actually arrived assumes delivery took place.
+
+Additional finding | new | “What is the basis for that connection?” If Shaw identifies a communication: “Who communicated that?”
+R3, p. 2, msg. 4 identifies the margin issue, and R5, p. 12, ll. 2–10 establishes buyer contact. Shaw could infer a link between samples and approval. “Who told you that?” assumes someone supplied the link.
+
+Additional finding | new | “What buyer communication supplied that basis?” If Shaw identifies an oral statement: “Who heard it?”
+R4, p. 1, row 19 and R5, p. 12, ll. 2–10 leave the form of any buyer input open. Even if the CRM category is traced to the buyer, “Who heard the buyer say that?” assumes an oral source.
+
+Additional finding | new | “Did you contribute information to the wrap-up?” If yes: “What information?”
+R4, p. 1, row 19 names Shaw as pitch owner, and R5, p. 12, ll. 2–10 describes the team’s general wrap-up process. A team source leaves Shaw’s personal participation in this entry unresolved.
+
+Additional finding | new | “Was that commitment recorded anywhere?” If yes: “Where?”
+R1, p. 3, l. 6 shows a pitch forecast with no purchase order attached. Even if Shaw identifies a commitment, “Where is it recorded?” assumes a record exists.
+
+Additional finding | new | “Shaw contemporaneously said the delivery change would deprive the intended buyer presentation of mock-ups.”
+The brand evidence note describes a “resulting loss.” R2, p. 1, msgs. 1–2 supports Shaw’s expectation when the promise changed. What she ultimately showed the buyer remains open.
+
+Lost retail placement | Outline 2D | Initial skill
+
+Four follow-ups need a small foundation repair. The original outline remains intact.
+
+1. **Item 1 — commitment branch**
+
+   **Problem:** “If a commitment: ‘Who made it, when, and where was it recorded?’”
+
+   **Source:** R1, p. 3, line 6, identifies a forecast at the pitch stage, with no purchase order attached. R5, p. 12, lines 2–10, establishes Shaw’s involvement in the pitch. Neither establishes a recorded commitment. Even if Shaw confirms a commitment, it could have been oral and undocumented.
+
+   **Smallest correction:** “Who made it, and when? Was it recorded anywhere?” If yes: “Where?”
+
+2. **Item 2 — actual-arrival follow-up**
+
+   **Problem:** “Separately: ‘When did the sleeves actually arrive?’”
+
+   **Source:** R2, p. 1, messages 1–2, establishes the vendor’s revised promise that sleeves “will arrive Thursday.” It does not establish receipt. A presentation could have occurred without the sleeves ever arriving. The counsel note correctly recognizes this limit, but the question assumes arrival.
+
+   **Smallest correction:** “Did the sleeves arrive?” If yes: “When?”
+
+3. **Item 2 — causation branch**
+
+   **Problem:** “If Shaw attributes the lost placement to missing samples: ‘What did the buyer say that connects the missing samples to the decision?’”
+
+   **Source:** R2, p. 1, messages 1–2, records Shaw’s statement about desired mock-ups; the buyer was not copied. R3, p. 2, message 4, gives the buyer’s stated margin-exception reason. R5, p. 12, lines 2–10, establishes that Shaw spoke with the buyer, without identifying a statement connecting samples to rejection. Shaw could attribute the loss to samples based on his own inference.
+
+   **Smallest correction:** “Did the buyer say anything connecting the missing samples to the decision?” If yes: “What exactly, and when?”
+
+4. **Item 3 — samples branch**
+
+   **Problem:** “If samples also mattered: ‘What exactly did the buyer say about samples, and when?’”
+
+   **Source:** R3, p. 2, message 4, mentions the missing margin exception and the buyer’s favorable reaction to the carton direction, without mentioning samples. R5, p. 12, lines 2–10, supplies no sample-related buyer statement. An answer that samples mattered could reflect Shaw’s assessment rather than anything the buyer said.
+
+   **Smallest correction:** “Did the buyer say anything about samples?” If yes: “What exactly, and when?” If Shaw is drawing an inference: “What is the basis for that assessment?”
+
+**Coverage:** Checked the objective, all five leads, foundations, branches, headings, counsel notes and single-next-proof recommendation against all supplied passages in R1–R5. Nothing supplied was unreadable or unavailable. No other material premise repair identified. The decision-sheet recommendation appropriately identifies a potential source while acknowledging that Shaw has not seen the Harbor sheet and its contents remain unknown.
+
+ADJUDICATION
+Review A identifies three additional foundation gaps across four follow-ups and misses the assumption that Shaw supplied information for the Harbor loss category.
+
+Target 6 (The pitch owner supplied the CRM loss reason.) | miss | Review A leaves item 4’s “What part did you personally play in supplying” intact. R4, row 19 identifies Shaw as owner, and R5, lines 2–10 describes the analyst’s usual process. Neither identifies who supplied the Harbor information. The lead should first ask whether Shaw supplied any of it.
+
+Additional finding | new | Who made it, and when? Was it recorded anywhere?
+Item 1 conditions the follow-up on a commitment, but “where was it recorded?” also assumes documentation. R1, p. 3, line 6 shows a pitch with no attached purchase order. The repair accommodates an oral, undocumented commitment.
+
+Additional finding | new | Did the sleeves arrive?
+R2, p. 1, messages 1–2 establishes a revised delivery promise. Item 2’s “When did the sleeves actually arrive?” assumes receipt even if Shaw confirms only that a presentation occurred. The repair establishes receipt before asking for a date.
+
+Additional finding | new | Did the buyer say anything connecting the missing samples to the decision?
+Items 2 and 3 both move from Shaw’s assessment that samples mattered to asking what the buyer said. R2, p. 1, messages 1–2 records Shaw’s concern, R3, p. 2, message 4 gives the buyer’s margin explanation, and R5, p. 12, lines 2–10 establishes contact. Asking whether the buyer mentioned samples preserves the distinction between a buyer statement and Shaw’s inference in both branches.
+
+Lost retail placement | Outline 2D | Plain request
+
+I found one phrase worth tightening; the questions otherwise stay within the supplied evidence.
+
+- **Problem — item 3, counsel note:** “while expressing approval of the carton direction.”
+- **Source pinpoint:** R3, p. 2, message 4: “I did like the carton direction.”
+- **Smallest correction:** Replace that phrase with **“while saying the buyer liked the carton direction.”**
+- **Reason:** The email establishes a favorable reaction. It does not establish formal carton approval, which “approval” could imply—particularly alongside the separate margin-approval issue.
+
+No other factual-premise repairs appear necessary. The outline already preserves the material limits: forecast versus commitment, revised delivery promise versus actual receipt, CRM ownership versus authorship, and email/close dates versus the underlying decision date. The decision sheet is appropriately identified as a lead with unknown contents.
+
+The original outline is unchanged.
+
+ADJUDICATION
+Review B offers a clarity edit to the carton wording and misses the separate question of who supplied the Harbor loss-category information.
+
+Target 6 (The pitch owner supplied the CRM loss reason.) | miss | Review B approves the outline’s distinction between CRM ownership and authorship. That addresses who entered the category. Item 4 separately assumes Shaw helped supply its factual basis, which neither R4, p. 1, row 19 nor R5, p. 12, lines 2–10 establishes. The review offers no repair to that lead.
+
+Additional finding | optional | while saying the buyer liked the carton direction.
+R3, p. 2, message 4 supports describing a favorable reaction. The original “expressing approval” reasonably conveys that reaction, and “liked” avoids possible confusion with the formal margin approval discussed in the same note.
+
+Lost retail placement | Outline 2D | Revised skill
+
+The outline needs targeted repairs to several conditional follow-ups. The original is left intact. These are gaps in foundation, not contradictions established by the packet.
+
+1. **Group 1 — recording a commitment.**  
+   **Problem:** “Who made it, when, and where was it recorded?”  
+   **Source:** R1, p. 3, line 6, identifies a pitch and forecast; no purchase order is attached. R5, p. 12, lines 2–10, supplies Shaw’s account of owning the pitch. Neither establishes a recorded commitment. Even if Shaw identifies a commitment, it could have been oral.  
+   **Smallest correction:** “Who made it, and when? Was it recorded anywhere?” If yes: “Where?”
+
+2. **Group 2 — actual receipt and buyer statements.**  
+   **Problem:** “When did the sleeves actually arrive?”  
+   **Source:** R2, p. 1, messages 1–2, promises Thursday delivery. It does not establish receipt, as the counsel note correctly recognizes.  
+   **Smallest correction:** “Did the sleeves actually arrive?” If yes: “When?”
+
+   **Problem:** If Shaw attributes the lost placement to missing samples: “What did the buyer say that connects the missing samples to the decision?”  
+   **Source:** R2 records Shaw’s statement about desired mock-ups; the buyer was not copied. R3, p. 2, message 4, identifies the missing margin exception and liking the carton direction. Shaw could attribute the loss to samples based on an inference without any supporting buyer statement.  
+   **Smallest correction:** “Did the buyer say anything linking the missing samples to the decision?” If yes: “What did the buyer say?”
+
+3. **Group 3 — samples mattering does not establish buyer speech.**  
+   **Problem:** “If samples also mattered: ‘What exactly did the buyer say about samples, and when?’”  
+   **Source:** R3, p. 2, message 4, contains no statement about samples. R5, p. 12, lines 2–10, says Shaw spoke with the buyer but supplies no conversation content. A qualified answer such as “I think samples mattered, although the buyer never mentioned them” satisfies the branch without supporting its follow-up.  
+   **Smallest correction:** “Did the buyer say anything about samples?” If yes: “What exactly, and when?”
+
+4. **Group 4 — reliance on the buyer does not necessarily identify a communication.**  
+   **Problem:** “If relying on the buyer: ‘Which buyer communication?’”  
+   **Source:** R4, p. 1, row 19, supplies the Samples category. R5, p. 12, lines 2–10, describes the general entry process; it does not identify Harbor’s underlying source. Shaw might rely on an inference from the buyer’s conduct rather than a communication.  
+   **Smallest correction:** Narrow the condition: **If Shaw says the category relies on a buyer communication:** “Which buyer communication?” The preceding question about supporting facts can explore other bases.
+
+5. **Group 5 — distinguish a date mentioned from a decision date asserted.**  
+   **Problem:** “If Shaw gives a date: ‘How do you know that was the decision date?’”  
+   **Source:** R3, p. 2, message 4, dates the email May 17. R4, p. 1, row 19, supplies the May 18 close date. Shaw’s explanation in R5, p. 12, lines 2–10, concerns pipeline administration. Shaw could answer with a notice or administrative date while expressly disclaiming knowledge of the actual decision date.  
+   **Smallest correction:** **If Shaw identifies a date as the decision date:** “What is your basis for that date?” Otherwise: “What does that date represent?”
+
+The remaining basis questions—including “What facts supported that category?” and “What communication or event supports that connection?”—can remain as open inquiries testing Shaw’s asserted basis. They do not themselves establish supporting evidence.
+
+| Coverage | Leads and follow-ups, in reading order | Source or answer licensing the premise |
+|---|---|---|
+| **Objectives and framing** | Firsthand account; delay’s effect; buyer reason versus CRM; forecast versus commitment; individual witness | R2–R5 support the subjects for inquiry; R1 supports distinguishing forecast from commitment. The objective proposes testing causation, not assuming it. |
+| **1. Purchase commitment** | “What purchase commitment…”; “Who made it…”; “when…”; “where was it recorded…”; “What was your basis…” | Lead is open. An affirmative commitment answer licenses maker and timing questions; recording needs **repair 1**. R1 supplies the $7 expectation. The $56,000 calculation and counsel note’s limits are supported. |
+| **2. Effect of delay** | “What, if anything…prevent…”; “When was [the presentation]…”; “When did the sleeves actually arrive…”; “What did the buyer say that connects…” | R2 supports the changed promised delivery and Shaw’s reported concern. A presentation answer licenses its date. Receipt and buyer speech require **repair 2**. The counsel note properly distinguishes promised arrival from receipt and attributes the concern to Shaw. |
+| **3. Buyer’s reason** | “What did the buyer tell you…”; “What exactly…about samples, and when…”; “What communication or event supports…” | R3 supplies the margin statement; R5 supplies Shaw’s account of buyer contact. Samples branch needs **repair 3**. A claim that timely samples would secure the exception licenses the open basis inquiry. Counsel note appropriately preserves other possible causes. |
+| **4. CRM source** | “What part did you personally play…”; “What facts supported…”; “Who…”; “what do you personally know about their source…”; “Which buyer communication…” | R4 supplies the entry; R5 supplies Shaw’s general process account. Shaw’s answers determine the applicable source branch. Supporting facts and personal knowledge are open inquiries; communication branch needs **repair 4**. Counsel note does not assume authorship, buyer confirmation or contemporaneous entry. |
+| **5. Decision timing** | “What do you personally know…”; “How do you know…decision date…”; “What event did that CRM close date record…”; “When did you first learn…” | Lead is open. Decision-date branch needs **repair 5**. Reliance on May 18 licenses inquiry into what that date represents; lack of decision-date knowledge licenses the notice inquiry. Counsel note correctly limits both timestamps. |
+| **Next-proof note** | Obtain the buyer’s assortment decision sheet; investigate timing and reasons | R5 attributes custody to the buyer and says Shaw has not seen the sheet. Seeking it is legitimate; the note expressly leaves its contents unknown. |
+
+All five groups, objectives, counsel notes and the next-proof note were reviewed. No supplied exhibit is missing.
+
+ADJUDICATION
+The review misses the assigned gap about Shaw’s personal contribution to the CRM entry and identifies five distinct collateral repairs.
+
+Target 6 (The pitch owner supplied the CRM loss reason.) | miss | The review leaves “What part did you personally play in supplying the information” intact. R4, p. 1, row 19 names Shaw as owner, and R5, p. 12, lines 2–10 describes the analyst’s general process. Neither establishes that Shaw supplied information for Harbor’s entry. The lead needs to ask whether she supplied any information before asking what part she played. The review’s edit concerns the separate question of buyer communication.
+
+Additional finding | new | Even if Shaw identifies a commitment, it could have been oral.
+R1, p. 3, line 6 shows a pitch with no purchase order attached. Even after Shaw confirms a commitment, asking where it was recorded assumes a record exists. The proposed yes-or-no question resolves that gap.
+
+Additional finding | new | “Did the sleeves actually arrive?” If yes: “When?”
+R2, p. 1, messages 1–2 gives a revised delivery promise. Asking when the sleeves arrived assumes actual receipt, which remains open even if Shaw confirms that a presentation occurred.
+
+Additional finding | new | Shaw could attribute the loss to samples based on an inference without any supporting buyer statement.
+Groups 2 and 3 both ask for the buyer’s words once Shaw attributes some role to samples. R2, p. 1, messages 1–2 records Shaw’s concern, R3, p. 2, message 4 mentions margin approval and carton direction, and R5, p. 12, lines 2–10 establishes buyer contact. Asking whether the buyer mentioned samples first preserves the distinction between Shaw’s inference and the buyer’s account.
+
+Additional finding | new | Shaw might rely on an inference from the buyer’s conduct rather than a communication.
+R4, p. 1, row 19 gives the Samples category, and R5, p. 12, lines 2–10 describes how categories are generally entered. Neither identifies a buyer communication behind this entry. The narrower condition makes “Which buyer communication?” usable once Shaw identifies one as a source.
+
+Additional finding | new | Shaw could answer with a notice or administrative date while expressly disclaiming knowledge of the actual decision date.
+R3, p. 2, message 4 dates the buyer’s email, while R4, p. 1, row 19 and R5, p. 12, lines 2–10 support the pipeline meaning of the close date. The literal “If Shaw gives a date” branch could turn either date into a decision date. Asking what the date represents avoids attributing that testimony to Shaw.

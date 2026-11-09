@@ -1,6 +1,6 @@
 # Litigation Workbench
 
-Seven reusable workflows for business litigators in ChatGPT Work and Codex. Install once on your computer, then start a fresh chat for each matter. You choose which files the agent can use. The plugin contains written instructions and an icon. It adds no account connections, executable scripts or Lexis integration.
+Eight reusable workflows for business litigators in ChatGPT Work and Codex. Install once on your computer, then start a fresh chat for each matter. You choose which files the agent can use. The plugin contains written instructions and an icon. It adds no account connections, executable scripts or Lexis integration.
 
 ## Install on your desktop
 
@@ -29,7 +29,7 @@ After the workshop, keep Workbench installed and switch it off until you want a 
 
 The [practical guide to the tools](https://scarson.github.io/litigation-workbench/tools.html) covers what each one provides, copyable examples, and how to check the work. For Anthropic’s plugin, [browse all 19 litigation skills and try a civil claim chart](https://scarson.github.io/litigation-workbench/tools.html#claude-for-legal).
 
-**[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the seven assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation, CourtListener and optional Descrybe install links. A browser-only user can use the prompts while sorting out plugin access.
+**[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the eight assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation, CourtListener and optional Descrybe install links. A browser-only user can use the prompts while sorting out plugin access.
 
 If you cannot use client files in this account, [download the fictional production](https://scarson.github.io/litigation-workbench/practice.html). The later exhibit and worked Excel file are separate. The public-opinion exercise on that page lets you compare two audits against the same reported decision.
 
@@ -43,6 +43,7 @@ Look for **$15,000 open**, **$10,000 supported as due** and **$5,000 with an unv
 | --- | --- |
 | Evidence matrix | Pair each material proposition with its best support, strongest contrary passage and missing proof. |
 | Record to deposition | Build an examination around specific admissions, exhibit pinpoints and follow-ups for a qualified answer. |
+| Deposition source check | Audit an existing outline from any drafter against its exhibits. Get exact words, a pinpoint and an askable repair. [Run a second pass and see the blind replay](https://scarson.github.io/litigation-workbench/deposition-source-check.html) |
 | Damages reconciliation | Bridge the demand to invoices, payments and contractual triggers. Ask for a formula-driven workbook when useful. |
 | Lexis research handoff | Prepare searches for counsel to run in Lexis. Draft from independently obtained primary sources and counsel’s authorized verification notes. |
 | Brief audit | Locate the draft sentence that exceeds its source, identify the limiting passage and propose a narrower rewrite. |
