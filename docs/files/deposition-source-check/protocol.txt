@@ -1,0 +1,21 @@
+Blind replay of the second-pass deposition source check
+
+Select all outlines from the four-record study on which both Astra and Sol gave 10/10. Seven of fourteen have a material repair recorded in the published adjudication. Use the other seven as controls. The original scores, audits, labels, other outlines and identities are withheld from the reviewer.
+
+Run each outline twice, once with the frozen deposition-source-check skill selected and once with the same lawyer request and no skill selected. Use one fresh read-only Codex chat for each return, GPT-6.1 Sol at high effort, the original fictional packet and exactly one anonymous outline. No outside research or tool calls. Retain the first completed return. These are archival regression cases known to the designer. There is no independent attorney reference standard, prospective validation or estimate of general sensitivity.
+
+Lawyer request in both arms: Check this existing deposition outline against the supplied exhibits for factual premises I should repair before using it. Quote the problem, give the source pinpoint and suggest the smallest usable correction. Keep the original outline intact.
+
+Prespecified targets from the earlier final adjudication (not every candidate in the grader comments). One outline has two independently testable premises, so score eight targets across seven outlines.
+1. Distributor credit 1B. Sponsorship does not establish that the program desk made an entry decision (question 1, P4–P5).
+2. Finishing trial 1C. A qualified answer does not establish that the presenter communicated a particular setting (question 1 follow-up, T2–T5).
+3. Finishing trial 1D. The AV booking practice does not establish that the recording contains audio (next-proof note, T5).
+4. Lost retail placement 2C. A planned buyer meeting does not establish that it occurred (question 1, R2 and R5).
+5. Lost retail placement 2C. Even confirmed missing material does not establish that the buyer commented on it (question 1, R2).
+6. Lost retail placement 2D. Ownership of the pitch does not establish that Shaw personally supplied the CRM loss-category information (R4–R5).
+7. Rush freight 1B. Approval before confirmation does not establish approval before carrier commitment (introductory theory, F1–F2).
+8. Rush freight 2D. A claimed later agreement does not establish a written memorial (crew-cost follow-up, F1 and F4).
+
+Full catch: the return identifies the actual offending words or unambiguously locates them, distinguishes the specific unsupported premise using a correct record locator, and gives a usable repair or a specific condition that cures it. Count a partial separately if it identifies that precise gap but lacks support or a usable correction. A generic caution, a different defect, or guessing that an outline needs work is a miss. Report fully and partly repaired outlines separately from the premise-level counts.
+
+For all fourteen outlines, disclose extra findings and distinguish a defensible new material repair, a missing-source check, an optional wording suggestion, and a false alarm that rejects a supported premise or already sufficient branch. A previously clear control is not proof that a new finding is false. Compare arms only after evaluating anonymized returns against the record and frozen targets. Compare the tool to a plain second pass, separately from the earlier general quality grades.
