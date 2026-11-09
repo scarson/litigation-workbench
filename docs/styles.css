@@ -53,5 +53,11 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--line);
 .inventory dd { margin: .1rem 0 .55rem; }
 .routes dt { margin-top: .8rem; font-weight: 650; }
 .routes dd { margin: .15rem 0 .75rem; }
+.comparison table { border-collapse: collapse; width: 100%; margin-block: .75rem; }
+.comparison th, .comparison td { text-align: left; vertical-align: top; padding: .4rem; border-bottom: 1px solid var(--line); }
+.comparison caption { text-align: left; font-weight: 650; }
+.comparison select { font: inherit; }
+.comparison .response { overflow-x: auto; padding: .1rem .4rem; }
+.comparison .response :is(h2, h3, h4) { font-family: inherit; font-weight: 650; font-size: 1rem; line-height: 1.4; }
 @media (max-width: 40rem) { .hero, .tool { grid-template-columns: 1fr; } .hero { gap: 1.3rem; } .tool a { justify-self: start; } .prep { padding-left: 1rem; } summary span { display: block; margin-left: 1.1rem; } }
 @media print { :root { font-size: 10pt; } main { max-width: none; padding: 0; } .copy, .status, nav { display: none; } .hero { grid-template-columns: 1fr 1fr; } h1 { font-size: 26pt; } }

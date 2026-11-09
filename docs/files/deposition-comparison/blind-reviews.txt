@@ -1,0 +1,61 @@
+Blind grader returns
+
+The grades and comments below were locked before the identity key was opened. Models saw only the anonymous outlines, assignment, and scoring anchors.
+
+Grader 1 | gpt-6-astra | high effort | order ABC
+
+Outline A | 9/10
+Personal knowledge: 2/2. Q1 establishes Reed’s dispatch role. Q3 limits his June 12 report to what he had seen.
+Shipment and acceptance: 2/2. Q2 identifies the shipment authorization and later testing. If Reed claims acceptance, the follow-up asks his basis for finding acceptance signed by the commissioning lead.
+Search and next proof: 2/2. Q3 identifies the folder searched and the register skipped. Q4 asks where Ives’s register and any signed original could be found.
+Source fidelity: 2/2. Q1–Q4 pinpoint C at lines 3–5, B1, B2 with C at lines 6–9, and C at lines 10–12 with B2. Those passages support the premises.
+Usability at the deposition: 1/2. The four questions follow a workable sequence, but Q3 bundles authorship, email content and two search locations into one yes-or-no answer. Total 9/10.
+Stop-before-use concern: none
+First edit: Narrow Q3 to “When you told billing on June 12 that you hadn’t seen a signed acceptance, which records had you personally checked?” Keep the register testimony for a follow-up.
+
+Outline B | 9/10
+Personal knowledge: 2/2. Q1 establishes Reed’s basis for recognizing the messages through his own work. Q3 ties “I haven't seen” to his personal search.
+Shipment and acceptance: 1/2. Q2 tests whether B1 contains acceptance signed by the commissioning lead. Only the counsel note expressly identifies what the email authorized.
+Search and next proof: 2/2. Q3 elicits the search locations and tests any claim that Reed checked the register. Q4 asks what Ives would need to locate the records.
+Source fidelity: 2/2. Q1–Q4 pinpoint B1–B2 and C lines 3–5, §§4.1–4.2 and B1, B2 and C lines 6–9, and C lines 10–12 and B2. The June 12 quotation is accurate.
+Usability at the deposition: 2/2. The four questions move from recognition to document retrieval. Q4’s “What identifying information would she need?” gives counsel a concrete next step if Reed names Ives. Total 9/10.
+Stop-before-use concern: none
+First edit: Open Q2 with “What did you understand the June 5 email to authorize?” Then use the existing signed-acceptance question to test that distinction expressly.
+
+Outline C | 8/10
+Personal knowledge: 1/2. Q1 tests Reed’s personal observation, including when he first saw any acceptance. His dispatch role appears only in the Q3 note, and the questions never establish how his work gave him access to the relevant records.
+Shipment and acceptance: 2/2. Q2 confirms “Release for shipment today” and, if Reed claims acceptance, asks him to identify the writing signed by the commissioning lead.
+Search and next proof: 1/2. Q4 seeks Ives and the register. Q3 establishes which register Reed skipped but never elicits that he searched his dispatch folder.
+Source fidelity: 2/2. Q1 and Q2 accurately quote B2 and B1. Q3 and Q4 pinpoint the prior answers at C lines 6–9 and 10–12, respectively.
+Usability at the deposition: 2/2. All four leads are usable. If Reed claims to have seen an acceptance, Q1 immediately asks when he saw it and where counsel can find it. Total 8/10.
+Stop-before-use concern: none
+First edit: Replace Q3 with “In your dispatch work on this order, where did you personally look for a signed acceptance on June 12?” Use C, p. 18, lines 3–9 to follow up if Reed includes the register.
+
+Grader 2 | gpt-6.1-sol | high effort | order CBA
+
+Outline C | 8/10
+Personal knowledge: 1/2. Q1 tests Reed's personal non-observation and any later sighting; dispatch responsibilities appear only in a counsel note.
+Shipment and acceptance: 2/2. Q2 identifies shipment release and conditionally demands the writing signed by the commissioning lead if Reed equates it with acceptance.
+Search and next proof: 1/2. Q4 develops Dana and the register as actionable sources, but Q3 never elicits the dispatch-folder search.
+Source fidelity: 2/2. All four questions have precise locators and supported quotations or factual premises.
+Usability at the deposition: 2/2. Four usable questions follow a workable sequence; the later-search and changed-custodian branches develop concrete new information.
+Stop-before-use concern: none
+First edit: Add a short follow-up to Q1 eliciting what work Reed personally handled on this order.
+
+Outline B | 10/10
+Personal knowledge: 2/2. Q1 tests recognition from Reed's own work and personal receipt or authorship; Q3 limits the report to his personal search.
+Shipment and acceptance: 2/2. Q2 tests whether the shipment email contains commissioning-lead acceptance and requires words or signature supporting any claimed acceptance.
+Search and next proof: 2/2. Q3 elicits search locations and specifically tests any newly claimed register search; Q4 develops an actionable custodian and retrieval lead.
+Source fidelity: 2/2. All four questions have precise locators; their factual premises and quotation match the exhibits.
+Usability at the deposition: 2/2. Four usable questions proceed from foundation through acceptance, search, and remaining proof; Q4's identifying-information branch advances retrieval.
+Stop-before-use concern: none
+First edit: Make Q1 expressly ask Reed to describe his dispatch responsibilities before identifying the messages.
+
+Outline A | 9/10
+Personal knowledge: 2/2. Q1 establishes dispatch responsibilities; Q3 confines the June 12 report to Reed's non-observation.
+Shipment and acceptance: 2/2. Q2 identifies shipment authorization and conditionally tests the basis for acceptance signed by the commissioning lead.
+Search and next proof: 2/2. Q3 elicits the dispatch-folder search and excluded register; Q4 develops Dana and record-location leads.
+Source fidelity: 2/2. All four questions have precise locators and supported material premises.
+Usability at the deposition: 1/2. Q3 materially compounds email authorship, reported knowledge, and search scope; its correction branch helps but requires unpacking.
+Stop-before-use concern: none
+First edit: Simplify Q3 to ask where Reed personally searched, moving authorship and register confirmation into follow-ups.
