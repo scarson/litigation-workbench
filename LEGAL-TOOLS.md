@@ -18,7 +18,7 @@ Repository counts below are from GitHub on November 8, 2026. Stars and forks des
 
 ## What to borrow for a recurring assignment
 
-These comparisons use the publishers’ source, documentation and GitHub metadata. The worked examples on the setup page exercise Litigation Workbench. The optional third-party products below received a source review. Start with the two directory plugins on the setup page when you need retrieval or a second reader.
+These comparisons use the publishers’ source, documentation and GitHub metadata. The worked examples on the setup page exercise Litigation Workbench. We also ran Eyecite on the sample brief text. The other third-party products received a source review. Start with the two directory plugins on the setup page when you need retrieval or a second reader.
 
 | When the work calls for it | Existing work and why it matters | Workbench decision |
 | --- | --- | --- |
@@ -31,6 +31,8 @@ These comparisons use the publishers’ source, documentation and GitHub metadat
 | Decide whether an output is good enough to keep | **Harvey LAB** (MIT repo, 1,583 stars, 297 forks) pairs a matter file and assigned deliverable with explicit grading criteria. **LegalBench-RAG** (MIT repo, 220 stars, 26 forks) evaluates retrieval against expert-identified passages. | Give the agent the documents and question, keep the checkable answer separate, then grade the work at the level of a number, changed question or pinpoint. The practice file and brief audit are original examples. No benchmark scores have been transferred to Workbench. [Harvey LAB](https://github.com/harveyai/harvey-labs) · [LegalBench-RAG paper](https://arxiv.org/abs/2408.10343) · [Implementation](https://github.com/zeroentropy-ai/legalbenchrag) |
 
 ## How to judge the result on your own matter
+
+**One check you can reproduce.** We ran Eyecite 2.7.8 on the two flawed sentences in the practice file. It extracted `477 U.S. 317` and `Id.` and grouped both under one reference. Reading the opinion then exposed two substantive errors at a perfectly real citation. For a full filing, LegalQuants already supplies a paragraph-by-paragraph reviewer, an HTML report and tests for coverage and incomplete results. Give it the full set of authorized primary sources. Use our brief audit when the immediate need is a prioritized correction and a defensible rewrite. [Eyecite release](https://pypi.org/project/eyecite/2.7.8/) · [LegalQuants review workflow](https://github.com/LegalQuants/lq-plugin-oss/blob/fa5a6681dc3cc9a08fa9ed48a5fd213057edafa0/plugins/legalquants-litigation/skills/cite-check/SKILL.md) · [Upstream tests](https://github.com/LegalQuants/lq-plugin-oss/tree/fa5a6681dc3cc9a08fa9ed48a5fd213057edafa0/packages/skill-tests/tests/cite-check) · [Read the opinion at 323](https://tile.loc.gov/storage-services/service/ll/usrep/usrep477/usrep477317/usrep477317.pdf#page=7)
 
 | Dimension | A check the lawyer can do in the hour |
 | --- | --- |

@@ -8,7 +8,7 @@ Five reusable workflows for business litigators in ChatGPT Work and Codex. Insta
 
 You can also paste this request into a local Codex chat yourself:
 
-> Install Litigation Workbench for my local desktop account across matters. Add the GitHub marketplace scarson/litigation-workbench at tag v1.1.0, then install litigation-workbench@scarson-legal. Use the Codex plugin manager. Verify that all five skills are installed and tell me how to select the plugin in a fresh chat.
+> Install Litigation Workbench for my local desktop account across matters. Use the Codex plugin manager. If scarson-legal already points to scarson/litigation-workbench at v1.0.0, remove that old marketplace registration first. Add scarson/litigation-workbench at tag v1.1.0 and install litigation-workbench@scarson-legal. Verify version 1.1.0 and all five skills, then tell me how to select it in a fresh chat.
 
 If you use the Codex CLI, these are the equivalent commands:
 
@@ -16,6 +16,8 @@ If you use the Codex CLI, these are the equivalent commands:
 codex plugin marketplace add scarson/litigation-workbench --ref v1.1.0
 codex plugin add litigation-workbench@scarson-legal
 ```
+
+**Upgrading from the v1.0.0 pin?** The CLI treats a different tag as a different marketplace source. Check `codex plugin marketplace list`. If `scarson-legal` is this repository at v1.0.0, run `codex plugin marketplace remove scarson-legal`, then run the two install commands above. This sequence was tested in an isolated profile.
 
 **Without a CLI:** Download the [v1.1.0 source archive](https://github.com/scarson/litigation-workbench/archive/refs/tags/v1.1.0.zip), extract it and open the extracted folder containing this README as a local desktop project. Restart the app, open Plugins, choose the **Litigation Workbench** marketplace and install the plugin. Check it in a new local chat for a different folder. Keep the extracted folder for marketplace maintenance. [OpenAI marketplace instructions](https://developers.openai.com/plugins/build/plugins)
 
