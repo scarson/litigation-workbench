@@ -1,0 +1,19 @@
+Fictional examination · Job export
+
+Counsel represents a printer disputing an invoice for rework. The foreperson is an individual witness. Counsel wants to establish the sequence and who, if anyone, authorized the rework ticket to be closed.
+
+E1 · Service desk log, p. 1, rows 12–13. Ticket 411, “job export jam.” Opened Wednesday at 10:02. Closed Wednesday at 10:44. Both entries use the same local clock.
+E2 · Foreperson interview, p. 2, lines 5–8. “I restarted the job manually that morning. I don't remember the time. I saw a finished stack in the tray when I came back from lunch. The service desk handles ticket closure. Some tickets require supervisor approval.”
+E3 · System guide, p. 3, paragraph 2. A ticket can be closed when referred to another team or when a problem is resolved. The log does not record the press finish time or an approver.
+
+Outline I
+Objective: establish when the printer finished and explore who authorized closure.
+1. “Why did you restart the job after it had finished printing?” [E1, rows 12–13; E2, lines 5–8.] If disputed, ask what the foreperson personally observed at the press and when.
+2. “Do you know whether supervisor approval was required to close ticket 411?” [E2, lines 5–8; E3, paragraph 2.] If the witness knows whether it was required, ask “Who approved this closure?”
+3. “The ticket was opened at 10:02 and closed at 10:44 by the same local clock, correct?” [E1, rows 12–13.] If the witness cannot authenticate the entries, ask who maintains the service log.
+
+Outline II
+Objective: establish what the record dates and the basis for any closure authority.
+1. “What do you personally recall about when the press finished in relation to your manual restart, if you can place the two?” [E1, rows 12–13; E2, lines 5–8; E3, paragraph 2.] If the witness can place them, ask what observation fixes their order.
+2. “Do you know whether anyone actually approved closing ticket 411?” [E2, lines 5–8; E3, paragraph 2.] If the witness recalls a specific approval, ask who gave it and how the witness personally learned of it.
+3. “The ticket was opened at 10:02 and closed at 10:44 by the same local clock, correct?” [E1, rows 12–13.] If the witness cannot authenticate the entries, ask who maintains the service log.
