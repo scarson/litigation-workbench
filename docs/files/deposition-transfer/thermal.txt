@@ -1,0 +1,17 @@
+Fictional record · Peeling finish
+
+The buyer claims inadequate curing caused two lots of coated clips to peel. Examine the supplier's process technician, Oren Vale, about what the run records could establish. Two furnace cycles, K-17 and K-19, were performed on different racks.
+
+T1 · Process sheet, p. 2, acceptance note. “Part metal at 170 °C or higher for ten continuous minutes.” The note sets a part-metal requirement. An oven setpoint is a command to the furnace.
+T2 · Recovery index, p. 1, rows 17 and 19. Both K-17 and K-19 are marked “controller archive retained.” The date in this index is the date the archive was copied to the recovery server.
+T3 · Vale interview, p. 3, lines 4–9. “I programmed both cycles. On those controls a load probe can be attached to a clip. The historian can keep its signal if the run is configured for it. Programming the oven and attaching the load probe are separate jobs. I didn't unpack either retained archive.”
+T4 · Restoration inventory, p. 6, entry 19, signed by the recovery analyst. “Verified inside the retained K-19 package: time-stamped PROGRAM.SET and PART.METAL series. Channel card identifies PART.METAL as the clip-mounted load probe.” No K-17 channel inventory is supplied.
+
+Outline
+Objective: establish what Vale programmed and what an archived temperature record could resolve about the buyer's curing theory.
+1. You programmed both of these cycles? [T3, p. 3, lines 4–9.] If Vale qualifies, ask which part of the programming Vale personally performed, if any.
+2. What does the acceptance note require the metal itself to do? [T1, p. 2.] If Vale describes an oven setting, ask what, if anything, links that setting to the temperature of a clip.
+3. Did you inspect either retained package? [T3, p. 3, lines 4–9.] If yes, ask which package and what Vale personally saw. If no, move to the recovery analyst for file contents.
+Counsel note on next proof: Obtain the retained [[run]] archive from the recovery analyst. Compare its part-metal series to the ten-minute requirement. That comparison will test the cure theory for the monitored clip. [T1, p. 2; T2, p. 1, rows 17 and 19; T4, p. 6, entry 19.]
+
+Outline variants: substitute K-17 or K-19 for [[run]].

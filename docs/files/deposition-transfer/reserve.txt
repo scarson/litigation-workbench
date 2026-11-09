@@ -1,0 +1,17 @@
+Fictional record · Repair allowances
+
+The parties dispute how two provisional repair allowances affected the price of a warehouse portfolio. Examine Iona Bell, an individual valuation associate, about the worksheets and the source of the percentages.
+
+R1 · Closing register, p. 2, rows 61 and 64. Both worksheets show a 12% repair allowance and Bell's initials in the “tie-out” column. The register does not name who proposed either percentage.
+R2 · Desk procedure, p. 1, paragraph 3. A tie-out checks that the base price times the allowance percentage equals the deduction carried into the closing schedule. A reviewer may also have prepared an estimate.
+R3 · Bell's signed R-61 workpaper note, p. 4, margin beside “12%”. “I selected twelve percent after comparing the two masonry quotes. I also checked the multiplication.” 
+R4 · Bell interview, p. 5, lines 10–14. “Those are my initials on both. I checked both deductions against the closing schedule. I remember comparing quotes on R-61. R-64 was in the batch I checked. Several people worked on that property.”
+
+Outline
+Objective: establish what the checks covered and seek a firsthand account of the repair allowance where Bell can give one.
+1. What did the tie-out check cover? [R2, p. 1 ¶3; R4, p. 5 lines 10–14.] If Bell describes the arithmetic, ask whether the same check would disclose who originated the figure used.
+2. Are those your tie-out initials on the [[sheet]] worksheet? [R1, p. 2; R4, p. 5 lines 10–14.] If Bell recognizes her initials, ask “What inputs did you weigh in selecting twelve percent for that worksheet?” [R1, p. 2; R3, p. 4; R4, p. 5 lines 10–14.]
+3. Is there any contemporaneous material you personally relied on that we have not discussed? If Bell identifies a document, ask which entry matters and where it can be found. [R3, p. 4; R4, p. 5 lines 10–14.]
+Counsel note: request any supporting estimates that Bell identifies. The percentage alone does not establish whether the deduction was commercially justified.
+
+Outline variants: substitute R-61 or R-64 for [[sheet]].
