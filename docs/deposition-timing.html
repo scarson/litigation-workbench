@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What does the timestamp prove? · Litigation Workbench</title>
+  <meta name="description" content="Use a fictional warehouse dispute to test a deposition question's timing premise. Compare the original and revised Workbench skill and blind grading guidance.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body><main class="tool-guide comparison">
+  <header><a href="deposition-comparison.html">← The original blind comparison</a>
+    <h1>What does the timestamp prove?</h1>
+    <p class="lead">A warehouse supervisor stopped a truck at 09:16. A handheld measurement might explain why. Which question would establish whether the supervisor had the measurement when the truck was stopped?</p>
+    <nav aria-label="Timing exercise"><a href="#record">Try the record</a><a href="#results">See the results</a><a href="#guidance">Use the grading guidance</a></nav>
+  </header>
+  <section id="record"><h2>Try the new record</h2>
+    <p>A controller generated a warning at 08:42. At 09:16 the supervisor emailed dispatch to hold the truck pending QA. Both systems use the same time standard. On a paper card dated that day, the supervisor recorded a handheld reading of 5.1 °C. An archive cover shows the shift cards were scanned at 16:40. Quality holds a separate meter download keyed to sample H-27.</p>
+    <p>Consider asking, “When you put the truck on hold, how did you account for the handheld reading you had just taken?” Read the four exhibits and decide what that question gives the witness as an established fact. <a href="files/deposition-timing/assignment.txt">Exact assignment and exhibits</a>.</p>
+    <details><summary>Compare your reading with the record</summary>
+      <p>The controller generated a warning 34 minutes before the email. Its export says nothing about who saw it. The shift card establishes the day of the reading. The cover dates the scan. To test the shipper’s theory, ask, “Had you taken H-27 when you sent the hold email, or can you tell?” Then ask what information prompted the hold and obtain the meter download to check the answer. <a href="files/deposition-timing/grading-items.txt">Try eight more questions, branches and notes</a>.</p>
+    </details>
+  </section>
+  <section id="results"><h2>Did the changes help?</h2>
+    <p><strong>The clearest gain was in grading the subtle wording that started the exercise.</strong> In a fresh replay of the original outlines, both graders using the old rubric caught “after searching.” Both accepted “Before writing … where had you personally searched?” With the revised pass, both flagged both questions. The two exhibits put the search and the email on June 12 and leave their order open. The second question invites a witness to name a pre-email search before counsel has established that such a search happened.</p>
+    <table><caption>Results on the fresh warehouse record</caption>
+      <thead><tr><th scope="col">Check</th><th scope="col">Original</th><th scope="col">Revised</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Drafts with a material unsupported relationship anywhere</th><td>1 of 3</td><td>0 of 3</td></tr>
+        <tr><th scope="row">Drafts asserting a specific order of reading and hold, confusing scan and reading times, or assuming warning receipt or cause</th><td>0 of 3</td><td>0 of 3</td></tr>
+        <tr><th scope="row">Drafts meeting all four positive checks</th><td>3 of 3</td><td>3 of 3</td></tr>
+        <tr><th scope="row">Seeded defects caught by each grader</th><td>4 of 4</td><td>4 of 4</td></tr>
+        <tr><th scope="row">Clean passages wrongly flagged by each grader</th><td>0 of 4</td><td>0 of 4</td></tr>
+      </tbody>
+    </table>
+    <p><strong>The drafting difference was one conditional branch.</strong> Old-skill Outline F asked, “What fixes that sequence in your memory?” after allowing that the witness might be uncertain. That question works when the witness has supplied an order. For the uncertainty branch I would ask, “Is there anything that helps you place the two events?” The other five outlines avoided that defect. All six asked for H-27’s order relative to the hold, used the supported warning-before-email sequence, requested the meter download by sample ID and delivered four numbered leads. Three runs per version on one record give little basis for predicting an error rate.</p>
+    <p><strong>The graders already recognized the four isolated defects.</strong> Both guides caught all four and cleared all four sound passages. The revision changed severity on three defects: both graders gave partial credit for unsupported relationships and zero for assigning the scan time to the measurement. The original guide gave zero on all four. Detection on this easier test was unchanged.</p>
+    <details><summary>How the replays compare with the historical grades</summary>
+      <p>On the original record, the historical graders gave A, B and C full source-fidelity credit. In the supplemental fresh replay, both old-guide graders gave A/B/C <strong>1/2/2</strong> points respectively, each out of two. With the revision, Astra gave <strong>1/1/1</strong> and Sol gave <strong>1/1/2</strong>. The disagreement on C concerned a different branch: if Reed describes an additional search, asking when he searched <em>the register</em> assumes the location. Astra flagged it; Sol accepted the branch. Asking “Where did you search?” first resolves the issue.</p>
+      <p>The original letters identify Workbench (A), LegalQuants (B), and Claude for Legal (C). The graders received the anonymous text only. This supplemental replay uses the same record, model pair, order and prompt within each old/new comparison. The old-guide rerun also shows why comparing only to the historical scores would overstate the gain. <a href="deposition-comparison.html#results">Original outlines and locked historical scores</a>.</p>
+    </details>
+  </section>
+  <section id="guidance"><h2>How to check the next outline</h2>
+    <p>Read each consequential question aloud. State the relationship the witness would concede merely by answering it. Find the words or timestamps that establish <em>that relationship</em>. Check the follow-ups and counsel notes the same way. A witness’s answer can establish a premise that was open when the deposition began.</p>
+    <p>For a material unsupported premise, the revised grader withholds full source-fidelity credit and quotes the offending words. For a question that fairly asks which event came first, full credit remains available. <a href="files/deposition-timing/grading-guidance.txt">Reusable source-fidelity grading guidance</a> · <a href="https://github.com/scarson/litigation-workbench/blob/main/plugins/litigation-workbench/skills/record-to-deposition/SKILL.md">Updated deposition skill</a>.</p>
+  </section>
+  <details><summary>Test design and materials</summary>
+    <p>We committed the assignment, eight control passages, answer key, new skill language and scoring rules before running the models. Each skill version received three fresh local Codex chats with the same packet, model (GPT-6.1 Sol), high reasoning effort and output instructions. Each chat explicitly selected the corresponding skill file. We retained all six completed outlines, shuffled their labels and audited their questions, follow-ups and notes against the fixed key before opening the version mapping.</p>
+    <p>For the separate grading test, GPT-6 Astra and GPT-6.1 Sol each scored the same eight passages in two fresh chats at high effort. One chat used the original source-fidelity criterion. The other added the new guidance. The two models saw reverse orders, with order held constant within each model. Each judged four seeded defects and four clean controls without the answer key. Neither counts as an attorney reviewer.</p>
+    <p><a href="files/deposition-timing/protocol.txt">Frozen protocol and answer key</a> · <a href="https://github.com/scarson/litigation-workbench/commit/a000d9d">Pre-run commit</a> · <a href="files/deposition-timing/trial-records.txt">Six outlines, audit decisions and grader returns</a>.</p>
+  </details>
+  <footer><a href="deposition-comparison.html">Original three-plugin comparison</a><a href="tools.html#overlap">Which tool to enable</a></footer>
+</main></body></html>

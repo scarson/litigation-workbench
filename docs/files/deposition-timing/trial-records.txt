@@ -1,0 +1,427 @@
+Warehouse deposition experiment | November 9, 2026
+
+Full retained answers and grade rationales follow the summary. The source audit was recorded with letter labels before opening the skill-version key.
+
+DRAFT AUDIT | fields: material unsupported relationship, elicits H-27 versus E1 order, uses supported D1-before-E1 sequence, identifies meter download for H-27, four numbered leads
+
+A | 1.3.1 | no, yes, yes, yes, yes
+Q2 separates the 34-minute sequence from personal awareness. Q3 asks which event occurred first, with different branches for before, after and uncertainty.
+
+B | 1.3.2 | no, yes, yes, yes, yes
+Q2 tests receipt by 09:16. Q3 expressly permits inability to place the order. The counsel note dates the scan and treats prior knowledge as a possibility.
+
+C | 1.3.2 | no, yes, yes, yes, yes
+Q2 elicits relative timing and asks about cause only if the reading came first. Q3 and the notes distinguish generation from knowledge.
+
+D | 1.3.2 | no, yes, yes, yes, yes
+Q2's note establishes only warning-before-email. Q3 separately asks whether taking and entering the reading can be placed in time.
+
+E | 1.3.1 | no, yes, yes, yes, yes
+Q3 asks for sequence and treats the scan as an archive event. Its 'was that before or after' groups taking and recording the reading; separating those acts would improve clarity, but it supplies neither order as a fact.
+
+F | 1.3.1 | yes, yes, yes, yes, yes
+Q3 attaches 'What fixes that sequence in your memory?' to 'If after or uncertain'. In the uncertainty branch it presupposes a recollected sequence the witness has not supplied. The lead itself is neutral. Q2 uses 08:42 and 09:16 while leaving knowledge open. This is a residual branch defect, not an assertion of a specific order, awareness or cause.
+
+OUTLINE A | 1.3.1
+**Kit Arden — warehouse examination; individual fact witness; eight minutes**
+
+1. **Reason for the hold — 2½ minutes**  
+   **Ask:** “You identified yourself as the author of the July 16 hold email. What caused you to direct the outbound desk to hold lot R4 pending QA at 09:16?”  
+   **Pinpoints:** E, p. 2, E1; Arden’s own sworn interview, G, p. 7, lines 2–4.  
+   **Follow up:** If general or qualified: “What specific observation or communication prompted the hold?” If someone supplied information: “Who, what did they tell you, and when?” If no recollection: “Does reviewing your email refresh your recollection?”
+
+2. **Knowledge of the controller warning — 1½ minutes**  
+   **Ask:** “Before sending that email, had you personally seen or otherwise learned of the room 2 temperature warning generated at 08:42?”  
+   **Pinpoints:** D, p. 1, D1; E, p. 2, E1.  
+   **Follow up:** If yes: “How and when did you learn of it? What connection, if any, did you understand it had to R4? Did it contribute to your hold decision?” If denied or uncertain: “Do you recall receiving any other information about a temperature concern before the hold?”  
+   **Counsel note:** The warning preceded the email by 34 minutes on the same time standard. D establishes generation, but contains no recipient or acknowledgment field.
+
+3. **Timing and significance of Arden’s handheld reading — 2½ minutes**  
+   **Ask:** “You previously said you took and recorded sample H-27. Did you take that 5.1 °C reading before or after sending the 09:16 hold email?”  
+   **Pinpoints:** F, p. 1, F1; Arden’s own sworn interview, G, p. 7, lines 5–7; E, p. 2, E1.  
+   **Follow up:** If before: “What did that reading mean to you then, and did it contribute to the hold?” If after: “Had you received any temperature information before the hold?” If uncertain: “What do you independently remember that helps place the reading in time?”  
+   **Counsel note:** This is the strongest adverse alternative: Arden may have taken the reading before the hold. The card is untimed; the 16:40 batch scan does not establish when the reading occurred. Do not characterize 5.1 °C as a problem without eliciting Arden’s understanding. **F, p. 1, F1–F2.**
+
+4. **Identify the record that can resolve timing — 1½ minutes**  
+   **Ask:** “You said Quality keeps a meter download recording reading times by sample ID. What personal familiarity do you have with that download, including whether it contains H-27?”  
+   **Pinpoint:** Arden’s own sworn interview, G, p. 7, lines 8–10.  
+   **Follow up:** If familiar: “Who in Quality maintains it? Do you know what time standard the meter uses?” If unfamiliar or qualified: “Who would know whether H-27 is recorded and how its timestamp should be interpreted?”
+
+**One record to obtain next:** Quality’s July 16 handheld-meter download containing sample H-27 and its recorded reading time; likely custodian: Quality. Verify the meter’s time basis before comparing it with 09:16. The download can resolve the reading’s timing; Arden’s testimony must establish what information actually caused the hold.
+
+OUTLINE B | 1.3.2
+1. **Reason for the hold — E, p. 2, E1; G, p. 7, lines 2–4.**  
+   **Foundation:** Did you write the July 16, 09:16 email holding lot R4 pending QA?  
+   **Lead:** What specifically prompted you to hold the truck?  
+   **If “pending QA” only:** What was QA supposed to resolve? What information did you have when you sent the email, and how had you obtained it?
+
+2. **Warning and actual knowledge — D, p. 1, D1; E, p. 2, E1.**  
+   **Foundation:** How, if at all, did you personally receive controller warnings that morning?  
+   **Lead:** Before sending the 09:16 hold email, had you learned of the room 2 temperature warning generated at 08:42?  
+   **If yes:** When and how? What did you learn, and did it prompt the hold?  
+   **If no or uncertain:** Had you received any other information about a possible temperature problem before sending the email?
+
+3. **Handheld reading and sequence — F, p. 1, F1–F2; G, p. 7, lines 5–7; E, p. 2, E1.**  
+   **Foundation:** Is H-27 the reading you personally took and entered on the July 16 card?  
+   **Lead:** Did you take that reading before or after sending the hold email, or can you not place the order?  
+   **If before:** What did you understand the 5.1 °C reading to mean then? Did it contribute to your decision to hold the truck?  
+   **If relying on the 16:40 scan:** Apart from the archive scan time, what establishes when you took the reading?
+
+4. **Record that can resolve timing — G, p. 7, lines 8–10; F, p. 1, F1.**  
+   **Foundation:** What is your personal experience with Quality’s meter download?  
+   **Lead:** Who in Quality can provide the download recording the time of sample H-27 on July 16?  
+   **If knowledgeable:** How is that entry matched to your reading, and what time standard does the meter use?  
+   **If uncertain:** Who maintains the download and can explain those details?
+
+**Counsel’s notes:** The warning preceded the email under the same time standard; D establishes generation, not receipt or knowledge. The strongest adverse possibility is that Arden took H-27 before the hold and acted on it, but the card does not establish that sequence or whether 5.1 °C indicated a problem. The 16:40 timestamp dates scanning. G is Arden’s own prior sworn statement.
+
+**Obtain next:** Quality’s July 16 meter download containing H-27’s recorded reading time, with available clock or time-standard information. Likely custodian: Quality’s meter-records maintainer.
+
+OUTLINE C | 1.3.2
+1. **Authenticate the hold and establish its reason.**  
+   “Is Exhibit E the hold email you identified as yours in your sworn interview?”  
+   **Pinpoints:** E, p. 2, E1; Arden’s own interview, G, p. 7, lines 2–4.  
+   **If confirmed:** “What specifically prompted you to hold R4 pending QA at 09:16?”  
+   **If the answer is only ‘pending QA’:** “What issue required QA, and what information did you have about it when you sent the email?”
+
+2. **Establish the handheld reading, then its timing and significance.**  
+   “Is H-27 the handheld reading you took and recorded as 5.1 °C on the July 16 card?”  
+   **Pinpoints:** F, p. 1, F1; Arden’s own interview, G, p. 7, lines 5–7.  
+   **If confirmed:** “Did you take that reading before or after sending the 09:16 hold email?”  
+   **If before:** “Did that reading prompt the hold?”  
+   **If timing is uncertain:** “What, if anything, helps you place the reading relative to the email?”  
+   **If denied:** “Which part of the entry or your earlier account is inaccurate?”
+
+3. **Test knowledge of the controller warning without assuming receipt.**  
+   “By the time you sent the 09:16 email, had you personally learned of the room 2 threshold warning generated at 08:42?”  
+   **Pinpoints:** D, p. 1, D1; E, p. 2, E1.  
+   **If yes:** “When and how did you learn of it, and did it prompt the hold?”  
+   **If no:** “What other temperature information, if any, did you have about R4 when you ordered the hold?”  
+   **If uncertain:** “What do you actually recall receiving or seeing before you sent the email?”
+
+4. **Identify the missing timing evidence and its custodian.**  
+   “You said Quality keeps a meter download recording reading times by sample ID; who in Quality maintains that download?”  
+   **Pinpoint:** Arden’s own interview, G, p. 7, lines 8–10.  
+   **If knowledgeable:** “Does it contain H-27, and what do you know about the clock and time standard it uses?”  
+   **If not:** “Who in Quality could identify H-27’s entry and explain its timestamp?”
+
+**Counsel’s notes:** The adverse possibility is that Arden took H-27 before the hold and acted because of that reading. Neither the card nor the interview establishes that sequence. F2’s 16:40 timestamp dates the batch scan, not the measurement. D1 dates warning generation, not Arden’s receipt or knowledge; D and E establish that generation preceded the email, but do not establish why Arden acted. The packet supplies no basis for calling 5.1 °C out of specification.
+
+**One record to obtain next:** Quality’s July 16 meter download containing sample H-27, with its recorded timestamp and available clock/time-standard information. Likely custodian: Quality. It could resolve the reading’s timing relative to 09:16; Arden’s testimony must establish whether the reading caused the hold.
+
+OUTLINE D | 1.3.2
+1. **Reason for the hold.** “Did you write the July 16, 09:16 email holding lot R4 pending QA, and what specifically prompted you to send it?”  
+   **Pinpoints:** E, p. 2, E1; Arden’s own sworn interview, G, p. 7, lines 2–4.  
+   **If the answer is merely ‘pending QA’:** “What issue needed QA’s attention? What information did you have when you sent the email, and where did it come from?”  
+   **If authorship is denied or not recalled:** Show E1 and G, lines 2–4; ask whether those refresh recollection.
+
+2. **Knowledge of the controller warning.** “Before sending that email, had you learned of the room 2 warning generated at 08:42 that morning?”  
+   **Pinpoints:** D, p. 1, D1; E, p. 2, E1.  
+   **If yes:** “When and how? What did you understand it meant for R4, and did it contribute to your decision?”  
+   **If no:** “Had you learned of any temperature concern affecting R4 from another source by 09:16?”  
+   **Counsel note:** The common time standard establishes that warning generation preceded email transmission. D establishes neither delivery nor Arden’s awareness.
+
+3. **The strongest adverse evidence: Arden’s handheld reading.** “You previously identified H-27 as the reading you took and entered on the July 16 card; did you take that reading before or after sending the hold email?”  
+   **Pinpoints:** F, p. 1, F1–F2; Arden’s own sworn interview, G, p. 7, lines 5–7; E, p. 2, E1.  
+   **If before:** “What did 5.1 °C mean to you then? Did that reading play any part in the hold?”  
+   **If uncertain:** “Do you remember taking the reading separately from entering it on the card? Can you place either event relative to the email?”  
+   **Counsel note:** F could support prior temperature knowledge if the reading preceded the hold. The card is untimed; 16:40 dates batch scanning. Neither establishes reading or entry time, and the packet supplies no acceptable-temperature threshold.
+
+4. **Resolve the missing timing evidence.** “What is the basis for your statement that Quality keeps a meter download recording reading times by sample ID, and who in Quality can locate the July 16 H-27 entry?”  
+   **Pinpoint:** Arden’s own sworn interview, G, p. 7, lines 8–10, including his qualification that he had not brought it.  
+   **If knowledge is secondhand:** “Who told you, and who has firsthand knowledge of that record?”
+
+**Obtain next:** Quality’s meter download containing the July 16 H-27 entry. Likely custodian: Quality’s meter-record keeper, identified through Arden. It can resolve when the reading occurred; Arden’s testimony must establish what he understood and why he acted.
+
+OUTLINE E | 1.3.1
+**Warehouse examination — Kit Arden, individual fact witness.** Objective: establish Arden’s actual reason for the 09:16 hold, what Arden knew then, and when H-27 was taken. Allow about two minutes per topic.
+
+1. **Reason for the hold.** “You wrote the July 16, 09:16 email holding lot R4 pending QA; what caused you to issue that hold?”  
+   **Pinpoints:** E, p. 2, E1; Arden’s own sworn interview, G, p. 7, lines 2–4.  
+   **Follow-ups:** What did you need QA to determine? What information did you personally have when you sent the email? If someone supplied it: Who, what did they say, and when? If no recollection: Does reviewing E1 refresh your memory? Can you distinguish what you remember from what you infer from the email?
+
+2. **Knowledge of the controller warning.** “Before sending that email, had you seen the 08:42 room 2 warning or learned about it from anyone?”  
+   **Pinpoints:** D, p. 1, D1; E, p. 2, E1.  
+   **Follow-ups:** If yes: When and how? What connection, if any, did you understand it had to R4? Did it contribute to your hold decision? If no: Did you have other temperature information about R4 before issuing the hold? If uncertain: What could establish when you first learned of the warning?  
+   **Counsel note:** The warning precedes the email by 34 minutes on the same time standard. D identifies neither a recipient nor an acknowledgment; generation alone does not establish Arden’s knowledge.
+
+3. **H-27’s timing and significance.** “You personally took H-27 and recorded 5.1 °C on the July 16 card; was that before or after your 09:16 hold email?”  
+   **Pinpoints:** F, p. 1, F1–F2; Arden’s own sworn interview, G, p. 7, lines 5–7.  
+   **Follow-ups:** If a sequence is recalled: What fixes that sequence in your memory? What did the reading mean to you, and did it affect the hold? If uncertain: Can the card itself establish the reading time? Did you personally observe when it was scanned?  
+   **Counsel note:** The card has no time field. The 16:40 archive notation dates batch scanning, not the measurement. The packet supplies no threshold establishing whether 5.1 °C was unacceptable.
+
+4. **Secure the missing timing evidence.** “In your sworn interview, you identified Quality’s meter download as recording reading times by sample ID; what is your personal basis for that knowledge?”  
+   **Pinpoint:** G, p. 7, lines 8–10.  
+   **Follow-ups:** Who in Quality maintains it? How would they locate July 16 sample H-27? Do you know whether its clock matches the controller and mail-log time standard? If not: Who can explain its timestamps?
+
+**Record to obtain next:** Quality’s July 16 meter download containing sample H-27, including available timestamp metadata; likely custodian: Quality. Establish clock comparability before using it to place the reading before or after 09:16.
+
+**Adverse possibility to test:** Arden received temperature information before the hold and stopped the truck because of it. The warning, handheld reading, and pending-QA email make that a material possibility; their present timestamps do not resolve it.
+
+OUTLINE F | 1.3.1
+1. **Reason for the hold — Ex. E, p. 2, E1; Ex. G, p. 7, lines 2–4.**  
+   **Foundation:** Is Exhibit E the hold email you identified as yours?  
+   **Lead:** What specifically caused you to hold lot R4 at 09:16 on July 16?  
+   **If the answer is only “pending QA”:** What required QA’s attention? What had you personally observed or been told before sending the email? If someone instructed you, who, when, and what did they say?
+
+2. **Knowledge of the controller warning — Ex. D, p. 1, D1; Ex. E, p. 2, E1.**  
+   **Foundation:** Did you personally see or receive the room 2 controller warning generated at 08:42 that morning?  
+   **Lead:** Before sending the 09:16 hold email, what, if anything, did you know about that warning?  
+   **If yes:** When and how did you learn of it? Did it contribute to your decision to hold R4?  
+   **If denied or uncertain:** Did anyone communicate a temperature concern to you before the hold? Identify the person, communication, and timing.  
+   *Counsel note: D1 establishes generation, but identifies neither a recipient nor an acknowledgment.*
+
+3. **Handheld reading and its timing — Ex. F, p. 1, F1–F2; Ex. G, p. 7, lines 5–7.**  
+   **Foundation:** Is H-27’s 5.1 °C entry the reading you previously testified you took and entered on the July 16 card?  
+   **Lead:** When did you take that reading in relation to sending the 09:16 hold email?  
+   **If before:** Did that reading contribute to the hold, and what did it signify to you then?  
+   **If after or uncertain:** What fixes that sequence in your memory? Can you place the reading before the email from personal recollection?  
+   *Counsel note: This is the strongest adverse alternative: Arden’s own reading may have preceded and prompted the hold. The card has no reading time; the 16:40 batch scan does not establish it.*
+
+4. **Resolve the missing timestamp — Ex. G, p. 7, lines 8–10.**  
+   **Foundation:** How do you know Quality’s meter download records reading times by sample ID?  
+   **Lead:** Who in Quality can identify and supply the July 16 meter download containing sample H-27?  
+   **If identified:** What identifies the relevant meter, and do you know whether its timestamps use the same local-time standard as the email?  
+   **If uncertain:** Who would know?
+
+**One record to obtain next:** Quality’s July 16 meter download containing H-27, including its recorded reading time. Quality is the custodian lead. Compare that time with 09:16 after establishing the meter’s time standard; the download can resolve sequence, while Arden’s testimony must establish the reason for the hold.
+
+WAREHOUSE CONTROL PASSAGES | gpt-6-astra | baseline | presentation order PQRSTUVW
+
+P | 2/2
+D1 identifies room 2, and E1 and G establish that Arden sent the hold email. The question leaves open what Arden knew, including whether Arden knew of the warning.
+Suggested edit: None needed.
+
+Q | 0/2
+“Had just taken” places H-27 shortly before the hold, and “how did you account for” assumes Arden considered it. F1 and G establish that Arden took the reading. Inability to recall the number establishes neither timing nor reliance.
+Suggested edit: Ask, “When did you take H-27 relative to the hold email, if you recall?” If Arden places it before the email, ask, “What role, if any, did the reading play in your decision?”
+
+R | 2/2
+D1 records generation at 08:42 and E1 records the email at 09:16 on the same time standard, an interval of 34 minutes. The note leaves Arden’s awareness for examination.
+Suggested edit: None needed.
+
+S | 0/2
+F2 gives 16:40 as the batch scan time. Assigning that time to the H-27 reading is a material error. F1 has no time field, and G identifies Arden as the person who took the reading without dating it to a particular hour.
+Suggested edit: Ask, “When do you recall taking H-27?” If Arden cannot place it, obtain Quality’s meter download and check the reading time for sample H-27. [G p. 7 lines 8–10]
+
+T | 0/2
+“In response to the controller warning” assumes Arden knew of the warning and acted because of it. D1 records generation, E1 says “pending QA,” and G confirms authorship. The reason for the hold remains open.
+Suggested edit: Ask, “What prompted you to write ‘pending QA’ in E1?” Then ask, “When, if ever, did you learn of the room 2 warning?”
+
+U | 2/2
+The follow-up applies only if Arden has already placed H-27 before the email. It asks for the basis of that recollection. E1, F1 and G identify the two events.
+Suggested edit: None needed.
+
+V | 0/2
+“Later handheld measurement” assumes H-27 followed the hold and creates an unsupported interval for QA activity. E1 fixes the email time. F2 fixes the batch scan time. Neither F1 nor G fixes the reading time.
+Suggested edit: Obtain Quality’s meter download and compare the H-27 timestamp with E1. If the reading followed the hold, ask Arden what QA activity, if any, Arden personally observed between the two events. [G p. 7 lines 8–10]
+
+W | 2/2
+E1 identifies the hold instruction, and F1 and G identify H-27 as Arden’s reading. The question allows either sequence and gives Arden room to say the timing is unknown.
+Suggested edit: None needed.
+
+WAREHOUSE CONTROL PASSAGES | gpt-6-astra | revised | presentation order PQRSTUVW
+
+P | 2/2
+“What did you personally know” leaves Arden’s knowledge open. E1 and G p. 7 lines 2–4 identify Arden as the sender. D1 identifies the room 2 warning, and the question leaves Arden free to say they knew nothing about it.
+Suggested edit: None needed.
+
+Q | 1/2
+“Had just taken” places the reading shortly before the hold, and “how did you account for” assumes Arden considered it. F1 and G p. 7 lines 5–7 establish that Arden took the reading. Inability to recall the number establishes neither timing nor reliance.
+Suggested edit: “Had you taken the H-27 reading by the time you sent E1?” If yes, “What role, if any, did it play in your decision?”
+
+R | 2/2
+“34 minutes before” accurately compares the 08:42 warning generation in D1 with the 09:16 email in E1 on the same time standard. “Establish whether” leaves open whether Arden saw the warning by then.
+Suggested edit: None needed.
+
+S | 0/2
+“You took the H-27 reading at 16:40” materially misattributes F2’s batch scan time to the measurement. F1 has no time field, and G p. 7 lines 5–7 identifies who took the reading without giving a time.
+Suggested edit: “Do you remember when you took the H-27 reading?”
+
+T | 1/2
+“In response to the controller warning” assumes Arden knew of the warning and that it prompted the hold. D1 and E1 establish the order of the warning and email. E1 says “pending QA” and gives no causal link to D1.
+Suggested edit: “What prompted you to send the hold email?” Then ask, “Had you learned of the room 2 warning by then?” If yes, “What role, if any, did it play?”
+
+U | 2/2
+The hypothetical answer supplies the premise in “before you sent the email.” E1, F1 and G p. 7 lines 5–7 identify the two events. The follow-up asks for the basis of Arden’s recollection.
+Suggested edit: None needed.
+
+V | 1/2
+“Arden’s later handheld measurement” assumes the hold came first. E1 times the email, F1 leaves the reading untimed, and F2 times the batch scan. The claimed interval and any QA activity within it remain unestablished.
+Suggested edit: Ask whether Arden can place H-27 relative to E1. If Arden places it later, ask what, if anything, Arden personally observed QA do between the email and the reading.
+
+W | 2/2
+“Before or after … or can you tell?” leaves both the order and Arden’s ability to recall it open. E1 locates the hold instruction. F1 and G p. 7 lines 5–10 identify H-27 and Arden’s role in taking the reading.
+Suggested edit: None needed.
+
+ORIGINAL THREE-OUTLINE REPLAY | gpt-6-astra | baseline | five scores in the historical rubric order
+
+A | [2, 2, 2, 1, 1]
+Q1 establishes Reed’s dispatch role. Q3 confines his June 12 report to what he had seen.
+Q2 identifies the shipment instruction and future testing. Its follow-up tests Reed’s basis for claiming acceptance signed by the commissioning lead.
+Q3 identifies the dispatch folder and the unsearched register. Q4 asks where Dana Ives’s register and any original can be found.
+All four leads have precise locators. Q3 assumes the search preceded the email. The exhibits establish only that both occurred on June 12.
+Q4 has concrete follow-ups, but a single denial to Q3 leaves authorship, email content, search scope and timing unresolved. Total 8/10.
+First edit: Ask Q3 as “When you wrote that you hadn’t seen a signed site acceptance, what had you personally checked by then?” If Reed mentions the dispatch folder, ask whether he also checked the separate register.
+
+B | [2, 1, 2, 2, 2]
+Q1 establishes Reed’s firsthand connection to the messages through recognition, receipt or authorship. Q3 ties his statement to his own search.
+Q2 tests for a commissioning-lead signature. If Reed answers “nothing,” counsel has yet to ask what the June 5 email authorized.
+Q3 elicits the search locations and tests any claim that Reed checked the register. Q4 asks what Ives would need to retrieve the records.
+Each lead has a specific locator. Q3 accurately quotes B2 and asks what Reed had searched by then, leaving him free to say the search came later.
+The four leads move from recognition to retrieval. If Reed cannot identify a source, Q4 still tests why he directed billing to Records. Total 9/10.
+First edit: Open Q2 with “What did you understand the June 5 email authorized?” If Reed says shipment only, ask whether he saw a commissioning-lead signature accepting the site. If he claims acceptance, use the existing follow-up.
+
+C | [1, 2, 1, 2, 2]
+Q1 confines B2 to Reed’s own observation. Q3’s note identifies his dispatch duties, but the questions never elicit how his work gave him access to acceptance information.
+Q2 puts the shipment instruction and future testing to Reed. If he claims acceptance, it asks him to identify the signed writing.
+Q4 develops Ives and the register as leads. Q3 establishes that Reed skipped the register but never asks which folder he searched.
+B2 and B1 support the quoted emails in Q1 and Q2. The cited testimony supports Q3’s search omission and Q4’s identification of Ives.
+The four leads are usable as written. If Reed now says he saw an acceptance, Q1 immediately seeks the date and location of the document. Total 8/10.
+First edit: Replace Q3 with “Walk me through your June 12 search for a signed acceptance, starting with your role on this order.” Keep the prior-testimony follow-up if Reed says he searched the register.
+
+ORIGINAL THREE-OUTLINE REPLAY | gpt-6-astra | revised | five scores in the historical rubric order
+
+A | [2, 2, 2, 1, 1]
+Q1 establishes Reed’s dispatch duties and access to logistics messages. Q3 limits his June 12 report to what he had seen.
+Q2 identifies shipment as the authorized act. If Reed also claims site acceptance, the follow-up asks what supports his understanding about the commissioning lead’s signature.
+Q3 identifies the dispatch folder and the skipped register. Q4 asks where to find the register and any signed original, with Dana Ives identified as its custodian.
+All four leads have pinpoints. Q3’s “after searching your dispatch folder” assumes an order the exhibits leave open. B2 timestamps the email at 3:40 p.m. C dates the search only to June 12.
+The four leads follow a workable sequence, but Q3 combines authorship, email content, search scope and timing. Its correction branch omits timing as a possible qualification. Total 8/10.
+First edit: Split Q3 into a lead and a follow-up. Ask “Did you send this June 12 email to billing?” If yes, ask “When did you search your dispatch folder in relation to sending it?”
+
+B | [2, 1, 2, 1, 2]
+Q1 tests firsthand recognition through Reed’s work, receipt and authorship. Q3 asks what he personally searched in connection with his statement about what he had seen.
+Q2 tests the basis for treating B1 as signed site acceptance. If Reed answers “nothing,” only the note addresses what the email authorized.
+Q3 asks where Reed searched and tests a claim that he included the register. Q4 asks who can locate the records and what identifiers Dana would need.
+All four leads have pinpoints. “Before writing … where had you personally searched” presupposes a pre-email search. B2 gives the email time, while C gives only the search date.
+The four leads move from recognition to the remaining proof. Q4’s request for retrieval details gives counsel a concrete next step if Reed names Dana. Total 8/10.
+First edit: Replace Q3 with “By the time you emailed billing at 3:40 p.m. on June 12, had you searched anywhere for a signed site acceptance?” If yes, ask “Where?”
+
+C | [1, 2, 1, 1, 2]
+Q1 authenticates Reed’s personal non-observation and probes any later sighting. His dispatch duties and resulting access to records appear only in the Q3 note.
+Q2 confirms the shipment instruction and future testing. If Reed claims acceptance, it asks him to identify the writing bearing the commissioning lead’s signature.
+Q4 gives counsel a route to Dana and the register. Q3 establishes that Reed skipped the register but never elicits that he searched his dispatch folder.
+All four leads have pinpoints. In Q3, “an additional or later search” leaves the location open. “When did you search the register” assumes Reed named that location.
+The four leads are usable in sequence. Q1 asks when Reed first saw any acceptance he now recalls and where counsel can find it. Total 7/10.
+First edit: Replace Q3’s additional-search follow-up with “Where did you search?” Once Reed identifies the location, ask “When was that, and what did you find there?”
+
+WAREHOUSE CONTROL PASSAGES | gpt-6.1-sol | baseline | presentation order WVUTSRQP
+
+W | 2/2
+The locators identify the hold email, H-27 card, and Arden’s account. The question leaves the reading’s timing open rather than inferring it from the scan time.
+Suggested edit: None needed.
+
+V | 0/2
+The phrase 'later handheld measurement' asserts an unsupported sequence. F2 timestamps batch scanning, not the reading; no interval for intervening QA activity is established.
+Suggested edit: Ask whether the H-27 reading preceded or followed the hold. Obtain Quality’s meter download to establish its time by sample ID.
+
+U | 2/2
+The conditional answer supplies the chronology being explored. The follow-up properly probes Arden’s basis for remembering it, with adequate exhibit locators.
+Suggested edit: None needed.
+
+T | 0/2
+The question assumes the hold was a response to the controller warning. The exhibits establish neither Arden’s receipt of the warning nor that causal connection.
+Suggested edit: Ask what led to the hold, then whether Arden had seen or learned of the controller warning before sending E1.
+
+S | 0/2
+The question falsely treats the 16:40 batch scan time as the H-27 reading time. F1 has no time field.
+Suggested edit: Ask when Arden took H-27 and how Arden knows; use Quality’s meter download to establish the recorded reading time.
+
+R | 2/2
+D1 and E1 support the 34-minute interval on the same time standard. The note leaves Arden’s awareness unresolved and directs counsel to establish it.
+Suggested edit: None needed.
+
+Q | 0/2
+Inability to recall the number does not establish that Arden had taken the reading before the hold, much less 'just' before it. The question also assumes Arden considered it in deciding to hold.
+Suggested edit: Ask whether Arden had taken H-27 before sending E1; if so, ask whether and how the reading affected the hold decision.
+
+P | 2/2
+The locators identify room 2’s warning, the email, and Arden’s authorship. The open question probes personal knowledge without asserting receipt of the warning or knowledge of a temperature problem.
+Suggested edit: None needed.
+
+WAREHOUSE CONTROL PASSAGES | gpt-6.1-sol | revised | presentation order WVUTSRQP
+
+W | 2/2
+“Before or after ... or can you tell?” openly tests the unknown order. E1 times the hold email; F1 and G identify Arden’s reading but do not establish its time.
+Suggested edit: None needed.
+
+V | 1/2
+“Arden’s later handheld measurement” assumes the reading followed the 09:16 hold. F2 times batch scanning, not measurement; neither F1 nor G establishes the reading’s order relative to the email.
+Suggested edit: Ask when Arden took H-27 relative to the 09:16 hold and what Arden personally knows about QA’s actions.
+
+U | 2/2
+The conditional answer supplies the premise that H-27 preceded the email. Asking how Arden remembers that order introduces no additional unsupported relationship.
+Suggested edit: None needed.
+
+T | 1/2
+“In response to the controller warning” assumes causation and Arden’s awareness. D1 and E1 establish that the warning preceded the hold, but neither establishes receipt, knowledge, or the reason for the hold.
+Suggested edit: “What led you to send the hold instruction in E1?” Then ask whether Arden had seen the D1 warning by that time.
+
+S | 0/2
+“Took the H-27 reading at 16:40” materially misattributes the archive scan timestamp to the measurement. F2 records batch scanning; F1 has no time field, and G supplies no measurement time.
+Suggested edit: “When did you take the H-27 reading recorded on F1, if you can recall?”
+
+R | 2/2
+D1 records warning generation at 08:42 and E1 records the hold email at 09:16 on the same time standard, supporting the 34-minute interval. The note leaves Arden’s awareness open for examination.
+Suggested edit: None needed.
+
+Q | 1/2
+“The handheld reading you had just taken” assumes the reading shortly preceded the hold. Inability to recall the number supplies no timing premise. The exhibits establish Arden took the reading, but leave its timing and role in the hold open.
+Suggested edit: “Had you taken H-27 before sending the hold email? If yes, what role, if any, did that reading play in your decision?”
+
+P | 2/2
+The question openly asks about Arden’s personal knowledge when sending E1. D1 identifies room 2, E1 identifies the communication, and G establishes Arden’s authorship; the wording assumes neither warning receipt nor knowledge of a temperature problem.
+Suggested edit: None needed.
+
+ORIGINAL THREE-OUTLINE REPLAY | gpt-6.1-sol | baseline | five scores in the historical rubric order
+
+A | [2, 2, 2, 1, 1]
+Q1 establishes Reed's dispatch role; Q3 confines his report to what he had seen and searched.
+Q2 identifies shipment authorization; its conditional follow-up tests acceptance signed by the commissioning lead.
+Q3 establishes the dispatch-folder search and unsearched register; Q4 develops Dana and record-location leads.
+Q3 assumes the search preceded B2. The exhibits establish the same date, but not that sequence; remove this unsupported premise before use.
+Q3 materially combines authorship, email contents, and search scope; its clarification branch helps but requires untangling.
+First edit: Replace Q3 with 'Where did you search for a signed site acceptance on June 12?' Move email authorship to a short follow-up and leave the search's timing relative to B2 open.
+
+B | [2, 2, 2, 2, 2]
+Q1 establishes personal recognition and participation; Q3 tests the personal search underlying Reed's June 12 statement.
+Q2 directly tests whether the shipment email supplied signed commissioning-lead acceptance and probes any claimed signature.
+Q3 elicits search locations and confronts any added register search; Q4 develops a custodian and retrieval details.
+All four questions have precise, supporting locators; questions about timing and additional records appropriately probe unknown facts.
+Four workable questions progress from foundation to acceptance, search limits, and remaining proof; the discrepancy branch produces useful clarification.
+First edit: Make shipment authorization explicit in Q2: 'What did you understand the June 5 release for shipment to authorize?' Retain the signed-acceptance inquiry as its follow-up.
+
+C | [1, 2, 1, 2, 2]
+Q1 establishes personal non-observation, but Reed's dispatch role and affirmative basis of knowledge remain largely in counsel notes.
+Q2 establishes shipment release and future testing; its acceptance branch demands a writing signed by the commissioning lead.
+Q4 develops Dana and the register, but Q3 establishes only the omitted register search without eliciting the dispatch-folder search.
+All four questions have precise locators, supported quotations, and no unsupported factual premise requiring counsel to stop.
+Four usable questions follow a coherent sequence; later-search and changed-custodian branches develop concrete additional evidence.
+First edit: Replace Q3 with 'Where did you personally search for signed site acceptance on June 12?' Use the cited testimony if his answer adds the acceptance register.
+
+ORIGINAL THREE-OUTLINE REPLAY | gpt-6.1-sol | revised | five scores in the historical rubric order
+
+A | [2, 2, 2, 1, 1]
+Q1 establishes Reed’s dispatch role; Q3 confines his statement to not having seen acceptance.
+Q2 identifies shipment authorization and conditionally probes acceptance signed by the commissioning lead.
+Q3 identifies the dispatch-folder search; Q4 develops Dana and the register as remaining sources.
+Q3’s 'after searching' requires correction: B2 timestamps the email, while C dates the search without establishing their order. All four locators otherwise fit.
+Q3 bundles authorship, email contents, search scope and chronology; its correction branch omits a timing qualification.
+First edit: Replace Q3 with 'What search did you personally make for a signed site acceptance on June 12?' Follow with 'Had you completed that search when you sent B2?'
+
+B | [2, 2, 2, 1, 2]
+Q1 establishes personal recognition and participation; Q3 expressly limits the inquiry to Reed’s own search.
+Q2 tests whether the shipment email supplied signed commissioning-lead acceptance and demands the factual basis.
+Q3 develops search scope; Q4 seeks a custodian, identifying information and the basis for the Records lead.
+Q3’s 'Before writing' assumes an unsupported sequence. B2 timestamps the email; C establishes a June 12 search, leaving its order open. Other locators fit.
+Four workable questions progress from foundation to acceptance, search and remaining proof, with concrete qualification branches.
+First edit: Replace Q3 with 'When did you search for a signed site acceptance relative to sending your June 12 email?' Then ask which locations he searched.
+
+C | [1, 2, 1, 2, 2]
+Q1 tests Reed’s personal non-observation, but the dispatch role and basis of knowledge remain in a counsel note.
+Q2 identifies the shipment release and conditionally demands the writing relied upon as signed commissioning-lead acceptance.
+Q4 develops Dana and the register; Q3 establishes an omitted location without eliciting the dispatch-folder search actually performed.
+All four questions have supported locators. Q3 assumes no order between search and email; Q4 fairly asks about unknown locations without asserting register contents.
+Four usable questions form a workable sequence; branches seek document locations, later searches and replacement custodians.
+First edit: Replace Q3 with 'What responsibilities did you have on this order, and what did you personally search on June 12?' Use the register omission as the follow-up.
