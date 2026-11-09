@@ -1,0 +1,15 @@
+Fictional assignment · Rush freight
+
+We represent the fabricator defending a chargeback after a rush delivery. We have twelve minutes to examine the customer's operations manager, Ari Moss, as an individual fact witness. Give us five lead questions we can use at the deposition, with a source pinpoint for each and conditional follow-ups where useful. Cover the hard exhibit for our side and identify the single most useful missing proof. Use only this packet.
+
+F1 · Moss email to fabricator, p. 1, message 3
+Sept. 9, 08:12: “I approve the Saturday carrier premium up to $4,000. Please go ahead. We’ll take up any crew costs separately.”
+
+F2 · Carrier booking chain, p. 1, messages 4–5
+08:19, fabricator to Moss: “I have your approval. I’m booking the Saturday slot now.” 08:32, carrier to both parties: “Saturday slot confirmed. Premium $3,150.” Header shows Sept. 9 and local time for both. The F1 timestamp uses the same local time.
+
+F3 · Chargeback memo, p. 2, rows A and B
+A: carrier premium, $3,150, carrier invoice attached. B: idle crew, $6,400, operations estimate. The memo requests $9,550.
+
+F4 · Moss interview, p. 5 lines 1–8
+“I sent the approval for the carrier and read the booking confirmation. We did have a crew rostered Friday. I did not supervise their hours. Site payroll holds the job-coded timecards, including reassignments. I assembled the chargeback from the carrier invoice and the operations estimate.”

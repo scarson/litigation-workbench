@@ -1,0 +1,18 @@
+Fictional assignment · Lost retail placement
+
+We represent the packaging vendor. The brand claims our late sleeve samples cost it a retail placement. We will examine the brand's sales director, Neri Shaw, an individual fact witness. We have twelve minutes. Draft five askable lead questions with exhibit pinpoints and short follow-ups where an answer could change course. Get the best evidence for both sides and identify the single next proof to pursue. Use only this packet.
+
+R1 · Account plan, p. 3, line 6
+“Harbor assortment: forecast 8,000 units × $7 expected unit contribution.” Status: pitch. No purchase order is attached.
+
+R2 · Sample correspondence, p. 1, messages 1–2
+May 6, vendor to Shaw: “Sleeves promised for Monday will arrive Thursday.” Shaw to vendor: “That takes away the mock-ups I wanted for the buyer meeting.” The buyer is not copied.
+
+R3 · Retail buyer email to Shaw, p. 2, message 4
+“We’ll pass this cycle. We never got an approved margin exception. I did like the carton direction.” The email is dated May 17.
+
+R4 · Brand CRM export, p. 1, row 19
+Harbor pitch. Stage: Closed–Lost. Close date: May 18. Loss category: Samples. Owner: Neri Shaw.
+
+R5 · Shaw interview, p. 12 lines 2–10
+“I owned the pitch and spoke with the buyer. Our ops analyst enters loss categories from the sales team's wrap-up. We use the CRM close date to take the pitch out of the active pipeline. The buyer keeps an assortment decision sheet. I haven't seen the Harbor sheet.”
