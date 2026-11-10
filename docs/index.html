@@ -12,13 +12,22 @@
   <header class="hero">
     <div><h1>Litigation<br>Workbench</h1>
       <p class="lead">What would you like to have in hand at the end of the hour?</p>
-      <nav aria-label="Get started"><a class="button primary" href="#first-matter">Choose a first assignment</a><a href="#install">Set up the tools</a><a href="tools.html">How to use each tool</a></nav>
+      <nav aria-label="Get started"><a class="button primary" href="#deposition-source-check">I already have a deposition outline</a><a href="#first-matter">Choose another assignment</a><a href="#install">Set up the tools</a><a href="tools.html">How to use each tool</a></nav>
     </div>
     <aside class="prep"><h2>Before we meet</h2>
-      <ul><li>Your laptop, signed in to ChatGPT.</li><li>One decision, witness, number or draft you want to work on.</li><li>Two or three approved sources. A model of what good work looks like helps, too.</li></ul>
-      <p>On a personal account, use public or fictional material until your firm clears the account for the matter. A local project can still send content to the model. <a href="practice.html">Use the fictional file</a>.</p>
+      <ul><li>Bring your laptop, signed in to ChatGPT.</li><li>Pick 3–5 questions from a deposition outline you actually plan to use. Include their follow-ups.</li><li>Bring any exhibits you’re cleared to use with AI in this account.</li></ul>
+      <p>If the outline or exhibits are off-limits, we can use the <a href="#fictional-outline">fictional deposition example</a>.</p>
     </aside>
   </header>
+  <section id="deposition-source-check">
+    <h2>Check the questions you plan to ask</h2>
+    <p><strong>1. Open Litigation Workbench.</strong> If you need the plugin, <a href="codex://new?prompt=Install%20the%20latest%20litigation-workbench%40scarson-legal%20from%20the%20scarson%2Flitigation-workbench%20GitHub%20repository%20for%20my%20local%20desktop%20account.%20Refresh%20any%20existing%20registration%20and%20show%20me%20how%20to%20select%20deposition-source-check%20in%20a%20fresh%20chat.">open setup in Codex</a> and press <strong>Send</strong>, or <a href="#workbench-options">see other install options</a>. Once installed, open a fresh Work or Codex chat, enable Litigation Workbench and select <code>deposition-source-check</code>.</p>
+    <p><strong>2. Bring a short excerpt.</strong> Paste your 3–5 cleared questions with their follow-ups and attach any cleared exhibits they rely on. Keep page and line numbers. Before running the prompt, jot down any change you’d already make.</p>
+    <p id="fictional-outline"><strong>Need a practice file?</strong> <a href="files/fictional-deposition.txt" download>Download three fictional questions and their exhibits (TXT)</a>. Attach that one file and use the same prompt.</p>
+    <p><strong>3. Run the second pass.</strong> Copy this into the chat with your materials.</p>
+    <blockquote class="prompt">Use deposition-source-check on these questions and their follow-ups. Which assume a fact the exhibit or the witness’s preceding answer hasn’t established? For each material issue, quote my wording, give the exhibit and pinpoint, and suggest the smallest change I could ask aloud. Identify any missing source you’d need to check a premise. If no exhibits are attached, ask me for the relevant passages before making source findings. Leave my outline intact.</blockquote>
+    <p>Open the cited passage and read the proposed question aloud. Which edits would you use, adapt or decline? Mark anything you’d already spotted and note how long your review took. <a href="deposition-source-check.html">See what the source check caught and missed in testing</a>.</p>
+  </section>
   <section id="first-matter">
     <h2>Start here for your first matter</h2>
     <p>Open a fresh Work or Codex chat for this matter. Add just the approved records for the question. Choose an assignment, copy it and fill in the brackets. If setup has to wait, the prompts also work as plain instructions in ChatGPT.</p>
@@ -31,11 +40,6 @@
       <p><strong>Bring</strong> the witness’s role, the admission you want and the exhibit you would put in front of them.</p>
       <blockquote class="prompt">Prepare a two-page examination outline for [witness and role] about [objective]. For each admission, give me a question I can ask, its foundation, the exhibit and pinpoint, and a follow-up for a denial or qualification. Keep my notes separate. Include the hardest document for our side. Use the record-to-deposition skill if available.</blockquote>
       <p><strong>Check</strong> one proposed impeachment against the printed transcript. Whose words are they, and does the rest of the answer qualify them? <a href="deposition-field-test.html">Compare three deposition plugins on four fictional disputes</a>, or <a href="deposition-comparison.html">grade one witness outline yourself</a>.</p>
-    </details>
-    <details class="assignment" name="job"><summary>What does my deposition outline take for granted? <span>Second-pass source check</span></summary>
-      <p id="deposition-source-check"><strong>Bring</strong> an outline from any drafter and the approved exhibits it relies on. Start a fresh chat with those files. Leave the drafting conversation and any previous grades behind. Enable Workbench and select <code>deposition-source-check</code>.</p>
-      <blockquote class="prompt">Check this existing deposition outline against the supplied exhibits for factual premises I should repair before using it. Quote the problem, give the source pinpoint and suggest the smallest usable correction. Keep the original outline intact.</blockquote>
-      <p><strong>Check</strong> the proposed edit against the whole passage and the answer that triggers the follow-up. <a href="deposition-source-check.html">How to run the second pass and which defects it caught</a>.</p>
     </details>
     <details class="assignment" name="job"><summary>How much can we support? <span>Damages workbook</span></summary>
       <p><strong>Bring</strong> the demand, ledger or invoices, and the contract provision that makes payment due.</p>
@@ -89,8 +93,8 @@
       <p>Give it your side, the elements counsel wants to test, and the allowed exhibits. Specify any playbook and where to return the draft. <a href="https://github.com/scarson/litigation-workbench/blob/main/LEGAL-TOOLS.md#using-anthropics-original-plugins-in-codex">Test results, CLI commands and the separate contract-review plugin</a>.</p>
     </details>
     <details><summary>Using a browser, or the desktop button didn’t open?</summary>
-      <p><strong>Desktop.</strong> Paste the request below into a local Codex chat, or use the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">folder installation instructions</a>.</p>
-      <blockquote class="prompt">Install the latest litigation-workbench@scarson-legal from the scarson/litigation-workbench GitHub repository for my local desktop account. Use the repository’s default branch and refresh any existing registration for this repository. Show me how to select argument-review in a fresh chat.</blockquote>
+      <p id="workbench-options"><strong>Desktop.</strong> Paste the request below into a local Codex chat, or use the <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">folder installation instructions</a>.</p>
+      <blockquote class="prompt">Install the latest litigation-workbench@scarson-legal from the scarson/litigation-workbench GitHub repository for my local desktop account. Use the repository’s default branch and refresh any existing registration for this repository. Show me how to select a Workbench skill in a fresh chat.</blockquote>
       <p><strong>Hosted Work.</strong> If your Plugins menu offers ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/latest/download/litigation-workbench.zip">download the plugin ZIP</a> and upload it there. A firm admin can also <a href="https://github.com/scarson/litigation-workbench#install-on-your-desktop">import the GitHub marketplace</a>. If neither is available, start with the assignment prompts above.</p>
     </details>
   </section>
