@@ -29,7 +29,7 @@ After the workshop, keep Workbench installed and switch it off until you want a 
 
 The [practical guide to the tools](https://scarson.github.io/litigation-workbench/tools.html) covers what each one provides, copyable examples, and how to check the work. For Anthropic’s plugin, [browse all 19 litigation skills and try a civil claim chart](https://scarson.github.io/litigation-workbench/tools.html#claude-for-legal).
 
-**[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the eight assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation, CourtListener and optional Descrybe install links. A browser-only user can use the prompts while sorting out plugin access.
+**[Choose the work you want to finish](https://scarson.github.io/litigation-workbench/#first-matter)**. Each of the eight assignments includes what to bring, a copyable prompt and a way to check the result. The same page includes the LegalQuants Litigation and CourtListener install links. The [guide to legal research connectors](https://scarson.github.io/litigation-workbench/tools.html#research-connectors) uses Descrybe as an example and explains how to use existing firm Lexis access for treatment checks. A browser-only user can use the prompts while sorting out plugin access.
 
 If you cannot use client files in this account, [download the fictional production](https://scarson.github.io/litigation-workbench/practice.html). The later exhibit and worked Excel file are separate. The public-opinion exercise on that page lets you compare two audits against the same reported decision.
 
