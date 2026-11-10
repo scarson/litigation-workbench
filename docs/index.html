@@ -21,12 +21,17 @@
   </header>
   <section id="deposition-source-check">
     <h2>Check the questions you plan to ask</h2>
-    <h3>1. Choose where to run the review</h3>
-    <p><strong>Regular ChatGPT.</strong> <a href="https://chatgpt.com/" target="_blank" rel="noopener">Open ChatGPT in a new tab</a> and start a new chat. You can do this exercise with the file and prompt below. No installation is required.</p>
-    <p><strong>With the Litigation Workbench plugin.</strong> On desktop, <a href="codex://new?prompt=Install%20the%20latest%20litigation-workbench%40scarson-legal%20from%20the%20scarson%2Flitigation-workbench%20GitHub%20repository%20for%20my%20local%20desktop%20account.%20Refresh%20any%20existing%20registration%20and%20show%20me%20how%20to%20select%20deposition-source-check%20in%20a%20fresh%20chat.">open setup in Codex</a> and press <strong>Send</strong> on the prefilled request. Once installed, start a fresh local Work or Codex chat, enable Litigation Workbench and choose <code>deposition-source-check</code>. Keep this page open for the file and prompt.</p>
-    <details><summary>Codex didn’t open, or you use Work in a browser?</summary>
-      <p>On desktop, open Codex yourself and send this request. If you use hosted Work and your Plugins menu offers ZIP uploads, <a href="https://github.com/scarson/litigation-workbench/releases/latest/download/litigation-workbench.zip">download the plugin ZIP</a> and upload it there. You can also continue in regular ChatGPT above.</p>
+    <h3>1. Start with Litigation Workbench in Codex</h3>
+    <p>The deposition source check follows each question into its follow-ups. Its coverage table lets you see which answer or exhibit supports the next question, including the questions it leaves alone.</p>
+    <p><a class="button primary" href="codex://new?prompt=Install%20the%20latest%20litigation-workbench%40scarson-legal%20from%20the%20scarson%2Flitigation-workbench%20GitHub%20repository%20for%20my%20local%20desktop%20account.%20Refresh%20any%20existing%20registration%20and%20show%20me%20how%20to%20select%20deposition-source-check%20in%20a%20fresh%20chat.">Set up the plugin in Codex</a></p>
+    <p>Press <strong>Send</strong> on the prefilled request. Once installed, open a fresh Codex chat, enable <strong>Litigation Workbench</strong> and choose <code>deposition-source-check</code> in the skill picker. If you already have the plugin, start at the picker.</p>
+    <details><summary>The desktop setup button didn’t open</summary>
+      <p>Open Codex yourself and send this request.</p>
       <blockquote class="prompt">Install the latest litigation-workbench@scarson-legal from the scarson/litigation-workbench GitHub repository. Refresh any existing registration for this repository and show me how to select deposition-source-check in a fresh chat.</blockquote>
+    </details>
+    <details><summary>Using ChatGPT Work instead?</summary>
+      <p><a href="https://chatgpt.com/" target="_blank" rel="noopener">Open ChatGPT</a>, choose <strong>Work</strong> and start a fresh Work chat. Select Litigation Workbench if it’s available there. If your Work Plugins menu offers uploads, you can <a href="https://github.com/scarson/litigation-workbench/releases/latest/download/litigation-workbench.zip">download the plugin ZIP</a> and install it there.</p>
+      <p>If your workspace doesn’t offer the plugin, stay in Work and use the same file and prompt below. Compare that prompt-only result with the saved skill review after you’ve made your own call.</p>
     </details>
     <h3 id="fictional-outline">2. Add your questions or try the fictional file</h3>
     <p><strong>Using your own outline?</strong> Paste 3–5 cleared questions with their follow-ups. Attach any cleared exhibits they rely on, keeping page and line numbers.</p>
@@ -35,15 +40,18 @@
     <p>Before you send it, jot down any question you’d already change.</p>
     <blockquote class="prompt" id="outline-review-prompt">Review these deposition questions and follow-ups against the supplied record. Use the deposition-source-check skill if available. For each question, read the follow-up with the answer that triggers it. Which questions assume a fact the exhibit or that answer hasn’t established? For each material issue, quote my wording, give the exhibit and pinpoint, and suggest the smallest change I could ask aloud. Leave supported questions as written. Identify missing sources. If no exhibit text is supplied, ask for the relevant passages before making source findings. Leave my outline intact.</blockquote>
     <p>Open the cited passage and read the proposed question aloud. Which edits would you use, adapt or decline? Mark anything you’d already spotted and note how long your review took. <a href="deposition-source-check.html">See what the source check caught and missed in testing</a>.</p>
-    <details><summary>Finished the fictional run? Check your result</summary>
-      <p><strong>Question 1.</strong> E1 dates the service ticket. In E2, lines 5–8, the foreperson recalls a restart that morning and a finished stack after lunch. What fixes the order of restart and completion? Try “Can you place the restart relative to when printing finished?”</p>
-      <p><strong>Question 2.</strong> Knowing whether approval was required leaves open whether anyone gave it. Before “Who approved this closure?” ask “Do you know whether anyone approved closing ticket 411?” Follow up on identity if the witness recalls an approval. See E2, lines 5–8 and E3, paragraph 2.</p>
-      <p><strong>Question 3.</strong> Keep it. The two entries in E1, rows 12–13, give both ticket times on the same clock. The follow-up already accounts for a witness who can’t authenticate the entries.</p>
+    <details id="review-comparison"><summary>After your review · What did the skill add?</summary>
+      <p>Two fresh reviewers received the fictional file and the Step 3 prompt. Both caught the same two unsupported premises and kept question 3. Compare their wording for the foreperson.</p>
+      <p><strong>Prompt alone.</strong> For question 1, the reviewer stripped out the assumed sequence and asked “Why did you restart the job?” That gets to the reason for restarting. For question 2, it supplied a foundation for asking who approved closure. It also explained why the ticket times in question 3 could stand.</p>
+      <p><strong>With the skill.</strong> The reviewer kept the timing theory available for examination. Its first question was “Had the job finished printing before you restarted it?” A yes opens the original “Why” question. On approval, it tried the witness answer “Yes, but I don’t know whether anyone approved it.” Asking “Who?” immediately after that answer would assume too much.</p>
+      <p><strong>What you can reuse.</strong> The skill produced a table covering the objective, each lead and follow-up, and the remaining proof gaps. The question 3 row shows why both branches can stay. The ticket entries in E1, rows 12–13, support the times, and the existing follow-up works if the witness can’t authenticate the entries. Which version of question 1 would you take into the room? Would you use the table to sign off on a longer outline?</p>
+      <p><a href="https://github.com/scarson/litigation-workbench/blob/main/docs/files/fictional-deposition-prompt-review.md">Read the full prompt-only review</a> · <a href="https://github.com/scarson/litigation-workbench/blob/main/docs/files/fictional-deposition-skill-review.md">Read the full skill review and coverage table</a>.</p>
+      <p>Both reviews came from fresh Codex sessions. The first simulated a chat with only the prompt and file. The second used the skill instructions copied from the installed plugin. This is one worked example.</p>
     </details>
   </section>
   <section id="first-matter">
     <h2>Start here for your first matter</h2>
-    <p>Open a fresh Work or Codex chat for this matter. Add just the approved records for the question. Choose an assignment, copy it and fill in the brackets. If setup has to wait, the prompts also work as plain instructions in ChatGPT.</p>
+    <p>Open a fresh Codex or ChatGPT Work chat for this matter. Add just the approved records for the question. Choose an assignment, select its skill if available, then copy the prompt and fill in the brackets.</p>
     <details class="assignment" name="job" open><summary>What can we prove? <span>Proof matrix</span></summary>
       <p><strong>Bring</strong> the document you rely on and the best one for the other side.</p>
       <blockquote class="prompt" id="matter-prompt">We represent [side] and need to decide [question]. Build a one-page, editable proof matrix from the attached record. Give each material proposition an ID, the best evidence on each side with exhibit and pinpoint, and the witness or document that could resolve the gap. Distinguish what someone observed from what they inferred. Use the evidence-matrix skill if available.</blockquote>
