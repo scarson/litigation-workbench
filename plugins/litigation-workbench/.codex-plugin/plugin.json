@@ -1,7 +1,7 @@
 {
   "name": "litigation-workbench",
   "version": "1.4.0",
-  "description": "Eight business litigation workflows, including deposition source checks, adversarial argument review and a Shepard’s handoff.",
+  "description": "Business litigation workflows, including deposition source checks, adversarial argument review and a Shepard’s handoff.",
   "skills": "./skills/",
   "interface": {
     "displayName": "Litigation Workbench",
